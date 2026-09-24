@@ -11683,7 +11683,6 @@ B. Cowdry bodies; HSV: Those are eosinophilic nuclear inclusions.
 C. Chromatin margination; parvovirus B19: That's a nuclear change in red cell precursors.
 E. Koilocytes; HPV: Those are vacuolated squamous cells.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Frederick A. Murphy, Public domain, via Wikimedia Commons
 
 Question 17
 A 38-year-old man with AIDS dies after weeks of confusion and fever. He hadn't taken antiretrovirals for 3 years, and his last CD4 count was 20/μL. He had several opportunistic infections. His brain MRI showed periventricular enhancement. He also had retinitis. At autopsy, brain cells are enlarged and contain the large, dark basophilic nuclear inclusions with a surrounding halo shown. Which virus produces this appearance? ![Brain histology](https://upload.wikimedia.org/wikipedia/commons/0/0e/CMV_encephalitis_owl_eye_inclusions_HE_stain.jpg)
@@ -11700,7 +11699,6 @@ C. HSV-1: HSV causes eosinophilic Cowdry bodies.
 D. Parvovirus B19: Parvovirus causes chromatin margination.
 E. Rabies: Rabies causes Negri bodies.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Jensflorian, CC BY-SA 4.0, via Wikimedia Commons
 
 Question 18
 A 60-year-old woman on chemotherapy for leukemia develops painful esophageal ulcers and dies of sepsis. She had recurrent cold sores. Her neutrophil count was 200/mm³ before death. She had painful swallowing for a week. Her esophagus showed shallow ulcers at endoscopy. At autopsy, the ulcer edges show enlarged, multinucleated cells with molded nuclei and glassy eosinophilic nuclear inclusions, as shown. Which virus family is most likely responsible? ![Histology section](https://upload.wikimedia.org/wikipedia/commons/8/8c/Herpes_simplex_infection_Case_160_%285442479825%29.jpg)
@@ -11717,7 +11715,6 @@ B. CMV: CMV makes basophilic owl's eye inclusions.
 C. Rabies: Rabies makes cytoplasmic Negri bodies.
 D. HPV: HPV causes koilocytosis.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Yale Rosen from USA, CC BY-SA 2.0, via Wikimedia Commons
 
 Week 8: Virology & Cell Injury / Herpes Virus Infections
 
@@ -12056,7 +12053,6 @@ B. An India ink stain showing capsules: That's for Cryptococcus.
 D. A Gram stain showing gram-negative diplococci: That would suggest gonorrhea.
 E. A modified acid-fast stain showing oocysts: That's for Cryptosporidium.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Max11121998, CC0, via Wikimedia Commons
 
 Question 40
 A 70-year-old man has a painful band of vesicles on his right flank. He has diabetes and takes metformin. He never received a shingles vaccine. His physician uses the smear to teach a medical student. A smear from the base of a vesicle shows the cells in the image. His physician explains which viruses can produce this same finding. Which viruses produce multinucleated giant cells with eosinophilic nuclear inclusions? ![Stained smear](https://upload.wikimedia.org/wikipedia/commons/e/ea/Multinucleate-giant-cell-on-Tzanck-smear.png)
@@ -12073,7 +12069,6 @@ C. HIV and HHV-8: That isn't the association.
 D. CMV and EBV: CMV makes owl's eyes, and EBV isn't diagnosed this way.
 E. Rabies and parvovirus: Those cause Negri bodies and chromatin margination.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Max11121998, CC0, via Wikimedia Commons
 
 Question 41
 A 29-year-old woman has a painful blister on her upper lip that started with tingling the day before, as shown. She gets these several times a year, usually after sunburn or stress. She takes an oral contraceptive. Temperature is normal. She works as a lifeguard and spends hours in the sun. Her lymph nodes are normal. She asks whether she can prevent the sores. Which treatment options can help prevent sores from forming if started early? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/b/b2/Herpes_labialis.jpg)
@@ -12090,7 +12085,6 @@ C. Antibiotics: This is viral.
 D. Ganciclovir: That's for CMV.
 E. Letermovir: That prevents CMV reactivation after BMT.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Metju12, Public domain, via Wikimedia Commons
 
 Question 42
 A 26-year-old dental hygienist has a very painful, swollen fingertip with the clustered vesicles shown. She had a cold sore last week and sometimes works without gloves. Temperature is 37.8°C (100°F). Her physician warns against incising the lesion. She has no fever or streaking up the arm. Her nail isn't involved. Her physician recognizes the lesion as viral. What is the diagnosis? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Herpetic_Whitlow.jpg)
@@ -12107,7 +12101,6 @@ B. Eczema herpeticum: That's HSV on active skin disease.
 D. Herpes gladiatorum: That's skin HSV in wrestlers.
 E. Shingles: Shingles is dermatomal.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Babydog50, CC BY-SA 4.0, via Wikimedia Commons
 
 Question 43
 A 68-year-old man has a painful, burning rash on his arm in a single band that doesn't cross the midline, as shown. He had chickenpox as a child. He has diabetes and takes metformin. Temperature is 37.4°C (99.3°F). His pulse is 88/min. He has no other lesions. The pain began 2 days before the rash. Where did this virus lie dormant, and which drugs treat it? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/e/ec/Herps_zoster_new_photo.jpg)
@@ -12124,7 +12117,6 @@ B. Hepatocytes; lamivudine: That's HBV.
 C. Endothelial cells; radiation: That's HHV-8.
 D. The trigeminal ganglion only; letermovir: Letermovir prevents CMV reactivation.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Masryyy, CC BY-SA 4.0, via Wikimedia Commons
 
 Question 44
 A 1-year-old girl had 3 days of high fever and was fussy but playful. Her pulse is 124/min, and she is eating well. She has no conjunctivitis or cough. Her older brother had a similar illness. When the fever broke, the pink, blanching rash shown appeared on her trunk. She had a short febrile seizure on day 2. Her vaccines are up to date. What is the diagnosis? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/3/37/Sestamalattia.JPG)
@@ -12141,7 +12133,6 @@ C. Measles: That isn't this pattern.
 D. Chickenpox: Chickenpox is vesicular and itchy.
 E. Mononucleosis: That's EBV.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Emiliano Burzagli, Public domain, via Wikimedia Commons
 
 Question 45
 A 3-year-old boy with atopic dermatitis suddenly develops fever and the clustered punched-out erosions shown over his face. His parents stopped his steroid cream a week ago. Temperature is 38.9°C (102°F). PCR of a lesion is positive for HSV-1. His pulse is 134/min. His eczema has been flaring for a month. He attends daycare. What is the diagnosis? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/2/29/Eczema_herpitcum.jpg)
@@ -12158,7 +12149,6 @@ B. Herpetic whitlow: That's HSV of the finger.
 C. Chickenpox: Chickenpox starts on the trunk.
 E. Impetigo: PCR shows HSV.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Mohammad2018, CC BY-SA 4.0, via Wikimedia Commons
 
 Question 46
 An 18-year-old woman has fever, sore throat, and swollen neck nodes for 10 days. Her spleen is palpable, and her liver enzymes are elevated. Her heterophile test is positive. She has no rash. Her WBC is 13,000/mm³ with 60% lymphocytes. Her smear is shown, with large lymphocytes that have abundant cytoplasm indented by surrounding red cells. What are these cells? ![Peripheral blood smear](https://upload.wikimedia.org/wikipedia/commons/9/92/Infectious_Mononucleosis_2.jpg)
@@ -12175,7 +12165,6 @@ B. Leukemic blasts: These are reactive lymphocytes.
 C. Plasma cells: These aren't plasma cells.
 E. Neutrophils: These are lymphocytes.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Ed Uthman, MD., CC BY 2.0, via Wikimedia Commons
 
 Question 47
 A 19-year-old man has fever, sore throat, and fatigue. His spleen is mildly enlarged. His liver enzymes are elevated. He has tender posterior cervical nodes. His smear shows the atypical lymphocytes in the image, making up 22% of his white cells. His heterophile antibody test is positive. Which virus is most likely, and what receptor does it use to enter B cells? ![Peripheral blood smear](https://upload.wikimedia.org/wikipedia/commons/9/92/Infectious_Mononucleosis_2.jpg)
@@ -12192,7 +12181,6 @@ C. HSV-1, through ACE2: That isn't correct.
 D. HIV, through CD4 and CCR5: That isn't mono.
 E. CMV, through CD4: CMV mono is heterophile negative.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Ed Uthman, MD., CC BY 2.0, via Wikimedia Commons
 
 Week 8: Virology & Cell Injury / HIV Pathogenesis & Opportunistic Infections
 
@@ -12419,7 +12407,6 @@ C. Ganciclovir: That's for CMV.
 D. Nitazoxanide: That's for Cryptosporidium.
 E. TMP-SMX: That's for PJP.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
-Image credit: Ourania Nicolatou-Galitis et al., CC0, via Wikimedia Commons
 
 Question 62
 A 41-year-old woman with untreated HIV has a dry cough, dyspnea, and fever for 3 weeks. Her CD4 count is 70/μL. Her lungs are clear, but she desaturates with exertion. Her room-air PaO2 is 64 mm Hg. Her chest x-ray shows diffuse interstitial infiltrates. She hasn't taken prophylaxis. Bronchoalveolar lavage with a silver stain shows the cysts in the image in foamy intra-alveolar fluid. What is the treatment regimen? ![Silver stain of lung fluid](https://upload.wikimedia.org/wikipedia/commons/8/87/Pneumocystis_carinii_01.jpg)
@@ -12436,7 +12423,6 @@ B. Amphotericin B and flucytosine: That's for cryptococcus.
 D. Clarithromycin and ethambutol: That's for MAC.
 E. Fluconazole: That's for candidiasis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
-Image credit: Unknown author, Public domain, via Wikimedia Commons
 
 Question 63
 A 36-year-old man with AIDS has a subacute dry cough and fever. His room-air oxygen saturation is 90%. His CD4 count is 50/μL. He hasn't taken prophylaxis. His BAL silver stain is shown. His physician explains that this organism is a ubiquitous fungus with protozoal features that he probably acquired as a child. Which finding on exam and imaging is typical? ![Silver stain of lung fluid](https://upload.wikimedia.org/wikipedia/commons/8/87/Pneumocystis_carinii_01.jpg)
@@ -12453,7 +12439,6 @@ B. Ring-enhancing brain lesions: That's toxoplasmosis.
 C. Lobar consolidation with crackles: That fits bacterial pneumonia.
 D. Pleural effusion with normal oxygen: PJP causes hypoxia.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Unknown author, Public domain, via Wikimedia Commons
 
 Question 64
 A 42-year-old man with AIDS notices floaters and blurry vision in his right eye. His CD4 count is 25/μL, and he stopped antiretrovirals a year ago. He has no eye pain. His vision in the left eye is normal. His CMV PCR in blood is positive. The ophthalmologist's fundus exam is shown, with hemorrhage and white retinal necrosis along the vessels. What is the treatment? ![Fundus photograph](https://upload.wikimedia.org/wikipedia/commons/8/8d/PMID20029144_06_cytomegalovirus_retinitis_-_pizza_pie.png)
@@ -12470,7 +12455,6 @@ C. Sulfadiazine and pyrimethamine: That's for toxoplasmosis.
 D. Fluconazole: That's for Candida.
 E. Radiation: That's for CNS lymphoma.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
-Image credit: S Sudharshan, Sudha K Ganesh, Jyotirmay Biswas, CC BY 2.0, via Wikimedia Commons
 
 Question 65
 A 38-year-old man with AIDS has had profuse watery diarrhea for 4 weeks after swimming in a lake. His CD4 count is 60/μL. He has lost 8 kg and has no blood in his stool. His pulse is 110/min. He hasn't taken antiretrovirals for 2 years. A stool sample with the stain shown reveals small red-staining round organisms. What stain is this, and which organism is it? ![Stool stain](https://upload.wikimedia.org/wikipedia/commons/8/8b/7829_lores.jpg)
@@ -12487,7 +12471,6 @@ B. A Tzanck smear showing HSV: That's for vesicles.
 C. A Gram stain showing gram-negative rods: That isn't the stain shown.
 E. A silver stain showing Pneumocystis: That's for BAL fluid.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
-Image credit: CDC, Public domain, via Wikimedia Commons
 
 Question 66
 A 45-year-old man with AIDS has 2 months of worsening gait, confusion, and bumping into objects on his left side. He is afebrile. His CD4 count is 30/μL. His vision field shows a left homonymous hemianopsia. He has no headache or fever. CSF cryptococcal antigen is negative. His MRI is shown, with bright white matter lesions without mass effect. How is the diagnosis confirmed? ![Brain MRI](https://upload.wikimedia.org/wikipedia/commons/9/99/Progressive_multifocal_leukoencephalopathy_002.jpg)
@@ -12504,7 +12487,6 @@ B. India ink and cryptococcal antigen: That's for cryptococcus.
 C. CSF PCR for EBV: That's for CNS lymphoma.
 E. Toxoplasma IgG: That's for toxoplasmosis.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: The copyright holder of this file allows anyone to use it for any purp, CC BY 3.0, via Wikimedia Commons
 
 Week 8: Virology & Cell Injury / Oncogenic Viruses
 
@@ -12651,7 +12633,6 @@ B. HSV-2: HSV-2 causes painful vesicles.
 C. HPV 16 and 18: Those are high-risk cancer types.
 E. Adenovirus 8: That causes keratoconjunctivitis.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Jmarchn, CC BY-SA 3.0, via Wikimedia Commons
 
 Question 76
 A 30-year-old woman has a routine Pap smear. She has had three sexual partners and smokes. She takes an oral contraceptive. Her previous Pap smears were normal. She never received the HPV vaccine. Her smear shows squamous cells with enlarged, wrinkled nuclei and a large clear space around the nucleus, as shown. Which virus causes this change, and what is it called? ![Pap smear](https://upload.wikimedia.org/wikipedia/commons/8/85/ThinPrep_Pap_smear_HPV.jpeg)
@@ -12668,7 +12649,6 @@ B. Parvovirus; chromatin margination: That's a different change.
 C. EBV; atypical lymphocytes: Those are blood cells.
 E. HSV; Cowdry bodies: Those are nuclear inclusions.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Photomicrograph by Ed Uthman, MD. 20 July 2006 Euthman 20:24, 29 Novem, CC BY-SA 2.0, via Wikimedia Commons
 
 Question 77
 A 34-year-old woman's Pap smear shows the cells in the image, and HPV testing is positive for type 16. She never received the HPV vaccine. Her physician explains how this virus leads to cancer. She smokes and takes an oral contraceptive. Her colposcopy is scheduled. She asks why the virus causes cancer. Besides inactivating p53, what does E6 do? ![Pap smear](https://upload.wikimedia.org/wikipedia/commons/8/85/ThinPrep_Pap_smear_HPV.jpeg)
@@ -12685,7 +12665,6 @@ C. It produces viral IL-6: That's HHV-8.
 D. It activates Rb: E7 inactivates Rb.
 E. It blocks ACE2: That's SARS-CoV-2.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
-Image credit: Photomicrograph by Ed Uthman, MD. 20 July 2006 Euthman 20:24, 29 Novem, CC BY-SA 2.0, via Wikimedia Commons
 
 Week 8: Virology & Cell Injury / HIV Treatment & Resistance
 
@@ -13026,7 +13005,6 @@ B. Pancreatitis: That causes fat necrosis.
 C. Hypertension: That causes fibrinoid necrosis.
 D. Myocardial infarction: That causes coagulative necrosis.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
-Image credit: Yale Rosen from USA, CC BY-SA 2.0, via Wikimedia Commons
 
 Question 99
 A 64-year-old man dies 2 days after a large myocardial infarction. He had diabetes and smoked. His troponin had peaked at a very high level. He had a left anterior descending occlusion. He had no fever. A section of his heart is shown, with deeply eosinophilic muscle fibers that have lost their nuclei but keep their outlines. What type of necrosis is this? ![Histology section](https://upload.wikimedia.org/wikipedia/commons/4/48/Histopathology_of_coagulative_necrosis_of_cardiomyocytes.jpg)
@@ -13043,7 +13021,6 @@ B. Fat necrosis: That occurs around the pancreas.
 D. Fibrinoid necrosis: That's in vessel walls.
 E. Caseous necrosis: That's typical of TB.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
-Image credit: Katarzyna Michaud, Cristina Basso, Giulia d’Amati, Carla Giordano, Iva, CC BY 3.0, via Wikimedia Commons
 
 Question 100
 A 45-year-old man with malignant hypertension has a blood pressure of 230/140 mm Hg and rising creatinine. He has headaches and blurred vision. His fundoscopic exam shows hemorrhages and papilledema. He stopped his antihypertensive pills months ago. His kidney biopsy is shown, with bright pink material in the damaged wall of a small vessel at the arrow. What type of necrosis is this, and which conditions cause it? ![Kidney biopsy](https://upload.wikimedia.org/wikipedia/commons/4/48/Fibrinoid_necrosis.jpg)
@@ -13060,7 +13037,6 @@ C. Caseous necrosis; tuberculosis: That's cheese-like tissue.
 D. Liquefactive necrosis; stroke: That's in the brain.
 E. Fat necrosis; pancreatitis: That's around the pancreas.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
-Image credit: Angela Xue, Adele Bernard, Vanessa Moreno, Lindsey Phillips, Evan Raff, CC BY 4.0, via Wikimedia Commons
 
 Week 9: Bacteria & Antibiotics / Gram-Positive Cocci
 
