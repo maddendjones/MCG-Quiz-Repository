@@ -265,7 +265,6 @@
       transition: width 0.3s ease;
     }
 
-    /* Sub-group list inside subject box */
     .subgroups-list {
       display: flex;
       flex-direction: column;
@@ -901,7 +900,7 @@
       </div>
       <div class="modal-body">
         <p style="color:var(--text-sub);line-height:1.45;">
-          Copy questions from your document and paste them below[cite: 1, 4]. Folders can be organized as <code>Main Folder / Subfolder</code>[cite: 5]. Image URLs in Markdown (<code>![caption](https://...)</code>) or HTML (<code>&lt;img src="..."&gt;</code>) are fully supported[cite: 4].
+          Copy questions from your document and paste them below. Folders can be organized as <code>Main Folder / Subfolder</code>. Image URLs in Markdown (<code>![caption](https://...)</code>) or HTML (<code>&lt;img src="..."&gt;</code>) are fully supported.
         </p>
         
         <div class="form-group">
@@ -909,11 +908,11 @@
           <div style="display:flex;gap:16px;">
             <label class="checkbox-pill">
               <input type="radio" name="importMode" value="append" checked />
-              <span><strong>Add / Append</strong> (Keep existing questions, add new ones)[cite: 5]</span>
+              <span><strong>Add / Append</strong> (Keep existing questions, add new ones)</span>
             </label>
             <label class="checkbox-pill">
               <input type="radio" name="importMode" value="replace" />
-              <span><strong>Replace</strong> (Clear current bank and start fresh)[cite: 5]</span>
+              <span><strong>Replace</strong> (Clear current bank and start fresh)</span>
             </label>
           </div>
         </div>
@@ -1009,8 +1008,8 @@
         <div class="form-group">
           <label>Test Mode</label>
           <div style="display:flex;gap:10px;">
-            <label class="checkbox-pill"><input type="radio" name="quizMode" value="tutor" checked /> Tutor (Immediate Explanations)[cite: 5]</label>
-            <label class="checkbox-pill"><input type="radio" name="quizMode" value="timed" /> Timed Exam (Grade at End)[cite: 5]</label>
+            <label class="checkbox-pill"><input type="radio" name="quizMode" value="tutor" checked /> Tutor (Immediate Explanations)</label>
+            <label class="checkbox-pill"><input type="radio" name="quizMode" value="timed" /> Timed Exam (Grade at End)</label>
           </div>
         </div>
 
@@ -1101,7 +1100,7 @@
   <script id="default-questions-data" type="text/plain"></script>
 
   <script>
-    /* Robust State-Machine Parser: Flawlessly extracts Question, Choices, Answer, Correct Rationale, Distractor Rationales, and Objectives */
+    /* Robust State-Machine Parser with Unique ID Generation */
     function parseDocumentText(rawText) {
       const cleanLine = (l) => l.replace(/[\u00A0\u1680\u180e\u2000-\u200b\u202f\u205f\u3000\ufeff]/g, " ")
                                 .replace(/^[#*\-•\s]+/, "")
@@ -1121,6 +1120,7 @@
       let currentSubfolder = "General";
       let currentQ = null;
       let state = "IDLE";
+      let globalQuestionCounter = 0;
 
       const ignorePatterns = [
         /^FOM Practice Questions/i,
@@ -1172,8 +1172,15 @@
         const qMatch = line.match(/^Question\s+(\d+)/i);
         if (qMatch) {
           commitCurrentQuestion();
+          globalQuestionCounter++;
+          const rawNum = parseInt(qMatch[1], 10);
+          
+          // Generate a strictly UNIQUE composite ID to avoid cross-week collisions
+          const uniqueId = `${currentFolder}__${currentSubfolder}__q${rawNum}__${globalQuestionCounter}`;
+
           currentQ = {
-            id: parseInt(qMatch[1], 10),
+            id: uniqueId,
+            rawNumber: rawNum,
             folder: currentFolder,
             subfolder: currentSubfolder,
             stem: "",
@@ -1259,7 +1266,7 @@
       return parsed;
     }
 
-    function normalizeQuestionFolders(q) {
+    function normalizeQuestionFolders(q, index) {
       if (!q.folder) {
         if (q.subject && q.subject.includes("/")) {
           const parts = q.subject.split("/").map(s => s.trim());
@@ -1269,6 +1276,10 @@
           q.folder = q.subject || "General";
           q.subfolder = "General";
         }
+      }
+      // Ensure all loaded questions have unique string IDs
+      if (typeof q.id === "number" || !q.id || !q.id.includes("__")) {
+        q.id = `${q.folder}__${q.subfolder}__q${q.rawNumber || index}__${index}`;
       }
       return q;
     }
@@ -1385,6 +1396,15 @@
 
     /* App Initialization */
     function init() {
+      // Clean up legacy progress keys if they were based on single shared numbers (1, 2, 3...)
+      const legacyAnswers = localStorage.getItem("nbme_confirmed_answers");
+      if (legacyAnswers && legacyAnswers.includes('"1":')) {
+        localStorage.removeItem("nbme_all_questions");
+        localStorage.removeItem("nbme_user_answers");
+        localStorage.removeItem("nbme_confirmed_answers");
+        localStorage.removeItem("nbme_flagged_questions");
+      }
+
       const savedBank = localStorage.getItem("nbme_all_questions");
       if (savedBank) {
         try {
@@ -1405,7 +1425,7 @@
             localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
           }
         } else {
-          const fallbackFiles = ['FOM_Practice_Question_Bank_1.txt', 'questions.txt'];
+          const fallbackFiles = ['FOM_Practice_Question_Bank_1.txt', 'Week_8_Practice_Questions.txt', 'questions.txt'];
           function tryFetchFile(idx) {
             if (idx >= fallbackFiles.length) {
               if (!ALL_QUESTIONS.length) loadModal.classList.add("open");
@@ -1520,7 +1540,7 @@
       if (!folders.length) {
         subjectCardsGrid.innerHTML = `
           <div style="grid-column: 1 / -1; padding: 24px; text-align: center; color: var(--text-sub); background: var(--surface); border: 1px solid var(--border); border-radius: 8px;">
-            No questions loaded. Click <strong>Import</strong> above or upload <code>FOM_Practice_Question_Bank_1.txt</code>.
+            No questions loaded. Click <strong>Import</strong> above or upload your text files.
           </div>
         `;
         return;
@@ -2325,14 +2345,11 @@
         const importMode = document.querySelector('input[name="importMode"]:checked').value;
 
         if (importMode === "append") {
-          let maxId = ALL_QUESTIONS.reduce((max, q) => Math.max(max, q.id || 0), 0);
           const existingStems = new Set(ALL_QUESTIONS.map(q => q.stem.slice(0, 80)));
           let addedCount = 0;
 
           parsed.forEach(newQ => {
             if (!existingStems.has(newQ.stem.slice(0, 80))) {
-              maxId++;
-              newQ.id = maxId;
               ALL_QUESTIONS.push(newQ);
               existingStems.add(newQ.stem.slice(0, 80));
               addedCount++;
