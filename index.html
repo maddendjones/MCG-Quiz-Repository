@@ -265,6 +265,7 @@
       transition: width 0.3s ease;
     }
 
+    /* Sub-group list inside subject box */
     .subgroups-list {
       display: flex;
       flex-direction: column;
@@ -641,7 +642,7 @@
       border: 1px solid var(--border);
       border-radius: 12px;
       width: 100%;
-      max-width: 580px;
+      max-width: 620px;
       box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.25);
       display: flex;
       flex-direction: column;
@@ -679,17 +680,49 @@
       color: var(--text-sub);
       text-transform: uppercase;
     }
-    .subjects-select-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-      gap: 8px;
-      max-height: 220px;
+    .checkbox-pill { display: flex; align-items: center; gap: 6px; font-size: 0.8rem; cursor: pointer; }
+
+    /* Hierarchical Custom Test Builder Selector */
+    .folder-select-tree {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      max-height: 260px;
       overflow-y: auto;
-      padding: 4px;
+      padding: 6px;
       border: 1px solid var(--border);
       border-radius: 6px;
+      background: var(--bg);
     }
-    .checkbox-pill { display: flex; align-items: center; gap: 6px; font-size: 0.8rem; cursor: pointer; }
+    .folder-group-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 8px 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .folder-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      user-select: none;
+    }
+    .folder-header-row strong {
+      font-size: 0.85rem;
+      color: var(--primary);
+    }
+    .subgroups-checkbox-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 6px;
+      padding-left: 20px;
+      border-top: 1px solid var(--border);
+      padding-top: 6px;
+      margin-top: 2px;
+    }
 
     .stat-row {
       display: grid;
@@ -868,7 +901,7 @@
       </div>
       <div class="modal-body">
         <p style="color:var(--text-sub);line-height:1.45;">
-          Copy questions from your document and paste them below[cite: 1, 4]. To create sub-groupings, format your subject header as <code>Main Folder / Subfolder</code> (e.g., <code>Cancer / Breast Oncology</code>). You can also include image URLs as standard Markdown (<code>![caption](https://...)</code>) or HTML (<code>&lt;img src="..."&gt;</code>)[cite: 4].
+          Copy questions from your document and paste them below[cite: 1, 4]. Folders can be organized as <code>Main Folder / Subfolder</code>[cite: 5]. Image URLs in Markdown (<code>![caption](https://...)</code>) or HTML (<code>&lt;img src="..."&gt;</code>) are fully supported[cite: 4].
         </p>
         
         <div class="form-group">
@@ -1003,12 +1036,15 @@
         </div>
 
         <div class="form-group">
-          <label>Folders & Sub-topics</label>
-          <div style="margin-bottom:4px;display:flex;gap:8px;">
-            <button id="btnSelectAllSub" style="padding:2px 8px;font-size:0.7rem;">Select All</button>
-            <button id="btnDeselectAllSub" style="padding:2px 8px;font-size:0.7rem;">Deselect All</button>
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <label style="margin:0;">Folders & Sub-topics</label>
+            <div style="display:flex;gap:8px;">
+              <button id="btnSelectAllSub" style="padding:2px 8px;font-size:0.7rem;">Select All</button>
+              <button id="btnDeselectAllSub" style="padding:2px 8px;font-size:0.7rem;">Deselect All</button>
+            </div>
           </div>
-          <div class="subjects-select-grid" id="modalSubjectList"></div>
+          <!-- Hierarchical Tree Selector -->
+          <div class="folder-select-tree" id="modalSubjectList"></div>
         </div>
 
         <div class="form-group">
@@ -1062,19 +1098,29 @@
     </div>
   </div>
 
+  <script id="default-questions-data" type="text/plain"></script>
+
   <script>
-    /* Universal Document Parser: Extracts Questions, Subfolders, Choices, and Detailed Rationales */
+    /* Robust State-Machine Parser: Flawlessly extracts Question, Choices, Answer, Correct Rationale, Distractor Rationales, and Objectives */
     function parseDocumentText(rawText) {
       const cleanLine = (l) => l.replace(/[\u00A0\u1680\u180e\u2000-\u200b\u202f\u205f\u3000\ufeff]/g, " ")
                                 .replace(/^[#*\-•\s]+/, "")
                                 .replace(/[#*:\-\s]+$/, "")
                                 .trim();
 
-      const lines = rawText.split(/\r?\n/).map(l => cleanLine(l)).filter(l => l.length > 0);
+      const rawLines = rawText.split(/\r?\n/);
+      const lines = [];
+
+      for (let raw of rawLines) {
+        let l = cleanLine(raw);
+        if (l.length > 0) lines.push(l);
+      }
+
       const parsed = [];
       let currentFolder = "General";
       let currentSubfolder = "General";
-      let i = 0;
+      let currentQ = null;
+      let state = "IDLE";
 
       const ignorePatterns = [
         /^FOM Practice Questions/i,
@@ -1084,27 +1130,34 @@
         /^Page \d+/i
       ];
 
-      while (i < lines.length) {
+      function commitCurrentQuestion() {
+        if (currentQ && currentQ.stem && currentQ.choices.length && currentQ.answer) {
+          const fullSubject = currentQ.subfolder !== "General"
+            ? `${currentQ.folder} / ${currentQ.subfolder}`
+            : currentQ.folder;
+          currentQ.subject = fullSubject;
+          parsed.push(currentQ);
+        }
+        currentQ = null;
+      }
+
+      for (let i = 0; i < lines.length; i++) {
         let line = lines[i];
 
-        if (ignorePatterns.some(p => line.match(p))) {
-          i++;
-          continue;
-        }
+        if (ignorePatterns.some(p => line.match(p))) continue;
 
         const subGroupMatch = line.match(/^(?:Subgroup|Subfolder|Topic|Subtopic|Section):\s*(.*)$/i);
         if (subGroupMatch) {
           currentSubfolder = subGroupMatch[1].trim();
-          i++;
           continue;
         }
 
-        const isQuestionFollower = (i + 1 < lines.length) && lines[i + 1].match(/^Question\s+\d+/i);
-        const isKeyword = line.match(/^Question\s+\d+/i) || 
-                          line.match(/^[A-E]\.\s+/i) || 
-                          line.match(/^(Answer|Why this is correct|Why the other answers are wrong|Objective):/i);
+        const isFollowedByQuestion = (i + 1 < lines.length) && lines[i + 1].match(/^Question\s+\d+/i);
+        const isKeyword = line.match(/^Question\s+\d+/i) ||
+                          line.match(/^[A-E]\.\s+/i) ||
+                          line.match(/^(Answer|Why this is correct|Why the other answers are wrong|Objective)/i);
 
-        if (!isKeyword && isQuestionFollower) {
+        if (!isKeyword && isFollowedByQuestion) {
           if (line.includes("/") || line.includes(">") || line.includes("->")) {
             const parts = line.split(/\/|>|->/).map(p => p.trim()).filter(p => p.length > 0);
             currentFolder = parts[0] || "General";
@@ -1113,107 +1166,96 @@
             currentFolder = line;
             currentSubfolder = "General";
           }
-          i++;
           continue;
         }
 
         const qMatch = line.match(/^Question\s+(\d+)/i);
         if (qMatch) {
-          const qId = parseInt(qMatch[1], 10);
-          i++;
-
-          // 1. Gather Question Stem lines until Choice A appears
-          let stemLines = [];
-          while (i < lines.length && !lines[i].match(/^[A-E]\.\s+/)) {
-            if (lines[i].match(/^Question\s+\d+/i)) break;
-            stemLines.push(lines[i]);
-            i++;
-          }
-          let rawStem = stemLines.join(" ");
-          let cleanStem = rawStem.replace(/^\s*\[NBME Practice Vignette\s*\d+\]\s*:?\s*/i, "").trim();
-          cleanStem = cleanStem.replace(/!\[([^\]]*)\]\((https?:\/\/[^\s\)]+)\)/gi, '<img src="$2" alt="$1">');
-
-          // 2. Gather Choices (A through E)
-          let choices = [];
-          while (i < lines.length && lines[i].match(/^[A-E]\.\s+/)) {
-            // Stop if an explanation header is reached
-            if (lines[i].match(/^(Answer|Why this is correct|Why the other answers are wrong|Objective):/i)) break;
-
-            const chMatch = lines[i].match(/^([A-E])\.\s+(.*)$/);
-            if (chMatch) {
-              choices.push({ letter: chMatch[1].toUpperCase(), text: chMatch[2].trim() });
-            }
-            i++;
-          }
-
-          // 3. Extract Correct Answer
-          let answer = "";
-          if (i < lines.length && lines[i].match(/^Answer:\s*([A-E])/i)) {
-            const ansMatch = lines[i].match(/^Answer:\s*([A-E])/i);
-            answer = ansMatch[1].toUpperCase();
-            i++;
-          }
-
-          // 4. Extract "Why this is correct"
-          let whyCorrect = "";
-          if (i < lines.length && lines[i].match(/^Why this is correct:\s*(.*)$/i)) {
-            whyCorrect = lines[i].replace(/^Why this is correct:\s*/i, "").trim();
-            i++;
-          }
-
-          // 5. Extract "Why the other answers are wrong"
-          let whyWrong = {};
-          if (i < lines.length && lines[i].match(/^Why the other answers are wrong:/i)) {
-            i++;
-            // Collect all option lines until Objective, next Question, or EOF
-            while (i < lines.length && !lines[i].match(/^Objective:/i) && !lines[i].match(/^Question\s+\d+/i)) {
-              const wrongLineMatch = lines[i].match(/^([A-E])\.\s*(.*)$/);
-              if (wrongLineMatch) {
-                const optLetter = wrongLineMatch[1].toUpperCase();
-                let explanationText = wrongLineMatch[2].trim();
-                
-                // If formatted like "B. 0.8: Explanation", clean up the duplicate value label if present
-                const colonIdx = explanationText.indexOf(":");
-                if (colonIdx !== -1) {
-                  explanationText = explanationText.substring(colonIdx + 1).trim();
-                }
-                whyWrong[optLetter] = explanationText;
-              }
-              i++;
-            }
-          }
-
-          // 6. Extract Learning Objective
-          let objective = "";
-          if (i < lines.length && lines[i].match(/^Objective:\s*(.*)$/i)) {
-            objective = lines[i].replace(/^Objective:\s*/i, "").trim();
-            i++;
-          }
-
-          if (cleanStem && choices.length && answer) {
-            const fullSubject = currentSubfolder !== "General" 
-              ? `${currentFolder} / ${currentSubfolder}`
-              : currentFolder;
-
-            parsed.push({
-              id: qId,
-              subject: fullSubject,
-              folder: currentFolder,
-              subfolder: currentSubfolder,
-              stem: cleanStem,
-              choices: choices,
-              answer: answer,
-              whyCorrect: whyCorrect,
-              whyWrong: whyWrong,
-              objective: objective
-            });
-          }
+          commitCurrentQuestion();
+          currentQ = {
+            id: parseInt(qMatch[1], 10),
+            folder: currentFolder,
+            subfolder: currentSubfolder,
+            stem: "",
+            stemLines: [],
+            choices: [],
+            answer: "",
+            whyCorrect: "",
+            whyWrong: {},
+            objective: ""
+          };
+          state = "STEM";
           continue;
         }
 
-        i++;
+        if (!currentQ) continue;
+
+        const ansMatch = line.match(/^Answer:\s*([A-E])/i);
+        if (ansMatch) {
+          currentQ.answer = ansMatch[1].toUpperCase();
+          state = "IDLE";
+          continue;
+        }
+
+        if (line.match(/^Why this is correct/i)) {
+          const textAfterLabel = line.replace(/^Why this is correct:?\s*/i, "").trim();
+          currentQ.whyCorrect = textAfterLabel;
+          state = "IDLE";
+          continue;
+        }
+
+        if (line.match(/^Why (?:the )?other answers (?:are )?wrong/i)) {
+          state = "WHY_WRONG";
+          continue;
+        }
+
+        if (line.match(/^Objective/i)) {
+          const textAfterLabel = line.replace(/^Objective:?\s*/i, "").trim();
+          currentQ.objective = textAfterLabel;
+          state = "IDLE";
+          continue;
+        }
+
+        if (state === "STEM" || state === "CHOICES") {
+          const chMatch = line.match(/^([A-E])\.\s+(.*)$/);
+          if (chMatch) {
+            state = "CHOICES";
+            currentQ.choices.push({ letter: chMatch[1].toUpperCase(), text: chMatch[2].trim() });
+            continue;
+          }
+        }
+
+        if (state === "STEM") {
+          currentQ.stemLines.push(line);
+          currentQ.stem = currentQ.stemLines.join(" ")
+            .replace(/^\s*\[NBME Practice Vignette\s*\d+\]\s*:?\s*/i, "").trim()
+            .replace(/!\[([^\]]*)\]\((https?:\/\/[^\s\)]+)\)/gi, '<img src="$2" alt="$1">');
+          continue;
+        }
+
+        if (state === "WHY_WRONG") {
+          const wrongMatch = line.match(/^([A-E])(?:\.|\:)\s*(.*)$/);
+          if (wrongMatch) {
+            const optLetter = wrongMatch[1].toUpperCase();
+            let text = wrongMatch[2].trim();
+
+            const firstColon = text.indexOf(":");
+            if (firstColon !== -1 && firstColon < 35) {
+              text = text.substring(firstColon + 1).trim();
+            }
+            currentQ.whyWrong[optLetter] = text;
+          } else {
+            const wrongKeys = Object.keys(currentQ.whyWrong);
+            if (wrongKeys.length > 0) {
+              const lastKey = wrongKeys[wrongKeys.length - 1];
+              currentQ.whyWrong[lastKey] += " " + line;
+            }
+          }
+          continue;
+        }
       }
 
+      commitCurrentQuestion();
       return parsed;
     }
 
@@ -1352,6 +1394,45 @@
         }
       }
 
+      if (!ALL_QUESTIONS.length) {
+        const defaultDataEl = document.getElementById("default-questions-data");
+        const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
+
+        if (rawEmbeddedText.length > 0) {
+          const parsed = parseDocumentText(rawEmbeddedText);
+          if (parsed.length > 0) {
+            ALL_QUESTIONS = parsed;
+            localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
+          }
+        } else {
+          const fallbackFiles = ['FOM_Practice_Question_Bank_1.txt', 'questions.txt'];
+          function tryFetchFile(idx) {
+            if (idx >= fallbackFiles.length) {
+              if (!ALL_QUESTIONS.length) loadModal.classList.add("open");
+              return;
+            }
+            fetch(fallbackFiles[idx])
+              .then(res => {
+                if (!res.ok) throw new Error();
+                return res.text();
+              })
+              .then(text => {
+                if (text && text.trim().length > 0) {
+                  const fetchedParsed = parseDocumentText(text);
+                  if (fetchedParsed.length > 0) {
+                    ALL_QUESTIONS = fetchedParsed;
+                    localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
+                    showHomeView();
+                    loadModal.classList.remove("open");
+                  }
+                }
+              })
+              .catch(() => tryFetchFile(idx + 1));
+          }
+          tryFetchFile(0);
+        }
+      }
+
       const savedAnswers = localStorage.getItem("nbme_user_answers");
       if (savedAnswers) userAnswers = JSON.parse(savedAnswers);
       const savedConfirmed = localStorage.getItem("nbme_confirmed_answers");
@@ -1363,10 +1444,6 @@
       setupResizer();
       setupEventListeners();
 
-      if (!ALL_QUESTIONS.length) {
-        loadModal.classList.add("open");
-      }
-      
       showHomeView();
     }
 
@@ -1443,7 +1520,7 @@
       if (!folders.length) {
         subjectCardsGrid.innerHTML = `
           <div style="grid-column: 1 / -1; padding: 24px; text-align: center; color: var(--text-sub); background: var(--surface); border: 1px solid var(--border); border-radius: 8px;">
-            No questions available yet. Click <strong>Import</strong> above to paste your study document.
+            No questions loaded. Click <strong>Import</strong> above or upload <code>FOM_Practice_Question_Bank_1.txt</code>.
           </div>
         `;
         return;
@@ -1563,23 +1640,72 @@
       showQuizView();
     }
 
+    /* Hierarchical Test Builder & Clear Setup */
     function setupSubjectsList() {
-      const subjects = [...new Set(ALL_QUESTIONS.map(q => q.subject))];
+      const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
       modalSubjectList.innerHTML = "";
-      subjects.forEach(sub => {
-        const count = ALL_QUESTIONS.filter(q => q.subject === sub).length;
-        const label = document.createElement("label");
-        label.className = "checkbox-pill";
-        label.innerHTML = `
-          <input type="checkbox" name="subjectCheck" value="${sub}" checked />
-          <span>${sub} <small style="color:var(--text-sub)">(${count})</small></span>
+
+      folders.forEach(fName => {
+        const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
+        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
+
+        const folderBox = document.createElement("div");
+        folderBox.className = "folder-group-box";
+
+        const headerRow = document.createElement("div");
+        headerRow.className = "folder-header-row";
+        headerRow.innerHTML = `
+          <label class="checkbox-pill" style="margin:0;">
+            <input type="checkbox" class="chk-folder-master" data-folder="${fName}" checked />
+            <strong>${fName} <small style="color:var(--text-sub)">(${folderQs.length} Qs)</small></strong>
+          </label>
+          <span style="font-size:0.75rem;color:var(--text-sub);font-weight:600;">(Toggle All)</span>
         `;
-        modalSubjectList.appendChild(label);
+
+        const subGrid = document.createElement("div");
+        subGrid.className = "subgroups-checkbox-grid";
+
+        subfolders.forEach(sName => {
+          const subSubject = sName !== "General" ? `${fName} / ${sName}` : fName;
+          const count = folderQs.filter(q => (q.subfolder || "General") === sName).length;
+          const subLabelText = sName === "General" ? "General / Overview" : sName;
+
+          const label = document.createElement("label");
+          label.className = "checkbox-pill";
+          label.innerHTML = `
+            <input type="checkbox" name="subjectCheck" data-parent-folder="${fName}" value="${subSubject}" checked />
+            <span>${subLabelText} <small style="color:var(--text-sub)">(${count})</small></span>
+          `;
+          subGrid.appendChild(label);
+        });
+
+        // Folder Master Checkbox Event
+        const masterChk = headerRow.querySelector(".chk-folder-master");
+        masterChk.addEventListener("change", (e) => {
+          const isChecked = e.target.checked;
+          subGrid.querySelectorAll('input[name="subjectCheck"]').forEach(cb => {
+            cb.checked = isChecked;
+          });
+        });
+
+        // Child Checkboxes Event to update Folder Master Checkbox
+        subGrid.querySelectorAll('input[name="subjectCheck"]').forEach(cb => {
+          cb.addEventListener("change", () => {
+            const allInFolder = Array.from(subGrid.querySelectorAll('input[name="subjectCheck"]'));
+            const someChecked = allInFolder.some(c => c.checked);
+            const allChecked = allInFolder.every(c => c.checked);
+            masterChk.checked = allChecked;
+            masterChk.indeterminate = someChecked && !allChecked;
+          });
+        });
+
+        folderBox.appendChild(headerRow);
+        folderBox.appendChild(subGrid);
+        modalSubjectList.appendChild(folderBox);
       });
 
+      // Clear Modal Select setup
       clearSubjectSelect.innerHTML = "";
-      const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
-      
       const optGroupFolders = document.createElement("optgroup");
       optGroupFolders.label = "Entire Main Folders";
       folders.forEach(f => {
@@ -1593,6 +1719,7 @@
 
       const optGroupSub = document.createElement("optgroup");
       optGroupSub.label = "Specific Sub-topics";
+      const subjects = [...new Set(ALL_QUESTIONS.map(q => q.subject))];
       subjects.forEach(sub => {
         const count = ALL_QUESTIONS.filter(q => q.subject === sub).length;
         const opt = document.createElement("option");
@@ -1707,15 +1834,16 @@
       if (isConfirmed && testMode === "tutor") {
         explanationBox.classList.add("visible");
         expCorrectTag.textContent = `Correct Answer: Option ${q.answer}`;
-        expWhyCorrect.textContent = q.whyCorrect;
+        expWhyCorrect.textContent = q.whyCorrect || "No explanation provided.";
 
         let wrongHtml = "";
-        if (q.whyWrong && Object.keys(q.whyWrong).length > 0) {
-          for (const [letter, reason] of Object.entries(q.whyWrong)) {
-            wrongHtml += `<p style="margin-bottom:8px;"><strong>Option ${letter}:</strong> ${reason}</p>`;
-          }
+        const wrongKeys = Object.keys(q.whyWrong || {});
+        if (wrongKeys.length > 0) {
+          wrongKeys.sort().forEach(letter => {
+            wrongHtml += `<p style="margin-bottom:8px;"><strong>Option ${letter}:</strong> ${q.whyWrong[letter]}</p>`;
+          });
         } else {
-          wrongHtml = `<p style="color:var(--text-sub);font-style:italic;">No detailed distractor explanations available.</p>`;
+          wrongHtml = `<p style="color:var(--text-sub);font-style:italic;">No distractor rationales available.</p>`;
         }
         expWhyWrong.innerHTML = wrongHtml;
         expObjective.textContent = q.objective ? `Learning Objective: ${q.objective}` : "";
@@ -1949,7 +2077,6 @@
       } else {
         filename += ".txt";
         
-        // Group questions by subject so headers are printed cleanly above each cluster
         const grouped = {};
         exportList.forEach(q => {
           const sub = q.subject || "General";
@@ -1968,7 +2095,6 @@
               content += `${ch.letter}. ${ch.text}\n`;
             });
             
-            // Reconstruct exact answer line
             const matchChoice = q.choices.find(c => c.letter === q.answer);
             const ansText = matchChoice ? matchChoice.text : "";
             content += `Answer: ${q.answer}. ${ansText}\n`;
@@ -1980,10 +2106,7 @@
             if (q.whyWrong && Object.keys(q.whyWrong).length > 0) {
               content += `Why the other answers are wrong:\n`;
               for (const [lettr, reason] of Object.entries(q.whyWrong)) {
-                // If the reason didn't preserve the option text prefix, look up choice text
-                const chObj = q.choices.find(c => c.letter === lettr);
-                const prefix = chObj ? `${chObj.text}: ` : "";
-                content += `${lettr}. ${prefix}${reason}\n`;
+                content += `${lettr}. ${reason}\n`;
               }
             }
             
@@ -2019,7 +2142,6 @@
         showHomeView();
       });
 
-      // Individual Question Reset Action
       btnResetCurrentQ.addEventListener("click", () => {
         if (!currentQuestions.length) return;
         const q = currentQuestions[currentIndex];
@@ -2095,7 +2217,6 @@
         document.body.classList.toggle("dark-mode");
       });
 
-      // Clear Bank Modal Open / Cancel / Radio Toggle
       btnOpenClearModal.addEventListener("click", () => {
         if (!ALL_QUESTIONS.length) {
           alert("There are no questions in the bank to clear.");
@@ -2118,7 +2239,6 @@
         });
       });
 
-      // Execute Clear
       btnConfirmClear.addEventListener("click", () => {
         const option = document.querySelector('input[name="clearScopeOption"]:checked').value;
 
@@ -2237,15 +2357,25 @@
         showHomeView();
       });
 
+      // Hierarchical Quiz Modal Selection Buttons
       btnOpenQuizModal.addEventListener("click", () => quizModal.classList.add("open"));
       btnCloseModal.addEventListener("click", () => quizModal.classList.remove("open"));
       btnCancelQuiz.addEventListener("click", () => quizModal.classList.remove("open"));
 
       btnSelectAllSub.addEventListener("click", () => {
         document.querySelectorAll('input[name="subjectCheck"]').forEach(cb => cb.checked = true);
+        document.querySelectorAll('.chk-folder-master').forEach(cb => {
+          cb.checked = true;
+          cb.indeterminate = false;
+        });
       });
+
       btnDeselectAllSub.addEventListener("click", () => {
         document.querySelectorAll('input[name="subjectCheck"]').forEach(cb => cb.checked = false);
+        document.querySelectorAll('.chk-folder-master').forEach(cb => {
+          cb.checked = false;
+          cb.indeterminate = false;
+        });
       });
 
       btnStartCustomQuiz.addEventListener("click", handleStartCustomQuiz);
