@@ -16320,4 +16320,1168 @@ E. Placental calcifications: Those are usually on the maternal surface and not p
 Image credit: Chen, Yukun; Zhang, Zhuomin; Wu, Chenyan; Davaasuren, Dolzodmaa; Golds, CC BY 4.0, via Wikimedia Commons
 Objective: Differentiate between the embryonic and fetal periods in terms of their chronology, developmental processes occurring in each, and susceptibility to maternal exposures (CBO 1.3)
 
+CBL / Week 3
+
+Question 1
+An 18-year-old African American male patient with known sickle cell disease presents with right-sided hip pain without apparent injury. Analysis of the synovial fluid aspirate reveals WBC count of 1800/µl, without gross evidence of blood; Gram stain is negative for organisms; and there are no crystals identified. Based on the history and lab findings, the most likely diagnosis is:
+A. Avascular necrosis
+B. Inflammatory arthritis
+C. Osteoarthritis
+D. Septic arthritis
+E. Trauma
+Answer: A. Avascular necrosis
+
+Question 2
+A 24-year-old man came to the Emergency Department because of a painful erection of two days in duration. He had experienced a similar episode one month previously, which resolved spontaneously after about five hours. The patient denied trauma, drug use, blood disorders, or malignancy. Physical examination showed an erect, circumcised, tender penis. A complete blood count demonstrated a white blood count of 6.1 × 10^6/µl and a hematocrit of 47.0%. A sickle cell test was positive. Molecular analysis indicated that the patient was heterozygous for two different mutations in the beta-globin gene at position 6. One mutant demonstrated a substitution of valine for glycine. The patient’s hemoglobin electrophoresis is provided in the attached figure. The glutamic acid is most likely replaced with which of the following amino acids in the patient’s other mutated beta-globin gene?
+A. Alanine
+B. Aspartic acid
+C. Leucine
+D. Lysine
+E. Tryptophan
+Answer: D. Lysine
+
+Question 3
+An 11-year-old girl is brought to the emergency department because of progressive bilateral thigh and hip pain for more than a day. Acetaminophen and ibuprofen have not relieved her symptoms. She denies any recent trauma or excessive exercise. Her parents report that she has had similar painful episodes in the past, sometimes requiring hospitalization. On examination, she is afebrile (without fever) and in no acute distress. The physical examination is normal. Her white blood cell count is elevated at 17,000/µL, and her hemoglobin level is decreased at 7.1 g/dL. The blood smear shows numerous sickled cells; urinalysis is unremarkable. She is admitted and treated. Once discharged, her primary care physician prescribed a drug to reduce the likelihood of recurrences. Which of the following mechanisms best describes the mechanism of action of this drug?
+A. Inhibits ribonucleoside diphosphate reductase
+B. Inhibits topoisomerase II
+C. Stimulates production of erythropoietin
+D. Stimulates DNA polymerase
+E. Stimulates RNA primase
+Answer: A. Inhibits ribonucleoside diphosphate reductase
+
+Question 4
+10-year-old African American girl, who was previously diagnosed with sickle cell disease, has developed osteomyelitis of the tibia. Culture of a needle aspirate obtained from the affected bone yields a bacterial pathogen commonly involved in etiology of infectious diarrhea. What is the most likely cause?
+A. Ehrlichia chaffeensis
+B. Norovirus
+C. Pseudomonas aeruginosa
+D. Rotavirus
+E. Salmonella enterica
+F. Staphylococcus aureus
+G. Streptococcus pyogenes
+Answer: E. Salmonella enterica
+
+Question 5
+A 12-year-old girl with a history of sickle cell disease (SCD) is hospitalized with hematocrit of 18% requiring a blood transfusion. Her history is remarkable for exposure to another child at school who has developed fever and rash on the face with slapped-cheek appearance. What is the most likely cause?
+A. Anaplasma phagocytophilum
+B. Ehrlichia chaffeensis
+C. Parvovirus B19
+D. Plasmodium malariae
+E. Salmonella enterica
+Answer: C. Parvovirus B19
+
+Question 6
+A 4-year-old boy is brought to the emergency department by his parents due to severe abdominal pain, nausea, and vomiting x 1. Past medical history is notable for sickle cell disease and one episode of acute chest syndrome requiring hospitalization. On exam, the child is inconsolable and unable to respond to questions. The pain began ~3 hours ago and did not respond to ketorolac. Vital signs: HR 125 bpm (normal 65-100) and BP 85/55 mmHg (normal 95-107/60-71). On physical examination, a large mass is felt in the patient’s abdomen in the left upper quadrant. Labs reveal a Hgb value of 5.8 g/dL (normal 10.5-14.9); patient’s baseline is 7.8-9.0 per available documentation. Which of the following most likely describes the pathogenesis of this patient’s acute condition?
+A. Increased RBC turnover leading to hyperbilirubinemia and gallstones
+B. Increased sickling of RBCs resulting in obstruction of splenic vasculature, leading to severe congestion within the spleen
+C. Impaired protection against encapsulated organisms resulting in splenic infection
+D. Obstruction of micro-vasculature in the ribs and chest, resulting in bone and soft tissue damage
+E. Obstruction of micro-vasculature in the hips, legs, and back due to sickled RBCs, causing diffuse, severe pain of the lower half
+Answer: B. Increased sickling of RBCs resulting in obstruction of splenic vasculature, leading to severe congestion within the spleen
+
+Question 7
+Which of the following is most likely to be present in the patient described in the previous question?
+A. Elevated haptoglobin
+B. Decreased lactate dehydrogenase (LDH)
+C. Decreased direct (conjugated) bilirubin
+D. Decreased indirect (unconjugated) bilirubin
+E. Elevated indirect (unconjugated) bilirubin
+Answer: E. Elevated indirect (unconjugated) bilirubin
+
+Question 8
+The patient is a 15-year-old African American boy who presents to the emergency department with severe abdominal pain. His mother informs you that these painful episodes began when he was about 1 year old. She also tells you that the patient, his brother, her husband, and she have been told they have the “sickle gene.” However, only her husband has experienced similar painful episodes (pain crises). Physical examination reveals a soft abdomen and intact bowel sounds. The patient’s pulse is rapid, and his blood pressure is 125/90 mm Hg. His temperature is 98.8° F. CBC shows the following: Hb 8 g/dL; WBC 13,500/mm3; Plt 350,000/mm3. Microscopic examination of the peripheral blood smear reveals red blood cell changes as seen in Image 1; in addition, there is significant polychromasia. Most of the white blood cells are neutrophils (segmented forms and bands). Why did this patient have no noticeable clinical problems before age 1? ![Peripheral blood smear](https://upload.wikimedia.org/wikipedia/commons/c/cb/Sickle_Cell_Anemia_%285610746554%29.jpg)
+A. High levels of HbF present in RBCs during infancy inhibit polymerization of HbS
+B. High levels of RhoGAM in infant’s blood bind and destroy hemoglobin C
+C. High levels of RhoGAM in infant’s blood bind and destroy hemoglobin S
+D. Maternal antibodies that crossed the placenta destroy hemoglobin S in infant’s blood
+Answer: A. High levels of HbF present in RBCs during infancy inhibit polymerization of HbS
+
+Question 9
+A 12-year-old African-American boy was brought to the emergency department with severe musculoskeletal pain. Finding on physical exam included corkscrew vessels in the conjunctiva, moderate abdominal tenderness, and an enlarged liver. Lab data were notable for elevated total bilirubin and LDH and the presence of moderate anemia, which was normochromic and slightly macrocytic. Reticulocyte count was elevated. The patient was admitted to the hospital and given intravenous morphine sulfate. Hemoglobin electrophoresis showed 0% HbA1, 95% HbS, and normal levels of HbA2 and HbF (3% and 2% respectively). Consideration was given to treating the patient with hydroxyurea. What is the rationale for treatment with hydroxyurea?
+A. Increases urinary excretion of bilirubin
+B. Prevents oxidative damage to erythrocyte membranes
+C. Depletes hematopoietic stem cells in preparation for bone marrow transplant
+D. Increases erythrocyte levels of HbF
+E. Increases HbS affinity for oxygen
+Answer: D. Increases erythrocyte levels of HbF
+
+Question 10
+An 8-year-old boy is brought to the physician because of painful swelling of the right knee joint with intermittent fevers for the past two weeks. There is no history of trauma to the knee, and he has a pertinent history of sickle cell disease currently treated with hydroxyurea. On physical exam, he is febrile at 102.3°F, has a heart rate of 112, and the right knee is erythematous, edematous, and painful to palpation. A bone biopsy was done as part of the workup, and culture reveals the diagnosis. Which of the following is the most likely causal organism?
+A. Pasteurella multocida
+B. Pseudomonas aeruginosa
+C. Salmonella enterica
+D. Staphylococcus aureus
+E. Staphylococcus epidermidis
+Answer: C. Salmonella enterica
+Why this is correct: This is most likely the cause of his osteomyelitis. Due to chronic splenic occlusions and infarctions, functional asplenia usually presents in SCD patients by the age four, rendering patients without the ability to fight off infections caused by encapsulated bacteria, such as Streptococcus pneumoniae. Salmonella enterica is the most common causative organism in SCD osteomyelitis in the US and Europe. Frequent episodes of vasoocclusion and resulting infarction/necrosis of the intestinal wall creates portal of entry for Salmonella sp.
+Why the other answers are wrong:
+A. Pasteurella multocida: This organism is usually associated with osteomyelitis due to cat and dog bites. Without that clinical history, it is likely that there is a better option.
+B. Pseudomonas aeruginosa: Osteomyelitis with this organism is usually seen in adults that are IV drug users. It can be seen in the pediatric population when associated with foot puncture wounds, especially a rusty nail.
+D. Staphylococcus aureus: Although the most common cause of osteomyelitis overall, the clinical picture is more likely indicative of another organism. Staphylococcus aureus is also the most common cause of osteomyelitis in SCD patients in Africa and the Middle East.
+E. Staphylococcus epidermidis: This organism usually causes osteomyelitis in patients with prosthetic joints, which is not seen in this clinical picture.
+
+Question 11
+An 8-year-old girl is brought to the ED because of a 24-hour history of severe right-hand pain. She has had similar painful episodes in the past that required hospitalization. Work-up also reveals microhematuria. There is tenderness to palpation of the small joints of the right hand. Peripheral blood smear reveals crescent shaped erythrocytes. She is started on a pharmacologic agent that is known to increase the MCV of red blood cells. This agent causes an arrest in which of the following cell cycle phases?
+A. G0
+B. G1
+C. G2
+D. M
+E. S
+Answer: E. S
+Why this is correct: The medication that she was likely started on was hydroxyurea, which works by inhibiting ribonucleotide reductase. This inhibits DNA replication and causes arrest in the S phase. S phase inhibition and macrocytosis is seen in many drugs that have myelosuppressive effects.
+Why the other answers are wrong:
+A. G0: Medications that affect this phase of the cell cycle include alkylating agents and platinum based agents. These drugs are not used in the long term therapy of sickle cell disease.
+B. G1: Medications that affect this phase of the cell cycle include some monoclonal antibodies, some tyrosine kinase inhibitors, and some CDK inhibitors. They are not known to cause macrocytosis and are not used in the long term therapy of sickle cell disease.
+C. G2: Medications that affect this phase of the cell cycle include some proteasome inhibitors. They are not known to cause macrocytosis and are not used in the long term therapy of sickle cell disease.
+D. M: Medications that affect this phase of the cell cycle include taxanes and vinca alkalods. They are usually involved in the microtubule mechanism of the cell cycle. They are not known to cause macrocytosis and are not used in the long term therapy of sickle cell disease.
+
+Question 12
+A 15-year-old Black girl comes into the ED with severe right thigh pain. She has no known medical history. The pain has been worsening since she woke up this morning and has now spread to her distal leg. Her brother has a history of similar events, and he is on a medication she does not remember. She is given some medication to help her pain and after a few hours she feels much better. She is prescribed medication to help reduce the frequency of these episodes. Her CBC three months after starting the medication shows a mean corpuscular volume of 120 fL. Which of the following is the most likely explanation of the abnormal lab value?
+A. Accumulation of HbS polymers within erythrocytes
+B. Increased erythrocyte osmotic fragility
+C. Increased production of hemoglobin A2
+D. Inhibition of folate absorption in the intestine
+E. Myelosuppression due to impaired DNA synthesis
+Answer: E. Myelosuppression due to impaired DNA synthesis
+Why this is correct: First line therapy for SCD is hydroxyurea which works by inhibiting ribonucleotide reductase. This leads to myelosuppression and decreased DNA synthesis.
+
+Question 13
+A 30-year-old man with a history of sickle cell disease comes to the ED due to lethargy and altered mental status. He has had increased pain in both his arms and legs for the past week and has solely become more somnolent. His medications at home are hydroxyurea, acetaminophen, tramadol, and losartan. Physical exam shows that the patient is not oriented to person, place or time, and vitals are 37°C, 105/60 mmHg, P 50/m, RR 6/min, and 91% O2 saturation. Which is the most likely sickle cell complication is happening in this patient?
+A. Acute kidney injury
+B. Avascular necrosis
+C. Bacterial Infection
+D. Respiratory Depression
+E. Splenic sequestration
+Answer: D. Respiratory Depression
+Why this is correct: This patient is most likely to be increasing his usage of pain medication such as acetaminophen and his tramadol which is an opioid. Excessive use of opioids can lead to excessive activation of µ-opioid receptors (MORs) in the brainstem respiratory centers which leads to decreased natural respiratory drive and eventually respiratory depression.
+
+Question 14
+An 8-year-old boy presents to the ED in acute distress with chest pain and difficulty breathing. Two days ago, the patient flew on a 15-hour flight to the United States with his family. The parents state their son only has a history of asthma and has an inhaler as his only prescribed medicine. His parents deny any personal history of disease, but state they each have one parent or a sibling who has had episodes like this. Vitals reveal: 38.9°C (102.0°F), BP 96/58 mmHg, P 126/min, RR 32/min, and O2 saturation 85% on room air. Lung exam reveals decreased breath sounds and fine crackles in the left lower lobe. A chest x-ray is ordered and confirms a pulmonary infiltrate in the left lower lobe. He is started on supplemental oxygen, intravenous fluids, broad-spectrum antibiotics, and pain control. A transfusion is being considered. Which of the following lab findings best correlate with the patient’s presentation and condition? Reference Ranges: Hemoglobin (12-17.5g/dL), WBC (4,500-11,000/µL), Reticulocytes (0-2.5%), Platelets (140,000-450,000/µL)
+A. Hemoglobin: 11.8 g/dL, WBC: 4,500/µL, Reticulocytes: 0.5%, Platelets: 120,000/µL
+B. Hemoglobin: 5.7 g/dL, WBC: 7,000/µL, Reticulocytes: 1%, Platelets: 200,000/µL
+C. Hemoglobin: 13.5 g/dL, WBC: 6,000/µL, Reticulocytes: 2%, Platelets: 334,000/µL
+D. Hemoglobin: 6.8 g/dL, WBC: 15,000/µL, Reticulocytes: 11%, Platelets: 200,000/µL
+E. Hemoglobin: 17.5 g/dL, WBC:10,500/µL, Reticulocytes: 5%, Platelets: 150,000/µL
+Answer: D. Hemoglobin: 6.8 g/dL, WBC: 15,000/µL, Reticulocytes: 11%, Platelets: 200,000/µL
+Why this is correct: These labs best correspond to a patient with an episode of acute chest syndrome secondary to sickle cell disease. Hemoglobin would be expected to be low due to the vasoocclusive event and subsequent hemolysis. An increased WBC may be commonly seen as an acute stress/inflammatory response. The rapid turnover of RBCs would influence reticulocyte increase.
+Why the other answers are wrong:
+A. Hemoglobin: 11.8 g/dL, WBC: 4,500/µL, Reticulocytes: 0.5%, Platelets: 120,000/µL: These are fairly normal labs without the classic findings that coincide with a sickle-cell crisis.
+B. Hemoglobin: 5.7 g/dL, WBC: 7,000/µL, Reticulocytes: 1%, Platelets: 200,000/µL: A low hemoglobin matches the description of a vasoocclusive crisis; however, a low reticulocyte would not be expected.
+C. Hemoglobin: 13.5 g/dL, WBC: 6,000/µL, Reticulocytes: 2%, Platelets: 334,000/µL: These are normal labs without the classic findings that coincide with a sickle-cell crisis.
+E. Hemoglobin: 17.5 g/dL, WBC:10,500/µL, Reticulocytes: 5%, Platelets: 150,000/µL: These are normal labs without the classic findings that coincide with a sickle-cell crisis.
+
+Question 15
+An 8-year-old boy presents to the ED in acute distress with chest pain and difficulty breathing. Two days ago, the patient flew on a 15-hour flight to the United States with his family. The parents state their son only has a history of asthma and has an inhaler as his only prescribed medicine. His parents deny any personal history of disease, but state they each have one parent or a sibling who has had episodes like this. Vitals reveal: 38.9°C (102.0°F), BP 96/58 mmHg, P 126/min, RR 32/min, and O2 saturation 85% on room air. Lung exam reveals decreased breath sounds and fine crackles in the left lower lobe. A chest x-ray is ordered and confirms a pulmonary infiltrate in the left lower lobe. He is started on supplemental oxygen, intravenous fluids, broad-spectrum antibiotics, and pain control. A transfusion is being considered. Which of the following best describes the mechanism of action of the medication most effective at reducing this patient’s future risk of recurrence?
+A. Ihibits ribonucleotide reductase
+B. Increase gene expression of an erythroid precursor
+C. Inhibit platelet aggregation
+D. Increases nitric oxide–mediated vasodilation
+E. Increase iron storage and support RBC production
+Answer: B. Increase gene expression of an erythroid precursor
+Why this is correct: This is the mechanism of hydroxyurea that allows it to be a useful treatment for sickle cell disease. By increasing the expression of the γ-globin precursors, this will lead to an overall increase in fetal hemoglobin and is standard chronic therapy for patients with SCD.
+Why the other answers are wrong:
+A. Ihibits ribonucleotide reductase: This is a mechanism of hydroxyurea; however, it is useful for treating cancer rather than managing sickle cell disease.
+C. Inhibit platelet aggregation: This mechanism describes antiplatelet drugs such as clopidogrel which helps reduce the formation of possible thromboses.
+D. Increases nitric oxide–mediated vasodilation: This mechanism describes sildenafil; a treatment used for pulmonary hypertension and not recommended for sickle cell disease.
+E. Increase iron storage and support RBC production: This mechanism describes oral iron supplementation. Most patients with SCD have a hemolytic anemia to which iron would not address.
+
+CBL / Week 4
+
+Question 1
+A 28-year-old single mother of an intellectually disabled boy with an ADHD (Image below) presents to her gynecologist with a 3-month history of amenorrhea and hot flashes. A learning disability, particularly in math and sciences, prevented her from finishing high school. Which of the following is most likely to be found in the mother?
+A. Trisomy 21
+B. >200 CAG repeats
+C. Premutation in FMR1 gene
+D. Maternal uniparental disomy at chromosome region 15q11.2
+E. Hypermethylation of the CCG repeats that silences FMR1 gene expression
+Answer: C. Premutation in FMR1 gene
+Why this is correct: This patient most likely has Fragile X syndrome which is an X-linked dominant disease caused by a CGG trinucleotide repeat expansion in the FMR1 gene. This can cause intellectual disability, facial anomalies (long face, large ears), mitral valve prolapse, and hypermobility. The phenotype is dependent on the number of repeats. This is the most common inherited intellectual disability. His mother (who has a mild intellectual disability) likely has a premutation that she passed to her son who inherited and increased number of CGG repeats and has a more severe phenotype.
+Why the other answers are wrong:
+A. Trisomy 21: This is the cause of Down Syndrome
+B. >200 CAG repeats: This is the cause of Huntington disease
+D. Maternal uniparental disomy at chromosome region 15q11.2: This is the cause of Prader-Willi syndrome
+E. Hypermethylation of the CCG repeats that silences FMR1 gene expression: This is the mutation likely seen in the patient
+
+Question 2
+A 6-year-old boy was referred to clinic for evaluation of developmental delay, poor speech and motor skills and hyperactivity. His mother and maternal aunt had mild learning disabilities, and his maternal uncle had an intellectual disability. Results of genetic testing were consistent with fragile X syndrome. Which of the following tests were most likely performed to establish the diagnosis?
+A. Mutation screening analyses; allele-specific oligonucleotide assay
+B. Targeted mutation analysis; single-stranded conformational polymorphism assay
+C. Mutation screening analyses; fluorescent in situ hybridization
+D. Targeted mutation analysis; PCR and Southern blot analysis
+E. Metabolic screening analyses; metabolite assay
+Answer: D. Targeted mutation analysis; PCR and Southern blot analysis
+Why this is correct: Fragile X syndrome is diagnosed with PCR and southern blot analysis since it has a known gene association. It is caused by CGG trinucleotide repeat expansion on the FMR1 gene.
+
+Question 3
+A diagnosis is made in a 17-year-old man with intellectual disability, long face, long ears and large testicles. DNA analysis is performed in his maternal grandfather and father and in the patient. Which pattern of trinucleotide repeats in the FMR1 gene is most likely to be found?
+A. Grandfather 130 repeats, father 185 repeats, patient 240 repeats
+B. Grandfather 100 repeats, father 40 repeats, patient 150 repeats
+C. Grandfather 80 repeats, father 160 repeats, patient 320 repeats
+D. Grandfather 200 repeats, father 135 repeats, patient 100 repeats
+E. Grandfather 115 repeats, father 30 repeats, patient 280 repeats
+Answer: E. Grandfather 115 repeats, father 30 repeats, patient 280 repeats
+Why this is correct: This describes Fragile X syndrome which is a X linked dominant disease. Since it is X-linked it had to be passed to the patient by his mother, so his father likely has a normal number of repeats while his grandfather may or may not have an increased number of repeats. Option E is the only possible option where the patient has a large number of repeats (>200 creates the phenotype), his father has a normal number of repeats, and his grandfather has an increased number of repeats that could have been passed to his mother and then the patient each gaining increasing numbers of repeats that ultimately lead to the patient having Fragile X syndrome.
+
+Question 4
+A 3-year-old boy is brought in for evaluation for developmental delay. He could sit alone at 12 months and started walking with support at 24 months. He uses simple two-word sentences and cannot stack more than two blocks. He has a long, narrow face, a prominent chin, and large protruding ears. This patient is at increased risk of developing which of the following conditions?
+A. Aortic dissection
+B. Hearing loss
+C. Gynecomastia
+D. Mitral regurgitation
+E. Type 2 diabetes
+Answer: D. Mitral regurgitation
+Why this is correct: This patient most likely has Fragile X syndrome. Patients with Fragile X syndrome other have mitral valve prolapse that can lead to mitral regurgitation and should be screened with an echo.
+
+Question 5
+A 6-week-old girl is brought in for a follow-up examination. She has had difficulty feeding with frequent regurgitation of milk and her mother is concerned that she is not gaining weight appropriately. The mother reports that the girl's crying resembles a squeaky door. She is at the 2nd percentile for head circumference, 30th for height, and 15th for weight. On examination, she has mandibular hypoplasia, a broad nasal bridge, and a round face. The palpebral fissures are down-slanting, and she has a single palmar crease. There is a pansystolic murmur along the left lower sternal border. Which of the following is the most likely cause of the patient's symptoms?
+A. Excessive prenatal alcohol exposure
+B. Microdeletion at chromosome 5
+C. Translocation of chromosome 21
+D. Trisomy of chromosome 13
+E. X-linked gene mutation
+Answer: A. Excessive prenatal alcohol exposure
+Why this is correct: This patient likely has fetal alcohol syndrome. Alcohol is teratogenic and exposure in utero can lead to dysmorphic features (smooth philtrum, down-slanting short palpebral fissures, microcephaly), VSD, and intellectual disability.
+Why the other answers are wrong:
+B. Microdeletion at chromosome 5: This describes Cri-du-chat syndrome which is characterized by a high-pitched cat-like cry, microcephaly, hypotonia, and intellectual disability
+C. Translocation of chromosome 21: This describes a Robinsonian translocation (usually chromosomes 14 and 21) which can cause down syndrome is passed with two normal copies of chromosome 21. Down syndrome is characterized by epicanthal folds, upward-slanting palpebral fissures, small mouth, hypoplastic nasal bones, transverse palmar crease, sandal gap, short stature, intellectual disability, heart defects (primarily atrioventricular septal defect), etc.
+D. Trisomy of chromosome 13: This describes Patau syndrome, which is characterized by microcephaly, holoprosencephaly, microphthalmia, rocker-bottom feet, heart defects, and polydactyl.
+E. X-linked gene mutation: This likely describes fragile X syndrome
+
+Question 6
+A 5-year-old boy with hyperactivity, impulsivity and poor attention is started on a medication. Which of the following is most likely involved in the mechanism of action of the drug?
+A. Increases the reuptake of norepinephrine
+B. Blocks the reuptake of serotonin
+C. Inhibits the release of norepinephrine
+D. Inhibits the release of GABA
+E. Blocks the reuptake of dopamine and norepinephrine
+Answer: E. Blocks the reuptake of dopamine and norepinephrine
+Why this is correct: This patient likely has ADHD and is taking a medication that increases the levels of dopamine and norepinephrine by blocking their reuptake likely methylphenidate which is commonly used in the treatment of ADHD.
+Why the other answers are wrong:
+A. Increases the reuptake of norepinephrine: This would have the opposite effect of what is needed to treat ADHD
+B. Blocks the reuptake of serotonin: This describes SSRIs used to treat depression and anxiety
+C. Inhibits the release of norepinephrine: This is done by alpha-2 agonists (clonidine and guanfacine) to control elevated blood pressure
+D. Inhibits the release of GABA: This is not a MOA of common medications
+
+Question 7
+A 13-year-old girl presented with a two-year history of decreasing cognitive ability and declining school performance. She also had difficulty in her movements. Family history revealed that her father, paternal uncle and paternal grandmother had been diagnosed with a movement disorder in the past. Neurologic exam revealed an overshooting and nystagmus on rapid movements of the eyes, loss of coordination of hand movements, increased blinking, slurred speech, bradykinesia, dysdiadochokinesia, mild rigidity and abnormal gait with veering to the right. Anti-streptolysin O titer was 1:800. Two years after the initial presentation, the patient's coordination and movement control have worsened, and she suffers from depression complicated by acute psychotic episodes. DNA analysis reveals an allele with 68 CAG repeats. What is the most likely diagnosis?
+A. Sydenham’s chorea
+B. Acute rheumatic fever
+C. Friedreich’s ataxia
+D. Fragile X syndrome
+E. Huntington’s disease
+Answer: E. Huntington’s disease
+Why this is correct: This question stem describes the pathophysiology and characteristics of Huntington's disease, which is an autosomal dominant fatal neurodegenerative disorder
+Why the other answers are wrong:
+A. Sydenham’s chorea: This is a rare temporary movement disorder caused by an autoimmune reaction to Group A strep
+B. Acute rheumatic fever: See above
+C. Friedreich’s ataxia: This is a inherited movement disorder caused by a mutation on the FXN gene (chromosome 9). It results in progressive ataxia, scoliosis, and heart defects
+D. Fragile X syndrome: This is an X-linked dominant disease caused by a CGG trinucleotide repeat expansion in the FMR1 gene
+
+Question 8
+In fragile X syndrome, the CGG repeat expansion in the FMR1 gene leads to hypermethylation and subsequent silencing of the gene. This results in reduced expression of the Fragile X Mental Retardation Protein (FMRP). Which of the following cellular processes is primarily affected by the absence of FMRP?
+A. Synaptic plasticity
+B. DNA replication
+C. RNA transcription
+D. Protein translation
+E. Cell cycle regulation
+Answer: A. Synaptic plasticity
+Why this is correct: Fragile X Mental Retardation Protein (FMRP) is a crucial RNA-binding protein that acts as a translational regulator in dendritic spines, controlling synaptic plasticity (the strengthening/weakening of synapses) by inhibiting the synthesis of proteins involved in synaptic strengthening
+
+Question 9
+A male infant presents with characteristic physical features including a long face, large ears, and macroorchidism. His family history reveals that several male relatives also exhibit similar features and intellectual disability. What is the most likely genetic mechanism underlying this presentation?
+A. Trinucleotide repeat expansion in the FMR1 gene
+B. Chromosomal translocation involving the X chromosome
+C. Nonsense mutation in the FMR1 gene
+D. Microdeletion on the X chromosome
+E. Duplication of the FMR1 gene
+Answer: A. Trinucleotide repeat expansion in the FMR1 gene
+Why this is correct: Fragile X syndrome is an X-linked dominant disease that is the most common inherited cause of intellectual disability. It is characterized by dysmorphic facial features (long face, large ears) and heart defects (mitral valve prolapse), as well as intellectual disability
+
+Question 10
+The CGG repeat expansion in fragile X syndrome is prone to further instability and expansion in future generations. This phenomenon is known as:
+A. Genetic anticipation
+B. Genomic imprinting
+C. Genetic recombination
+D. Genetic penetrance
+E. Genetic linkage
+Answer: A. Genetic anticipation
+Why this is correct: Genetic anticipation is a phenomenon where genetic conditions appear with increased severity and earlier onset in successive generations, often due to unstable trinucleotide repeat expansions like with Fragile X syndrome
+Why the other answers are wrong:
+B. Genomic imprinting: This describes an epigenetic process where certain genes are expressed in a parent-of-origin-specific manner, meaning only one copy (either maternal or paternal) is active while the other is silenced. This is seen with Prader-Willi and Angelman syndromes
+C. Genetic recombination: This describes a process that occurs during prophase I where DNA strands are broken and rejoined to create new allele combinations
+D. Genetic penetrance: This describes the percentage of individuals with a specific genotype who express the associated phenotype. Some mutations have incomplete penetrance such as BRCA1 mutations where some individuals who have the mutation may not have breast or ovarian cancer while others with the mutation do.
+E. Genetic linkage: This describes the tendency of DNA sequences that are close together on a chromosome to be inherited together during meiosis. Because they reside near each other, linked genes violate Mendel's law of independent assortment and do not separate independently, causing them to be inherited as a unit more often than not.
+
+Question 11
+A two-year-old boy is brought to the physician by his parents because his daycare consistently notes that he is inattentive and lacks friends to play with. He was born at term and has been healthy except for an ear infection he had at one year of age. His immunizations are up to date. On physical exam, his height is at the 92nd percentile, weight at the 25th percentile, and head circumference at the 95th percentile. Vital signs are unremarkable. Examination shows elongated face and large ears. Throughout the visit the boy does not look at the physician and is constantly playing with his mother’s bag. Which of the following is the most likely cause of this patient’s pathology?
+A. Additional X chromosome
+B. CGG trinucleotide repeat expansion on the X-chromosome
+C. Deletion of the long arm on chromosome 7
+D. Imprinting of chromosome 15
+E. Trisomy 13
+Answer: B. CGG trinucleotide repeat expansion on the X-chromosome
+Why this is correct: The patient has FXS caused by the expansion of the CGG trinucleotide repeats in the FMR1 gene on chromosome X. FXS is the second most common cause of genetic intellectual disability (after Trisomy 21). Key features to look out for include elongated facies, large ears, macroorchidism, signs of intellectual disability, and features of autism.
+Why the other answers are wrong:
+A. Additional X chromosome: This indicates Klinefelter syndrome, which can present with speech and language difficulties. However, the findings of increased head circumference and large ears are not typical of this disease.
+C. Deletion of the long arm on chromosome 7: This is the cause of Williams syndrome, which presents with varying levels of intellectual disability. A key finding in these patients, however, is hypersocial rather than autistic behavior. Furthermore, physical examination would more likely reveal midface hypoplasia, short palpebral fissures, and a wide forehead.
+D. Imprinting of chromosome 15: Imprinting on chromosome 15 can cause either Prader-Willi Syndrome or Angelman Syndrome. In Prader-Willi s., the paternal allele is deleted/mutated and the maternal allele is inactivated by hypermethylation. In Angelman s., the maternal allele is deleted/mutated and the paternal allele is inactivated by hypermethylation.
+E. Trisomy 13: Trisomy 13 is Patau Syndrome. It has characteristic features of microcephaly, cleft lip/palate, microphthalmia, polydactyly, and congenital heart defects.
+
+Question 12
+During a routine clinic visit, a child is examined by the pediatrician. He is at the 75th percentile for head circumference and 80th percentile for length and weight. He can lift his head up when in a prone position but cannot roll over. His eyes track objects well without crossing the midline. He coos and makes gurgling sounds. When the pediatrician strokes the sole of his feet, his big toe curls upward and there is fanning of his other toes. He makes a stepping motion when held upright and feet are in contact with the examination table. Which of the following additional skills would be expected in a healthy patient of this developmental age?
+A. Cries when separated from his mother
+B. Reaches out for objects
+C. Responds to his name
+D. Rolls over from his back
+E. Smiles at his mother
+Answer: E. Smiles at his mother
+Why this is correct: A social smile is expected at 2 months of age. This is the age around which infants start to recognize caregivers and their voices.
+Why the other answers are wrong:
+A. Cries when separated from his mother: Separation anxiety occurs around the age of 9 months, which is characterized by clinging to parental figures. This infant is around the developmental age of 2 months, so this would not be expected.
+B. Reaches out for objects: Infants reach out to visible objects around 6 months of age. At the developmental age of 2 months, infants are only expected to have their fists closed, with maybe some opening here and there.
+C. Responds to his name: Response to calling of his name would occur around 9 months of age.
+D. Rolls over from his back: Rolling over on his back would be a milestone expected at 6 months.
+
+CBL / Week 5
+
+Question 1
+A hospice patient receives intravenous morphine for relief of air hunger. Activation of the μ-opioid receptor decreases neuronal excitability through which immediate ionic effect?
+A. Opening of potassium channels causing membrane hyperpolarization
+B. Opening of voltage-gated sodium channels causing depolarization
+C. Opening of ligand-gated chloride channels via GABA-A receptor activation
+D. Opening of voltage-gated calcium channels increasing neurotransmitter release
+E. Activation of phospholipase C with IP₃-mediated calcium release
+Answer: A. Opening of potassium channels causing membrane hyperpolarization
+
+Question 2
+A patient with distributive shock has lactate 6.2 mmol/L. Which cellular defect most directly accounts for the lactic acidosis?
+A. Impaired oxidative phosphorylation causing pyruvate shunting to lactate via LDH
+B. Upregulated pyruvate dehydrogenase increasing acetyl-CoA entry into TCA
+C. Increased renal bicarbonate reclamation at the proximal tubule
+D. Enhanced hepatic gluconeogenesis from lactate
+E. Increased β-oxidation of fatty acids producing acetoacetate
+Answer: A. Impaired oxidative phosphorylation causing pyruvate shunting to lactate via LDH
+
+Question 3
+A fibroblast line with a homozygous TP53 loss continues to proliferate after radiation exposure. Which intracellular event fails to occur in these cells?
+A. Activation of cyclin D/CDK4 promoting G₁ → S transition
+B. Activation of Bax and cytochrome c release from mitochondria
+C. Dephosphorylation of Rb allowing E2F sequestration
+D. Activation of growth factor receptor tyrosine kinases
+E. Stabilization of β-catenin in the cytoplasm
+Answer: C. Dephosphorylation of Rb allowing E2F sequestration
+
+Question 4
+A patient in septic shock receives norepinephrine. The rise in mean arterial pressure is primarily due to which pathway?
+A. α₁ receptor → Gq → PLC → IP₃/DAG → ↑ Ca²⁺ → vascular smooth-muscle contraction
+B. β₁ receptor → Gs → ↑ cAMP → negative inotropy
+C. β₂ receptor → Gs → ↑ cAMP → skeletal-muscle vasodilation predominates systemically
+D. M₃ receptor → Gq → IP₃ → endothelium-dependent vasodilation
+E. V₂ receptor → Gs → aquaporin-2 insertion in the collecting duct
+Answer: A. α₁ receptor → Gq → PLC → IP₃/DAG → ↑ Ca²⁺ → vascular smooth-muscle contraction
+
+CBL / Week 6
+
+Question 1
+A 45-year-old woman comes to the clinic to discuss a lump noted on her left breast during a self-breast examination. Patient states that she feels healthy otherwise and reports no additional associated symptoms. She has a medical history significant for Hashimoto’s disease and her daily medications include levothyroxine and multivitamins. She has a 30-year history of smoking. Her family history is significant for breast cancer in her mother and maternal grandmother. On physical exam, a 5-mm immobile lump is noted at the 10 o’clock position on her left breast. Lymphadenopathy is noted in the left axillary and subclavicular regions. The patient undergoes a mammography, which reveals corresponding microcalcifications in the left breast. Core needle biopsy is performed and confirms infiltrative ductal carcinoma. Which of the following is most indicative of the prognosis of her disease?
+A. BRCA gene status
+B. Ductal location of malignancy
+C. Her2Neu oncogene expression
+D. History of hypothyroidism
+E. Hormone receptor status
+F. TNM stage
+Answer: F. TNM stage
+Why this is correct: Prognosis of breast cancer is best determined by how invasive the disease is. This is best described by the TNM stage. T stands for Tumor, and it describes the size/extent of the primary tumor. N stands for Nodes and indicates nodal involvement. M stands for Metastasis and indicates whether the tumor has metastasized to distant areas. The higher the stage, the worse the prognosis.
+
+Question 2
+A 59-year-old woman was diagnosed with breast cancer 4 months ago after she noted her left breast was significantly larger than her right. She underwent mastectomy and has been receiving chemotherapy. During her visit, she reports nausea that is alleviated by ondansetron therapy. She admits to decreased sleep and poor appetite for the past 4 weeks. She states that she has been feeling down and that chemotherapy makes her feel so tired that she doesn’t want to do anything. She spends most of her time at home. She states she is too drained to go out with her friends or talk to her family. She has lost interest in gardening and feels guilty for relying on her husband throughout this time. What is the most appropriate next step in management of this patient?
+A. Explain that feeling fatigued is normal during chemotherapy and schedule a follow-up in 2 weeks
+B. Reach out to the patient’s husband to ask for more information on the patient’s mood
+C. Refer the patient to a support group
+D. Start a selective serotonin reuptake inhibitor for major depressive disorder
+E. Start the patient on a benzodiazepine for anxiety
+Answer: D. Start a selective serotonin reuptake inhibitor for major depressive disorder
+Why this is correct: A common comorbidity to cancer is major depressive disorder (MDD). MDD is diagnosed by 5 or more of the following with one being either depressed mood or anhedonia: 1) depressed mood 2) anhedonia 3) weight/appetite changes 4) sleep disruption 5) psychomotor changed 6) fatigue 7) feeling worthless 8) cognitive issues 9) suicidal ideation. This patient is experiencing sleep disturbances, poor appetite (which could be related to chemo or MDD), depressed mood, fatigue (again could be related to MDD or chemo), and anhedonia. While her fatigue and appetite changes can also be side effects of chemotherapy, it is important to recognize the other symptoms that suggest her symptoms are likely related to MDD rather than chemotherapy alone.
+
+Question 3
+A 25-year-old woman comes to the office for a follow-up for a breast mass. One month ago, she reported to the office after she discovered a breast lump while in the shower. At the time she stated that it was mildly tender. She denied any nipple discharge. At the time, she was told to schedule a follow-up after menstruation. She has no significant past medical history and takes no medication. Her menstrual periods are regular and occur every 28 days. Her last menstrual period was 6 days ago. Vital signs are stable. Physical exam reveals a 4-cm mass in the upper outer quadrant of the left breast that is unchanged from the last examination. No lymphadenopathy is noted. What is the most appropriate next step in this patient’s management?
+A. Reassure patient that no work-up is necessary
+B. Refer patient for core needle biopsy
+C. Refer patient for mammography
+D. Schedule patient for another follow-up
+E. Schedule patient for ultrasonography
+Answer: E. Schedule patient for ultrasonography
+Why this is correct: For younger patients, breast ultrasound is preferred because they have denser breast tissue. For this patient, who is 25 and presenting with a breast mass that changes during her cycle, a breast ultrasound is the best tool to look for any signs of malignancy. If she were older (40+) a mammogram would be the ideal first imaging to order.
+
+Question 4
+A 65-year-old woman undergoes a routine screening mammogram, which demonstrates a cluster of pleomorphic microcalcifications that are located in the upper outer quadrant of her left breast. One year ago, her mammogram showed no abnormalities; the patient has been diligent in undergoing annual mammograms because her mother was diagnosed with breast cancer at the age of 50 years. Ultrasound-guided biopsy was performed. Immunohistochemical analysis of the biopsied breast tissue reveals significant staining for both estrogen and progesterone receptors and limited staining of HER2/Neu. Several weeks into taking drug therapy, she describes having night sweats and difficulty sleeping. Which of the following mechanisms of action best describes the medication prescribed?
+A. 5-alpha-reductase inhibitor
+B. Aromatase inhibitor
+C. Estrogen receptor agonist
+D. HER2 receptor inhibitor
+E. Progesterone receptor agonist
+Answer: B. Aromatase inhibitor
+Why this is correct: This patient has breast cancer that is positive for estrogen receptors and progesterone receptors, which means her cancer will be receptive to medications that block these receptors or the hormones that bind to them. She is experiencing night sweats and difficulty sleeping, which are side effects associated with a lack of estrogen. From the answer choices, the only one that would decrease estrogen is B) aromatase inhibitor. Aromatase inhibitors inhibit aromatase which blocks the conversion of androstenedione to estrone and the conversion of testosterone to estradiol which decreases tumor growth in ER+ tumors but also produces symptoms of low estrogen such as hot flashes, sleep disturbances, arthralgias, vaginal dryness, etc.
+
+Question 5
+A 55-year-old Black woman comes to her family physician for a health maintenance visit. She has a medical history significant for systemic lupus erythematosus. Her medications include oral contraceptive pills and daily multivitamins. Upon discussion of her biannual mammogram screening, the patient expresses concern regarding a positive family history for malignancy. Which of the following would warrant BRCA genetic screening in this patient?
+A. Breast cancer diagnosed in mother at age 75
+B. Breast cancer in older brother diagnosed at age 60
+C. Endometrial cancer diagnosed in sister at age 40
+D. Ovarian cancer in one second cousin
+E. Three third cousins with breast cancer
+Answer: B. Breast cancer in older brother diagnosed at age 60
+Why this is correct: Breast cancer in a male relative is highly indicative of a BRCA mutation. Other indications would be breast and/or ovarian cancer in first-degree family members at a young age (think less than 50), especially if there is breast and/or ovarian cancer in multiple female members (mom, sister, aunt, grandmother, etc.).
+
+Question 6
+A 63-year-old woman presents to your clinic after her gynecologist discovered a palpable right breast mass during routine examination last month. She has no chronic medical problems. She has since undergone mammography which confirms the presence of a 3.6 cm mass with irregular boarders and pleomorphic calcifications. There is evidence of right-sided axillary adenopathy highly suggestive of metastatic disease. Her mammogram is given a BI-RADS score of 5. She is scheduled for a core needle biopsy next week. If this is an invasive breast carcinoma, which of the following is the most likely site of metastasis?
+A. Bone
+B. Brain
+C. Contralateral breast
+D. Liver
+E. Lung
+Answer: A. Bone
+Why this is correct: Bone is the most common metastatic site for breast cancer. Over 50% of patients with stage IV breast cancer will have metastases to bone.
+Why the other answers are wrong:
+B. Brain: While lung, brain, and liver are all common metastatic sites for breast cancer, they are all less frequently seen than bone metastases.
+C. Contralateral breast: Contralateral breast is a possible metastatic site, but it is not common. Contralateral breast tumors are typically considered to be separate primary tumors.
+D. Liver: While lung, brain, and liver are all common metastatic sites for breast cancer, they are all less frequently seen than bone metastases.
+E. Lung: While lung, brain, and liver are all common metastatic sites for breast cancer, they are all less frequently seen than bone metastases.
+
+Question 7
+A 28-year-old woman presents to your clinic complaining of a mass in her L breast which she noticed four months prior. She has not been to a doctor for several years. She was not previously self-examining her breasts and is not sure when the mass first appeared or if has changed in size. Her menstrual cycle has consistently lasted 30 days since menarche at age 14. She is sexually active with her husband. On exam, she is afebrile with a BP of 129/76 and pulse of 73. A firm, non-mobile, 3.5 cm mass is palpated in the 2 o’clock position of her L breast. No skin changes, dimpling of the nipple, or discharge is present. No axillary lymphadenopathy is appreciable on exam. What is the best next step in the management of this patient?
+A. Breast MRI
+B. Breast ultrasound
+C. Excisional biopsy
+D. Mammography
+E. Reassurance and follow-up in six months
+Answer: B. Breast ultrasound
+Why this is correct: In patients less than 30 years old, ultrasound (US) is the imaging modality of choice to evaluate suspicious masses. In this population, most benign lesions cannot be visualized via mammography, the incidence of breast cancer is low, and there is a theoretical risk of radiation which should always be avoided if possible.
+Why the other answers are wrong:
+A. Breast MRI: MRI may be appropriate later for operative planning in a patient with confirmed breast cancer. However, it is not the appropriate choice for screening or first choice in evaluating suspicious masses.
+C. Excisional biopsy: This patient’s mass does have some suspicious features, but excisional biopsy is highly invasive and would not be appropriate at this time. Non-invasive imaging is preferred.
+D. Mammography: See explanation for choice B. In patients older than 30, a mammogram is the more appropriate next step. If breast US is indeterminant or suspicious for cancer, a mammogram would then be appropriate in this patient.
+E. Reassurance and follow-up in six months: A patient without concerning features on exam may be followed with repeat examination approximately 1 week after the onset of menses. This will allow for better examination due to decreased hormonal influence on breast tissue. Additionally, if the mass size changes with the menstrual cycle, it is less likely to be malignant. However, this patient has concerning findings, and a 6-month follow-up would be a delay in appropriate care.
+
+Question 8
+A 37-year-old woman without significant PMH presents to her OB/GYN office for an annual checkup. She denies any new symptoms or complaints but is requesting a refill on her OCPs. Her last pap smear was 2 years ago and was normal. Family history significant for T2DM and endometriosis in her mother. Smokes 1 PPD and drinks socially. During examination, you notice an approximately 3x2 cm mass at the 2 O’clock position on the left breast. It is firm, nonmobile, and non-tender without overlying skin changes. There is no palpable axillary LAD. The first-choice imaging modality for this patient is:
+A. Mammogram
+B. MRI
+C. Nothing
+D. PET scan
+E. Ultrasound
+Answer: A. Mammogram
+Why this is correct: Patient is over 30 years old and therefore mammogram is first line for palpable breast masses.
+Why the other answers are wrong:
+B. MRI: While this may be beneficial down the line for further evaluation of the mass/metastatic areas, this is expensive and time consuming and not first line.
+C. Nothing: If physical/history are less concerning for malignancy (ex: young, fluctuates with menses, soft and freely mobile, etc.) you can elect to wait a few months and see if mass self resolves. However, a firm, nonmobile mass requires further investigation.
+D. PET scan: PET scans are generally reserved for identifying metastasis after a diagnosis of cancer is made.
+E. Ultrasound: If this patient were under 30 years old, this would be the correct answer, and many will get this in addition to a mammogram. However, as people age their breast tissue becomes less dense and mammograms can more clearly identify masses.
+
+Question 9
+A 63-year-old woman with recently diagnosed Her2+ breast cancer presenting to the ER at 2 a.m. with mild SOB that is worse with exertion and began 2 days ago. She also reports nausea, but denies fever, chills, palpitations, chest pain, or leg swelling. Her oncologist is not answering the phone at this time of night, and she is unable to tell you what kind of medications she began last week. In addition to the breast cancer, she also reports a history of aortic stenosis and T2DM. 2 PPD smoker for 40+ years, social alcohol use, former cocaine use. TTE in the ER shows a LVEF of 40-45% with mild AS. No regional wall abnormalities. The most likely cause of her SOB is:
+A. Aortic stenosis
+B. Cocaine induced cardiomyopathy
+C. Congestive heart failure
+D. Tamoxifen side effects
+E. Trastuzumab side effects
+Answer: E. Trastuzumab side effects
+Why this is correct: Her2+ breast cancer is targeted by Trastuzumab, the most notable side effect of which is cardiotoxicity presenting as decreased EF. This is often reversible with cessation of the medication.
+Why the other answers are wrong:
+A. Aortic stenosis: Mild AS is unlikely to cause symptoms and more frequently presents with lightheadedness and chest pain, not isolated SOB.
+B. Cocaine induced cardiomyopathy: Without continued use, cocaine is less likely to have caused these new symptoms. However, long term use could cause dilated cardiomyopathy +/- ischemic necrosis which would be noted on echo.
+C. Congestive heart failure: Possible, but less likely without leg swelling/ in setting of new cardiotoxic chemotherapeutics.
+D. Tamoxifen side effects: Tamoxifen can be utilized for estrogen responsive breast cancers, but less important in this post-menopausal woman’s Her2+ breast cancer. Cardiac dysfunction is also not associated with use.
+
+Question 10
+A 42-year-old woman comes to the office for a follow-up after a modified radical mastectomy. Her incision site is healing well without complication. She reports an uncomfortable feeling in her back. She denies fever, nausea, vomiting, headache, or pain. On physical exam, she presents with the finding below. She has limited abduction and flexion of the upper extremity on the affected side. Damage to which structure can cause the above finding? ![Clinical photo](http://upload.medbullets.com/topic/121801/images/winging%20of%20the%20scapula.jpg)
+A. Circumflex Nerve
+B. Subscapularis Muscle
+C. Suprascapular Nerve
+D. Long Thoracic Nerve
+Answer: D. Long Thoracic Nerve
+Why this is correct: The long thoracic nerve (C5,6,7) innervates serratus anterior. Injury can lead to “Winged Scapula”. The mnemonic for this phenomenon is “5,6,7 Wings to Heaven” This nerve has the potential to be damaged during axillary lymph node dissection and radical mastectomies because it runs on the lateral ribs up to the axillary region.
+
+Question 11
+A 34-year-old woman is being evaluated for a mass found in her breast during a self-exam a few days ago. The patient had a bilateral breast reduction about 2 years ago. In the clinic her breast exam shows a firm and fixed mass in the upper region of the left breast. A mammogram shows a 2 X 4 cm mass with coarse calcifications in the upper region of the left breast. An ultrasound of the breast shows a hyperechoic mass. A core biopsy is taken, and the pathologist notes the presence of foamy macrophages and fat globules when analyzing the biopsy. What is the likely diagnosis in this patient?
+A. Ductal Carcinoma in Situ
+B. Galactocele
+C. Fat Necrosis
+D. Fibroadenoma
+Answer: C. Fat Necrosis
+Why this is correct: Fat Necrosis is a benign condition resulting from injury to breast tissue. It can occur due to blunt trauma or from trauma associated with surgical procedures. Calcifications will be seen on imaging. Additionally, pathology reports will show fat globules and foamy macrophages. Treatment is rarely required.
+Why the other answers are wrong:
+A. Ductal Carcinoma in Situ: Ductal Carcinoma in Situ would show malignant cells on pathology.
+B. Galactocele: Galactocele (milk filled cyst) would be hypoechoic, and fluid filled.
+D. Fibroadenoma: Fibroadenoma would not have coarse calcifications or be firm and fixed.
+
+Question 12
+A 42-year-old woman presents to clinic with concerns for a lump on her right breast for one month. She notes that the lump is non-tender and notes no changes during her menstrual cycle. She denies any nipple discharge, itching, or other associated symptoms. No family history of breast cancer. She had a normal breast exam three years ago and her screening mammogram at 40 showed no abnormalities. On exam, you palpate a 3-cm mass with irregular borders at the 4 o’clock position of the right breast. On ultrasound, a solid hyperechoic irregular mass is noted; however, mammogram is negative. What is the next best step?
+A. Core needle biopsy
+B. Fine needle aspiration
+C. Monitor for six months
+D. MRI
+E. Reassurance
+Answer: A. Core needle biopsy
+Why this is correct: This question features a 42-yo female with a breast mass with suspicious characteristics (irregular borders, measuring >1cm). Ultrasound shows a solid mass and mammogram was negative; furthermore, mammograms can have a false negative rate of up to 15% especially with high breast density. The best next step should involve core needle biopsy of the mass to determine if it represents a cyst, cancer, or benign mass.
+Why the other answers are wrong:
+B. Fine needle aspiration: Ultrasound shows solid mass, unlikely to yield a result when aspirated.
+C. Monitor for six months: Monitor and follow-up would not be warranted in a patient > 35 years old and if patient is < 35 years old it should be about a 1-month follow-up.
+D. MRI: Can be used in some cases; however, the need for biopsy is higher.
+E. Reassurance: Cannot assume that this is a benign lesion and mammograms can have false negatives.
+
+Question 13
+A 20-year-old, G0 woman with no PMH presents to an OB-GYN clinic for a new patient visit. Her menstrual cycles began at age 14 and occur regularly every 28 days with light bleeding. She is not sexually active. She has never had a Pap smear or HPV testing performed. Her family history is significant for Stage III invasive ductal carcinoma in her mother first detected at age 45. Genetic testing revealed a BRCA1 mutation in the patient’s mother, and the patient was shown to carry the same mutation. What screening is most appropriate for this patient at this time.
+A. Bilateral Breast Ultrasound
+B. Mammography
+C. None of these screenings are indicated at this time.
+D. Pap smear with HPV Co-testing
+E. Pap smear alone
+Answer: C. None of these screenings are indicated at this time.
+Why this is correct: This patient is 20 y/o which is below the threshold for the onset of these other screenings. If the patient were to present with a particular complaint, then evaluation would occur at that time. However, excessive screening in low-risk patients has been shown to increase the number of unnecessary diagnostic tests with minimal overall benefit.
+Why the other answers are wrong:
+A. Bilateral Breast Ultrasound: Although the patient has a significant family history of breast cancer and a positive BRCA1 mutation status, annual screening is not warranted until the patient has reached the age 10 years prior to the age of first diagnosis in a first degree relative. In this case, that age would be 35 y/o. At that time, annual mammograms will begin.
+B. Mammography: See “Bilateral Breast Ultrasound” rationale.
+D. Pap smear with HPV Co-testing: Pap smears with Co-testing is indicated every 5 years in women ages 30-65. Co-testing may be considered in patients ages 25-29 as well if there is suspicion or increase risk. HPV screening should not occur in patients <25 y/o due to the frequency of transient HPV infections that are cleared by the body and may not bear an increased risk of cervical cancer.
+E. Pap smear alone: Screening with Pap smears begins at age 21(ACOG), and thus is not indicated in this patient.
+
+Question 14
+A 37-year-old G0 F presents to her OBGYN clinic for a 2-cm, tender breast mass first noticed 2 months ago on a self-breast exam. She has noted that the mass will increase in size in the days leading up to her period and reduces in size in the days following her first day of bleeding. Her periods are regular at 30 days and occur with moderate-heavy bleeding. Her only form of contraception is the use of condoms. She has no family history of cancer. Her next period is predicted to start in 5 days. On exam, a small 2 cm, rubbery, mobile mass is noted at the 10 o’clock position 2.5 cm from the areola. It is slightly tender on palpation. The remainder of the exam is unremarkable. Mammography is performed and reveals a 2 cm mass with reassuring features. What is the most appropriate next step in the management of this patient’s breast mass?
+A. Fine Needle Aspiration
+B. Core Needle Biopsy
+C. Ultrasound
+D. Follow up in 6 months
+E. Genetic Screening for BRCA1 and BRCA2
+Answer: D. Follow up in 6 months
+Why this is correct: A small mass showing reassuring characteristics on both physical exam and mammography in a pre-menopausal woman is highly unlikely to be a malignancy. Invasive procedures should be reserved at this time until the mass begins to show non-reassuring signs.
+Why the other answers are wrong:
+A. Fine Needle Aspiration: See Core Needle Biopsy Rationale
+B. Core Needle Biopsy: Invasive procedures such as a core needle biopsy and FNA are reserved for cases in which imaging studies have shown non-reassuring characteristics of a breast mass. In situations with suspicious masses, FNA may be used, but a Core needle biopsy is often preferred due to its ability to provide ample samples for further diagnostic testing in the case of malignancy without requiring an additional procedure.
+C. Ultrasound: A mammogram (which has been performed in this patient already) is indicated in patients older than 30 y/o as the preferred imaging modality. This is due to the differences in breast tissue density as a patient ages.
+E. Genetic Screening for BRCA1 and BRCA2: This patient has small breast mass with reassuring characteristics and no family history of cancers. As a result, BRCA1 and BRCA2 screenings are unlikely to change the management of this patient and should not be performed.
+
+Question 15
+A 29-year-old woman, three months postpartum, presents to the clinic with a palpable lump in her left breast that she noticed two weeks ago while breastfeeding. She has no personal or family history of breast cancer. The lump is located in the upper outer quadrant, measures approximately 4 cm, is firm, non-tender, and not mobile. There are no associated skin changes, erythema, or nipple discharge. The patient is otherwise healthy and has no symptoms of mastitis. What is the most appropriate next step in management?
+A. Initiate antibiotics and advise continued breastfeeding
+B. Obtain a breast ultrasound
+C. Obtain a mammogram
+D. Perform a fine-needle aspiration (FNA)
+E. Reassure the patient and recommend warm compresses
+Answer: B. Obtain a breast ultrasound
+Why this is correct: In a 29-year-old woman who is postpartum with a new and palpable immobile breast mass, the best next step is to get an ultrasound. In women under the age of 30, guidelines recommend an ultrasound rather than a mammogram for evaluation of a mass, even if there is high suspicion for malignancy. This is in part due to the higher density of breast mass in younger women where ultrasound provides better visualization to differentiate between benign conditions like fibroadenoma or cyst and malignancies.
+Why the other answers are wrong:
+A. Initiate antibiotics and advise continued breastfeeding: The patient is not presenting with signs of infection. A breast abscess would present with a tender, mobile mass with overlying erythema and warmth. Additionally, patient may have systemic signs such as fever. Mastitis would present with a rash or induration over the skin. Thus, antibiotics are not indicated in this case.
+C. Obtain a mammogram: In women ≤ 30 years old, ultrasound is preferred due to the higher density of breast tissue in which a mammogram would not provide the best visualization. If there is a suspicion or undetermined finding, a mammogram after an ultrasound would be an appropriate next step.
+D. Perform a fine-needle aspiration (FNA): Imaging should be done prior to an invasive procedure to determine if it is indicated as well as if another procedure such as core needle biopsy or excision biopsy is more appropriate. Additionally, core needle biopsies are generally preferred due to the reduced likelihood of repeat biopsy.
+E. Reassure the patient and recommend warm compresses: The patient is presenting with a firm non-tender and immobile mass, all characteristics that are classically concerning for malignancy. Therefore, it is necessary to perform imaging to rule out malignant causes. This would be an appropriate recommendation if the patient likely has a benign condition like a galactocele or clogged mammary duct, but this is not the case.
+
+Question 16
+A 35-year-old man presents to the emergency department with nausea, generalized weakness, and decreased urine output for the past 24 hours. He was recently diagnosed with Hodgkin’s lymphoma and was initiated on a treatment regimen that includes Venotoclax, a BCL2 inhibitor. His labs prior to starting treatment were all normal and he has no other remarkable past medical history. He takes no medications at home. On examination, he appears fatigued but is alert and oriented. Temperature is 37.0°C (98.6°F), blood pressure is 108/64 mmHg, pulse is 102/min, and respirations are 18/min. Mucous membranes are dry. Cardiopulmonary and abdominal exams are unremarkable. Neurologic exam reveals mild hand tremors. Urinalysis is positive for crystals. CMP: Sodium 138 mEq/L (135–145); Potassium 6.4 mEq/L (3.5–5.0); Chloride 103 mEq/L (98–106); Bicarbonate (CO₂) 18 mEq/L (22–28); BUN 40 mg/dL (7–20); Creatinine 2.2 mg/dL (0.6–1.2); Glucose 95 mg/dL (70–110); Calcium 6.8 mg/dL (8.5–10.5); Phosphate 6.5 mg/dL (2.5–4.5); Total bilirubin 0.8 mg/dL (0.1–1.2); AST 24 U/L (10–40); ALT 28 U/L (10–55); Alkaline phosphatase 90 U/L (40–120); Albumin 4.2 g/dL (3.5–5.0). Which of the following describes a drug that could have prevented this presentation if it was given to this patient as prophylaxis?
+A. A drug that leads to increases renal excretion of potassium and retains calcium
+B. A drug that leads to decreased prostaglandin synthesis and impaired renal vasodilation
+C. A drug that inhibits an enzyme which leads to less formation of a renally excreted product
+D. A drug that converts an insoluble product to a soluble product for easier excretion
+E. A drug that inhibits an enzyme that leads to impaired DNA synthesis in rapidly dividing cells
+Answer: C. A drug that inhibits an enzyme which leads to less formation of a renally excreted product
+Why this is correct: This describes allopurinol which inhibits xanthine oxidase, an enzyme active in the process of metabolizing nucleic acids to uric acid. Excess uric acid, which is hinted at in the urinalysis findings, alongside hyperkalemia, hypocalcemia, and hyperphosphatemia are indicative of Tumor Lysis Syndrome. Allopurinol is often given as prophylaxis to anticipate the large cell turnover from chemotherapy.
+Why the other answers are wrong:
+A. A drug that leads to increases renal excretion of potassium and retains calcium: This is describing thiazide diuretics which do not address the underlying problem nor prevent the presentation of tumor lysis syndrome (TLS)
+B. A drug that leads to decreased prostaglandin synthesis and impaired renal vasodilation: This is describing NSAIDs and would not be the appropriate choice in preventing TLS. NSAIDs would be further harmful to a patient with TLS.
+D. A drug that converts an insoluble product to a soluble product for easier excretion: This describes rasburicase which can rapidly convert uric acid into allantoin which is more soluble. Rasburicase is more often used as a treatment for TLS rather than a prophylactic measure.
+E. A drug that inhibits an enzyme that leads to impaired DNA synthesis in rapidly dividing cells: This is describing methotrexate that is used in chemotherapy or immunosuppression regimens and would not prevent the issues described in this vignette.
+
+Question 17
+A 52-year-old woman comes to the clinic for a routine checkup. She has no children and experienced menarche at age 11 and menopause at age 55. Her mother was diagnosed with breast cancer at age 45. Which of the following factors most likely explains this patient’s increased risk of developing breast cancer?
+A. Decreased exposure to circulating estrogens
+B. Early menopause with reduced lifetime estrogen exposure
+C. Late menopause with increased lifetime estrogen exposure
+D. Multiparity with decreased lifetime estrogen exposure
+E. Protective BRCA1 mutation
+Answer: C. Late menopause with increased lifetime estrogen exposure
+Why this is correct: Prolonged exposure to estrogen increases the risk of breast cancer. Other risk factors include but are not limited to obesity, nulliparity, smoking, female sex, advanced age, family history, BRCA1/BRCA2 mutations.
+Why the other answers are wrong:
+A. Decreased exposure to circulating estrogens: A decreased estrogen exposure decreases the risk of breast cancer.
+B. Early menopause with reduced lifetime estrogen exposure: A decreased estrogen exposure decreases the risk of breast cancer.
+D. Multiparity with decreased lifetime estrogen exposure: Multiparity decreases estrogen exposure, further reducing the risk of breast cancer.
+E. Protective BRCA1 mutation: A BRCA-1 mutation would increase the risk, rather than be protective of breast cancer.
+
+Question 18
+A 48-year-old premenopausal woman is diagnosed with ER/PR–positive, HER2-negative breast cancer. She undergoes a lumpectomy and is started on adjuvant hormonal therapy. Which of the following drugs was most likely started for this patient?
+A. Anastrozole
+B. Trastuzumab
+C. Tamoxifen
+D. Raloxifene
+E. Rituximab
+Answer: C. Tamoxifen
+Why this is correct: Tamoxifen is the correct answer and is a selective estrogen receptor modulator (SERM). Since this patient is premenopausal, the first-line medication is tamoxifen, while for postmenopausal patients the first line medication is aromatase inhibitors (Choice A).
+Why the other answers are wrong:
+A. Anastrozole: For postmenopausal patients the first line medication is aromatase inhibitors; this patient is premenopausal.
+B. Trastuzumab: It works against the HER2/neu receptor.
+D. Raloxifene: It is primarily used for osteoporosis prevention and breast cancer prevention.
+E. Rituximab: It is an Anti-CD20 monoclonal antibody and is used primarily in B-cell lymphomas/leukemias.
+
+CBL / Week 7
+
+Question 1
+A 43-year-old man with a history of hypertension (HTN) comes to clinic due to his concern about dry cough that began 5 weeks ago soon after starting Lisinopril. He has tried OTC cold medications without relief. He denies sick contacts, recent travel, or history of similar episodes. He does not smoke and takes Lisinopril and Amlodipine as prescribed. His O2 sat is in the 90s on room air. Physical exam is notable for a dry hacking cough without stridor or labored breathing. What is the most likely diagnosis and best management for this patient?
+A. Angioedema; switch to ARB
+B. Angioedema; switch to Enalapril
+C. Peripheral edema; switch to ARB
+D. Peripheral edema; switch to Enalapril
+Answer: A. Angioedema; switch to ARB
+Why this is correct: While the exact cause is unknown, it is believed that ACEi angioedema and cough are both due to increased concentrations of bradykinin/ substance P. Cough can generally be controlled with discontinuation of ACEi, switching to another antihypertensive or an ARB.
+Why the other answers are wrong:
+B. Angioedema; switch to Enalapril: Cough is unlikely to resolve switching between ACEi and they should instead be discontinued
+C. Peripheral edema; switch to ARB: Peripheral edema is one of the common side effects associated with Amlodipine
+
+Question 2
+A couple comes to your genetic counseling clinic to discuss a new diagnosis of Paroxysmal Nocturnal Hemoglobinuria in the man. They are concerned about their future children inheriting this disease. What do you tell them?
+A. All your children will have PNH
+B. None of your children will inherit PNH
+C. Only your female children will have PNH
+D. Only your male children will have PNH
+Answer: B. None of your children will inherit PNH
+Why this is correct: This is an acquired mutation. In theory the children could develop PNH later in life, but it is unrelated to their father’s diagnosis.
+Why the other answers are wrong:
+A. All your children will have PNH: False. PNH is due to an acquired mutation on the X chromosome.
+C. Only your female children will have PNH: The PIGA mutation is on the X chromosome, and female children will only get the X chromosome from their father. Therefore, if this was an X linked dominant mutation, this would be the case.
+D. Only your male children will have PNH: As above this is an acquired mutation. Additionally, male children will only get the Y chromosome from their father.
+
+Question 3
+A 23-year-old woman with past medical history of multiple allergies leading to facial swelling presents with dyspnea and swelling of the face and neck. On physical exam, her extremities are also noted to be markedly swollen. She is immediately sedated for intubation to maintain patency of the airway. Chart review reveals newly started ACE-inhibitor. She is given 2 doses of Icatibant and IV steroids. What is the mechanism of action for Icatibant?
+A. Competitive agonist of the bradykinin type 1 receptor
+B. Competitive antagonist of the bradykinin type 1 receptor
+C. Competitive antagonist of the bradykinin type 2 receptor
+D. Noncompetitive antagonist of the bradykinin type 2 receptor
+Answer: C. Competitive antagonist of the bradykinin type 2 receptor
+Why this is correct: Bradykinin receptors are G-protein coupled receptors, type 2 receptors. Both participate in the maintenance of normal vasoregulation or to development of hypertension. However, most treatment modalities focus on type 2 bradykinin receptors.
+
+Question 4
+20-year-old Hispanic woman presents to the ED with facial edema. She is Spanish-speaking, and the attending physician suggests that you call the medical interpreter. She also has her husband present in the room, who speaks both Spanish and English. Which of the following is true when working with a medical interpreter?
+A. All questions should be directed to the interpreter
+B. If the patient’s family member can translate, then interpreter is unnecessary
+C. The medical interpreter should be positioned directly behind you
+D. The patient should be spoken to directly in the first person
+E. The patient should be spoken to directly in the third person
+Answer: D. The patient should be spoken to directly in the first person
+Why this is correct: When using a medical interpreter, a triangle should be made between the patient, interpreter, and physician. The patient should be spoken directly to in the first person while maintaining eye contact. Questions should not be directed to the interpreter. Family members should not be used as interpreters with the exception of acute emergency situations.
+
+Question 5
+A 55-year-old man with a PMH of HTN and hyperlipidemia presents to an outpatient clinic with a 3-day history of facial swelling. He does not have dyspnea or known allergies. Two weeks ago, he was started on an ACE inhibitor for his uncontrolled hypertension. He has a family history of edema due to an unknown “heart medication” but cannot provide any further information. Which of the following is the most likely mechanism for this patient’s facial swelling?
+A. Antigen-antibody complex build up in facial tissue
+B. Decrease in bradykinin degradation
+C. IgE-mediated mast cell degranulation
+D. Increase in B2 cell receptor concentration
+E. Increase in bradykinin production
+Answer: B. Decrease in bradykinin degradation
+Why this is correct: ACE inhibitors are widely known for their ability to prevent conversion of Angiotensin I to Angiotensin II, but they also exhibit the ability to prevent the degradation of bradykinin into non-active metabolites. This results in the build-up of bradykinin leading to increased vasodilation and vascular permeability. ACE inhibitors have no effect on the production of bradykinin, nor its action or concentration of its receptors.
+Why the other answers are wrong:
+A. Antigen-antibody complex build up in facial tissue: This describes a Type 3 hypersensitivity. This typically results in the deposition of these complexes in the joints and organs of the body. This type of hypersensitivity is associated more often with renal deposits, autoimmune, or inflammatory disorders, rather than a drug-related angioedema.
+C. IgE-mediated mast cell degranulation: This describes a type 1 hypersensitivity, which is an acute process. This patient has been taking this new medication for two weeks, which lowers our suspicion of a type 1 hypersensitivity.
+D. Increase in B2 cell receptor concentration: See Answer B
+E. Increase in bradykinin production: See Answer B
+
+Question 6
+A 32-year-old woman with past medical history of multiple allergies leading to facial swelling presents with abdominal pain and swelling of the face and extremities for the past 2 days. On physical exam, she shows no apparent distress or dyspnea, and her extremities are also noted to be markedly swollen. Chart review reveals a recently added ACE-inhibitor. What is the next most appropriate step in the treatment of this patient?
+A. Stop the ACE-inhibitor and follow up in an outpatient clinic
+B. Intubate and admit to the ICU
+C. Oral antihistamine medications
+D. Nebulized Albuterol Treatment
+E. Perform a chest x-ray
+Answer: A. Stop the ACE-inhibitor and follow up in an outpatient clinic
+Why this is correct: This is a patient presenting with a non-emergent angioedema likely due to the recent addition of an ACE-inhibitor. The most appropriate response is to discontinue the use of any ACE-inhibitors. Most patients will see a resolution of swelling within 48-72 hours. Follow-up with a PCP is sufficient to confirm resolution.
+Why the other answers are wrong:
+B. Intubate and admit to the ICU: This patient is not currently suffering from an acute threat to her airway. In the case of laryngeal angioedema or anaphylaxis, it would be appropriate to intubate the patient, but in this case, discontinuation of the ACE-inhibitor and symptomatic treatment is sufficient.
+C. Oral antihistamine medications: This is a bradykinin-mediated pathway resulting in angioedema. Antihistamine medications would have limited effect in this case.
+D. Nebulized Albuterol Treatment: Nebulized albuterol treatment is useful in patients undergoing an acute asthma or reactive airway attack but is not typically used in patients experiencing an ACE-inhibitor related angioedema.
+E. Perform a chest x-ray: An ED work-up for a patient with difficulty breathing often includes a chest x-ray. However, this patient notably is not experiencing symptoms that would indicate an increased work of breathing or wheezing.
+
+Question 7
+A 17-year-old female patient presents to the ED due to acute swelling of the face and neck which she has never experienced before. It began a few hours ago without any apparent trigger. She reports that she started oral contraception last week due to a history of irregular menstrual periods since menarche at age 13. She was stung by a bee two days ago but has previously had bee stings without any major reaction. Which of the following would lead you to suspect a bradykinin-mediated process?
+A. Acute onset following identifiable trigger
+B. Family history of atopy
+C. Negative response to epinephrine
+D. Severe hypotension
+E. Urticaria and pruritus
+Answer: C. Negative response to epinephrine
+Why this is correct: Angioedema can be mediated by histamine or bradykinin. Hereditary angioedema (HAE) is mediated by bradykinin and can be triggered by high-estrogen states, such as OCPs. Bradykinin-mediated attacks tend to be slower in onset (over the course of hours), last longer (48 hours+), and do not respond to epinephrine. They are less likely than histaminergic episodes to involve urticaria, hypotension, or bronchospasm. Histamine is released by mast cells and is commonly associated with IgE related processes (type 1 hypersensitivity reactions, anaphylaxis). Histaminergic reactions are typically acute in onset, include skin changes (urticaria and pruritis), may include anaphylaxis with severe hypotension, and resolve with administration of epinephrine. Atopic conditions are typically found in families. They include allergic rhinitis, eczema, and asthma (the atopic triad) and are associated with IgE-mediated reactions.
+
+Question 8
+A 28-year-old man with PMH of Hereditary Angioedema Type 1 presents to the emergency room after the onset of significant facial swelling. He was diagnosed with HAE1 15 years ago and has been hospitalized several times with severe swelling, requiring intubation once. He has not had an attack like this in several years after starting regular C1 inhibitor concentrate injections, but he recently moved to the area and missed his last two injection appointments. On exam he has significant edema of the eyelids, lips, and mouth, and he is found to have stridor on chest auscultation. His BP is 118/76, HR is 104, and RR is 24. What is the best next step in the management of this patient?
+A. Administer IM Epinephrine and admit to the floor
+B. Administer C1-INH concentrate and Icatibant and schedule follow up with an allergist next week
+C. Admit to the ICU for close monitoring
+D. Endotracheal intubation and admission to the ICU
+E. Establish a surgical airway with tracheostomy and admit to the ICU
+Answer: D. Endotracheal intubation and admission to the ICU
+Why this is correct: This patient with a history of HAE1 has previously had severe attacks requiring intubation and has not been receiving his prophylactic C1-INH concentrate. His exam reveals signs concerning for upper airway edema. He has acute progression of this attack during your exam as evidenced by onset of stridor which could easily progress further to acute loss of airway. If there is concern for significant airway involvement, the best next step is to secure his airway with endotracheal intubation. Epinephrine is not indicated in the management of HAE. C1-INH and icatibant are appropriate medications, but it would not be appropriate to discharge this patient who is at risk of airway compromise. A surgical airway is not necessary at this time, but HAE patients have particularly challenging airways which can acutely worsen with repeated failed intubation attempts. It is advisable to have a clinician experienced with cricothyrotomy available during the intubation.
+
+Question 9
+A 54-year-old man presents to the ED with a facial edema and abdominal cramps of one-week duration. He is also wheezing with increased difficulty breathing. He denies any rash or pruritus. He states that he has not made recent changes to his diet; however, he started taking a new medication a couple months ago for hypertension. What is the next best step in the management of this patient?
+A. Administer IM epinephrine
+B. Administer IV antihistamines
+C. Intubate for airway protection
+D. Obtain C4 level
+E. Stop patient’s ACE inhibitor
+Answer: C. Intubate for airway protection
+Why this is correct: This patient is in respiratory distress and action should be taken to establish an airway in the case of progressing laryngeal edema causing obstruction. Administering epinephrine would be the associated treatment with anaphylaxis; however, this patient does not have an urticarial rash and his swelling is likely due to the antihypertensive (ACE inhibitors) he was recently started on. IV antihistamines, C4 levels, and stopping offending agents can all be considered in treatment and workup for angioedema; however, are not the critical next step when a patient has threatening airway obstruction.
+
+Question 10
+A 7-year-old girl is evaluated for butterfly-like rash and symmetric joint pain and swelling in the knees, wrists, and hands of two-week duration. Lab findings include pancytopenia (decreased numbers of all blood cell types), elevated C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR) and high titers of anti-Sm and anti-dsDNA antibodies. Deficiency of which of the following components of complement system classical pathway is likely to be found in this patient?
+A. C1q and C4
+B. C1-INH
+C. C3
+D. CD55 and CD59
+E. Factor H
+Answer: A. C1q and C4
+Why this is correct: This patient likely has systemic lupus erythematosus (SLE) given her butterfly rash, symmetric joint pain, joint swelling, and elevated inflammatory markers (CRP). High titers of anti-Sm and anti-DNAse are highly suggestive (and should confirm) the diagnosis of SLE. In SLE there is activation of the complement, resulting in low levels of C1q and C4 (also often low C3) as they are used up due to the chronic activation.
+Why the other answers are wrong:
+B. C1-INH: Low levels of the C1 inhibitor lead to excessive bradykinin production, which causes angioedema. This is the cause of hereditary angioedema.
+C. C3: While C3 is also low in SLE, C3 is used to initiate the alternative pathway while C1q and C4 initiate the classical pathway.
+D. CD55 and CD59: Deficiency in these results in Paroxysmal Nocturnal Hemoglobinuria.
+E. Factor H: Deficiency in factor H leads to complement overactivation
+
+Question 11
+A 45-year-old Hispanic man with limited English proficiency presents to the family practice clinic with low-grade fever and cough of 24-hr duration. The receptionist requests an interpreter service. Prior to using the service, it is prudent for the health care provider to arrange a brief meeting with the interpreter to inquire about the patient’s:
+A. Citizenship
+B. Permanent residency
+C. Ability to afford health care
+D. Culture and cultural taboos
+E. Sexual orientation
+Answer: D. Culture and cultural taboos
+Why this is correct: When treating different patients, it is important to consider how their culture impacts their views on healthcare, medications, etc. In some cultures, there may be different modesty standards that can impact the patient’s ability to feel safe during exams. Other cultures have different views on family involvement when making medical decisions. It is important to be aware of this and recognize when your cultural beliefs may differ from those of your patients so that they feel comfortable receiving care.
+
+Question 12
+Which of the following is a correct statement regarding the immune status of patients afflicted with the most common complement deficiency?
+A. An insufficient level of alternative pathway complement levels predisposes patients to infections
+B. An insufficient level of classical pathway complement levels predisposes patients to infections
+C. An insufficient level of alternative pathway complement levels predisposes patients to SLE
+D. An insufficient level of classical pathway complement levels predisposes patients to SLE
+E. C3 deficiency results in altered alternative pathway response only
+Answer: D. An insufficient level of classical pathway complement levels predisposes patients to SLE
+Why this is correct: The most common complement deficiency is C2, which is strongly associated with SLE. Homogeneous hereditary deficiencies in the early classical complement pathway (C1q, C1r, C1s, C4, C2) is one of the strongest risk factors for developing SLE.
+
+Question 13
+A 27-year-old woman presents to her primary care physician due to a history of recurrent episodes of non-pitting swelling involving her extremities, face, and abdomen. These episodes are often triggered by minor trauma or stress and are not associated with urticaria or pruritus. She reports that her father has experienced similar symptoms. Laboratory evaluation during an acute attack reveals low levels of serum C4 and low levels of C1 esterase inhibitor (C1-INH). Which of the following best explains the underlying pathophysiology of this patient's condition?
+A. Decreased degradation of histamine due to a genetic mutation
+B. Deficiency in C5 convertase, leading to decreased complement activity
+C. Excessive production of bradykinin due to unregulated kallikrein activity
+D. Increased activation of the classic complement pathway
+E. Overproduction of C1q protein due to C1-INH deficiency
+Answer: C. Excessive production of bradykinin due to unregulated kallikrein activity
+Why this is correct: Hereditary angioedema (HAE) is a disorder caused by a deficiency or dysfunction of C1 esterase inhibitor (C1-INH). C1-INH normally inhibits kallikrein, an enzyme that converts kininogen into bradykinin. Without functional C1-INH, there is unregulated kallikrein activity, leading to excessive production of bradykinin. Bradykinin increases vascular permeability, resulting in the characteristic non-pitting angioedema seen in these patients. The lack of urticaria and pruritus, her family history, and the involvement of the complement system with low C4 levels further support the diagnosis.
+Why the other answers are wrong:
+A. Decreased degradation of histamine due to a genetic mutation: Decreased degradation of histamine is not relevant to HAE since bradykinin is the primary mediator of the angioedema.
+B. Deficiency in C5 convertase, leading to decreased complement activity: Deficiency in C5 convertase would lead to decreased complement activity but is not involved in the pathophysiology of HAE.
+D. Increased activation of the classic complement pathway: While increased activation of the classic complement pathway does occur due to C1-INH deficiency, it is the bradykinin pathway, not the complement pathway, that primarily causes the symptoms of angioedema.
+E. Overproduction of C1q protein due to C1-INH deficiency: Overproduction of C1q protein does not occur in HAE but instead, the problem lies with C1-INH, which regulates the complement system and the bradykinin pathway.
+
+Question 14
+A 42-year-old woman who recently immigrated to the United States from Mexico presents to the clinic with her 17-year-old daughter. The patient speaks only Spanish, while her daughter is fluent in both Spanish and English. The patient has a history of type 2 diabetes mellitus and hypertension. She is here for a routine follow-up appointment. The physician needs to discuss recent lab results indicating poor glycemic control and adjust her treatment plan. The clinic does not have an on-site medical interpreter. Which of the following is the most appropriate next step in ensuring effective communication during this visit?
+A. Ask the patient’s daughter to serve as an interpreter during the visit
+B. Connect with the telephone interpreting service provided by the clinic
+C. Give the patient written instructions in Spanish and discuss the results in English
+D. Proceed with the conversation in English and use non-verbal cues to communicate
+E. Use a bilingual staff member who is not certified in medical interpretation
+Answer: B. Connect with the telephone interpreting service provided by the clinic
+Why this is correct: In the setting of not having an in-person medical interpreter, the most appropriate next step is to use a virtual interpreting service that provides a trained medical interpreter via phone or video to ensure accurate and effective communication. Trained interpreters are familiar with medical terminology and are skilled in translating complex medical information without introducing errors or bias. This approach respects the patient’s language needs and ensures that she fully understands her condition and treatment plan.
+Why the other answers are wrong:
+A. Ask the patient’s daughter to serve as an interpreter during the visit: Asking the patient’s daughter to interpret may lead to inaccuracies, omissions, or alterations in the message, as family members may lack medical knowledge and could be emotionally involved. Additionally, it is never appropriate for a minor to interpret for their parents or others. It is also inappropriate to have family or friends interpret unless it is an emergency situation with no other solution.
+C. Give the patient written instructions in Spanish and discuss the results in English: Giving the patient written instructions in Spanish without proper verbal communication does not allow for adequate patient education or clarification of questions. Additionally, discussing the results in English when the patient doesn’t understand the language is ineffective.
+D. Proceed with the conversation in English and use non-verbal cues to communicate: Proceeding with the conversation in English and relying on non-verbal cues is inappropriate and can lead to misunderstandings, especially when discussing complex medical issues.
+E. Use a bilingual staff member who is not certified in medical interpretation: Using a bilingual staff member who is not formally certified in medical interpretation can result in similar issues as using a family member, including the potential for miscommunication.
+
+Question 15
+A 19-year-old woman presents to the emergency department with sudden onset of swelling of her lips and face. She has no urticaria or pruritus. Her father has had similar episodes of swelling in the past requiring hospitalization. Examination shows marked periorbital and tongue swelling. Which of the following is the most likely underlying defect in this patient?
+A. Deficiency of C1 esterase inhibitor
+B. Deficiency of C3 convertase
+C. Deficiency of C5a
+D. Deficiency of C9
+E. Excessive histamine release from mast cells
+Answer: A. Deficiency of C1 esterase inhibitor
+Why this is correct: Hereditary angioedema (types 1 and 2) occurs due to a deficiency or dysfunction of C1 esterase inhibitor of the complement pathway. This leads to unregulated activation of complement, further leading to an increase in bradykinin. The increase in bradykinin is what leads to the angioedema.
+Why the other answers are wrong:
+B. Deficiency of C3 convertase: A deficiency in C3 convertase increases the risk of infections and does not lead to angioedema.
+C. Deficiency of C5a: A deficiency in C5a increases the risk of infections and does not lead to angioedema.
+D. Deficiency of C9: Deficiency of C9 leads to impaired formation of the membrane attack complex, increasing the risk of Neisseria infections.
+E. Excessive histamine release from mast cells: Histamine-mediated angioedema will also have associated symptoms of pruritic and/or urticaria.
+
+Question 16
+A 45-year-old man with a history of hereditary angioedema presents with increased facial and laryngeal swelling. He was recently prescribed a medication from his primary care provider for increased blood pressure. Which of the following drugs most likely triggered this exacerbation?
+A. Hydrochlorothiazide
+B. Propranolol
+C. Enalapril
+D. Nifedipine
+E. Furosemide
+Answer: C. Enalapril
+Why this is correct: ACE inhibitors are a common cause of exacerbating hereditary angioedema. This occurs due to ACE inhibitors blocking bradykinin degradation, leading to increased bradykinin and worsening of swelling. Hydrochlorothiazide, propranolol, Nifedipine, and Furosemide do not typically affect bradykinin levels, and have no effect on hereditary angioedema.
+
+Question 17
+A 13-year-old boy is brought to the emergency department with severe, crampy abdominal pain that began while at school this morning. He describes feeling bloated. He has had several episodes of nausea and vomiting but no diarrhea. He denies fever, sick contacts, or recent travel. His past medical history is unremarkable aside from childhood eczema. On exam, he appears uncomfortable and has diffuse abdominal tenderness without rebound or guarding. No rash or urticaria is present. Bowel sounds are decreased. Initial work-up for acute abdomen has been negative. When interviewed, his mother shares her son has been relatively healthy aside from recent complaints of acne and growing pains. She can recall this happened once before when she took her son to the dentist for a cavity filling. Of note, his father unexpectedly passed away at age 33 from complications of a genetic condition. Laboratory studies, including CBC and basic metabolic panel, and abdominal imaging are all within normal limits. Which of the following describes the underlying mechanism responsible for his clinical presentation?
+A. Ischemia of the intestinal mucosa due to mesenteric arterial thrombosis
+B. Obstruction of the lumen leading to bacterial overgrowth, inflammation, and neutrophilic infiltration
+C. Inflammatory cytokine-mediated edema of the intestinal wall from viral gastroenteritis
+D. Unregulated production of a potent vasodilator that affects smooth muscle
+E. Excess histamine release from mast cell and basophil degranulation
+Answer: D. Unregulated production of a potent vasodilator that affects smooth muscle
+Why this is correct: Abdominal angioedema is a potential presentation in cases of hereditary angioedema. The genetic mutation underlying HAE leads to uncontrolled and unregulated production of bradykinin which causes increased vascular permeability from bradykinin. The lack of negative acute abdomen workup, history of a similar episode, and family history support this suspected diagnosis. HAE is likely to first occur in childhood with or without triggers. Examples of increased stress or hormonal changes have been shown to be potential triggers.
+Why the other answers are wrong:
+A. Ischemia of the intestinal mucosa due to mesenteric arterial thrombosis: Causes abdominal pain due to reduced blood flow, often associated with sudden, severe pain and risk factors for thromboembolism. This young patient does not have apparent risk factors for thromboembolism.
+B. Obstruction of the lumen leading to bacterial overgrowth, inflammation, and neutrophilic infiltration: Typical of appendicitis or bowel obstruction, usually associated with localized tenderness, fever, and leukocytosis. This patient does not have the classic findings of appendicitis and would not explain the history of previous episodes.
+C. Inflammatory cytokine-mediated edema of the intestinal wall from viral gastroenteritis: Viral infections can cause diffuse abdominal discomfort and diarrhea, but episodes are self-limited and not familial. Not consistent with this patient’s recurrent pattern and family history.
+E. Excess histamine release from mast cell and basophil degranulation: Typical of IgE-mediated allergic reactions (urticaria, angioedema, anaphylaxis). This patient lacks urticaria and immediate hypersensitivity features, making histamine release less likely.
+
+Question 18
+A 27-year-old woman presents with a 2-day history of worsening skin irritation. She has a past medical history of asthma for which she takes fluticasone. She denies having started any new medicines and only endorses seasonal allergies. In her social history, she reports drinking alcohol and occasionally smokes marijuana. Currently employed and started a new job at as a maid cleaning and disinfecting rooms at a hotel four days ago. She notes the itching began on the backs of her hands and spread. The redness gradually extended up her forearms and onto her elbows. She denies fever, shortness of breath, or swelling of her lips or tongue. On examination, there are erythematous plaques with scattered vesicles and areas of excoriation on both hands and forearms. No mucosal involvement is present. Upregulation of which of the following corresponds to the underlying immune response?
+A. IL-5
+B. IL-4 and IL-13
+C. IL-2 and IFN-γ
+D. TNF-α and C5a
+E. IL-17 and IL-23
+Answer: C. IL-2 and IFN-γ
+Why this is correct: IL-2 promotes T-cell proliferation and IFN-γ activates macrophages. These are key responses in a Type IV Hypersensitivity Response. This clinical vignette best describes contact dermatitis. The patient had a possible exposure four days ago with symptoms appearing two days ago. This matches the delayed presentation of Type IV HSRs and could be attributed to her new job with a workplace exposure to cleaning solvents.
+Why the other answers are wrong:
+A. IL-5: Upregulation of IL-5 leads to eosinophil recruitment and can be seen in parasitic infections which is not described here.
+B. IL-4 and IL-13: Upregulation of IL-4 and IL-13 lead to Th2 activation and IgE class switching which occurs in a Type I Hypersensitivity Response. A type I HSR is an acute response characterized by sneezing, wheezing, and urticaria.
+D. TNF-α and C5a: Upregulation of TNF-α and C5a lead to neutrophil recruitment and a Type III Hypersensitivity Response which involves immune-complex formation. The patient’s presentation is more consistent with a Type IV HSR presentation.
+E. IL-17 and IL-23: These are both pro-inflammatory cytokines whose functions lead to helper T cell activation and can chronically drive inflammation seen in conditions like psoriasis.
+
+Question 19
+A 23-year-old Black female with HTN and type II diabetes mellitus presents to the emergency room for trouble breathing. It started this morning when her left jaw started swelling promptly followed by her right jaw and has been progressively getting worse. Now it has impacted her breathing and has been able to swallow solid but can drink water. 2 weeks ago, she was diagnosed with HTN and started on some new medication. She has family history in her father and brother of similar facial swelling. What is the mechanism of action of the new medication she was given?
+A. Block conversion of angiotensin I to angiotensin II
+B. Decrease heart rate and cardiac activity
+C. Decrease sympathetic activity in the brain
+D. Mineralocorticoid receptor antagonist
+E. Prevent Ca from entering heart and muscle cells
+Answer: A. Block conversion of angiotensin I to angiotensin II
+Why this is correct: This young woman most likely has hereditary angioedema triggered by initiation of ACE inhibitor therapy. The mechanism of action is choice A.
+Why the other answers are wrong:
+B. Decrease heart rate and cardiac activity: Beta blockers
+C. Decrease sympathetic activity in the brain: Alpha blockers
+D. Mineralocorticoid receptor antagonist: Spironolactone
+E. Prevent Ca from entering heart and muscle cells: Calcium channel blockers
+
+Question 20
+A 68-year-old male comes to the emergency department with chest pain for 3 hours. He has a past medical history of HTN, TIIDM, and prior CVA 3 years ago with no focal neurologic deficits. He describes the pain as pressure on his chest, radiates to his left arm, and decreases with nitroglycerin. EKG in the ED shows ST elevations in the inferior leads and needs to be taken to the Cath lab immediately but patient does not speak English and is accompanied by his daughter. Who is the most appropriate person to interpret in this situation?
+A. ED physician with novice fluency
+B. ED nurse with moderate fluency
+C. Daughter
+D. Medical student with novice fluency
+E. Professional interpreter, takes 30-45 minutes to respond
+Answer: C. Daughter
+Why this is correct: In an emergent situation where consent and explanation is required, it is okay to use family members as interpreters if professional interpreters are not immediately available. If the patient can wait, then additional confirmation and explanation can be used via the professional, but in some cases a rapid answer (like this one) is needed and in these rare cases family members or friends are okay to temporarily use for interpretation.
+
+CBL / Week 8
+
+Question 1
+Our patient with Down syndrome and the onset of acute myeloid leukemia was treated with a combination of medications to achieve a complete response. Which of the agents he has received is associated with cardiac toxicity resulting in congestive heart failure?
+A. Asparaginase, an enzyme that breaks down asparagine for which leukemic cells require from an exogenous source.
+B. Cytarabine, a cell cycle-specific antimetabolite
+C. Daunorubicin, an anthracycline
+D. Etoposide, a topoisomerase II inhibitor
+E. Thioguanine, a nucleotide interfering with the synthesis of guanine nucleotides
+Answer: C. Daunorubicin, an anthracycline
+
+Question 2
+Tumor lysis syndrome is a complication of the patient’s leukemia and treatment. Which drug can retard the formation and increasing concentration of blood levels of uric acid, which can cause gout and renal failure?
+A. Allopurinol
+B. Enalapril
+C. Furosemide
+D. Methylprednisolone
+E. Metronidazole
+Answer: A. Allopurinol
+
+Question 3
+A newborn infant with Down syndrome has developed mild pallor and listlessness over several weeks. His hemoglobin is low at 8.5 g/dL, WBC is 2,500/µl, and platelet count is 70,000/µl. Circulating myeloblasts are present in 4% of the white cells counted on peripheral blood smear. The prothrombin time, aPTT, and fibrinogen levels are normal. No ecchymoses or petechiae are noted. What is the most appropriate conclusion?
+A. Acute lymphoblastic leukemia
+B. Acute myeloblastic leukemia with multiple chromosomal abnormalities
+C. Aplastic anemia
+D. GATA1 gene associated acute megakaryoblastic leukemia
+E. Transient abnormal myelopoiesis with an 80% chance of resolution
+Answer: E. Transient abnormal myelopoiesis with an 80% chance of resolution
+
+Question 4
+A 20-year-old man has developed fatigue, fever, and spontaneous mucosal and cutaneous bleeding. On physical exam, he is found to have pallor and hepatosplenomegaly. His CBC shows anemia, neutropenia, and thrombocytopenia. Peripheral blood smear (Image 1) and bone marrow biopsy (Image 2) are obtained. Which of the following in a blast cell is pathognomonic of this patient’s hematologic malignancy? ![Peripheral blood smear](https://upload.wikimedia.org/wikipedia/commons/0/0e/Myeloblast_with_Auer_Rod_smear_2009-11-23_cropped.jpg)
+A. Auer rods
+B. Cabot rings
+C. Döhle bodies
+D. Horseshoe nuclei
+E. Howell-Jolly bodies
+Answer: A. Auer rods
+
+Question 5
+A 72-year-old man comes to the physician because of fatigue and a 5-kg (11-lb) weight loss over the past 6 months despite a good appetite. He takes no medications. He does not smoke or use illicit drugs. Physical examination shows hepatosplenomegaly and diffuse, nontender lymphadenopathy. Laboratory studies show a hemoglobin concentration of 11 g/dL and a leukocyte count of 16,000/µl. A direct antiglobulin (Coombs) test is positive. A photomicrograph of a peripheral blood smear is shown below. Which of the following is the most likely diagnosis? ![Peripheral blood smear](https://upload.wikimedia.org/wikipedia/commons/3/38/Chronic_Lymphocytic_Leukemia.jpg)
+A. Acute myelogenous leukemia
+B. Chronic lymphocytic leukemia
+C. Chronic myelogenous leukemia
+D. Follicular lymphoma
+E. Hairy cell leukemia
+F. Hemophagocytic lymphohistiocytosis
+G. Hodgkin lymphoma
+Answer: B. Chronic lymphocytic leukemia
+
+Question 6
+A 45-year-old man is diagnosed with chronic myelogenous leukemia. Which of the following targeted agents may potentially “cure” his leukemia?
+A. Cyclophosphamide (Cytoxan)
+B. Doxorubicin (Adriamycin)
+C. Imatinib (Gleevec)
+D. Methotrexate (Mexate)
+E. Vincristine (Oncovin)
+Answer: C. Imatinib (Gleevec)
+
+Question 7
+A 67-year-old man presents with fever, increasing fatigue, weight loss, and actively bleeding gums. On physical exam, he is found to have several petechiae on his oral mucosa. Lab findings are remarkable for decreased platelet count and hemoglobin level, elevated PT and PTT, and low fibrinogen. What is the best initial test in establishing his diagnosis?
+A. Bone marrow biopsy with cytogenetics
+B. Flow cytometry
+C. Peripheral blood smear
+D. Repeat CBC and CMP
+Answer: C. Peripheral blood smear
+Why this is correct: This patient comes in with a suspected blood disorder. Peripheral blood smear is the best initial exam that is inexpensive and can tell us about his disease. It’ll show % of blasts, their sizes, shapes of nuclei, or potential Auer rods.
+Why the other answers are wrong:
+A. Bone marrow biopsy with cytogenetics: This is an excellent prognostic indicator but a more invasive method for an initial test.
+B. Flow cytometry: Flow cytometry is the most accurate test that can be completed for identifying types of cancer cells or presence of certain markers.
+
+Question 8
+A 40-year-old man who has been diagnosed with AML is referred to a Hem/Onc specialist. The following blood smear is obtained (below), and a genetic screen reveals t(15;17) translocation. What is the most appropriate treatment option for this patient? ![Peripheral blood smear](https://upload.wikimedia.org/wikipedia/commons/e/e4/Faggot_cell_in_AML-M3.jpg)
+A. All-trans retinoic acid
+B. Cisplatin
+C. Imatinib
+D. Splenectomy
+E. Taxol
+Answer: A. All-trans retinoic acid
+Why this is correct: This patient has Auer rods on peripheral blood smear diagnostic of AML. The translocation is specific for APML, the M3 subtype of AML. The treatment of choice for APML is (A).
+Why the other answers are wrong:
+B. Cisplatin: Chemotherapeutic agent not used in treating APML.
+C. Imatinib: Imatinib is used to treat chronic myelogenous leukemia.
+D. Splenectomy: Splenectomy is for patients with sickle cell anemia.
+E. Taxol: Chemotherapeutic agent not used in treating APML.
+
+Question 9
+A 7-year-old girl with no past medical history presents with fever and unexplained bruising. Physical exam shows multiple contusions on extremities and her liver is palpable 4 cm below the liver edge. The leukocyte count is elevated at 52,000/mm3. A bone marrow biopsy shows increased lymphoblasts and she is diagnosed with Acute Lymphoblastic Leukemia. Cytotoxic chemotherapy is begun. Repeat labs show hyperphosphatemia and hyperkalemia. What other lab value is likely to be seen in this patient?
+A. Decreased lactate dehydrogenase
+B. Hypercalcemia
+C. Hyperuricemia
+D. Hypouricemia
+Answer: C. Hyperuricemia
+Why this is correct: This patient who has ALL and has now started treatment with elevated phosphate and potassium likely has Tumor Lysis Syndrome. Uric acid is also elevated in tumor lysis syndrome due to purine nucleic acid being released from lysed tumor cells and metabolized by xanthine oxidase into uric acid.
+Why the other answers are wrong:
+A. Decreased lactate dehydrogenase: Lactate dehydrogenase is typically elevated in Tumor Lysis Syndrome.
+B. Hypercalcemia: In tumor lysis syndrome, lysis of cells leads to the release of phosphate, causing hyperphosphatemia, accompanied by hyperuricemia, hyperkalemia, and hypocalcemia.
+D. Hypouricemia: Uric acid would be elevated in tumor lysis syndrome.
+
+Question 10
+A 36-year-old man with a past medical history of HIV presents to his primary care physician for white plaques in his mouth. He is diagnosed with oral thrush and started on nystatin, oral liquid 1mL PO BID. What is the mechanism of action of this drug?
+A. Binds ergosterol and forms pores in the membrane that allow leakage of electrolytes
+B. Inhibits squalene epoxidase
+C. Inhibits synthesis of beta-glucan
+D. Inhibits the cytochrome P450 enzyme that converts lanosterol to ergosterol
+E. Is converted to 5-fluorouracil by cytosine deaminase and inhibits DNA and RNA synthesis
+Answer: A. Binds ergosterol and forms pores in the membrane that allow leakage of electrolytes
+Why this is correct: Nystatin and amphotericin B both act as antifungal agents by binding ergosterol and forming pores in the membrane.
+Why the other answers are wrong:
+B. Inhibits squalene epoxidase: This is the mechanism of action of terbinafine.
+C. Inhibits synthesis of beta-glucan: This is the mechanism of action of echinocandins.
+D. Inhibits the cytochrome P450 enzyme that converts lanosterol to ergosterol: This is the mechanism of action of -azoles.
+E. Is converted to 5-fluorouracil by cytosine deaminase and inhibits DNA and RNA synthesis: This is the mechanism of action of flucytosine.
+
+Question 11
+A 65-year-old male presents to his PCP for a health maintenance exam. Physical exam reveals marked splenomegaly, and labs are remarkable for a leukocytosis of 123,000 and low LAP. Peripheral smear reveals significant presence of myelocytes and basophils. Which chromosomal translocation is most likely associated with this patient’s disorder?
+A. t(8;14)
+B. t(9;22)
+C. t(11;14)
+D. t(14;18)
+E. t(15;17)
+Answer: B. t(9;22)
+Why this is correct: This patient likely has CML, which often presents with splenomegaly, leukocytosis, and dysregulated production of mature and maturing granulocytes, as evidenced by the myelocytes and basophilia on peripheral smear. t(9;22) is associated with CML. Also known as the Philadelphia chromosome, this translocation causes the BCR-ABL fusion gene. It presents with dysregulated production of mature and maturing granulocytes such as neutrophils, metamyelocytes, myelocytes, and basophils. It is associated with splenomegaly and responds to BCR-ABL tyrosine kinase inhibitors like imatinib.
+Why the other answers are wrong:
+A. t(8;14): t(8;14) is associated with Burkitt Lymphoma. There would not be myelocytes on peripheral smear in Burkitt’s Lymphoma as it is a lymphoid malignancy, not a myeloid malignancy presented in the question.
+C. t(11;14): t(11;14) is associated with mantle cell lymphoma. Peripheral smear would show lymphocytes, not myelocytes.
+D. t(14;18): t(14;18) is associated with follicular lymphoma. Peripheral smear would also show lymphocytes, not myelocytes.
+E. t(15;17): t(15;17) is associated with acute promyelocytic leukemia. APL would show abnormal promyelocytes and auer rods on peripheral smear, not myelocytes. Treated with all-trans retinoic acid.
+
+Question 12
+A 4-year-old boy with newly diagnosed ALL is admitted for his first cycle of chemotherapy. One day after treatment initiation, he develops nausea, vomiting, and muscle weakness. Laboratory studies show: Potassium: 6.2 mEq/L [3.5-5]; Phosphate: 5.7 mg/dL [2.5-4.5]; Calcium: 7.1 mg/dL [8.5-10.5]; Glucose: 150 mg/dL [70-100]; Uric acid: 12.3 mg/dL [2.5-7]; Creatinine: 2.2 mg/dL [0.6-1.2]. Which of the following is most appropriate for immediate management?
+A. IV fluids & allopurinol
+B. IV fluids & rasburicase
+C. IV insulin & glucose
+D. IV sodium bicarbonate
+E. Urgent hemodialysis
+Answer: B. IV fluids & rasburicase
+Why this is correct: The patient is suffering from Tumor Lysis Syndrome. Treatment initiation in leukemia and lymphomas can cause massive lysis of tumor cells, causing increases in serum potassium, phosphate, and uric acid. Increased serum phosphate then causes hypocalcemia as phosphate sequesters Ca. The uric acid crystals and calcium phosphate crystals can then damage the renal tubules to cause AKI. Rasburicase is a recombinant uricase that metabolizes uric acid to allantoin, helping to clear elevated uric acid levels. Aggressive hydration helps to dilute and excrete elevated serum electrolytes and promote renal perfusion.
+Why the other answers are wrong:
+A. IV fluids & allopurinol: Allopurinol can be used as a preventative treatment for TLS but is not a treatment. Allopurinol prevents the formation of uric acid but does nothing to clear it.
+C. IV insulin & glucose: The patient’s glucose is slightly elevated but does not require IV insulin. IV insulin is more appropriate in the treatment of DKA or HHS.
+D. IV sodium bicarbonate: Sodium bicarb can be used in the treatment for TLS to alkalinize the urine but is not the preferred treatment. Sodium bicarb can precipitate calcium and phosphate salts in the renal tubules which can worsen AKI.
+E. Urgent hemodialysis: HD may be used in the treatment of TLS in the setting of severe hyperkalemia or hyperphosphatemia but is not the most appropriate in this setting as it can be managed by a less invasive option.
+
+CBL / Week 9
+
+Question 1
+A 45-year-old man is diagnosed with HIV at a community health fair. He has not seen a doctor in 5 years. At the HIV clinic, he complains of a dark spot in his R eye’s visual field. There is no ocular pain or discharge. Pupils are equally round and reactive to light and extraocular movements are intact. Fundoscopic exam reveals areas of patchy retinal necrosis with surrounding hemorrhage. His CD4 count is 25 and viral load is 900,000 copies/mL. He is started on acyclovir and bictegravir-tenofovir alafenamide-emtricitabine. On return to clinic three months later, CD4 count has increased, and viral load is dramatically reduced, but the patient reports worsening of his visual symptoms. Which of the following is the most likely reason for failure of therapy?
+A. Development of resistance due to mutations in a low fidelity viral reverse transcriptase enzyme
+B. Development of resistance due to mutations in a viral DNA polymerase
+C. Inability to convert drug into active form due to missing viral thymidylate kinase
+D. Use of an antiviral to treat a likely bacterial infection
+E. Use of an antiviral to treat a likely fungal infection
+Answer: C. Inability to convert drug into active form due to missing viral thymidylate kinase
+Why this is correct: This patient with uncontrolled HIV likely has CMV retinitis, evidenced by painless nature of visual loss, severe degree of immunosuppression, and characteristic fundoscopic findings. Use of acyclovir in the treatment of CMV infections is not effective as CMV does not encode a viral thymidylate kinase required to convert acyclovir into its active form.
+
+Question 2
+A new test is being developed for laboratory use in the diagnosis of HIV infection. It is based on detection of IgG anti-HIV antibodies. The current threshold for a positive result is detection of ≥10 RU/mL of antibodies in serum. The researchers decide to raise the positive result threshold from this level to ≥30 RU/mL of antibodies. Which of the following is the most likely effect of this decision?
+A. Increased test specificity
+B. Increased test sensitivity
+C. Decreased test specificity
+D. Decreased test sensitivity
+E. Both A & C
+F. Both A & D
+G. Both B & C
+H. Both B & D
+Answer: F. Both A & D
+Why this is correct: Raising the threshold for the concentration of antibodies required for a positive result will make the test less sensitive (therefore choices B, G, and H are incorrect). It will also make the test more specific in its detection of HIV infection (therefore choices C and E are incorrect). The best choice that reflects both of these altered parameters is choice F.
+
+Question 3
+A 19-year-old male presents to the ED with new onset fever and shortness of breath. Diffuse crackles are present on exam. He does not see a PCP and has no history of medical conditions except for a case of gonorrhea 2 years ago for which he was treated with IM Ceftriaxone and PO doxycycline at the local department of public health. On questioning, he does remember coming down with a flu-like illness “a while back” during which he felt tired, was febrile, had diarrhea, and some generalized lymphadenopathy. These symptoms abated though, and he assures you he’s felt fine since. He has NKDA. Vital signs are as follows: T: 38.4 °C (Oral) HR: 125 RR: 27 BP: 101/73 SpO2: 90%. Which of the following is the most likely finding on CXR?
+A. Diffuse bilateral ground-glass opacities
+B. Consolidation of the R lower lobe of the lung
+C. Consolidation of R upper lobe of lung
+D. Presence of circular nodular consolidation in L upper lobe
+E. Presence of consolidation at bottom of L lung with presence of air-fluid level
+Answer: A. Diffuse bilateral ground-glass opacities
+Why this is correct: This patient has a past medical history of STI and symptoms that describe a potential case of acute retroviral syndrome in the past. He is presenting today with symptoms of pneumonia and likely has undiagnosed HIV infection complicated by PCP pneumonia, a pneumonia caused by the fungus Pneumocystis jirovecii. Pneumonia caused by this organism present as an atypical pneumonia with patchy, diffuse, bilateral interstitial opacities on CXR.
+
+Question 4
+A 27-year-old man presents to clinic for his annual exam. Patient is feeling well without any concerns or complaints. He identifies as bisexual and is sexually active with both men and women with intermittent condom use. 3rd generation HIV Ab testing is positive and follow-up lab results are as shown below. CD3+ 79%; CD3+ 892 cells/mcL; CD3+/CD4+ 127 cells/mcL; CD3+/CD8+ 573 cells/mcL; HIV-1 RNA 70,035 copies/mL; PCR CT Not Detected; PCR NG Not Detected. In addition to ART, what type of prophylaxis does this patient need?
+A. Bactrim
+B. Bactrim and amphotericin
+C. Bactrim and dapsone
+D. Ganciclovir and dapsone
+E. Ganciclovir and itraconazole
+Answer: A. Bactrim
+Why this is correct: With a CD4<200 but >100, physicians should be concerned about PCP and candidiasis. Candida has been shown to have low incidence of system disease compared to incidence of drug resistance and therefore doesn’t require prophylaxis. Bactrim or Dapsone can be used for PCP ppx.
+Why the other answers are wrong:
+B. Bactrim and amphotericin: Cryptococcus is usually a concern with CD4 < 100. Amphotericin has a significant side effect profile and minimal survival benefit for immunocompromised patients who get cryptococcal infections.
+C. Bactrim and dapsone: Either Bactrim OR dapsone can be utilized for toxoplasma and PCP ppx, both are not necessary.
+D. Ganciclovir and dapsone: CMV becomes more of a concern with CD4 <50 and can be treated with ganciclovir, but it does not require ppx medication.
+E. Ganciclovir and itraconazole: As above CMV doesn’t require ppx, nor does histoplasmosis treated with itraconazole.
+
+Question 5
+A 47-year-old man comes to clinic complaining of abdominal pain, nausea, and diarrhea. His wife reports that his eyes have recently turned yellow. PE remarkable for RUQ tenderness and mild scleral icterus. Hepatitis serologies are as follows: HBcAb IgM Neg; HBcAb IgG Neg; HBsAg Neg; Anti-HBs Pos; HBeAg Neg; Anti-HBe Neg; HCV Ab Neg; HAV IgM Pos; HAV IgG Pos. What is this patient’s hepatitis status?
+A. Acute hepatitis B
+B. Acute hepatitis C
+C. Hepatitis A
+D. Hepatitis A with hepatitis B vaccination
+E. Hepatitis B with hepatitis A vaccination
+Answer: D. Hepatitis A with hepatitis B vaccination
+Why this is correct: HepA positive per serologies as above. Isolated antibodies to HepB surface protein are consistent with previous vaccination.
+Why the other answers are wrong:
+A. Acute hepatitis B: Patients actively infected with hepB will have both Ag and core antibodies.
+B. Acute hepatitis C: HCV Ab is negative above
+C. Hepatitis A: This patient’s presentation is consistent with hepA as is the serology. IgM will be higher earlier in infection with IgG showing up as symptoms begin to lessen.
+E. Hepatitis B with hepatitis A vaccination: Patient’s serology is negative for hepatitis B
+
+Question 6
+A 25-year-old man comes to clinic to request Hepatitis B testing following news that his male partner has tested positive. He engages in receptive anal and oral sex with his partner, and their relationship began 2 months ago. The patient is unsure of his childhood vaccination status. He denies any symptoms and has an unremarkable ROS and physical exam. Serological testing is performed and shows the following results: HBsAg: (-); Anti-HBs: (+); HBeAg: (-); Anti-HBe: (+); Anti-HBc: IgG positive. Which of the following best describes this patient’s current Hepatitis B status?
+A. The patient is currently in the “window period”
+B. The patient is chronically infected with Hepatitis B
+C. The patient has been immunized against Hepatitis B
+D. The patient has been infected with Hepatitis B in the past, but has cleared the infection
+E. The patient is acutely infected with Hepatitis B virus
+Answer: D. The patient has been infected with Hepatitis B in the past, but has cleared the infection
+Why this is correct: This patient’s negative HBsAg status rules out ongoing acute or chronic infection. The presence of Anti-HBe and Anti-HBc IgG are both indicators of a prior infection. These two pieces of evidence point towards a history of a cleared Hep B infection.
+Why the other answers are wrong:
+A. The patient is currently in the “window period”: The window period of Hep B infection occurs 3-4 months after exposure and is characterized by the declining levels of HBsAg and seroconversion to Anti-HBs. During this time, HBcIgM (which was not listed as a result) would be the only detectable sign of infection. This patient shows a positive titer for Anti-HBs, meaning he is not currently within the window period.
+B. The patient is chronically infected with Hepatitis B: A patient chronically infected with Hep B would test positive for HBsAg and possibly HBeAg.
+C. The patient has been immunized against Hepatitis B: An immunized patient would show a positive Anti-HBs but negative Anti-HBe, since HBe is not an antigen included in the routine vaccine.
+E. The patient is acutely infected with Hepatitis B virus: See answer D.
+
+Question 7
+A 32-year-old female G1 presents to OB-GYN for her first prenatal visit. Her last known menstrual period was 4 months ago, but she was unable to make her initial appointments due to moving between cities. Her HIV screening test is positive, and confirmatory diagnostic studies are performed. Which of the following is the most appropriate treatment for this patient’s HIV infection during her pregnancy?
+A. Wait until the baby is delivered to start antiretroviral therapy
+B. Do not start antiretroviral therapy and wait until labor begins. At that time, treat the mother with IV zidovudine.
+C. Start the mother on a combination of antiretroviral medications with plans to administer IV zidovudine prior to delivery.
+D. Start the mother on a single antiretroviral medication with plans to expand treatment following delivery.
+Answer: C. Start the mother on a combination of antiretroviral medications with plans to administer IV zidovudine prior to delivery.
+Why this is correct: Women who test positive for HIV should begin antiretroviral therapy (typically 2 NRTI’s and 1 integrase inhibitor) as soon as possible to decrease the risk of transmission to the baby. IV zidovudine should also be administered shortly before delivery as well. The child will continue to receive zidovudine for 4-6 weeks after birth.
+Why the other answers are wrong:
+A. Wait until the baby is delivered to start antiretroviral therapy: Waiting to begin antiretroviral therapy runs the risk of an elevated viral load in the mother, which subsequently raises the risk of transmission to the baby. Therefore, ART should be started as soon as possible.
+B. Do not start antiretroviral therapy and wait until labor begins. At that time, treat the mother with IV zidovudine.: See Answer A.
+D. Start the mother on a single antiretroviral medication with plans to expand treatment following delivery.: HIV treated with a single antiretroviral medication runs the risk of developing resistance to the medication used. HIV should be treated with a combination of antiretroviral medications to mitigate this risk.
+
+Question 8
+A 45-year-old HIV-positive man presents to clinic for follow-up. He has been taking Biktarvy (bictegravir/emtricitabine/tenofovir alafenamide) for antiretroviral therapy. His CD4+ count is 250 cells/µl. What is the mechanism of action of the bictegravir component of this combination drug?
+A. Binds and inhibits the reverse transcriptase
+B. Binds CCR5 and inhibits gp120 interaction
+C. Binds gp41 and inhibits viral entry
+D. Inhibits HIV genome integration into host
+E. Inhibits HIV protease
+Answer: D. Inhibits HIV genome integration into host
+Why this is correct: Bictegravir is an integrase inhibitor which prevents HIV integration into host cell chromosome.
+Why the other answers are wrong:
+A. Binds and inhibits the reverse transcriptase: The other two drugs are NRTIs which competitively inhibit nucleotides from binding the HIV reverse transcriptase, which terminates the DNA strand.
+B. Binds CCR5 and inhibits gp120 interaction: Maraviroc is an entry inhibitor that binds CCR5 on T cells and inhibits gp120 interactions.
+C. Binds gp41 and inhibits viral entry: Enfuvirtide is another entry inhibitor that binds gp41.
+E. Inhibits HIV protease: Drugs with the ending -navir are typically viral protease inhibitors.
+
+Question 9
+A 27-year-old man presents to the urgent care clinic with a 2-week history of fever, macular rash, and generalized lymphadenopathy. He denies a sore throat, genital ulcers, or urethral discharge. Sexual history is remarkable for having unprotected sex with both male and female partners while inconsistently using condoms. His last sexual encounter was a month prior to the onset of illness. His fourth-generation combination HIV-1/2 immunoassay is positive, and an HIV-1/HIV-2 antibody differentiation immunoassay confirms the diagnosis. His CD4 count is found to be<130 cells/mm. What is the next best step in management?
+A. Antiretroviral and trimethoprim-sulfamethoxazole
+B. Azithromycin
+C. Fluconazole
+D. Isoniazid, rifampin, ethambutol, pyrazinamide
+Answer: A. Antiretroviral and trimethoprim-sulfamethoxazole
+Why this is correct: This patient has a confirmed diagnosis of HIV. He should be treated for an active infection with antiretroviral therapy. Additionally, he should be treated with TMP-SMX for opportunistic infection prophylaxis.
+
+Question 10
+A 38-year-old HIV-positive man presents with intraoral lesions (Image 1). His CD4+ T cell count is 150/µl, and he has a high viral load. Potassium hydroxide preparation of oral lesions demonstrates budding yeasts and pseudohyphae. Which of the following is most likely to be involved in the etiology of this man’s oral lesions? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Oral_pseudomembranous_candidiasis_on_the_dorsum_of_the_tongue_of_a_59-year-old_male_%28third_week_of_RT_for_a_squamous_cell_carcinoma_of_the_floor_of_the_mouth%2C_T3N0M0%2C_daily_dose_1.8_Gy%29.png)
+A. Candida albicans
+B. Herpes simplex virus (HSV) type 1
+C. Herpes simplex virus (HSV) type 2
+D. Human immunodeficiency virus (HIV)
+E. Kaposi sarcoma-associated herpes virus
+F. Pneumocystis jirovecii
+Answer: A. Candida albicans
+
+Question 11
+29-year-old man presents to the free health care clinic for a routine well-visit. His last well-visit was 4 years ago. He is not currently taking any medication. He has a history of gonorrhea 4 years ago and chlamydia STI two years ago, both of which were treated. However, he did not follow up for a “test of cure.” Otherwise, he has no significant past medical history. He reports that he is bisexual and engages in vaginal, anal, and oral sex. He uses condoms “when he remembers to.” He has had multiple male and female partners in the past year. Recently, one of his close friends was diagnosed with HIV and is unsure if he should be tested. He has never been tested for HIV in the past. What is the best approach for HIV screening for this patient?
+A. HIV screening is indicated once he turns 35 years old.
+B. HIV screening now once and if negative, does not need to repeat screening.
+C. HIV screening now and if negative, continue routine screenings.
+D. No HIV screening is necessary.
+E. No HIV screening is necessary, and he should be started on PrEP.
+Answer: C. HIV screening now and if negative, continue routine screenings.
+Why this is correct: Although USPTF guidelines have not determined optimal time intervals for repeat HIV screenings, they recommend pursuing routine screenings for those at increased risk of infection, like this patient.
+Why the other answers are wrong:
+A. HIV screening is indicated once he turns 35 years old.: USPTF guidelines recommend screening for HIV at least once during the ages of 15-65 years old (grade A). This patient is at an increased risk of infection and has never been tested before.
+B. HIV screening now once and if negative, does not need to repeat screening.: USPTF guidelines dictate that repeat HIV screenings are reasonable and should be pursued if the patient is at an increased risk of infection. This patient’s risk factors include, male-male sexual contact, anal and vaginal intercourse without condom use, hx of STIs, self-requests for testing.
+D. No HIV screening is necessary.: USPTF guidelines recommend screening for HIV at least once during the ages of 15-65 years old (grade A). This patient is at an increased risk of infection and has never been tested before.
+E. No HIV screening is necessary, and he should be started on PrEP.: While the patient should be counseled on starting PreP, USPTF guidelines recommend screening for HIV at least once during the ages of 15-65 years old (grade A). This patient is at an increased risk of infection and has never been tested before.
+
+Question 12
+A 42-year-old man presents to the emergency department with confusion, headache, and fever for the past week. He has a history of IV drug use. He has had multiple seizures and difficulty with coordination. His CD4 count is 80 cells/µL. On physical examination, he is disoriented to time and place, with mild right-sided weakness. A brain CT reveals ring-enhancing lesions in the basal ganglia and cortex. Which of the following is the best next step in treatment?
+A. Amphotericin B and flucytosine
+B. Ganciclovir
+C. High-dose Methotrexate
+D. Pyrimethamine and sulfadiazine
+E. TMP-SMX
+Answer: D. Pyrimethamine and sulfadiazine
+Why this is correct: The best next step in treating cerebral toxoplasmosis in a patient with HIV is the combination of pyrimethamine and sulfadiazine, along with leucovorin to reduce the risk of bone marrow toxicity. The patient's presentation with a low CD4 count, neurological symptoms, and ring-enhancing lesions on CT scan is highly suggestive of toxoplasmosis, a common opportunistic infection in HIV patients.
+Why the other answers are wrong:
+A. Amphotericin B and flucytosine: Amphotericin B and flucytosine are used to treat Cryptococcus neoformans.
+B. Ganciclovir: Ganciclovir is used to treat CMV.
+C. High-dose Methotrexate: High-dose Methotrexate would be used with leucovorin to treat Primary CNS lymphoma, seen in patients with HIV.
+E. TMP-SMX: While TMP-SMX is used for toxoplasmosis, it is used for prophylaxis rather than treatment. In certain circumstances, TMP-SMX can be used for treatment but is not standard nor optimal.
+
+Question 13
+A 24-year-old man presents to the clinic with a fever, sore throat, and generalized lymphadenopathy. He reports unprotected sexual contact with multiple partners in the last month. Physical examination reveals a maculopapular rash on his trunk. Concerned about acute HIV infection, the physician orders an HIV-1/2 antigen/antibody test. The result is negative. Given the patient’s high-risk behavior, the physician suspects the test result may be a false negative. Which of the following best explains the sensitivity of the HIV test in this patient?
+A. The test is less sensitive due to the presence of generalized lymphadenopathy
+B. The test is less sensitive in patients with multiple sexual partners
+C. The test lacks sensitivity due to a mutation in the HIV virus
+D. The test may be falsely negative during the "window period" before enough antibodies are produced
+E. The test requires confirmation with a Western blot to increase sensitivity
+Answer: D. The test may be falsely negative during the "window period" before enough antibodies are produced
+Why this is correct: HIV-1/2 antigen/antibody combination tests detect both p24 antigen (present early in infection) and antibodies (which appear later). However, in the early phase of infection (often called the "window period"), the level of antibodies may be too low to detect, leading to a false-negative result. During this period, only the p24 antigen or HIV RNA tests are reliable.
+Why the other answers are wrong:
+A. The test is less sensitive due to the presence of generalized lymphadenopathy: Generalized lymphadenopathy does not affect the test's sensitivity.
+B. The test is less sensitive in patients with multiple sexual partners: The number of sexual partners does not affect the test's sensitivity.
+C. The test lacks sensitivity due to a mutation in the HIV virus: Mutations in the HIV virus do not affect the test's sensitivity.
+E. The test requires confirmation with a Western blot to increase sensitivity: Western blot testing is no longer commonly used to confirm HIV testing.
 
