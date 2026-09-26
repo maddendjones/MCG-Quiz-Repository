@@ -1175,7 +1175,6 @@
           globalQuestionCounter++;
           const rawNum = parseInt(qMatch[1], 10);
           
-          // Generate a strictly UNIQUE composite ID to avoid cross-week collisions
           const uniqueId = `${currentFolder}__${currentSubfolder}__q${rawNum}__${globalQuestionCounter}`;
 
           currentQ = {
@@ -1277,11 +1276,50 @@
           q.subfolder = "General";
         }
       }
-      // Ensure all loaded questions have unique string IDs
       if (typeof q.id === "number" || !q.id || !q.id.includes("__")) {
         q.id = `${q.folder}__${q.subfolder}__q${q.rawNumber || index}__${index}`;
       }
       return q;
+    }
+
+    /* Stable Stem Key Helper for Auto-Sync / Merge */
+    function getStableStemKey(folder, subfolder, rawNum, stemText) {
+      const snippet = stemText.slice(0, 60).toLowerCase().replace(/[^a-z0-9]/g, "");
+      return `${folder}__${subfolder}__${snippet}`;
+    }
+
+    /* Seamless Merge: Adds new questions without touching existing progress */
+    function syncAndMergeQuestions(rawText) {
+      const incomingQuestions = parseDocumentText(rawText);
+      if (!incomingQuestions.length) return false;
+
+      const existingMap = new Map();
+      ALL_QUESTIONS.forEach(q => {
+        const key = q.stableKey || getStableStemKey(q.folder, q.subfolder, q.rawNumber, q.stem);
+        existingMap.set(key, q);
+      });
+
+      let addedCount = 0;
+      incomingQuestions.forEach((newQ) => {
+        const key = getStableStemKey(newQ.folder, newQ.subfolder, newQ.rawNumber, newQ.stem);
+        newQ.stableKey = key;
+
+        if (!existingMap.has(key)) {
+          newQ.id = `${newQ.folder}__${newQ.subfolder}__${key}__${ALL_QUESTIONS.length + 1}`;
+          ALL_QUESTIONS.push(newQ);
+          existingMap.set(key, newQ);
+          addedCount++;
+        }
+      });
+
+      if (addedCount > 0) {
+        localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
+        renderHomeMetrics();
+        renderSubjectCards();
+        setupSubjectsList();
+        return true;
+      }
+      return false;
     }
 
     /* Application State */
@@ -1394,65 +1432,8 @@
     const btnHeroCustom = document.getElementById("btnHeroCustom");
     const btnHeroImport = document.getElementById("btnHeroImport");
 
-    /* App Initialization */
+    /* App Initialization with Auto-Sync / Merge */
     function init() {
-      // Clean up legacy progress keys if they were based on single shared numbers (1, 2, 3...)
-      const legacyAnswers = localStorage.getItem("nbme_confirmed_answers");
-      if (legacyAnswers && legacyAnswers.includes('"1":')) {
-        localStorage.removeItem("nbme_all_questions");
-        localStorage.removeItem("nbme_user_answers");
-        localStorage.removeItem("nbme_confirmed_answers");
-        localStorage.removeItem("nbme_flagged_questions");
-      }
-
-      const savedBank = localStorage.getItem("nbme_all_questions");
-      if (savedBank) {
-        try {
-          ALL_QUESTIONS = JSON.parse(savedBank).map(normalizeQuestionFolders);
-        } catch (e) {
-          ALL_QUESTIONS = [];
-        }
-      }
-
-      if (!ALL_QUESTIONS.length) {
-        const defaultDataEl = document.getElementById("default-questions-data");
-        const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
-
-        if (rawEmbeddedText.length > 0) {
-          const parsed = parseDocumentText(rawEmbeddedText);
-          if (parsed.length > 0) {
-            ALL_QUESTIONS = parsed;
-            localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
-          }
-        } else {
-          const fallbackFiles = ['FOM_Practice_Question_Bank_1.txt', 'Week_8_Practice_Questions.txt', 'questions.txt'];
-          function tryFetchFile(idx) {
-            if (idx >= fallbackFiles.length) {
-              if (!ALL_QUESTIONS.length) loadModal.classList.add("open");
-              return;
-            }
-            fetch(fallbackFiles[idx])
-              .then(res => {
-                if (!res.ok) throw new Error();
-                return res.text();
-              })
-              .then(text => {
-                if (text && text.trim().length > 0) {
-                  const fetchedParsed = parseDocumentText(text);
-                  if (fetchedParsed.length > 0) {
-                    ALL_QUESTIONS = fetchedParsed;
-                    localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
-                    showHomeView();
-                    loadModal.classList.remove("open");
-                  }
-                }
-              })
-              .catch(() => tryFetchFile(idx + 1));
-          }
-          tryFetchFile(0);
-        }
-      }
-
       const savedAnswers = localStorage.getItem("nbme_user_answers");
       if (savedAnswers) userAnswers = JSON.parse(savedAnswers);
       const savedConfirmed = localStorage.getItem("nbme_confirmed_answers");
@@ -1460,11 +1441,50 @@
       const savedFlags = localStorage.getItem("nbme_flagged_questions");
       if (savedFlags) flaggedQuestions = JSON.parse(savedFlags);
 
+      const savedBank = localStorage.getItem("nbme_all_questions");
+      if (savedBank) {
+        try {
+          ALL_QUESTIONS = JSON.parse(savedBank).map((q, i) => normalizeQuestionFolders(q, i));
+        } catch (e) {
+          ALL_QUESTIONS = [];
+        }
+      }
+
       setupTimer();
       setupResizer();
       setupEventListeners();
-
       showHomeView();
+
+      // Check embedded tag
+      const defaultDataEl = document.getElementById("default-questions-data");
+      const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
+      if (rawEmbeddedText.length > 0) {
+        syncAndMergeQuestions(rawEmbeddedText);
+      }
+
+      // Silently fetch and merge remote text files on load with cache-busting
+      const cacheBuster = `?t=${new Date().getTime()}`;
+      const remoteFiles = [
+        'FOM_Practice_Question_Bank_1.txt' + cacheBuster,
+        'Week_8_Practice_Questions.txt' + cacheBuster,
+        'questions.txt' + cacheBuster
+      ];
+
+      remoteFiles.forEach(fileUrl => {
+        fetch(fileUrl)
+          .then(res => {
+            if (!res.ok) throw new Error();
+            return res.text();
+          })
+          .then(text => {
+            if (text && text.trim().length > 0) {
+              syncAndMergeQuestions(text);
+            }
+          })
+          .catch(() => {
+            // Quietly ignore if a secondary file isn't present
+          });
+      });
     }
 
     function saveProgress() {
