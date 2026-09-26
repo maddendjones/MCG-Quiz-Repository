@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>NBME Disease & Medical Board Question Bank</title>
+  <title>WPS-Archive</title>
   <style>
     :root {
       --bg: #f1f5f9;
@@ -69,7 +69,7 @@
       overflow: hidden;
     }
 
-    /* UWorld Left Navigation Bar */
+    /* Left Navigation Bar */
     aside.uw-sidebar {
       width: 230px;
       min-width: 230px;
@@ -86,7 +86,7 @@
 
     .uw-brand {
       padding: 18px 20px;
-      font-size: 1.1rem;
+      font-size: 1.15rem;
       font-weight: 800;
       letter-spacing: -0.02em;
       color: #ffffff;
@@ -94,15 +94,6 @@
       align-items: center;
       gap: 10px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-    }
-    .uw-brand span.badge-uw {
-      font-size: 0.65rem;
-      background: var(--uw-primary);
-      padding: 2px 6px;
-      border-radius: 4px;
-      text-transform: uppercase;
-      font-weight: 700;
-      color: #fff;
     }
 
     .uw-nav-list {
@@ -294,17 +285,30 @@
       border-color: var(--uw-primary);
     }
 
-    /* Symmetrical 5-Column Question Status Grid */
-    .status-matrix-grid {
-      display: grid;
-      grid-template-columns: repeat(5, minmax(0, 1fr));
+    /* Question Status: Row 1 (2 items), Row 2 (3 items) */
+    .status-matrix-container {
+      display: flex;
+      flex-direction: column;
       gap: 10px;
       width: 100%;
     }
+    .status-row-top {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      width: 100%;
+    }
+    .status-row-bottom {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      width: 100%;
+    }
+
     .status-tile {
       border: 1.5px solid var(--border);
       border-radius: var(--radius);
-      padding: 10px 14px;
+      padding: 12px 18px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -312,7 +316,7 @@
       background: var(--surface);
       transition: all 0.15s ease;
       min-height: 48px;
-      gap: 6px;
+      gap: 8px;
       overflow: hidden;
     }
     .status-tile:hover {
@@ -325,8 +329,8 @@
     .status-tile .status-lbl {
       display: flex;
       align-items: center;
-      gap: 8px;
-      font-size: 0.82rem;
+      gap: 10px;
+      font-size: 0.85rem;
       font-weight: 700;
       white-space: nowrap;
       overflow: hidden;
@@ -337,9 +341,9 @@
       flex-shrink: 0;
     }
     .status-tile .status-count {
-      font-size: 0.78rem;
+      font-size: 0.8rem;
       font-weight: 800;
-      padding: 2px 8px;
+      padding: 3px 10px;
       border-radius: 12px;
       background: var(--border-sub);
       color: var(--text-sub);
@@ -387,8 +391,9 @@
       .segmented-group {
         grid-template-columns: 1fr;
       }
-      .status-matrix-grid {
-        grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+      .status-row-top,
+      .status-row-bottom {
+        grid-template-columns: 1fr;
       }
       .perf-matrix-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -694,6 +699,37 @@
     }
     .q-actions { display: flex; align-items: center; gap: 8px; }
 
+    /* Highlight Tooling */
+    .hl-yellow { background-color: #fef08a !important; color: #1e293b !important; border-radius: 2px; padding: 0 1px; }
+    .hl-blue { background-color: #bae6fd !important; color: #082f49 !important; border-radius: 2px; padding: 0 1px; }
+    .hl-pink { background-color: #fbcfe8 !important; color: #831843 !important; border-radius: 2px; padding: 0 1px; }
+
+    .hl-toolbar {
+      position: absolute;
+      display: none;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      box-shadow: 0 8px 20px -3px rgba(0,0,0,0.25);
+      border-radius: 6px;
+      padding: 4px;
+      gap: 5px;
+      z-index: 100;
+      align-items: center;
+    }
+    .hl-toolbar button {
+      width: 22px;
+      height: 22px;
+      padding: 0;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.7rem;
+    }
+    .hl-toolbar .dot-yellow { background: #facc15; border: 1px solid #ca8a04; }
+    .hl-toolbar .dot-blue { background: #38bdf8; border: 1px solid #0284c7; }
+    .hl-toolbar .dot-pink { background: #f472b6; border: 1px solid #db2777; }
+
     /* Vignette & Choices */
     .vignette-box {
       font-size: 1.05rem;
@@ -907,12 +943,11 @@
 </head>
 <body>
 
-  <!-- Left Sidebar (UWorld Signature Navigation) -->
+  <!-- Left Sidebar -->
   <aside class="uw-sidebar" id="uwSidebar">
     <div>
       <div class="uw-brand">
-        <span>NBME QBank</span>
-        <span class="badge-uw">Studio</span>
+        <span>WPS-Archive</span>
       </div>
       <ul class="uw-nav-list">
         <li class="uw-nav-item active" id="navItemCreateTest">
@@ -943,7 +978,7 @@
   <!-- Central Work Area -->
   <main class="app-main" id="appMain">
     
-    <!-- View 1: UWorld Central "Create Test" Page -->
+    <!-- View 1: Central "Create Test" Page -->
     <div class="create-test-view" id="createTestView">
       
       <!-- 1. Test Mode & Options (Symmetrical 2x2 Grid) -->
@@ -969,48 +1004,54 @@
         </div>
       </div>
 
-      <!-- 2. Question Status Matrix (Symmetrical 5-Column Row) -->
+      <!-- 2. Question Status Matrix (Row 1: 2 items, Row 2: 3 items) -->
       <div class="uw-section-box">
         <div class="uw-section-title">Question Status</div>
-        <div class="status-matrix-grid">
-          <div class="status-tile active" data-status="all">
-            <div class="status-lbl">
-              <input type="radio" name="qPoolStatus" value="all" checked />
-              <span>All</span>
+        <div class="status-matrix-container">
+          <!-- Row 1: All & Unused -->
+          <div class="status-row-top">
+            <div class="status-tile active" data-status="all">
+              <div class="status-lbl">
+                <input type="radio" name="qPoolStatus" value="all" checked />
+                <span>All Questions</span>
+              </div>
+              <span class="status-count" id="countStatusAll">0</span>
             </div>
-            <span class="status-count" id="countStatusAll">0</span>
+
+            <div class="status-tile" data-status="unanswered">
+              <div class="status-lbl">
+                <input type="radio" name="qPoolStatus" value="unanswered" />
+                <span>Unused Questions</span>
+              </div>
+              <span class="status-count" id="countStatusUnused">0</span>
+            </div>
           </div>
 
-          <div class="status-tile" data-status="unanswered">
-            <div class="status-lbl">
-              <input type="radio" name="qPoolStatus" value="unanswered" />
-              <span>Unused</span>
+          <!-- Row 2: Incorrect, Marked, Correct -->
+          <div class="status-row-bottom">
+            <div class="status-tile" data-status="missed">
+              <div class="status-lbl">
+                <input type="radio" name="qPoolStatus" value="missed" />
+                <span>Incorrect</span>
+              </div>
+              <span class="status-count" id="countStatusIncorrect" style="color:var(--wrong);">0</span>
             </div>
-            <span class="status-count" id="countStatusUnused">0</span>
-          </div>
 
-          <div class="status-tile" data-status="missed">
-            <div class="status-lbl">
-              <input type="radio" name="qPoolStatus" value="missed" />
-              <span>Incorrect</span>
+            <div class="status-tile" data-status="flagged">
+              <div class="status-lbl">
+                <input type="radio" name="qPoolStatus" value="flagged" />
+                <span>Marked</span>
+              </div>
+              <span class="status-count" id="countStatusMarked" style="color:var(--flagged);">0</span>
             </div>
-            <span class="status-count" id="countStatusIncorrect" style="color:var(--wrong);">0</span>
-          </div>
 
-          <div class="status-tile" data-status="flagged">
-            <div class="status-lbl">
-              <input type="radio" name="qPoolStatus" value="flagged" />
-              <span>Marked</span>
+            <div class="status-tile" data-status="correct">
+              <div class="status-lbl">
+                <input type="radio" name="qPoolStatus" value="correct" />
+                <span>Correct</span>
+              </div>
+              <span class="status-count" id="countStatusCorrect" style="color:var(--correct);">0</span>
             </div>
-            <span class="status-count" id="countStatusMarked" style="color:var(--flagged);">0</span>
-          </div>
-
-          <div class="status-tile" data-status="correct">
-            <div class="status-lbl">
-              <input type="radio" name="qPoolStatus" value="correct" />
-              <span>Correct</span>
-            </div>
-            <span class="status-count" id="countStatusCorrect" style="color:var(--correct);">0</span>
           </div>
         </div>
       </div>
@@ -1050,7 +1091,7 @@
       </div>
     </div>
 
-    <!-- View 2: Performance Reports Hub (Symmetrical 4-Column Grid) -->
+    <!-- View 2: Performance Reports Hub -->
     <div class="performance-view" id="performanceView">
       <div class="uw-section-box">
         <div class="uw-section-title">Overall Performance</div>
@@ -1111,6 +1152,14 @@
           </div>
 
           <div class="vignette-box" id="vignetteText">Loading question...</div>
+
+          <!-- Highlight Context Toolbar -->
+          <div class="hl-toolbar" id="hlToolbar">
+            <button class="dot-yellow" data-color="yellow" title="Highlight Yellow"></button>
+            <button class="dot-blue" data-color="blue" title="Highlight Blue"></button>
+            <button class="dot-pink" data-color="pink" title="Highlight Pink"></button>
+            <button data-color="clear" style="font-size:0.65rem;" title="Clear Highlight">Clear</button>
+          </div>
 
           <div class="choices-list" id="choicesList"></div>
 
@@ -1487,6 +1536,7 @@
     const qDisplayIndex = document.getElementById("qDisplayIndex");
     const qSubjectTag = document.getElementById("qSubjectTag");
     const vignetteText = document.getElementById("vignetteText");
+    const hlToolbar = document.getElementById("hlToolbar");
     const choicesList = document.getElementById("choicesList");
     const btnConfirmAnswer = document.getElementById("btnConfirmAnswer");
     const confirmHint = document.getElementById("confirmHint");
@@ -1531,7 +1581,7 @@
     const btnRunExport = document.getElementById("btnRunExport");
     const exportScope = document.getElementById("exportScope");
 
-    /* UWorld Dashboard Rendering */
+    /* Dashboard Rendering */
     function renderUWSurface() {
       let totalQ = ALL_QUESTIONS.length;
       let usedCount = 0;
@@ -1783,7 +1833,7 @@
       }
     }
 
-    /* Start Exam from UWorld Launch Bar with 90s/Question Timed Countdown */
+    /* Start Exam from Launch Bar with 90s/Question Timed Countdown */
     function launchCustomExam() {
       const poolStatus = document.querySelector('input[name="qPoolStatus"]:checked').value;
       const selectedSubs = Array.from(document.querySelectorAll('input[name="uwSubjectCheck"]:checked')).map(cb => cb.value);
@@ -2189,6 +2239,47 @@
         const q = currentQuestions[currentIndex];
         delete highlights[q.id];
         vignetteText.innerHTML = q.stem;
+      });
+
+      // Text Highlighting Tooling Listener
+      vignetteText.addEventListener("mouseup", () => {
+        const selection = window.getSelection();
+        if (!selection || selection.isCollapsed || !selection.toString().trim()) {
+          hlToolbar.style.display = "none";
+          return;
+        }
+        const range = selection.getRangeAt(0);
+        const rect = range.getBoundingClientRect();
+        const parentRect = examPane.getBoundingClientRect();
+
+        hlToolbar.style.top = `${rect.top - parentRect.top - 38 + examPane.scrollTop}px`;
+        hlToolbar.style.left = `${rect.left - parentRect.left}px`;
+        hlToolbar.style.display = "flex";
+      });
+
+      hlToolbar.addEventListener("click", (e) => {
+        const btn = e.target.closest("button");
+        if (!btn || !currentQuestions.length) return;
+        const color = btn.dataset.color;
+        const q = currentQuestions[currentIndex];
+
+        if (color === "clear") {
+          document.execCommand("removeFormat", false, null);
+        } else {
+          const span = document.createElement("span");
+          span.className = `hl-${color}`;
+          const selection = window.getSelection();
+          if (selection && selection.rangeCount > 0) {
+            const range = selection.getRangeAt(0);
+            span.textContent = range.toString();
+            range.deleteContents();
+            range.insertNode(span);
+          }
+        }
+
+        highlights[q.id] = vignetteText.innerHTML;
+        hlToolbar.style.display = "none";
+        window.getSelection().removeAllRanges();
       });
 
       btnPrev.addEventListener("click", () => {
