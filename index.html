@@ -1445,35 +1445,50 @@
       return q;
     }
 
-    function getStableStemKey(folder, subfolder, rawNum, stemText) {
-      const snippet = stemText.slice(0, 60).toLowerCase().replace(/[^a-z0-9]/g, "");
-      return `${folder}__${subfolder}__${snippet}`;
+    /* Stable Question Identifier by topic and question number */
+    function getStableQuestionKey(folder, subfolder, rawNum) {
+      return `${folder}__${subfolder}__q${rawNum}`;
     }
 
+    /* Seamless Sync & In-Place Edit Engine */
     function syncAndMergeQuestions(rawText) {
       const incomingQuestions = parseDocumentText(rawText);
       if (!incomingQuestions.length) return false;
 
-      const existingMap = new Map();
+      // Map current questions by their stable question key
+      const currentMap = new Map();
       ALL_QUESTIONS.forEach(q => {
-        const key = q.stableKey || getStableStemKey(q.folder, q.subfolder, q.rawNumber, q.stem);
-        existingMap.set(key, q);
+        const key = getStableQuestionKey(q.folder, q.subfolder, q.rawNumber);
+        currentMap.set(key, q);
       });
 
       let addedCount = 0;
-      incomingQuestions.forEach((newQ) => {
-        const key = getStableStemKey(newQ.folder, newQ.subfolder, newQ.rawNumber, newQ.stem);
-        newQ.stableKey = key;
+      let updatedCount = 0;
 
-        if (!existingMap.has(key)) {
-          newQ.id = `${newQ.folder}__${newQ.subfolder}__${key}__${ALL_QUESTIONS.length + 1}`;
-          ALL_QUESTIONS.push(newQ);
-          existingMap.set(key, newQ);
+      incomingQuestions.forEach((incomingQ) => {
+        const key = getStableQuestionKey(incomingQ.folder, incomingQ.subfolder, incomingQ.rawNumber);
+
+        if (currentMap.has(key)) {
+          // In-place update of edited contents without touching progress
+          const existingQ = currentMap.get(key);
+          existingQ.stem = incomingQ.stem;
+          existingQ.choices = incomingQ.choices;
+          existingQ.answer = incomingQ.answer;
+          existingQ.whyCorrect = incomingQ.whyCorrect;
+          existingQ.whyWrong = incomingQ.whyWrong;
+          existingQ.objective = incomingQ.objective;
+          existingQ.subject = incomingQ.subject;
+          updatedCount++;
+        } else {
+          // Brand-new question
+          incomingQ.id = `${incomingQ.folder}__${incomingQ.subfolder}__q${incomingQ.rawNumber}__${ALL_QUESTIONS.length + 1}`;
+          ALL_QUESTIONS.push(incomingQ);
+          currentMap.set(key, incomingQ);
           addedCount++;
         }
       });
 
-      if (addedCount > 0) {
+      if (addedCount > 0 || updatedCount > 0) {
         localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
         renderUWSurface();
         return true;
@@ -1617,7 +1632,6 @@
         const folderRow = document.createElement("div");
         folderRow.className = "uw-folder-row";
 
-        // Folder starts COLLAPSED and UNCHECKED by default
         const headerDiv = document.createElement("div");
         headerDiv.className = "uw-folder-header";
         headerDiv.innerHTML = `
@@ -1657,7 +1671,6 @@
           subContainer.appendChild(subRow);
         });
 
-        // Click on header expands/collapses the subfolder unless clicking buttons/checkboxes
         headerDiv.addEventListener("click", (e) => {
           if (e.target.tagName.toLowerCase() === "input" || e.target.classList.contains("btn-quick-play")) return;
           const icon = headerDiv.querySelector(".folder-toggle-icon");
@@ -1685,13 +1698,11 @@
           });
         });
 
-        // Instant Action Button: Practice All in this Folder
         headerDiv.querySelector('[data-action="all-folder"]').addEventListener("click", (e) => {
           e.stopPropagation();
           startDirectPractice(q => (q.folder || "General") === fName, fName);
         });
 
-        // Instant Action Buttons: Practice specific Subfolder
         subContainer.querySelectorAll('[data-action="all-subfolder"]').forEach(btn => {
           btn.addEventListener("click", (e) => {
             e.stopPropagation();
@@ -1706,7 +1717,6 @@
       });
     }
 
-    /* Start Direct Practice for a single Folder or Subfolder (All Questions) */
     function startDirectPractice(filterFn, title) {
       let pool = ALL_QUESTIONS.filter(filterFn);
       if (!pool.length) {
@@ -1823,7 +1833,6 @@
       }
     }
 
-    /* Start Exam from Launch Bar with 90s/Question Timed Countdown */
     function launchCustomExam() {
       const poolStatus = document.querySelector('input[name="qPoolStatus"]:checked').value;
       const selectedSubs = Array.from(document.querySelectorAll('input[name="uwSubjectCheck"]:checked')).map(cb => cb.value);
@@ -1890,7 +1899,6 @@
       showView("exam");
     }
 
-    /* View Switcher */
     function showView(viewName) {
       activeView = viewName;
 
@@ -1915,7 +1923,6 @@
       }
     }
 
-    /* Render Exam Interface */
     function renderQuestion() {
       if (!currentQuestions.length) return;
 
@@ -2090,7 +2097,6 @@
       if (highlights[qId]) vignetteText.innerHTML = highlights[qId];
     }
 
-    /* Timer Setup with Downward Countdown for Timed Exams */
     function setupTimer() {
       if (timerInterval) clearInterval(timerInterval);
       timerInterval = setInterval(() => {
