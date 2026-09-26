@@ -689,14 +689,6 @@
       align-items: center;
       gap: 10px;
     }
-    .q-subject-tag {
-      font-size: 0.75rem;
-      font-weight: 700;
-      padding: 3px 8px;
-      border-radius: 4px;
-      background: #e0f2fe;
-      color: var(--uw-primary);
-    }
     .q-actions { display: flex; align-items: center; gap: 8px; }
 
     /* Highlight Tooling */
@@ -1091,7 +1083,7 @@
       </div>
     </div>
 
-    <!-- View 2: Performance Reports Hub -->
+    <!-- View 2: Performance Reports Hub (Symmetrical 4-Column Grid) -->
     <div class="performance-view" id="performanceView">
       <div class="uw-section-box">
         <div class="uw-section-title">Overall Performance</div>
@@ -1142,7 +1134,6 @@
           <div class="q-meta-banner">
             <div class="q-id-pill">
               <span id="qDisplayIndex">Question 1</span>
-              <span class="q-subject-tag" id="qSubjectTag">General</span>
             </div>
             <div class="q-actions">
               <button id="btnResetCurrentQ">Reset Question</button>
@@ -1534,9 +1525,7 @@
 
     const examPane = document.getElementById("examPane");
     const qDisplayIndex = document.getElementById("qDisplayIndex");
-    const qSubjectTag = document.getElementById("qSubjectTag");
     const vignetteText = document.getElementById("vignetteText");
-    const hlToolbar = document.getElementById("hlToolbar");
     const choicesList = document.getElementById("choicesList");
     const btnConfirmAnswer = document.getElementById("btnConfirmAnswer");
     const confirmHint = document.getElementById("confirmHint");
@@ -1561,6 +1550,7 @@
     const btnToggleNav = document.getElementById("btnToggleNav");
     const resizerBar = document.getElementById("resizerBar");
     const btnFinishBlock = document.getElementById("btnFinishBlock");
+    const hlToolbar = document.getElementById("hlToolbar");
 
     // Modal References
     const clearModal = document.getElementById("clearModal");
@@ -1931,7 +1921,6 @@
 
       const q = currentQuestions[currentIndex];
       qDisplayIndex.textContent = `Question ${currentIndex + 1} of ${currentQuestions.length}`;
-      qSubjectTag.textContent = q.subject;
       vignetteText.innerHTML = q.stem;
       applySavedHighlights(q.id);
 
