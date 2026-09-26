@@ -6,14 +6,25 @@
   <title>NBME Disease & Medical Board Question Bank</title>
   <style>
     :root {
-      --bg: #f8fafc;
+      --bg: #f1f5f9;
       --surface: #ffffff;
-      --border: #e2e8f0;
+      --surface-sub: #f8fafc;
+      --border: #cbd5e1;
+      --border-sub: #e2e8f0;
       --text: #0f172a;
-      --text-sub: #64748b;
-      --primary: #0284c7;
-      --primary-hover: #0369a1;
-      --primary-light: #e0f2fe;
+      --text-sub: #475569;
+      --text-muted: #64748b;
+      
+      /* UWorld Signature Palette */
+      --uw-nav-bg: #0f1e36;
+      --uw-nav-hover: #1e2e4a;
+      --uw-nav-active: #1d3557;
+      --uw-nav-text: #94a3b8;
+      --uw-nav-text-active: #ffffff;
+      --uw-primary: #0284c7;
+      --uw-primary-hover: #0369a1;
+      --uw-accent: #38bdf8;
+      
       --correct: #16a34a;
       --correct-bg: #f0fdf4;
       --correct-border: #86efac;
@@ -22,7 +33,8 @@
       --wrong-border: #fca5a5;
       --flagged: #d97706;
       --flagged-bg: #fef3c7;
-      --radius: 8px;
+      
+      --radius: 6px;
       --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
       --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
@@ -30,19 +42,19 @@
     body.dark-mode {
       --bg: #090d16;
       --surface: #131b2e;
+      --surface-sub: #0f172a;
       --border: #243049;
+      --border-sub: #1e293b;
       --text: #f1f5f9;
-      --text-sub: #94a3b8;
-      --primary: #38bdf8;
-      --primary-hover: #0ea5e9;
-      --primary-light: #082f49;
-      --correct: #22c55e;
+      --text-sub: #cbd5e1;
+      --text-muted: #94a3b8;
+      --uw-nav-bg: #070b12;
+      --uw-nav-hover: #111827;
+      --uw-nav-active: #172554;
       --correct-bg: #052e16;
       --correct-border: #15803d;
-      --wrong: #ef4444;
       --wrong-bg: #450a0a;
       --wrong-border: #991b1b;
-      --flagged: #f59e0b;
       --flagged-bg: #451a03;
     }
 
@@ -52,36 +64,126 @@
       background: var(--bg);
       color: var(--text);
       display: flex;
-      flex-direction: column;
       height: 100vh;
+      width: 100vw;
       overflow: hidden;
     }
 
-    header {
+    /* UWorld Left Navigation Bar */
+    aside.uw-sidebar {
+      width: 230px;
+      min-width: 230px;
+      background: var(--uw-nav-bg);
+      color: var(--uw-nav-text);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      border-right: 1px solid rgba(255, 255, 255, 0.08);
+      user-select: none;
+      z-index: 30;
+      flex-shrink: 0;
+    }
+
+    .uw-brand {
+      padding: 18px 20px;
+      font-size: 1.1rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
+    .uw-brand span.badge-uw {
+      font-size: 0.65rem;
+      background: var(--uw-primary);
+      padding: 2px 6px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .uw-nav-list {
+      list-style: none;
+      padding: 12px 0;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .uw-nav-item {
+      padding: 10px 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+      color: var(--uw-nav-text);
+      transition: all 0.15s ease;
+      border-left: 3px solid transparent;
+    }
+    .uw-nav-item:hover {
+      background: var(--uw-nav-hover);
+      color: #ffffff;
+    }
+    .uw-nav-item.active {
+      background: var(--uw-nav-active);
+      color: #ffffff;
+      border-left-color: var(--uw-accent);
+    }
+
+    .uw-nav-footer {
+      padding: 16px 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .uw-nav-footer button {
+      width: 100%;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: #cbd5e1;
+      justify-content: center;
+      padding: 6px 10px;
+      font-size: 0.75rem;
+      border-radius: 4px;
+    }
+    .uw-nav-footer button:hover {
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+    }
+
+    /* Main Container */
+    .app-main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      overflow-y: auto;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* Header for active test screen */
+    header.exam-header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 8px 16px;
+      padding: 10px 18px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       flex-shrink: 0;
+      height: 52px;
       gap: 12px;
       z-index: 20;
     }
-    .header-left {
+    .exam-header-left {
       display: flex;
       align-items: center;
-      gap: 12px;
-    }
-    .logo {
-      font-weight: 800;
-      font-size: 1.05rem;
-      letter-spacing: -0.02em;
-      color: var(--primary);
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      cursor: pointer;
+      gap: 10px;
     }
     .badge {
       font-size: 0.7rem;
@@ -89,13 +191,8 @@
       text-transform: uppercase;
       padding: 2px 8px;
       border-radius: 999px;
-      background: var(--primary-light);
-      color: var(--primary);
-    }
-    .header-controls {
-      display: flex;
-      align-items: center;
-      gap: 8px;
+      background: #e0f2fe;
+      color: var(--uw-primary);
     }
 
     button {
@@ -104,7 +201,7 @@
       border: 1px solid var(--border);
       background: var(--surface);
       color: var(--text);
-      padding: 6px 12px;
+      padding: 6px 14px;
       border-radius: var(--radius);
       font-size: 0.8rem;
       font-weight: 600;
@@ -114,191 +211,349 @@
       transition: all 0.15s ease;
       user-select: none;
     }
-    button:hover:not(:disabled) { background: var(--border); }
+    button:hover:not(:disabled) { background: var(--border-sub); }
     button.btn-primary {
-      background: var(--primary);
-      border-color: var(--primary);
+      background: var(--uw-primary);
+      border-color: var(--uw-primary);
       color: #fff;
     }
-    button.btn-primary:hover:not(:disabled) { background: var(--primary-hover); }
-    button.active {
-      background: var(--primary-light);
-      border-color: var(--primary);
-      color: var(--primary);
-    }
+    button.btn-primary:hover:not(:disabled) { background: var(--uw-primary-hover); }
 
-    .timer-pill {
-      font-variant-numeric: tabular-nums;
-      font-weight: 700;
-      font-size: 0.85rem;
-      padding: 4px 10px;
-      border-radius: 20px;
-      background: var(--border);
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    /* Home Dashboard Page */
-    .home-view {
-      display: flex;
-      flex: 1;
-      flex-direction: column;
-      overflow-y: auto;
-      padding: 24px 32px;
-      gap: 24px;
-    }
-    .home-hero {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 16px;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      padding: 24px;
-      border-radius: 12px;
-      box-shadow: var(--shadow);
-    }
-    .home-hero h2 {
-      font-size: 1.4rem;
-      font-weight: 800;
-      margin-bottom: 4px;
-    }
-    .home-hero p {
-      color: var(--text-sub);
-      font-size: 0.9rem;
-    }
-    .hero-btn-row {
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-
-    .stats-summary-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 14px;
-    }
-    .stat-card-dashboard {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      padding: 18px;
-      border-radius: 10px;
-      box-shadow: var(--shadow);
+    /* Central Create Test Hub */
+    .create-test-view {
+      padding: 24px 32px 180px;
       display: flex;
       flex-direction: column;
-      gap: 6px;
-    }
-    .stat-card-dashboard .val {
-      font-size: 1.8rem;
-      font-weight: 800;
-      color: var(--primary);
-    }
-    .stat-card-dashboard .lbl {
-      font-size: 0.75rem;
-      color: var(--text-sub);
-      text-transform: uppercase;
-      font-weight: 700;
-      letter-spacing: 0.04em;
-    }
-
-    .subject-hub-title {
-      font-size: 1.1rem;
-      font-weight: 800;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 8px;
-    }
-    .subject-cards-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 16px;
-    }
-    .subject-box {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 16px;
-      box-shadow: var(--shadow);
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      gap: 14px;
-    }
-    .sub-box-header {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      gap: 8px;
-    }
-    .sub-box-title {
-      font-size: 1.05rem;
-      font-weight: 800;
-    }
-    .sub-box-count {
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: var(--primary);
-      background: var(--primary-light);
-      padding: 2px 8px;
-      border-radius: 999px;
-    }
-    .sub-box-progress {
-      display: flex;
-      flex-direction: column;
-      gap: 4px;
-      font-size: 0.75rem;
-      color: var(--text-sub);
-    }
-    .progress-bar-bg {
+      gap: 18px;
+      max-width: 1200px;
+      margin: 0 auto;
       width: 100%;
-      height: 6px;
-      background: var(--border);
-      border-radius: 999px;
+    }
+
+    .uw-section-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 20px;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .uw-section-title {
+      font-size: 0.8rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    /* Symmetrical 2x2 Grid for Test Mode & Options */
+    .segmented-group {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      width: 100%;
+    }
+    .segmented-btn {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 12px;
+      padding: 12px 16px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      min-height: 48px;
+    }
+    .segmented-btn span {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .segmented-btn input[type="radio"],
+    .segmented-btn input[type="checkbox"] {
+      cursor: pointer;
+      margin: 0;
+      flex-shrink: 0;
+    }
+    .segmented-btn.active {
+      border-color: var(--uw-primary);
+      background: #f0f9ff;
+      color: var(--uw-primary);
+    }
+    .segmented-btn:hover {
+      border-color: var(--uw-primary);
+    }
+
+    /* Symmetrical 5-Column Question Status Grid */
+    .status-matrix-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+      width: 100%;
+    }
+    .status-tile {
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      background: var(--surface);
+      transition: all 0.15s ease;
+      min-height: 48px;
+      gap: 6px;
       overflow: hidden;
     }
-    .progress-bar-fill {
-      height: 100%;
-      background: var(--primary);
-      transition: width 0.3s ease;
+    .status-tile:hover {
+      border-color: var(--uw-primary);
+    }
+    .status-tile.active {
+      border-color: var(--uw-primary);
+      background: #f0f9ff;
+    }
+    .status-tile .status-lbl {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .status-tile .status-lbl input[type="radio"] {
+      margin: 0;
+      flex-shrink: 0;
+    }
+    .status-tile .status-count {
+      font-size: 0.78rem;
+      font-weight: 800;
+      padding: 2px 8px;
+      border-radius: 12px;
+      background: var(--border-sub);
+      color: var(--text-sub);
+      flex-shrink: 0;
     }
 
-    .subgroups-list {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-      border-top: 1px solid var(--border);
-      padding-top: 10px;
+    /* Symmetrical Performance 4-Column Grid */
+    .perf-matrix-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      width: 100%;
     }
-    .subgroup-item {
+    .perf-tile {
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px 14px;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      font-size: 0.8rem;
-      padding: 4px 6px;
-      border-radius: 6px;
-      background: var(--bg);
-    }
-    .subgroup-item span {
-      font-weight: 600;
-      color: var(--text);
-    }
-    .subgroup-item button {
-      padding: 2px 8px;
-      font-size: 0.7rem;
-    }
-
-    .sub-box-actions {
-      display: flex;
+      background: var(--surface);
+      min-height: 48px;
       gap: 8px;
+      overflow: hidden;
+    }
+    .perf-tile .perf-lbl {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .perf-tile .perf-val {
+      font-size: 0.85rem;
+      font-weight: 800;
+      padding: 2px 8px;
+      border-radius: 12px;
+      background: var(--border-sub);
+      color: var(--text-sub);
+      flex-shrink: 0;
     }
 
-    /* Workspace / Split Screen Exam Container */
+    @media (max-width: 900px) {
+      .segmented-group {
+        grid-template-columns: 1fr;
+      }
+      .status-matrix-grid {
+        grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+      }
+      .perf-matrix-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    /* System & Subjects Selection Table with Quick Practice Actions */
+    .uw-table-container {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      display: flex;
+      flex-direction: column;
+    }
+    .uw-table-header {
+      background: var(--surface-sub);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 16px;
+      display: grid;
+      grid-template-columns: 1fr 90px 90px 130px;
+      font-size: 0.75rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-muted);
+      align-items: center;
+    }
+    .uw-table-scroll-body {
+      display: flex;
+      flex-direction: column;
+    }
+    .uw-folder-row {
+      border-bottom: 1px solid var(--border-sub);
+    }
+    .uw-folder-row:last-child { border-bottom: none; }
+    .uw-folder-header {
+      padding: 12px 16px;
+      display: grid;
+      grid-template-columns: 1fr 90px 90px 130px;
+      align-items: center;
+      background: var(--surface);
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      user-select: none;
+    }
+    .uw-folder-header:hover { background: #f8fafc; }
+    .folder-toggle-icon {
+      display: inline-block;
+      width: 14px;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      transition: transform 0.2s ease;
+    }
+    .folder-toggle-icon.expanded {
+      transform: rotate(90deg);
+    }
+    .uw-folder-subitems {
+      background: var(--surface-sub);
+      border-top: 1px dashed var(--border-sub);
+      display: flex;
+      flex-direction: column;
+    }
+    .uw-folder-subitems.collapsed {
+      display: none;
+    }
+    .uw-sub-row {
+      padding: 9px 16px 9px 42px;
+      display: grid;
+      grid-template-columns: 1fr 90px 90px 130px;
+      align-items: center;
+      font-size: 0.8rem;
+      color: var(--text-sub);
+      border-bottom: 1px solid rgba(0,0,0,0.03);
+    }
+    .uw-sub-row:hover { background: #f1f5f9; }
+
+    .btn-quick-play {
+      padding: 3px 8px;
+      font-size: 0.7rem;
+      border-radius: 4px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--uw-primary);
+      font-weight: 700;
+    }
+    .btn-quick-play:hover {
+      background: #e0f2fe;
+      border-color: var(--uw-primary);
+    }
+
+    /* Fixed Bottom Action Bar */
+    .uw-action-bar {
+      position: fixed;
+      bottom: 0;
+      left: 230px;
+      right: 0;
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      padding: 12px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.08);
+      z-index: 25;
+    }
+    .uw-action-stats {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      font-size: 0.85rem;
+    }
+    .uw-action-controls {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .uw-action-controls input[type="number"] {
+      width: 75px;
+      padding: 6px 8px;
+      font-size: 0.9rem;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg);
+      color: var(--text);
+      font-weight: 700;
+      text-align: center;
+    }
+
+    /* Performance Report View */
+    .performance-view {
+      display: none;
+      padding: 24px 32px 140px;
+      flex-direction: column;
+      gap: 18px;
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .perf-folder-card {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px 16px;
+      background: var(--surface);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    /* Workspace Exam Split Screen Container */
     .app-workspace {
       display: none;
       flex: 1;
+      height: 100vh;
+      width: 100%;
+      flex-direction: column;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .exam-split-body {
+      display: flex;
+      flex: 1;
+      height: calc(100vh - 52px);
       overflow: hidden;
       position: relative;
     }
@@ -308,8 +563,9 @@
       display: flex;
       flex-direction: column;
       overflow-y: auto;
-      padding: 20px 28px 40px;
+      padding: 24px 36px 60px;
       position: relative;
+      background: var(--surface-sub);
     }
 
     .resizer-bar {
@@ -321,12 +577,12 @@
       flex-shrink: 0;
     }
     .resizer-bar:hover, .resizer-bar.dragging {
-      background: var(--primary);
+      background: var(--uw-primary);
     }
 
     .sidebar-pane {
-      width: 220px;
-      min-width: 170px;
+      width: 240px;
+      min-width: 180px;
       max-width: 440px;
       background: var(--surface);
       border-left: 1px solid var(--border);
@@ -350,7 +606,7 @@
       font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.05em;
-      color: var(--text-sub);
+      color: var(--text-muted);
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -375,11 +631,11 @@
     }
     .q-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(32px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(36px, 1fr));
       gap: 5px;
     }
     .q-chip {
-      height: 32px;
+      height: 34px;
       border-radius: 6px;
       border: 1px solid var(--border);
       background: var(--surface);
@@ -393,13 +649,13 @@
       position: relative;
       transition: transform 0.1s ease;
     }
-    .q-chip:hover { border-color: var(--primary); }
+    .q-chip:hover { border-color: var(--uw-primary); }
     .q-chip.active {
-      border-color: var(--primary);
-      outline: 2px solid var(--primary);
+      border-color: var(--uw-primary);
+      outline: 2px solid var(--uw-primary);
       outline-offset: 1px;
     }
-    .q-chip.answered { background: var(--border); color: var(--text-sub); }
+    .q-chip.answered { background: var(--border-sub); color: var(--text-muted); }
     .q-chip.correct { background: var(--correct-bg); border-color: var(--correct-border); color: var(--correct); }
     .q-chip.wrong { background: var(--wrong-bg); border-color: var(--wrong-border); color: var(--wrong); }
     .q-chip.flagged::after {
@@ -417,42 +673,41 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      margin-bottom: 12px;
+      margin-bottom: 16px;
       gap: 8px;
       flex-wrap: wrap;
     }
     .q-id-pill {
       font-weight: 800;
-      font-size: 0.95rem;
+      font-size: 1rem;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
     }
     .q-subject-tag {
       font-size: 0.75rem;
       font-weight: 700;
       padding: 3px 8px;
       border-radius: 4px;
-      background: var(--primary-light);
-      color: var(--primary);
+      background: #e0f2fe;
+      color: var(--uw-primary);
     }
     .q-actions { display: flex; align-items: center; gap: 8px; }
 
-    /* Clinical Vignette & Image Styling */
+    /* Vignette & Choices */
     .vignette-box {
       font-size: 1.05rem;
       line-height: 1.65;
       font-weight: 400;
       color: var(--text);
       margin-bottom: 24px;
-      padding: 18px 20px;
+      padding: 20px 24px;
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
       position: relative;
     }
-
     .vignette-box img {
       display: block;
       max-width: 100%;
@@ -465,36 +720,6 @@
       object-fit: contain;
       background: var(--surface);
     }
-
-    .hl-yellow { background-color: #fef08a !important; color: #1e293b !important; border-radius: 2px; padding: 0 1px; }
-    .hl-blue { background-color: #bae6fd !important; color: #082f49 !important; border-radius: 2px; padding: 0 1px; }
-    .hl-pink { background-color: #fbcfe8 !important; color: #831843 !important; border-radius: 2px; padding: 0 1px; }
-
-    .hl-toolbar {
-      position: absolute;
-      display: none;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      box-shadow: 0 10px 15px -3px rgba(0,0,0,0.2);
-      border-radius: 6px;
-      padding: 4px;
-      gap: 4px;
-      z-index: 100;
-      align-items: center;
-    }
-    .hl-toolbar button {
-      width: 24px;
-      height: 24px;
-      padding: 0;
-      border-radius: 4px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0.75rem;
-    }
-    .hl-toolbar .dot-yellow { background: #facc15; border: 1px solid #ca8a04; }
-    .hl-toolbar .dot-blue { background: #38bdf8; border: 1px solid #0284c7; }
-    .hl-toolbar .dot-pink { background: #f472b6; border: 1px solid #db2777; }
 
     .choices-list {
       display: flex;
@@ -517,13 +742,13 @@
       position: relative;
     }
     .choice-card:hover:not(.locked) {
-      border-color: var(--primary);
-      background: var(--primary-light);
+      border-color: var(--uw-primary);
+      background: #f0f9ff;
     }
     .choice-card.staged {
-      border-color: var(--primary);
-      background: var(--primary-light);
-      outline: 2px solid var(--primary);
+      border-color: var(--uw-primary);
+      background: #e0f2fe;
+      outline: 2px solid var(--uw-primary);
     }
     .choice-card.correct {
       border-color: var(--correct);
@@ -544,7 +769,7 @@
       width: 26px;
       height: 26px;
       border-radius: 50%;
-      background: var(--border);
+      background: var(--border-sub);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -552,7 +777,7 @@
       font-size: 0.75rem;
       flex-shrink: 0;
     }
-    .choice-card.staged .choice-letter { background: var(--primary); color: #fff; }
+    .choice-card.staged .choice-letter { background: var(--uw-primary); color: #fff; }
     .choice-card.correct .choice-letter { background: var(--correct); color: #fff; }
     .choice-card.wrong .choice-letter { background: var(--wrong); color: #fff; }
     .choice-text { flex: 1; padding-top: 2px; }
@@ -560,7 +785,7 @@
       opacity: 0;
       background: transparent;
       border: none;
-      color: var(--text-sub);
+      color: var(--text-muted);
       cursor: pointer;
       font-size: 0.75rem;
       padding: 2px 4px;
@@ -575,13 +800,13 @@
       gap: 12px;
       margin-bottom: 24px;
     }
-    .btn-confirm { padding: 9px 20px; font-size: 0.9rem; font-weight: 700; }
+    .btn-confirm { padding: 9px 22px; font-size: 0.9rem; font-weight: 700; }
 
     .explanation-box {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 20px;
+      padding: 22px;
       margin-bottom: 30px;
       box-shadow: var(--shadow);
       display: none;
@@ -589,7 +814,7 @@
     .explanation-box.visible { display: block; }
     .exp-header {
       font-weight: 800;
-      font-size: 0.9rem;
+      font-size: 0.95rem;
       margin-bottom: 12px;
       display: flex;
       align-items: center;
@@ -602,15 +827,15 @@
       font-size: 0.8rem;
       text-transform: uppercase;
       letter-spacing: 0.03em;
-      color: var(--text-sub);
+      color: var(--text-muted);
       margin-bottom: 4px;
     }
     .exp-objective {
       border-top: 1px solid var(--border);
       padding-top: 12px;
       margin-top: 14px;
-      font-size: 0.8rem;
-      color: var(--text-sub);
+      font-size: 0.85rem;
+      color: var(--text-muted);
       font-style: italic;
     }
 
@@ -619,7 +844,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding-top: 16px;
+      padding-top: 18px;
       border-top: 1px solid var(--border);
       gap: 12px;
     }
@@ -671,428 +896,328 @@
       justify-content: flex-end;
       gap: 10px;
     }
-
     .form-group { display: flex; flex-direction: column; gap: 6px; }
     .form-group label {
       font-weight: 700;
       font-size: 0.8rem;
-      color: var(--text-sub);
+      color: var(--text-muted);
       text-transform: uppercase;
     }
-    .checkbox-pill { display: flex; align-items: center; gap: 6px; font-size: 0.8rem; cursor: pointer; }
-
-    /* Hierarchical Custom Test Builder Selector */
-    .folder-select-tree {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      max-height: 260px;
-      overflow-y: auto;
-      padding: 6px;
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      background: var(--bg);
-    }
-    .folder-group-box {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      padding: 8px 10px;
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-    .folder-header-row {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      cursor: pointer;
-      user-select: none;
-    }
-    .folder-header-row strong {
-      font-size: 0.85rem;
-      color: var(--primary);
-    }
-    .subgroups-checkbox-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-      gap: 6px;
-      padding-left: 20px;
-      border-top: 1px solid var(--border);
-      padding-top: 6px;
-      margin-top: 2px;
-    }
-
-    .stat-row {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 10px;
-      text-align: center;
-    }
-    .stat-card {
-      background: var(--bg);
-      padding: 12px;
-      border-radius: 8px;
-      border: 1px solid var(--border);
-    }
-    .stat-card .val { font-size: 1.4rem; font-weight: 800; color: var(--primary); }
-    .stat-card .lbl { font-size: 0.7rem; color: var(--text-sub); text-transform: uppercase; font-weight: 700; }
-    .sub-breakdown { margin-top: 12px; display: flex; flex-direction: column; gap: 6px; }
-    .sub-bar-row { display: flex; align-items: center; justify-content: space-between; font-size: 0.8rem; }
   </style>
 </head>
 <body>
 
-  <!-- Top App Navigation -->
-  <header>
-    <div class="header-left">
-      <div class="logo" id="btnLogoHome" title="Return to Dashboard Home">
-        NBME Studio
+  <!-- Left Sidebar (UWorld Signature Navigation) -->
+  <aside class="uw-sidebar" id="uwSidebar">
+    <div>
+      <div class="uw-brand">
+        <span>NBME QBank</span>
+        <span class="badge-uw">Studio</span>
       </div>
-      <button id="btnNavHome">Home</button>
-      <span class="badge" id="modeBadge">Dashboard</span>
-      <span class="badge" style="background:var(--border);color:var(--text-sub);" id="filterBadge">Overview</span>
+      <ul class="uw-nav-list">
+        <li class="uw-nav-item active" id="navItemCreateTest">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 4v16m8-8H4"></path></svg>
+          <span>Create Test</span>
+        </li>
+        <li class="uw-nav-item" id="navItemPerformance">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 3v18h18M9 9l3 3 5-5 4 4"></path></svg>
+          <span>Performance</span>
+        </li>
+        <li class="uw-nav-item" id="navItemImport">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
+          <span>Import Text</span>
+        </li>
+        <li class="uw-nav-item" id="navItemExport">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+          <span>Export Bank</span>
+        </li>
+      </ul>
     </div>
 
-    <div class="header-controls">
-      <div class="timer-pill" id="timerPill" style="display:none;">
-        <span id="timerText">00:00</span>
-      </div>
-      <button id="btnToggleTimer" style="display:none;" title="Pause or Resume Timer">Pause</button>
-      <button class="btn-primary" id="btnOpenQuizModal">New Quiz</button>
-      <button id="btnOpenLoadModal">Import</button>
-      <button id="btnOpenExportModal">Export</button>
-      <button id="btnOpenClearModal" style="color:var(--wrong);border-color:var(--wrong-border);" title="Delete all questions or clear by subject">Clear Bank</button>
-      <button id="btnFinishBlock" style="display:none;">Finish Block</button>
-      <button id="btnToggleNav" style="display:none;" title="Toggle Sidebar">Sidebar</button>
-      <button id="btnThemeToggle" title="Toggle Theme">Toggle Theme</button>
+    <div class="uw-nav-footer">
+      <button id="btnThemeToggle">Toggle Dark Mode</button>
+      <button id="btnOpenClearModal" style="color:#ef4444;border-color:rgba(239,68,68,0.3);">Reset Question Bank</button>
     </div>
-  </header>
+  </aside>
 
-  <!-- View 1: Home Dashboard -->
-  <div class="home-view" id="homeView">
-    <div class="home-hero">
-      <div>
-        <h2>Medical Board Practice Hub</h2>
-        <p>Master disease concepts across subjects and sub-topics with high-yield rationale, active recall, and custom quizzes.</p>
-      </div>
-      <div class="hero-btn-row">
-        <button class="btn-primary" id="btnHeroQuickStart">Quick 10 Question Quiz</button>
-        <button id="btnHeroCustom">Custom Test Builder</button>
-        <button id="btnHeroImport">Paste Document</button>
-      </div>
-    </div>
-
-    <!-- Overall Bank Metrics -->
-    <div class="stats-summary-grid">
-      <div class="stat-card-dashboard">
-        <span class="lbl">Total Questions</span>
-        <span class="val" id="statTotalQ">0</span>
-      </div>
-      <div class="stat-card-dashboard">
-        <span class="lbl">Completed</span>
-        <span class="val" id="statAnsweredQ">0</span>
-      </div>
-      <div class="stat-card-dashboard">
-        <span class="lbl">Accuracy</span>
-        <span class="val" id="statAccuracy">0%</span>
-      </div>
-      <div class="stat-card-dashboard">
-        <span class="lbl">Missed</span>
-        <span class="val" id="statMissedQ" style="color:var(--wrong);">0</span>
-      </div>
-      <div class="stat-card-dashboard">
-        <span class="lbl">Flagged for Review</span>
-        <span class="val" id="statFlaggedQ" style="color:var(--flagged);">0</span>
-      </div>
-    </div>
-
-    <!-- Subject Organizer Grid -->
-    <div class="subject-hub-title">
-      <span>Organize & Practice by Folder & Sub-topic</span>
-      <span style="font-size:0.8rem;color:var(--text-sub);font-weight:600;" id="subjectCountLabel">0 Folders Loaded</span>
-    </div>
-    <div class="subject-cards-grid" id="subjectCardsGrid"></div>
-  </div>
-
-  <!-- View 2: Split Screen Workspace / Test Engine -->
-  <div class="app-workspace" id="quizWorkspace">
-    <main class="exam-pane" id="examPane">
-      <div class="q-meta-banner">
-        <div class="q-id-pill">
-          <span id="qDisplayIndex">Question 1</span>
-          <span class="q-subject-tag" id="qSubjectTag">General</span>
-        </div>
-        <div class="q-actions">
-          <button id="btnResetCurrentQ" title="Clear your answer on this question to test yourself again">Reset Question</button>
-          <button id="btnFlag">Flag</button>
-          <button id="btnClearHighlights" title="Clear all text highlights on this question">Clear Markings</button>
-          <button id="btnExitToHome" title="Save session and return home">Dashboard</button>
+  <!-- Central Work Area -->
+  <main class="app-main" id="appMain">
+    
+    <!-- View 1: UWorld Central "Create Test" Page -->
+    <div class="create-test-view" id="createTestView">
+      
+      <!-- 1. Test Mode & Options (Symmetrical 2x2 Grid) -->
+      <div class="uw-section-box">
+        <div class="uw-section-title">Test Mode & Options</div>
+        <div class="segmented-group">
+          <label class="segmented-btn active" id="btnModeTutor">
+            <input type="radio" name="uwTestMode" value="tutor" checked />
+            <span>Tutor (Explanations On)</span>
+          </label>
+          <label class="segmented-btn" id="btnModeTimed">
+            <input type="radio" name="uwTestMode" value="timed" />
+            <span>Timed (90s / Q Countdown)</span>
+          </label>
+          <label class="segmented-btn">
+            <input type="checkbox" id="chkRandomizeQ" checked />
+            <span>Randomize Questions</span>
+          </label>
+          <label class="segmented-btn">
+            <input type="checkbox" id="chkRandomizeChoices" checked />
+            <span>Shuffle Choices (A–E)</span>
+          </label>
         </div>
       </div>
 
-      <div class="vignette-box" id="vignetteText">Loading question...</div>
+      <!-- 2. Question Status Matrix (Symmetrical 5-Column Row) -->
+      <div class="uw-section-box">
+        <div class="uw-section-title">Question Status</div>
+        <div class="status-matrix-grid">
+          <div class="status-tile active" data-status="all">
+            <div class="status-lbl">
+              <input type="radio" name="qPoolStatus" value="all" checked />
+              <span>All</span>
+            </div>
+            <span class="status-count" id="countStatusAll">0</span>
+          </div>
 
-      <div class="hl-toolbar" id="hlToolbar">
-        <button class="dot-yellow" data-color="yellow" title="Highlight Yellow"></button>
-        <button class="dot-blue" data-color="blue" title="Highlight Blue"></button>
-        <button class="dot-pink" data-color="pink" title="Highlight Pink"></button>
-        <button data-color="clear" style="font-size:0.65rem;" title="Clear Highlight">Clear</button>
-      </div>
+          <div class="status-tile" data-status="unanswered">
+            <div class="status-lbl">
+              <input type="radio" name="qPoolStatus" value="unanswered" />
+              <span>Unused</span>
+            </div>
+            <span class="status-count" id="countStatusUnused">0</span>
+          </div>
 
-      <div class="choices-list" id="choicesList"></div>
+          <div class="status-tile" data-status="missed">
+            <div class="status-lbl">
+              <input type="radio" name="qPoolStatus" value="missed" />
+              <span>Incorrect</span>
+            </div>
+            <span class="status-count" id="countStatusIncorrect" style="color:var(--wrong);">0</span>
+          </div>
 
-      <div class="confirm-bar">
-        <button class="btn-primary btn-confirm" id="btnConfirmAnswer">Confirm Answer</button>
-        <span style="font-size:0.8rem;color:var(--text-sub);" id="confirmHint">Select an option, then confirm or press Enter.</span>
-      </div>
+          <div class="status-tile" data-status="flagged">
+            <div class="status-lbl">
+              <input type="radio" name="qPoolStatus" value="flagged" />
+              <span>Marked</span>
+            </div>
+            <span class="status-count" id="countStatusMarked" style="color:var(--flagged);">0</span>
+          </div>
 
-      <div class="explanation-box" id="explanationBox">
-        <div class="exp-header">
-          <span>Key Explanation:</span>
-          <span class="exp-correct-tag" id="expCorrectTag"></span>
-        </div>
-        <div class="exp-section">
-          <div class="exp-section-title">Why This Is Correct</div>
-          <p id="expWhyCorrect"></p>
-        </div>
-        <div class="exp-section">
-          <div class="exp-section-title">Why Other Answers Are Incorrect</div>
-          <div id="expWhyWrong"></div>
-        </div>
-        <div class="exp-objective" id="expObjective"></div>
-      </div>
-
-      <div class="bottom-nav">
-        <button id="btnPrev">Previous</button>
-        <span style="font-size:0.75rem;color:var(--text-sub);">Hotkeys: <kbd>A</kbd>-<kbd>E</kbd> choose | <kbd>Enter</kbd> confirm | <kbd>N</kbd> next | <kbd>P</kbd> prev | <kbd>F</kbd> flag</span>
-        <button class="btn-primary" id="btnNext">Next</button>
-      </div>
-    </main>
-
-    <div class="resizer-bar" id="resizerBar" title="Drag to adjust sidebar width"></div>
-
-    <aside class="sidebar-pane" id="sidebarPane">
-      <div class="sidebar-header">
-        <div class="sidebar-title">
-          <span>Question Nav</span>
-          <span id="navCounter" style="font-variant-numeric:tabular-nums;">1 / 1</span>
-        </div>
-        <div class="filter-grid">
-          <button class="active" data-navfilter="all" id="navFilterAll">All</button>
-          <button data-navfilter="unanswered" id="navFilterUn">Un</button>
-          <button data-navfilter="flagged" id="navFilterFl">Fl</button>
-          <button data-navfilter="missed" id="navFilterMs">Ms</button>
+          <div class="status-tile" data-status="correct">
+            <div class="status-lbl">
+              <input type="radio" name="qPoolStatus" value="correct" />
+              <span>Correct</span>
+            </div>
+            <span class="status-count" id="countStatusCorrect" style="color:var(--correct);">0</span>
+          </div>
         </div>
       </div>
-      <div class="sidebar-grid-wrap">
-        <div class="q-grid" id="qNavGrid"></div>
-      </div>
-    </aside>
-  </div>
 
-  <!-- Document Importer Modal with Append / Replace Option -->
-  <div class="modal-backdrop" id="loadModal">
-    <div class="modal-dialog" style="max-width:680px;">
-      <div class="modal-header">
-        <h3>Import Questions From Document</h3>
-        <button id="btnCloseLoadModal" style="border:none;font-size:0.85rem;font-weight:700;">Close</button>
-      </div>
-      <div class="modal-body">
-        <p style="color:var(--text-sub);line-height:1.45;">
-          Copy questions from your document and paste them below. Folders can be organized as <code>Main Folder / Subfolder</code>. Image URLs in Markdown (<code>![caption](https://...)</code>) or HTML (<code>&lt;img src="..."&gt;</code>) are fully supported.
-        </p>
-        
-        <div class="form-group">
-          <label>Import Mode</label>
-          <div style="display:flex;gap:16px;">
-            <label class="checkbox-pill">
-              <input type="radio" name="importMode" value="append" checked />
-              <span><strong>Add / Append</strong> (Keep existing questions, add new ones)</span>
-            </label>
-            <label class="checkbox-pill">
-              <input type="radio" name="importMode" value="replace" />
-              <span><strong>Replace</strong> (Clear current bank and start fresh)</span>
-            </label>
+      <!-- 3. Subjects & Systems Table -->
+      <div class="uw-section-box" style="padding:0; overflow:hidden;">
+        <div style="padding:14px 20px 10px; display:flex; justify-content:space-between; align-items:center;">
+          <div class="uw-section-title" style="margin:0;">Subjects & Systems</div>
+          <div style="display:flex; gap:8px;">
+            <button id="btnTableSelectAll" style="padding:2px 8px; font-size:0.7rem;">Select All</button>
+            <button id="btnTableDeselectAll" style="padding:2px 8px; font-size:0.7rem;">Deselect All</button>
           </div>
         </div>
 
-        <textarea id="txtDocInput" placeholder="Paste questions here..." style="width:100%;height:200px;padding:10px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-family:monospace;font-size:0.75rem;resize:vertical;"></textarea>
+        <div class="uw-table-container" style="border:none; border-top:1px solid var(--border);">
+          <div class="uw-table-header">
+            <span>Subject / Sub-Topic</span>
+            <span style="text-align:center;">Available</span>
+            <span style="text-align:center;">Selected</span>
+            <span style="text-align:center;">Action</span>
+          </div>
+          <div class="uw-table-scroll-body" id="uwSubjectTableBody"></div>
+        </div>
+      </div>
+
+      <!-- Fixed Bottom Action Launch Bar -->
+      <div class="uw-action-bar">
+        <div class="uw-action-stats">
+          <div>Total Available: <strong id="totalAvailablePool">0</strong></div>
+          <div>Selected Questions: <strong id="totalSelectedInTree">0</strong></div>
+        </div>
+        <div class="uw-action-controls">
+          <label style="font-size:0.85rem; font-weight:700;">Question Count:</label>
+          <input type="number" id="inputBlockSize" value="40" min="1" max="100" />
+          <button class="btn-primary" id="btnLaunchExam" style="padding:9px 24px; font-size:0.9rem;">Create Test</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- View 2: Performance Reports Hub (Symmetrical 4-Column Grid) -->
+    <div class="performance-view" id="performanceView">
+      <div class="uw-section-box">
+        <div class="uw-section-title">Overall Performance</div>
+        <div class="perf-matrix-grid">
+          <div class="perf-tile">
+            <span class="perf-lbl">Completed</span>
+            <strong class="perf-val" id="repCompleted">0 / 0</strong>
+          </div>
+          <div class="perf-tile">
+            <span class="perf-lbl">Cumulative Accuracy</span>
+            <strong class="perf-val" id="repAccuracy">0%</strong>
+          </div>
+          <div class="perf-tile">
+            <span class="perf-lbl">Incorrect</span>
+            <strong class="perf-val" id="repIncorrect" style="color:var(--wrong);">0</strong>
+          </div>
+          <div class="perf-tile">
+            <span class="perf-lbl">Marked for Review</span>
+            <strong class="perf-val" id="repMarked" style="color:var(--flagged);">0</strong>
+          </div>
+        </div>
+      </div>
+
+      <div class="uw-section-box">
+        <div class="uw-section-title">Performance by System / Week</div>
+        <div id="performanceFolderList" style="display:flex; flex-direction:column; gap:10px;"></div>
+      </div>
+    </div>
+
+    <!-- View 3: Active Exam Testing Engine Workspace -->
+    <div class="app-workspace" id="quizWorkspace">
+      <header class="exam-header">
+        <div class="exam-header-left">
+          <button id="btnExamExit" style="padding:4px 10px;">&larr; Exit to Dashboard</button>
+          <span class="badge" id="examModeBadge">Tutor Mode</span>
+          <span class="badge" style="background:var(--border-sub);color:var(--text-sub);" id="examBlockBadge">Test Block</span>
+        </div>
+        <div style="display:flex; align-items:center; gap:8px;">
+          <div class="timer-pill" id="timerPill"><span id="timerText">00:00</span></div>
+          <button id="btnToggleTimer" style="padding:4px 8px;">Pause</button>
+          <button id="btnFinishBlock">End Block</button>
+          <button id="btnToggleNav">Sidebar</button>
+        </div>
+      </header>
+
+      <div class="exam-split-body">
+        <main class="exam-pane" id="examPane">
+          <div class="q-meta-banner">
+            <div class="q-id-pill">
+              <span id="qDisplayIndex">Question 1</span>
+              <span class="q-subject-tag" id="qSubjectTag">General</span>
+            </div>
+            <div class="q-actions">
+              <button id="btnResetCurrentQ">Reset Question</button>
+              <button id="btnFlag">Flag</button>
+              <button id="btnClearHighlights">Clear Markings</button>
+            </div>
+          </div>
+
+          <div class="vignette-box" id="vignetteText">Loading question...</div>
+
+          <div class="choices-list" id="choicesList"></div>
+
+          <div class="confirm-bar">
+            <button class="btn-primary btn-confirm" id="btnConfirmAnswer">Confirm Answer</button>
+            <span style="font-size:0.8rem;color:var(--text-muted);" id="confirmHint">Select an option, then confirm.</span>
+          </div>
+
+          <div class="explanation-box" id="explanationBox">
+            <div class="exp-header">
+              <span>Key Explanation:</span>
+              <span class="exp-correct-tag" id="expCorrectTag"></span>
+            </div>
+            <div class="exp-section">
+              <div class="exp-section-title">Why This Is Correct</div>
+              <p id="expWhyCorrect"></p>
+            </div>
+            <div class="exp-section">
+              <div class="exp-section-title">Why Other Answers Are Incorrect</div>
+              <div id="expWhyWrong"></div>
+            </div>
+            <div class="exp-objective" id="expObjective"></div>
+          </div>
+
+          <div class="bottom-nav">
+            <button id="btnPrev">Previous</button>
+            <span style="font-size:0.75rem;color:var(--text-muted);">Hotkeys: <kbd>A</kbd>-<kbd>E</kbd> | <kbd>Enter</kbd> confirm | <kbd>N</kbd> next | <kbd>P</kbd> prev</span>
+            <button class="btn-primary" id="btnNext">Next</button>
+          </div>
+        </main>
+
+        <div class="resizer-bar" id="resizerBar"></div>
+
+        <aside class="sidebar-pane" id="sidebarPane">
+          <div class="sidebar-header">
+            <div class="sidebar-title">
+              <span>Question Palette</span>
+              <span id="navCounter">1 / 1</span>
+            </div>
+            <div class="filter-grid">
+              <button class="active" data-navfilter="all">All</button>
+              <button data-navfilter="unanswered">Un</button>
+              <button data-navfilter="flagged">Fl</button>
+              <button data-navfilter="missed">Ms</button>
+            </div>
+          </div>
+          <div class="sidebar-grid-wrap">
+            <div class="q-grid" id="qNavGrid"></div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modals -->
+  <div class="modal-backdrop" id="loadModal">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3>Import Questions</h3>
+        <button id="btnCloseLoadModal" style="border:none;font-weight:700;">Close</button>
+      </div>
+      <div class="modal-body">
+        <p style="color:var(--text-sub);">Paste formatted questions below. Headings formatted as <code>Folder / Subfolder</code> will be sorted automatically.</p>
+        <textarea id="txtDocInput" placeholder="Paste questions here..." style="width:100%;height:180px;padding:10px;border:1px solid var(--border);border-radius:6px;font-family:monospace;font-size:0.75rem;background:var(--bg);color:var(--text);"></textarea>
       </div>
       <div class="modal-footer">
         <button id="btnCancelLoad">Cancel</button>
-        <button class="btn-primary" id="btnParseDoc">Process & Import</button>
+        <button class="btn-primary" id="btnParseDoc">Import Questions</button>
       </div>
     </div>
   </div>
 
-  <!-- Clear Bank / Clear Subject Modal -->
-  <div class="modal-backdrop" id="clearModal">
-    <div class="modal-dialog" style="max-width:520px;">
-      <div class="modal-header">
-        <h3>Clear Questions</h3>
-        <button id="btnCloseClearModal" style="border:none;font-size:0.85rem;font-weight:700;">Close</button>
-      </div>
-      <div class="modal-body">
-        <p style="color:var(--text-sub);">Choose whether to delete your entire question bank or remove questions belonging to one specific folder or sub-topic.</p>
-
-        <div class="form-group">
-          <label>Clear Scope</label>
-          <div style="display:flex;flex-direction:column;gap:8px;">
-            <label class="checkbox-pill">
-              <input type="radio" name="clearScopeOption" value="subject" checked />
-              <span><strong>Specific Category Only</strong></span>
-            </label>
-            <label class="checkbox-pill">
-              <input type="radio" name="clearScopeOption" value="all" />
-              <span><strong style="color:var(--wrong);">Entire Question Bank</strong> (All questions and history)</span>
-            </label>
-          </div>
-        </div>
-
-        <div class="form-group" id="clearSubjectSelectGroup">
-          <label>Select Category to Remove</label>
-          <select id="clearSubjectSelect" style="padding:6px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-family:inherit;">
-          </select>
-        </div>
-      </div>
-      <div class="modal-footer">
-        <button id="btnCancelClear">Cancel</button>
-        <button class="btn-primary" id="btnConfirmClear" style="background:var(--wrong);border-color:var(--wrong-border);">Delete Questions</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- Export Modal -->
   <div class="modal-backdrop" id="exportModal">
-    <div class="modal-dialog" style="max-width:540px;">
+    <div class="modal-dialog" style="max-width:480px;">
       <div class="modal-header">
-        <h3>Export Question Sets</h3>
-        <button id="btnCloseExportModal" style="border:none;font-size:0.85rem;font-weight:700;">Close</button>
+        <h3>Export Question Bank</h3>
+        <button id="btnCloseExportModal" style="border:none;font-weight:700;">Close</button>
       </div>
       <div class="modal-body">
-        <p style="color:var(--text-sub);">Export your questions. The exported text is formatted so that it can be directly copied and pasted back into the importer at any time.</p>
-        
         <div class="form-group">
-          <label>Select Category to Export</label>
-          <select id="exportScope" style="padding:6px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-family:inherit;">
-            <option value="missed">Incorrect / Missed Questions Only</option>
-            <option value="flagged">Flagged Questions Only</option>
-            <option value="all">Entire Question Bank (All Questions)</option>
+          <label>Scope</label>
+          <select id="exportScope" style="padding:6px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text);">
+            <option value="all">Entire Question Bank</option>
+            <option value="missed">Incorrect Only</option>
+            <option value="flagged">Marked Only</option>
           </select>
-        </div>
-
-        <div class="form-group">
-          <label>File Format</label>
-          <div style="display:flex;gap:12px;">
-            <label class="checkbox-pill"><input type="radio" name="exportFormat" value="txt" checked /> Re-importable Text (.txt)</label>
-            <label class="checkbox-pill"><input type="radio" name="exportFormat" value="json" /> Backup JSON (.json)</label>
-          </div>
         </div>
       </div>
       <div class="modal-footer">
         <button id="btnCancelExport">Cancel</button>
-        <button class="btn-primary" id="btnRunExport">Download File</button>
+        <button class="btn-primary" id="btnRunExport">Download .txt</button>
       </div>
     </div>
   </div>
 
-  <!-- Quiz Generator Modal -->
-  <div class="modal-backdrop" id="quizModal">
-    <div class="modal-dialog">
+  <div class="modal-backdrop" id="clearModal">
+    <div class="modal-dialog" style="max-width:440px;">
       <div class="modal-header">
-        <h3>Create Custom Sample Quiz</h3>
-        <button id="btnCloseModal" style="border:none;font-size:0.85rem;font-weight:700;">Close</button>
+        <h3>Reset Data</h3>
+        <button id="btnCloseClearModal" style="border:none;font-weight:700;">Close</button>
       </div>
       <div class="modal-body">
-        <div class="form-group">
-          <label>Test Mode</label>
-          <div style="display:flex;gap:10px;">
-            <label class="checkbox-pill"><input type="radio" name="quizMode" value="tutor" checked /> Tutor (Immediate Explanations)</label>
-            <label class="checkbox-pill"><input type="radio" name="quizMode" value="timed" /> Timed Exam (Grade at End)</label>
-          </div>
-        </div>
-
-        <div class="form-group">
-          <label>Question Count</label>
-          <select id="modalQCount" style="padding:6px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-family:inherit;">
-            <option value="10">10 Questions (Quick Review)</option>
-            <option value="20">20 Questions</option>
-            <option value="40" selected>40 Questions (Standard NBME Block)</option>
-            <option value="100">100 Questions</option>
-            <option value="all">All Available Questions</option>
-          </select>
-        </div>
-
-        <div class="form-group">
-          <label>Question Pool</label>
-          <div style="display:flex;gap:10px;">
-            <label class="checkbox-pill"><input type="radio" name="poolType" value="all" checked /> All Questions</label>
-            <label class="checkbox-pill"><input type="radio" name="poolType" value="missed" /> Missed Questions Only</label>
-            <label class="checkbox-pill"><input type="radio" name="poolType" value="flagged" /> Flagged Only</label>
-            <label class="checkbox-pill"><input type="radio" name="poolType" value="unanswered" /> Unused Only</label>
-          </div>
-        </div>
-
-        <div class="form-group">
-          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
-            <label style="margin:0;">Folders & Sub-topics</label>
-            <div style="display:flex;gap:8px;">
-              <button id="btnSelectAllSub" style="padding:2px 8px;font-size:0.7rem;">Select All</button>
-              <button id="btnDeselectAllSub" style="padding:2px 8px;font-size:0.7rem;">Deselect All</button>
-            </div>
-          </div>
-          <!-- Hierarchical Tree Selector -->
-          <div class="folder-select-tree" id="modalSubjectList"></div>
-        </div>
-
-        <div class="form-group">
-          <label>Randomization</label>
-          <div style="display:flex;flex-direction:column;gap:4px;">
-            <label class="checkbox-pill"><input type="checkbox" id="chkShuffleQ" checked /> Randomize Question Sequence</label>
-            <label class="checkbox-pill"><input type="checkbox" id="chkShuffleChoices" checked /> Shuffle Answer Options (A–E)</label>
-          </div>
-        </div>
+        <p style="color:var(--text-sub);">Wipe all questions and progress history from local storage?</p>
       </div>
       <div class="modal-footer">
-        <button id="btnCancelQuiz">Cancel</button>
-        <button class="btn-primary" id="btnStartCustomQuiz">Start Quiz</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- Performance Score Modal -->
-  <div class="modal-backdrop" id="scoreModal">
-    <div class="modal-dialog">
-      <div class="modal-header">
-        <h3>Block Performance Summary</h3>
-        <button id="btnCloseScoreModal" style="border:none;font-size:0.85rem;font-weight:700;">Close</button>
-      </div>
-      <div class="modal-body">
-        <div class="stat-row">
-          <div class="stat-card">
-            <div class="val" id="scorePercent">0%</div>
-            <div class="lbl">Score</div>
-          </div>
-          <div class="stat-card">
-            <div class="val" id="scoreFraction">0/0</div>
-            <div class="lbl">Correct</div>
-          </div>
-          <div class="stat-card">
-            <div class="val" id="scoreTimeTaken">00:00</div>
-            <div class="lbl">Time</div>
-          </div>
-        </div>
-
-        <div class="sub-breakdown">
-          <div style="font-weight:700;font-size:0.8rem;text-transform:uppercase;color:var(--text-sub);margin-bottom:4px;">Folder Breakdown</div>
-          <div id="subjectScoreRows"></div>
-        </div>
-      </div>
-      <div class="modal-footer">
-        <button id="btnScoreReturnHome">Back to Home</button>
-        <button id="btnReviewMissed">Review Missed Questions</button>
-        <button class="btn-primary" id="btnRetakeMissed">Retake Missed Only</button>
+        <button id="btnCancelClear">Cancel</button>
+        <button class="btn-primary" id="btnConfirmClear" style="background:var(--wrong);border-color:var(--wrong-border);">Wipe Bank</button>
       </div>
     </div>
   </div>
@@ -1174,7 +1299,6 @@
           commitCurrentQuestion();
           globalQuestionCounter++;
           const rawNum = parseInt(qMatch[1], 10);
-          
           const uniqueId = `${currentFolder}__${currentSubfolder}__q${rawNum}__${globalQuestionCounter}`;
 
           currentQ = {
@@ -1244,7 +1368,6 @@
           if (wrongMatch) {
             const optLetter = wrongMatch[1].toUpperCase();
             let text = wrongMatch[2].trim();
-
             const firstColon = text.indexOf(":");
             if (firstColon !== -1 && firstColon < 35) {
               text = text.substring(firstColon + 1).trim();
@@ -1282,13 +1405,11 @@
       return q;
     }
 
-    /* Stable Stem Key Helper for Auto-Sync / Merge */
     function getStableStemKey(folder, subfolder, rawNum, stemText) {
       const snippet = stemText.slice(0, 60).toLowerCase().replace(/[^a-z0-9]/g, "");
       return `${folder}__${subfolder}__${snippet}`;
     }
 
-    /* Seamless Merge: Adds new questions without touching existing progress */
     function syncAndMergeQuestions(rawText) {
       const incomingQuestions = parseDocumentText(rawText);
       if (!incomingQuestions.length) return false;
@@ -1314,9 +1435,7 @@
 
       if (addedCount > 0) {
         localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
-        renderHomeMetrics();
-        renderSubjectCards();
-        setupSubjectsList();
+        renderUWSurface();
         return true;
       }
       return false;
@@ -1330,7 +1449,7 @@
     let timerSeconds = 0;
     let timerRunning = true;
     let timerInterval = null;
-    let activeView = "home";
+    let activeView = "create-test";
 
     let userAnswers = {};
     let stagedAnswers = {};
@@ -1341,19 +1460,28 @@
     let navFilter = "all";
 
     /* DOM References */
-    const homeView = document.getElementById("homeView");
-    const quizWorkspace = document.getElementById("quizWorkspace");
-    const btnLogoHome = document.getElementById("btnLogoHome");
-    const btnNavHome = document.getElementById("btnNavHome");
-    const btnExitToHome = document.getElementById("btnExitToHome");
+    const uwSidebar = document.getElementById("uwSidebar");
+    const navItemCreateTest = document.getElementById("navItemCreateTest");
+    const navItemPerformance = document.getElementById("navItemPerformance");
+    const navItemImport = document.getElementById("navItemImport");
+    const navItemExport = document.getElementById("navItemExport");
+    const btnThemeToggle = document.getElementById("btnThemeToggle");
 
-    const statTotalQ = document.getElementById("statTotalQ");
-    const statAnsweredQ = document.getElementById("statAnsweredQ");
-    const statAccuracy = document.getElementById("statAccuracy");
-    const statMissedQ = document.getElementById("statMissedQ");
-    const statFlaggedQ = document.getElementById("statFlaggedQ");
-    const subjectCardsGrid = document.getElementById("subjectCardsGrid");
-    const subjectCountLabel = document.getElementById("subjectCountLabel");
+    const createTestView = document.getElementById("createTestView");
+    const performanceView = document.getElementById("performanceView");
+    const quizWorkspace = document.getElementById("quizWorkspace");
+    const uwSubjectTableBody = document.getElementById("uwSubjectTableBody");
+    const btnLaunchExam = document.getElementById("btnLaunchExam");
+    const inputBlockSize = document.getElementById("inputBlockSize");
+    const btnExamExit = document.getElementById("btnExamExit");
+
+    const countStatusAll = document.getElementById("countStatusAll");
+    const countStatusUnused = document.getElementById("countStatusUnused");
+    const countStatusIncorrect = document.getElementById("countStatusIncorrect");
+    const countStatusMarked = document.getElementById("countStatusMarked");
+    const countStatusCorrect = document.getElementById("countStatusCorrect");
+    const totalAvailablePool = document.getElementById("totalAvailablePool");
+    const totalSelectedInTree = document.getElementById("totalSelectedInTree");
 
     const examPane = document.getElementById("examPane");
     const qDisplayIndex = document.getElementById("qDisplayIndex");
@@ -1377,286 +1505,304 @@
     const timerText = document.getElementById("timerText");
     const timerPill = document.getElementById("timerPill");
     const btnToggleTimer = document.getElementById("btnToggleTimer");
-    const modeBadge = document.getElementById("modeBadge");
-    const filterBadge = document.getElementById("filterBadge");
-    const btnThemeToggle = document.getElementById("btnThemeToggle");
-    const hlToolbar = document.getElementById("hlToolbar");
+    const examModeBadge = document.getElementById("examModeBadge");
+    const examBlockBadge = document.getElementById("examBlockBadge");
     const sidebarPane = document.getElementById("sidebarPane");
     const btnToggleNav = document.getElementById("btnToggleNav");
     const resizerBar = document.getElementById("resizerBar");
     const btnFinishBlock = document.getElementById("btnFinishBlock");
 
-    // Clear Modal References
+    // Modal References
     const clearModal = document.getElementById("clearModal");
     const btnOpenClearModal = document.getElementById("btnOpenClearModal");
     const btnCloseClearModal = document.getElementById("btnCloseClearModal");
     const btnCancelClear = document.getElementById("btnCancelClear");
     const btnConfirmClear = document.getElementById("btnConfirmClear");
-    const clearSubjectSelect = document.getElementById("clearSubjectSelect");
-    const clearSubjectSelectGroup = document.getElementById("clearSubjectSelectGroup");
 
-    // Load Modal References
     const loadModal = document.getElementById("loadModal");
-    const btnOpenLoadModal = document.getElementById("btnOpenLoadModal");
     const btnCloseLoadModal = document.getElementById("btnCloseLoadModal");
     const btnCancelLoad = document.getElementById("btnCancelLoad");
     const btnParseDoc = document.getElementById("btnParseDoc");
     const txtDocInput = document.getElementById("txtDocInput");
 
-    // Export Modal References
     const exportModal = document.getElementById("exportModal");
-    const btnOpenExportModal = document.getElementById("btnOpenExportModal");
     const btnCloseExportModal = document.getElementById("btnCloseExportModal");
     const btnCancelExport = document.getElementById("btnCancelExport");
     const btnRunExport = document.getElementById("btnRunExport");
     const exportScope = document.getElementById("exportScope");
 
-    // Quiz Modal References
-    const quizModal = document.getElementById("quizModal");
-    const btnOpenQuizModal = document.getElementById("btnOpenQuizModal");
-    const btnCloseModal = document.getElementById("btnCloseModal");
-    const btnCancelQuiz = document.getElementById("btnCancelQuiz");
-    const btnStartCustomQuiz = document.getElementById("btnStartCustomQuiz");
-    const modalSubjectList = document.getElementById("modalSubjectList");
-    const btnSelectAllSub = document.getElementById("btnSelectAllSub");
-    const btnDeselectAllSub = document.getElementById("btnDeselectAllSub");
-
-    // Score Modal References
-    const scoreModal = document.getElementById("scoreModal");
-    const btnCloseScoreModal = document.getElementById("btnCloseScoreModal");
-    const btnReviewMissed = document.getElementById("btnReviewMissed");
-    const btnRetakeMissed = document.getElementById("btnRetakeMissed");
-    const btnScoreReturnHome = document.getElementById("btnScoreReturnHome");
-
-    const btnHeroQuickStart = document.getElementById("btnHeroQuickStart");
-    const btnHeroCustom = document.getElementById("btnHeroCustom");
-    const btnHeroImport = document.getElementById("btnHeroImport");
-
-    /* App Initialization with Auto-Sync / Merge */
-    function init() {
-      const savedAnswers = localStorage.getItem("nbme_user_answers");
-      if (savedAnswers) userAnswers = JSON.parse(savedAnswers);
-      const savedConfirmed = localStorage.getItem("nbme_confirmed_answers");
-      if (savedConfirmed) confirmedAnswers = JSON.parse(savedConfirmed);
-      const savedFlags = localStorage.getItem("nbme_flagged_questions");
-      if (savedFlags) flaggedQuestions = JSON.parse(savedFlags);
-
-      const savedBank = localStorage.getItem("nbme_all_questions");
-      if (savedBank) {
-        try {
-          ALL_QUESTIONS = JSON.parse(savedBank).map((q, i) => normalizeQuestionFolders(q, i));
-        } catch (e) {
-          ALL_QUESTIONS = [];
-        }
-      }
-
-      setupTimer();
-      setupResizer();
-      setupEventListeners();
-      showHomeView();
-
-      // Check embedded tag
-      const defaultDataEl = document.getElementById("default-questions-data");
-      const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
-      if (rawEmbeddedText.length > 0) {
-        syncAndMergeQuestions(rawEmbeddedText);
-      }
-
-      // Silently fetch and merge remote text files on load with cache-busting
-      const cacheBuster = `?t=${new Date().getTime()}`;
-      const remoteFiles = [
-        'FOM_Practice_Question_Bank_1.txt' + cacheBuster,
-        'Week_8_Practice_Questions.txt' + cacheBuster,
-        'questions.txt' + cacheBuster
-      ];
-
-      remoteFiles.forEach(fileUrl => {
-        fetch(fileUrl)
-          .then(res => {
-            if (!res.ok) throw new Error();
-            return res.text();
-          })
-          .then(text => {
-            if (text && text.trim().length > 0) {
-              syncAndMergeQuestions(text);
-            }
-          })
-          .catch(() => {
-            // Quietly ignore if a secondary file isn't present
-          });
-      });
-    }
-
-    function saveProgress() {
-      localStorage.setItem("nbme_user_answers", JSON.stringify(userAnswers));
-      localStorage.setItem("nbme_confirmed_answers", JSON.stringify(confirmedAnswers));
-      localStorage.setItem("nbme_flagged_questions", JSON.stringify(flaggedQuestions));
-    }
-
-    /* View Navigation */
-    function showHomeView() {
-      activeView = "home";
-      homeView.style.display = "flex";
-      quizWorkspace.style.display = "none";
-
-      timerPill.style.display = "none";
-      btnToggleTimer.style.display = "none";
-      btnFinishBlock.style.display = "none";
-      btnToggleNav.style.display = "none";
-
-      modeBadge.textContent = "Dashboard";
-      filterBadge.textContent = "Overview";
-
-      renderHomeMetrics();
-      renderSubjectCards();
-      setupSubjectsList();
-    }
-
-    function showQuizView() {
-      activeView = "quiz";
-      homeView.style.display = "none";
-      quizWorkspace.style.display = "flex";
-
-      timerPill.style.display = "flex";
-      btnToggleTimer.style.display = "inline-flex";
-      btnFinishBlock.style.display = "inline-flex";
-      btnToggleNav.style.display = "inline-flex";
-
-      renderQuestion();
-      renderNavPalette();
-    }
-
-    /* Dashboard Metrics & Folder Hub */
-    function renderHomeMetrics() {
-      const total = ALL_QUESTIONS.length;
-      let answered = 0;
-      let correct = 0;
-      let missed = 0;
-      let flagged = 0;
+    /* UWorld Dashboard Rendering */
+    function renderUWSurface() {
+      let totalQ = ALL_QUESTIONS.length;
+      let usedCount = 0;
+      let incorrectCount = 0;
+      let correctCount = 0;
+      let markedCount = 0;
 
       ALL_QUESTIONS.forEach(q => {
         if (confirmedAnswers[q.id]) {
-          answered++;
-          if (userAnswers[q.id] === q.answer) correct++;
-          else missed++;
+          usedCount++;
+          if (userAnswers[q.id] === q.answer) correctCount++;
+          else incorrectCount++;
         }
-        if (flaggedQuestions[q.id]) flagged++;
+        if (flaggedQuestions[q.id]) markedCount++;
       });
 
-      const acc = answered > 0 ? Math.round((correct / answered) * 100) : 0;
+      let unusedCount = totalQ - usedCount;
 
-      statTotalQ.textContent = total;
-      statAnsweredQ.textContent = answered;
-      statAccuracy.textContent = `${acc}%`;
-      statMissedQ.textContent = missed;
-      statFlaggedQ.textContent = flagged;
+      countStatusAll.textContent = totalQ;
+      countStatusUnused.textContent = unusedCount;
+      countStatusIncorrect.textContent = incorrectCount;
+      countStatusMarked.textContent = markedCount;
+      countStatusCorrect.textContent = correctCount;
+
+      document.getElementById("repCompleted").textContent = `${usedCount} / ${totalQ}`;
+      document.getElementById("repAccuracy").textContent = usedCount > 0 ? `${Math.round((correctCount / usedCount) * 100)}%` : "0%";
+      document.getElementById("repIncorrect").textContent = incorrectCount;
+      document.getElementById("repMarked").textContent = markedCount;
+
+      renderUWTable();
+      renderPerformanceBreakdown();
+      updateAvailableCount();
     }
 
-    function renderSubjectCards() {
+    function renderUWTable() {
       const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
-      subjectCountLabel.textContent = `${folders.length} Folders Loaded`;
-      subjectCardsGrid.innerHTML = "";
+      uwSubjectTableBody.innerHTML = "";
 
-      if (!folders.length) {
-        subjectCardsGrid.innerHTML = `
-          <div style="grid-column: 1 / -1; padding: 24px; text-align: center; color: var(--text-sub); background: var(--surface); border: 1px solid var(--border); border-radius: 8px;">
-            No questions loaded. Click <strong>Import</strong> above or upload your text files.
+      folders.forEach(fName => {
+        const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
+        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
+
+        const folderRow = document.createElement("div");
+        folderRow.className = "uw-folder-row";
+
+        // Folder starts COLLAPSED and UNCHECKED by default
+        const headerDiv = document.createElement("div");
+        headerDiv.className = "uw-folder-header";
+        headerDiv.innerHTML = `
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="folder-toggle-icon">&#9656;</span>
+            <input type="checkbox" class="chk-folder-master" data-folder="${fName}" />
+            <span>${fName}</span>
+          </div>
+          <span style="text-align:center;">${folderQs.length}</span>
+          <span style="text-align:center;" class="folder-sel-count">0</span>
+          <div style="text-align:center;">
+            <button class="btn-quick-play" data-action="all-folder" data-folder="${fName}">Practice All</button>
           </div>
         `;
+
+        const subContainer = document.createElement("div");
+        subContainer.className = "uw-folder-subitems collapsed";
+
+        subfolders.forEach(sName => {
+          const subQs = folderQs.filter(q => (q.subfolder || "General") === sName);
+          const subSubject = sName !== "General" ? `${fName} / ${sName}` : fName;
+          const subLabel = sName === "General" ? "General / Overview" : sName;
+
+          const subRow = document.createElement("div");
+          subRow.className = "uw-sub-row";
+          subRow.innerHTML = `
+            <div style="display:flex; align-items:center; gap:8px;">
+              <input type="checkbox" class="chk-sub-item" name="uwSubjectCheck" data-parent-folder="${fName}" value="${subSubject}" />
+              <span>${subLabel}</span>
+            </div>
+            <span style="text-align:center;">${subQs.length}</span>
+            <span style="text-align:center;" class="sub-sel-count">0</span>
+            <div style="text-align:center;">
+              <button class="btn-quick-play" data-action="all-subfolder" data-subject="${subSubject}">Practice</button>
+            </div>
+          `;
+          subContainer.appendChild(subRow);
+        });
+
+        // Click on header expands/collapses the subfolder unless clicking buttons/checkboxes
+        headerDiv.addEventListener("click", (e) => {
+          if (e.target.tagName.toLowerCase() === "input" || e.target.classList.contains("btn-quick-play")) return;
+          const icon = headerDiv.querySelector(".folder-toggle-icon");
+          subContainer.classList.toggle("collapsed");
+          icon.classList.toggle("expanded");
+        });
+
+        const masterChk = headerDiv.querySelector(".chk-folder-master");
+        masterChk.addEventListener("change", (e) => {
+          const isChecked = e.target.checked;
+          subContainer.querySelectorAll(".chk-sub-item").forEach(cb => {
+            cb.checked = isChecked;
+          });
+          updateAvailableCount();
+        });
+
+        subContainer.querySelectorAll(".chk-sub-item").forEach(cb => {
+          cb.addEventListener("change", () => {
+            const allSubs = Array.from(subContainer.querySelectorAll(".chk-sub-item"));
+            const allChecked = allSubs.every(c => c.checked);
+            const someChecked = allSubs.some(c => c.checked);
+            masterChk.checked = allChecked;
+            masterChk.indeterminate = someChecked && !allChecked;
+            updateAvailableCount();
+          });
+        });
+
+        // Instant Action Button: Practice All in this Folder
+        headerDiv.querySelector('[data-action="all-folder"]').addEventListener("click", (e) => {
+          e.stopPropagation();
+          startDirectPractice(q => (q.folder || "General") === fName, fName);
+        });
+
+        // Instant Action Buttons: Practice specific Subfolder
+        subContainer.querySelectorAll('[data-action="all-subfolder"]').forEach(btn => {
+          btn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            const targetSubject = btn.dataset.subject;
+            startDirectPractice(q => q.subject === targetSubject, targetSubject);
+          });
+        });
+
+        folderRow.appendChild(headerDiv);
+        folderRow.appendChild(subContainer);
+        uwSubjectTableBody.appendChild(folderRow);
+      });
+    }
+
+    /* Start Direct Practice for a single Folder or Subfolder (All Questions) */
+    function startDirectPractice(filterFn, title) {
+      let pool = ALL_QUESTIONS.filter(filterFn);
+      if (!pool.length) {
+        alert(`No questions found in ${title}.`);
         return;
       }
 
-      folders.forEach(folderName => {
-        const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === folderName);
-        let folderAnswered = 0;
-        let folderCorrect = 0;
+      const isTimed = document.querySelector('input[name="uwTestMode"]:checked').value === "timed";
+      const doShuffleQ = document.getElementById("chkRandomizeQ").checked;
+      const doShuffleChoices = document.getElementById("chkRandomizeChoices").checked;
 
+      if (doShuffleQ) pool = pool.sort(() => Math.random() - 0.5);
+
+      if (doShuffleChoices) {
+        pool = pool.map(q => {
+          const clone = JSON.parse(JSON.stringify(q));
+          clone.choices = clone.choices.sort(() => Math.random() - 0.5);
+          return clone;
+        });
+      }
+
+      currentQuestions = pool;
+      currentIndex = 0;
+      testMode = isTimed ? "timed" : "tutor";
+
+      if (testMode === "timed") {
+        timerSeconds = currentQuestions.length * 90;
+      } else {
+        timerSeconds = 0;
+      }
+
+      timerRunning = true;
+      btnToggleTimer.textContent = "Pause";
+      examModeBadge.textContent = isTimed ? "Timed Exam" : "Tutor Mode";
+      examBlockBadge.textContent = `${title} (${currentQuestions.length} Qs)`;
+
+      showView("exam");
+    }
+
+    function renderPerformanceBreakdown() {
+      const container = document.getElementById("performanceFolderList");
+      container.innerHTML = "";
+      const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
+
+      folders.forEach(fName => {
+        const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
+        let done = 0;
+        let correct = 0;
         folderQs.forEach(q => {
           if (confirmedAnswers[q.id]) {
-            folderAnswered++;
-            if (userAnswers[q.id] === q.answer) folderCorrect++;
+            done++;
+            if (userAnswers[q.id] === q.answer) correct++;
           }
         });
 
-        const pct = folderQs.length > 0 ? Math.round((folderAnswered / folderQs.length) * 100) : 0;
-        const acc = folderAnswered > 0 ? Math.round((folderCorrect / folderAnswered) * 100) : 0;
-
-        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
-        const hasDistinctSubfolders = subfolders.some(s => s !== "General");
-
-        let subgroupsHtml = "";
-        if (hasDistinctSubfolders) {
-          subgroupsHtml = `<div class="subgroups-list">`;
-          subfolders.forEach(subName => {
-            const subQs = folderQs.filter(q => (q.subfolder || "General") === subName);
-            const subLabel = subName === "General" ? "General / Overview" : subName;
-            subgroupsHtml += `
-              <div class="subgroup-item">
-                <span>${subLabel} <small style="color:var(--text-sub)">(${subQs.length} Qs)</small></span>
-                <button data-study-subfolder="${folderName}::${subName}">Practice</button>
-              </div>
-            `;
-          });
-          subgroupsHtml += `</div>`;
-        }
-
+        const pct = done > 0 ? Math.round((correct / done) * 100) : 0;
         const card = document.createElement("div");
-        card.className = "subject-box";
+        card.className = "perf-folder-card";
         card.innerHTML = `
-          <div>
-            <div class="sub-box-header">
-              <span class="sub-box-title">${folderName}</span>
-              <span class="sub-box-count">${folderQs.length} Questions</span>
-            </div>
-            <div class="sub-box-progress" style="margin-top: 12px; margin-bottom: 12px;">
-              <div style="display:flex; justify-content:space-between;">
-                <span>Completed: ${folderAnswered}/${folderQs.length}</span>
-                <span>Accuracy: ${acc}%</span>
-              </div>
-              <div class="progress-bar-bg">
-                <div class="progress-bar-fill" style="width: ${pct}%;"></div>
-              </div>
-            </div>
-            ${subgroupsHtml}
+          <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.85rem; font-weight:700;">
+            <span>${fName} <small style="color:var(--text-muted); font-weight:600;">(${done}/${folderQs.length} completed)</small></span>
+            <span style="background:var(--border-sub); padding:2px 8px; border-radius:12px; font-size:0.75rem;">Accuracy: ${pct}%</span>
           </div>
-          <div class="sub-box-actions" style="margin-top: 12px;">
-            <button class="btn-primary" style="flex:1;" data-folderstart="${folderName}">All in Folder</button>
-            <button data-foldermissed="${folderName}" title="Practice missed questions in this folder">Missed Only</button>
+          <div style="width:100%;height:6px;background:var(--border-sub);border-radius:4px;overflow:hidden;margin-top:2px;">
+            <div style="width:${pct}%;height:100%;background:var(--uw-primary);transition:width 0.3s ease;"></div>
           </div>
         `;
-
-        card.querySelector(`[data-folderstart="${folderName}"]`).addEventListener("click", () => {
-          startBlockByFilter(q => (q.folder || "General") === folderName, folderName, false);
-        });
-
-        card.querySelector(`[data-foldermissed="${folderName}"]`).addEventListener("click", () => {
-          startBlockByFilter(q => (q.folder || "General") === folderName, `${folderName} (Missed)`, true);
-        });
-
-        card.querySelectorAll("[data-study-subfolder]").forEach(btn => {
-          btn.addEventListener("click", (e) => {
-            const [fName, sName] = e.target.dataset.studySubfolder.split("::");
-            startBlockByFilter(
-              q => (q.folder || "General") === fName && (q.subfolder || "General") === sName,
-              `${fName} / ${sName}`,
-              false
-            );
-          });
-        });
-
-        subjectCardsGrid.appendChild(card);
+        container.appendChild(card);
       });
     }
 
-    function startBlockByFilter(filterFn, title, missedOnly) {
-      let pool = ALL_QUESTIONS.filter(filterFn);
-      if (missedOnly) {
-        pool = pool.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-        if (!pool.length) {
-          alert(`Great job! You have no missed questions recorded in ${title}.`);
-          return;
-        }
+    function updateAvailableCount() {
+      const poolStatus = document.querySelector('input[name="qPoolStatus"]:checked').value;
+      const selectedSubs = Array.from(document.querySelectorAll('input[name="uwSubjectCheck"]:checked')).map(cb => cb.value);
 
+      let eligible = ALL_QUESTIONS.filter(q => selectedSubs.includes(q.subject));
+
+      if (poolStatus === "unanswered") {
+        eligible = eligible.filter(q => !confirmedAnswers[q.id]);
+      } else if (poolStatus === "missed") {
+        eligible = eligible.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
+      } else if (poolStatus === "flagged") {
+        eligible = eligible.filter(q => flaggedQuestions[q.id]);
+      } else if (poolStatus === "correct") {
+        eligible = eligible.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
+      }
+
+      totalAvailablePool.textContent = eligible.length;
+      totalSelectedInTree.textContent = eligible.length;
+
+      document.querySelectorAll(".uw-folder-row").forEach(folderRow => {
+        let folderSelectedCount = 0;
+        folderRow.querySelectorAll(".uw-sub-row").forEach(subRow => {
+          const cb = subRow.querySelector(".chk-sub-item");
+          const selSpan = subRow.querySelector(".sub-sel-count");
+          if (cb.checked) {
+            let subEligible = ALL_QUESTIONS.filter(q => q.subject === cb.value);
+            if (poolStatus === "unanswered") subEligible = subEligible.filter(q => !confirmedAnswers[q.id]);
+            else if (poolStatus === "missed") subEligible = subEligible.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
+            else if (poolStatus === "flagged") subEligible = subEligible.filter(q => flaggedQuestions[q.id]);
+            else if (poolStatus === "correct") subEligible = subEligible.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
+            selSpan.textContent = subEligible.length;
+            folderSelectedCount += subEligible.length;
+          } else {
+            selSpan.textContent = "0";
+          }
+        });
+        folderRow.querySelector(".folder-sel-count").textContent = folderSelectedCount;
+      });
+
+      inputBlockSize.max = Math.max(1, eligible.length);
+      if (parseInt(inputBlockSize.value, 10) > eligible.length && eligible.length > 0) {
+        inputBlockSize.value = Math.min(40, eligible.length);
+      }
+    }
+
+    /* Start Exam from UWorld Launch Bar with 90s/Question Timed Countdown */
+    function launchCustomExam() {
+      const poolStatus = document.querySelector('input[name="qPoolStatus"]:checked').value;
+      const selectedSubs = Array.from(document.querySelectorAll('input[name="uwSubjectCheck"]:checked')).map(cb => cb.value);
+      const isTimed = document.querySelector('input[name="uwTestMode"]:checked').value === "timed";
+      const doShuffleQ = document.getElementById("chkRandomizeQ").checked;
+      const doShuffleChoices = document.getElementById("chkRandomizeChoices").checked;
+      const requestedCount = parseInt(inputBlockSize.value, 10) || 10;
+
+      if (!selectedSubs.length) {
+        alert("Please select at least one system or subject.");
+        return;
+      }
+
+      let pool = ALL_QUESTIONS.filter(q => selectedSubs.includes(q.subject));
+
+      if (poolStatus === "unanswered") {
+        pool = pool.filter(q => !confirmedAnswers[q.id]);
+      } else if (poolStatus === "missed") {
+        pool = pool.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
         pool.forEach(q => {
           delete confirmedAnswers[q.id];
           delete userAnswers[q.id];
@@ -1664,121 +1810,74 @@
           delete struckChoices[q.id];
         });
         saveProgress();
+      } else if (poolStatus === "flagged") {
+        pool = pool.filter(q => flaggedQuestions[q.id]);
+      } else if (poolStatus === "correct") {
+        pool = pool.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
       }
 
       if (!pool.length) {
-        alert("No questions found for this selection.");
+        alert("No questions available for this criteria.");
         return;
+      }
+
+      if (doShuffleQ) pool = pool.sort(() => Math.random() - 0.5);
+      pool = pool.slice(0, requestedCount);
+
+      if (doShuffleChoices) {
+        pool = pool.map(q => {
+          const clone = JSON.parse(JSON.stringify(q));
+          clone.choices = clone.choices.sort(() => Math.random() - 0.5);
+          return clone;
+        });
       }
 
       currentQuestions = pool;
       currentIndex = 0;
-      testMode = "tutor";
-      modeBadge.textContent = "Subject Study";
-      filterBadge.textContent = title;
-      timerSeconds = 0;
-      showQuizView();
-    }
-
-    /* Hierarchical Test Builder & Clear Setup */
-    function setupSubjectsList() {
-      const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
-      modalSubjectList.innerHTML = "";
-
-      folders.forEach(fName => {
-        const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
-        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
-
-        const folderBox = document.createElement("div");
-        folderBox.className = "folder-group-box";
-
-        const headerRow = document.createElement("div");
-        headerRow.className = "folder-header-row";
-        headerRow.innerHTML = `
-          <label class="checkbox-pill" style="margin:0;">
-            <input type="checkbox" class="chk-folder-master" data-folder="${fName}" checked />
-            <strong>${fName} <small style="color:var(--text-sub)">(${folderQs.length} Qs)</small></strong>
-          </label>
-          <span style="font-size:0.75rem;color:var(--text-sub);font-weight:600;">(Toggle All)</span>
-        `;
-
-        const subGrid = document.createElement("div");
-        subGrid.className = "subgroups-checkbox-grid";
-
-        subfolders.forEach(sName => {
-          const subSubject = sName !== "General" ? `${fName} / ${sName}` : fName;
-          const count = folderQs.filter(q => (q.subfolder || "General") === sName).length;
-          const subLabelText = sName === "General" ? "General / Overview" : sName;
-
-          const label = document.createElement("label");
-          label.className = "checkbox-pill";
-          label.innerHTML = `
-            <input type="checkbox" name="subjectCheck" data-parent-folder="${fName}" value="${subSubject}" checked />
-            <span>${subLabelText} <small style="color:var(--text-sub)">(${count})</small></span>
-          `;
-          subGrid.appendChild(label);
-        });
-
-        // Folder Master Checkbox Event
-        const masterChk = headerRow.querySelector(".chk-folder-master");
-        masterChk.addEventListener("change", (e) => {
-          const isChecked = e.target.checked;
-          subGrid.querySelectorAll('input[name="subjectCheck"]').forEach(cb => {
-            cb.checked = isChecked;
-          });
-        });
-
-        // Child Checkboxes Event to update Folder Master Checkbox
-        subGrid.querySelectorAll('input[name="subjectCheck"]').forEach(cb => {
-          cb.addEventListener("change", () => {
-            const allInFolder = Array.from(subGrid.querySelectorAll('input[name="subjectCheck"]'));
-            const someChecked = allInFolder.some(c => c.checked);
-            const allChecked = allInFolder.every(c => c.checked);
-            masterChk.checked = allChecked;
-            masterChk.indeterminate = someChecked && !allChecked;
-          });
-        });
-
-        folderBox.appendChild(headerRow);
-        folderBox.appendChild(subGrid);
-        modalSubjectList.appendChild(folderBox);
-      });
-
-      // Clear Modal Select setup
-      clearSubjectSelect.innerHTML = "";
-      const optGroupFolders = document.createElement("optgroup");
-      optGroupFolders.label = "Entire Main Folders";
-      folders.forEach(f => {
-        const count = ALL_QUESTIONS.filter(q => (q.folder || "General") === f).length;
-        const opt = document.createElement("option");
-        opt.value = `folder::${f}`;
-        opt.textContent = `Folder: ${f} (${count} questions)`;
-        optGroupFolders.appendChild(opt);
-      });
-      clearSubjectSelect.appendChild(optGroupFolders);
-
-      const optGroupSub = document.createElement("optgroup");
-      optGroupSub.label = "Specific Sub-topics";
-      const subjects = [...new Set(ALL_QUESTIONS.map(q => q.subject))];
-      subjects.forEach(sub => {
-        const count = ALL_QUESTIONS.filter(q => q.subject === sub).length;
-        const opt = document.createElement("option");
-        opt.value = `subject::${sub}`;
-        opt.textContent = `${sub} (${count} questions)`;
-        optGroupSub.appendChild(opt);
-      });
-      clearSubjectSelect.appendChild(optGroupSub);
-    }
-
-    /* Render Current Question */
-    function renderQuestion() {
-      if (!currentQuestions.length) {
-        vignetteText.textContent = "No questions selected. Return to the dashboard or create a new quiz block.";
-        choicesList.innerHTML = "";
-        explanationBox.classList.remove("visible");
-        btnConfirmAnswer.style.display = "none";
-        return;
+      testMode = isTimed ? "timed" : "tutor";
+      
+      if (testMode === "timed") {
+        timerSeconds = currentQuestions.length * 90;
+      } else {
+        timerSeconds = 0;
       }
+
+      timerRunning = true;
+      btnToggleTimer.textContent = "Pause";
+      examModeBadge.textContent = isTimed ? "Timed Exam" : "Tutor Mode";
+      examBlockBadge.textContent = `${currentQuestions.length} Questions`;
+
+      showView("exam");
+    }
+
+    /* View Switcher */
+    function showView(viewName) {
+      activeView = viewName;
+
+      if (viewName === "exam") {
+        uwSidebar.style.display = "none";
+        createTestView.style.display = "none";
+        performanceView.style.display = "none";
+        quizWorkspace.style.display = "flex";
+        renderQuestion();
+        renderNavPalette();
+      } else {
+        uwSidebar.style.display = "flex";
+        quizWorkspace.style.display = "none";
+        createTestView.style.display = viewName === "create-test" ? "flex" : "none";
+        performanceView.style.display = viewName === "performance" ? "flex" : "none";
+
+        document.querySelectorAll(".uw-nav-item").forEach(item => item.classList.remove("active"));
+        if (viewName === "create-test") navItemCreateTest.classList.add("active");
+        if (viewName === "performance") navItemPerformance.classList.add("active");
+
+        renderUWSurface();
+      }
+    }
+
+    /* Render Exam Interface */
+    function renderQuestion() {
+      if (!currentQuestions.length) return;
 
       const q = currentQuestions[currentIndex];
       qDisplayIndex.textContent = `Question ${currentIndex + 1} of ${currentQuestions.length}`;
@@ -1788,7 +1887,7 @@
 
       if (flaggedQuestions[q.id]) {
         btnFlag.classList.add("active");
-        btnFlag.textContent = "Flagged";
+        btnFlag.textContent = "Marked";
       } else {
         btnFlag.classList.remove("active");
         btnFlag.textContent = "Flag";
@@ -1811,11 +1910,8 @@
           if (selectedChoice === ch.letter) card.classList.add("staged");
           if (isConfirmed && testMode === "tutor") {
             card.classList.add("locked");
-            if (ch.letter === q.answer) {
-              card.classList.add("correct");
-            } else if (selectedChoice === ch.letter) {
-              card.classList.add("wrong");
-            }
+            if (ch.letter === q.answer) card.classList.add("correct");
+            else if (selectedChoice === ch.letter) card.classList.add("wrong");
           }
         } else {
           if (stagedChoice === ch.letter) card.classList.add("staged");
@@ -1855,25 +1951,23 @@
 
       if (testMode === "timed") {
         btnConfirmAnswer.style.display = "none";
-        confirmHint.textContent = "Timed mode: selection is saved automatically.";
+        confirmHint.textContent = "Timed exam: selection saved.";
       } else {
         btnConfirmAnswer.style.display = "inline-flex";
         if (isConfirmed) {
           btnConfirmAnswer.disabled = true;
-          btnConfirmAnswer.textContent = "Answer Locked";
-          confirmHint.textContent = "Answer verified. Review explanations below.";
+          btnConfirmAnswer.textContent = "Locked";
+          confirmHint.textContent = "Answer evaluated. See rationales below.";
         } else {
           btnConfirmAnswer.disabled = !stagedChoice;
           btnConfirmAnswer.textContent = "Confirm Answer";
-          confirmHint.textContent = stagedChoice
-            ? `Ready to confirm Choice ${stagedChoice}. Press Enter or click confirm.`
-            : "Click an option (A–E) above to stage your answer.";
+          confirmHint.textContent = stagedChoice ? `Press Enter to confirm ${stagedChoice}.` : "Select an answer choice.";
         }
       }
 
       if (isConfirmed && testMode === "tutor") {
         explanationBox.classList.add("visible");
-        expCorrectTag.textContent = `Correct Answer: Option ${q.answer}`;
+        expCorrectTag.textContent = `Correct Answer: ${q.answer}`;
         expWhyCorrect.textContent = q.whyCorrect || "No explanation provided.";
 
         let wrongHtml = "";
@@ -1883,7 +1977,7 @@
             wrongHtml += `<p style="margin-bottom:8px;"><strong>Option ${letter}:</strong> ${q.whyWrong[letter]}</p>`;
           });
         } else {
-          wrongHtml = `<p style="color:var(--text-sub);font-style:italic;">No distractor rationales available.</p>`;
+          wrongHtml = `<p style="color:var(--text-muted);font-style:italic;">No distractor rationales available.</p>`;
         }
         expWhyWrong.innerHTML = wrongHtml;
         expObjective.textContent = q.objective ? `Learning Objective: ${q.objective}` : "";
@@ -1898,11 +1992,8 @@
 
     function toggleStrikethrough(qId, letter) {
       if (!struckChoices[qId]) struckChoices[qId] = new Set();
-      if (struckChoices[qId].has(letter)) {
-        struckChoices[qId].delete(letter);
-      } else {
-        struckChoices[qId].add(letter);
-      }
+      if (struckChoices[qId].has(letter)) struckChoices[qId].delete(letter);
+      else struckChoices[qId].add(letter);
       renderQuestion();
     }
 
@@ -1956,231 +2047,121 @@
       });
     }
 
-    function setupResizer() {
-      let isDragging = false;
-      resizerBar.addEventListener("mousedown", () => {
-        isDragging = true;
-        resizerBar.classList.add("dragging");
-        document.body.style.cursor = "col-resize";
-      });
-
-      window.addEventListener("mousemove", (e) => {
-        if (!isDragging) return;
-        const newWidth = document.body.clientWidth - e.clientX;
-        if (newWidth >= 170 && newWidth <= 440) {
-          sidebarPane.style.width = `${newWidth}px`;
-        }
-      });
-
-      window.addEventListener("mouseup", () => {
-        if (isDragging) {
-          isDragging = false;
-          resizerBar.classList.remove("dragging");
-          document.body.style.cursor = "default";
-        }
-      });
+    function applySavedHighlights(qId) {
+      if (highlights[qId]) vignetteText.innerHTML = highlights[qId];
     }
 
+    /* Timer Setup with Downward Countdown for Timed Exams */
     function setupTimer() {
       if (timerInterval) clearInterval(timerInterval);
       timerInterval = setInterval(() => {
-        if (!timerRunning || activeView !== "quiz") return;
-        timerSeconds++;
+        if (!timerRunning || activeView !== "exam") return;
+
+        if (testMode === "timed") {
+          if (timerSeconds > 0) {
+            timerSeconds--;
+          } else {
+            timerRunning = false;
+            alert("Time has expired! Your exam block will now close.");
+            showView("performance");
+            return;
+          }
+        } else {
+          timerSeconds++;
+        }
+
         const mins = String(Math.floor(timerSeconds / 60)).padStart(2, "0");
         const secs = String(timerSeconds % 60).padStart(2, "0");
         timerText.textContent = `${mins}:${secs}`;
       }, 1000);
     }
 
-    btnToggleTimer.addEventListener("click", () => {
-      timerRunning = !timerRunning;
-      btnToggleTimer.textContent = timerRunning ? "Pause" : "Resume";
-      timerText.style.opacity = timerRunning ? "1" : "0.5";
-    });
-
-    vignetteText.addEventListener("mouseup", () => {
-      const selection = window.getSelection();
-      if (!selection || selection.isCollapsed || !selection.toString().trim()) {
-        hlToolbar.style.display = "none";
-        return;
-      }
-      const range = selection.getRangeAt(0);
-      const rect = range.getBoundingClientRect();
-      const parentRect = examPane.getBoundingClientRect();
-
-      hlToolbar.style.top = `${rect.top - parentRect.top - 36 + examPane.scrollTop}px`;
-      hlToolbar.style.left = `${rect.left - parentRect.left}px`;
-      hlToolbar.style.display = "flex";
-    });
-
-    hlToolbar.addEventListener("click", (e) => {
-      const btn = e.target.closest("button");
-      if (!btn || !currentQuestions.length) return;
-      const color = btn.dataset.color;
-      const q = currentQuestions[currentIndex];
-
-      if (color === "clear") {
-        document.execCommand("removeFormat", false, null);
-      } else {
-        const span = document.createElement("span");
-        span.className = `hl-${color}`;
-        const selection = window.getSelection();
-        if (selection.rangeCount) {
-          const range = selection.getRangeAt(0);
-          span.textContent = range.toString();
-          range.deleteContents();
-          range.insertNode(span);
-        }
-      }
-
-      highlights[q.id] = vignetteText.innerHTML;
-      hlToolbar.style.display = "none";
-      window.getSelection().removeAllRanges();
-    });
-
-    function applySavedHighlights(qId) {
-      if (highlights[qId]) {
-        vignetteText.innerHTML = highlights[qId];
-      }
+    function saveProgress() {
+      localStorage.setItem("nbme_user_answers", JSON.stringify(userAnswers));
+      localStorage.setItem("nbme_confirmed_answers", JSON.stringify(confirmedAnswers));
+      localStorage.setItem("nbme_flagged_questions", JSON.stringify(flaggedQuestions));
     }
 
-    btnClearHighlights.addEventListener("click", () => {
-      if (!currentQuestions.length) return;
-      const q = currentQuestions[currentIndex];
-      delete highlights[q.id];
-      vignetteText.innerHTML = q.stem;
-    });
+    /* App Initialization */
+    function init() {
+      const savedAnswers = localStorage.getItem("nbme_user_answers");
+      if (savedAnswers) userAnswers = JSON.parse(savedAnswers);
+      const savedConfirmed = localStorage.getItem("nbme_confirmed_answers");
+      if (savedConfirmed) confirmedAnswers = JSON.parse(savedConfirmed);
+      const savedFlags = localStorage.getItem("nbme_flagged_questions");
+      if (savedFlags) flaggedQuestions = JSON.parse(savedFlags);
 
-    window.addEventListener("keydown", (e) => {
-      if (activeView !== "quiz") return;
-      if (quizModal.classList.contains("open") || scoreModal.classList.contains("open") || loadModal.classList.contains("open") || exportModal.classList.contains("open") || clearModal.classList.contains("open")) return;
-      const key = e.key.toUpperCase();
-
-      if (["A", "B", "C", "D", "E"].includes(key)) {
-        if (!currentQuestions.length) return;
-        const q = currentQuestions[currentIndex];
-        if (confirmedAnswers[q.id] && testMode === "tutor") return;
-        if (testMode === "timed") {
-          userAnswers[q.id] = key;
-          confirmedAnswers[q.id] = true;
-          saveProgress();
-        } else {
-          stagedAnswers[q.id] = key;
-        }
-        renderQuestion();
-        renderNavPalette();
-      } else if (e.key === "Enter") {
-        confirmCurrentAnswer();
-      } else if (key === "N" && currentIndex < currentQuestions.length - 1) {
-        currentIndex++;
-        renderQuestion();
-        renderNavPalette();
-      } else if (key === "P" && currentIndex > 0) {
-        currentIndex--;
-        renderQuestion();
-        renderNavPalette();
-      } else if (key === "F") {
-        if (!currentQuestions.length) return;
-        const q = currentQuestions[currentIndex];
-        flaggedQuestions[q.id] = !flaggedQuestions[q.id];
-        saveProgress();
-        renderQuestion();
-        renderNavPalette();
-      }
-    });
-
-    /* Re-import-Friendly Export Engine */
-    function handleExport() {
-      const scope = exportScope.value;
-      const format = document.querySelector('input[name="exportFormat"]:checked').value;
-
-      let exportList = [];
-      if (scope === "missed") {
-        exportList = ALL_QUESTIONS.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-      } else if (scope === "flagged") {
-        exportList = ALL_QUESTIONS.filter(q => flaggedQuestions[q.id]);
-      } else {
-        exportList = [...ALL_QUESTIONS];
-      }
-
-      if (!exportList.length) {
-        alert(`No questions found in category: ${scope}`);
-        return;
-      }
-
-      let content = "";
-      let filename = `NBME_${scope}_questions_${new Date().toISOString().slice(0,10)}`;
-
-      if (format === "json") {
-        content = JSON.stringify(exportList, null, 2);
-        filename += ".json";
-      } else {
-        filename += ".txt";
-        
-        const grouped = {};
-        exportList.forEach(q => {
-          const sub = q.subject || "General";
-          if (!grouped[sub]) grouped[sub] = [];
-          grouped[sub].push(q);
-        });
-
-        let qCounter = 1;
-        for (const [subTitle, qArr] of Object.entries(grouped)) {
-          content += `${subTitle}\n\n`;
-
-          qArr.forEach(q => {
-            content += `Question ${qCounter}\n`;
-            content += `${q.stem}\n`;
-            q.choices.forEach(ch => {
-              content += `${ch.letter}. ${ch.text}\n`;
-            });
-            
-            const matchChoice = q.choices.find(c => c.letter === q.answer);
-            const ansText = matchChoice ? matchChoice.text : "";
-            content += `Answer: ${q.answer}. ${ansText}\n`;
-            
-            if (q.whyCorrect) {
-              content += `Why this is correct: ${q.whyCorrect}\n`;
-            }
-            
-            if (q.whyWrong && Object.keys(q.whyWrong).length > 0) {
-              content += `Why the other answers are wrong:\n`;
-              for (const [lettr, reason] of Object.entries(q.whyWrong)) {
-                content += `${lettr}. ${reason}\n`;
-              }
-            }
-            
-            if (q.objective) {
-              content += `Objective: ${q.objective}\n`;
-            }
-            
-            content += `\n`;
-            qCounter++;
-          });
+      const savedBank = localStorage.getItem("nbme_all_questions");
+      if (savedBank) {
+        try {
+          ALL_QUESTIONS = JSON.parse(savedBank).map((q, i) => normalizeQuestionFolders(q, i));
+        } catch (e) {
+          ALL_QUESTIONS = [];
         }
       }
 
-      const blob = new Blob([content], { type: format === "json" ? "application/json" : "text/plain;charset=utf-8" });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = filename;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
-      exportModal.classList.remove("open");
-    }
+      setupTimer();
+      setupEventListeners();
+      showView("create-test");
 
-    /* Event Listeners */
-    function setupEventListeners() {
-      btnLogoHome.addEventListener("click", showHomeView);
-      btnNavHome.addEventListener("click", showHomeView);
-      btnExitToHome.addEventListener("click", showHomeView);
-      btnScoreReturnHome.addEventListener("click", () => {
-        scoreModal.classList.remove("open");
-        showHomeView();
+      const defaultDataEl = document.getElementById("default-questions-data");
+      const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
+      if (rawEmbeddedText.length > 0) syncAndMergeQuestions(rawEmbeddedText);
+
+      const cacheBuster = `?t=${new Date().getTime()}`;
+      const remoteFiles = [
+        'FOM_Practice_Question_Bank_1.txt' + cacheBuster,
+        'Week_8_Practice_Questions.txt' + cacheBuster,
+        'questions.txt' + cacheBuster
+      ];
+
+      remoteFiles.forEach(fileUrl => {
+        fetch(fileUrl)
+          .then(res => { if (!res.ok) throw new Error(); return res.text(); })
+          .then(text => { if (text && text.trim().length > 0) syncAndMergeQuestions(text); })
+          .catch(() => {});
       });
+    }
+
+    function setupEventListeners() {
+      navItemCreateTest.addEventListener("click", () => showView("create-test"));
+      navItemPerformance.addEventListener("click", () => showView("performance"));
+      navItemImport.addEventListener("click", () => loadModal.classList.add("open"));
+      navItemExport.addEventListener("click", () => exportModal.classList.add("open"));
+      btnExamExit.addEventListener("click", () => showView("create-test"));
+
+      // Segmented Radio Buttons Toggle styling
+      document.querySelectorAll('input[name="uwTestMode"]').forEach(radio => {
+        radio.addEventListener("change", (e) => {
+          document.querySelectorAll('#btnModeTutor, #btnModeTimed').forEach(btn => btn.classList.remove("active"));
+          e.target.closest(".segmented-btn").classList.add("active");
+        });
+      });
+
+      // Status Matrix Tile clicks
+      document.querySelectorAll(".status-tile").forEach(tile => {
+        tile.addEventListener("click", () => {
+          document.querySelectorAll(".status-tile").forEach(t => t.classList.remove("active"));
+          tile.classList.add("active");
+          tile.querySelector('input[type="radio"]').checked = true;
+          updateAvailableCount();
+        });
+      });
+
+      // Table Select All / Deselect All
+      document.getElementById("btnTableSelectAll").addEventListener("click", () => {
+        document.querySelectorAll('input[name="uwSubjectCheck"]').forEach(cb => cb.checked = true);
+        document.querySelectorAll('.chk-folder-master').forEach(cb => { cb.checked = true; cb.indeterminate = false; });
+        updateAvailableCount();
+      });
+      document.getElementById("btnTableDeselectAll").addEventListener("click", () => {
+        document.querySelectorAll('input[name="uwSubjectCheck"]').forEach(cb => cb.checked = false);
+        document.querySelectorAll('.chk-folder-master').forEach(cb => { cb.checked = false; cb.indeterminate = false; });
+        updateAvailableCount();
+      });
+
+      btnLaunchExam.addEventListener("click", launchCustomExam);
+      btnConfirmAnswer.addEventListener("click", confirmCurrentAnswer);
 
       btnResetCurrentQ.addEventListener("click", () => {
         if (!currentQuestions.length) return;
@@ -2194,42 +2175,6 @@
         renderNavPalette();
       });
 
-      btnHeroQuickStart.addEventListener("click", () => {
-        if (!ALL_QUESTIONS.length) {
-          alert("Please import questions first.");
-          return;
-        }
-        let pool = [...ALL_QUESTIONS].sort(() => Math.random() - 0.5).slice(0, 10);
-        currentQuestions = pool;
-        currentIndex = 0;
-        testMode = "tutor";
-        timerSeconds = 0;
-        modeBadge.textContent = "Tutor Mode";
-        filterBadge.textContent = "Quick 10";
-        showQuizView();
-      });
-
-      btnHeroCustom.addEventListener("click", () => quizModal.classList.add("open"));
-      btnHeroImport.addEventListener("click", () => loadModal.classList.add("open"));
-
-      btnConfirmAnswer.addEventListener("click", confirmCurrentAnswer);
-
-      btnPrev.addEventListener("click", () => {
-        if (currentIndex > 0) {
-          currentIndex--;
-          renderQuestion();
-          renderNavPalette();
-        }
-      });
-
-      btnNext.addEventListener("click", () => {
-        if (currentIndex < currentQuestions.length - 1) {
-          currentIndex++;
-          renderQuestion();
-          renderNavPalette();
-        }
-      });
-
       btnFlag.addEventListener("click", () => {
         if (!currentQuestions.length) return;
         const q = currentQuestions[currentIndex];
@@ -2239,334 +2184,109 @@
         renderNavPalette();
       });
 
-      document.querySelectorAll("[data-navfilter]").forEach(btn => {
-        btn.addEventListener("click", () => {
-          document.querySelectorAll("[data-navfilter]").forEach(b => b.classList.remove("active"));
-          btn.classList.add("active");
-          navFilter = btn.dataset.navfilter;
+      btnClearHighlights.addEventListener("click", () => {
+        if (!currentQuestions.length) return;
+        const q = currentQuestions[currentIndex];
+        delete highlights[q.id];
+        vignetteText.innerHTML = q.stem;
+      });
+
+      btnPrev.addEventListener("click", () => {
+        if (currentIndex > 0) { currentIndex--; renderQuestion(); renderNavPalette(); }
+      });
+      btnNext.addEventListener("click", () => {
+        if (currentIndex < currentQuestions.length - 1) { currentIndex++; renderQuestion(); renderNavPalette(); }
+      });
+
+      btnFinishBlock.addEventListener("click", () => {
+        if (confirm("End this exam block and return to dashboard?")) showView("performance");
+      });
+
+      btnToggleTimer.addEventListener("click", () => {
+        timerRunning = !timerRunning;
+        btnToggleTimer.textContent = timerRunning ? "Pause" : "Resume";
+      });
+
+      btnToggleNav.addEventListener("click", () => sidebarPane.classList.toggle("collapsed"));
+      btnThemeToggle.addEventListener("click", () => document.body.classList.toggle("dark-mode"));
+
+      // Keyboard Controls
+      window.addEventListener("keydown", (e) => {
+        if (activeView !== "exam") return;
+        if (loadModal.classList.contains("open") || exportModal.classList.contains("open") || clearModal.classList.contains("open")) return;
+        const key = e.key.toUpperCase();
+
+        if (["A", "B", "C", "D", "E"].includes(key)) {
+          if (!currentQuestions.length) return;
+          const q = currentQuestions[currentIndex];
+          if (confirmedAnswers[q.id] && testMode === "tutor") return;
+          if (testMode === "timed") {
+            userAnswers[q.id] = key;
+            confirmedAnswers[q.id] = true;
+            saveProgress();
+          } else {
+            stagedAnswers[q.id] = key;
+          }
+          renderQuestion();
           renderNavPalette();
-        });
-      });
-
-      btnToggleNav.addEventListener("click", () => {
-        sidebarPane.classList.toggle("collapsed");
-        resizerBar.style.display = sidebarPane.classList.contains("collapsed") ? "none" : "block";
-      });
-
-      btnThemeToggle.addEventListener("click", () => {
-        document.body.classList.toggle("dark-mode");
-      });
-
-      btnOpenClearModal.addEventListener("click", () => {
-        if (!ALL_QUESTIONS.length) {
-          alert("There are no questions in the bank to clear.");
-          return;
+        } else if (e.key === "Enter") {
+          confirmCurrentAnswer();
+        } else if (key === "N" && currentIndex < currentQuestions.length - 1) {
+          currentIndex++; renderQuestion(); renderNavPalette();
+        } else if (key === "P" && currentIndex > 0) {
+          currentIndex--; renderQuestion(); renderNavPalette();
         }
-        setupSubjectsList();
-        clearModal.classList.add("open");
       });
 
+      // Clear Modal
+      btnOpenClearModal.addEventListener("click", () => clearModal.classList.add("open"));
       btnCloseClearModal.addEventListener("click", () => clearModal.classList.remove("open"));
       btnCancelClear.addEventListener("click", () => clearModal.classList.remove("open"));
-
-      document.querySelectorAll('input[name="clearScopeOption"]').forEach(radio => {
-        radio.addEventListener("change", (e) => {
-          if (e.target.value === "subject") {
-            clearSubjectSelectGroup.style.display = "flex";
-          } else {
-            clearSubjectSelectGroup.style.display = "none";
-          }
-        });
-      });
-
       btnConfirmClear.addEventListener("click", () => {
-        const option = document.querySelector('input[name="clearScopeOption"]:checked').value;
-
-        if (option === "subject") {
-          const selectedVal = clearSubjectSelect.value;
-          if (!selectedVal) {
-            alert("Please choose a category to delete.");
-            return;
-          }
-
-          const [type, target] = selectedVal.split("::");
-          let confirmMsg = type === "folder"
-            ? `Delete ALL questions under main folder "${target}"?`
-            : `Delete all questions in "${target}"?`;
-
-          if (confirm(confirmMsg)) {
-            const idsToRemove = new Set(
-              ALL_QUESTIONS.filter(q => type === "folder" ? (q.folder || "General") === target : q.subject === target)
-                           .map(q => q.id)
-            );
-
-            idsToRemove.forEach(id => {
-              delete userAnswers[id];
-              delete stagedAnswers[id];
-              delete confirmedAnswers[id];
-              delete flaggedQuestions[id];
-              delete struckChoices[id];
-              delete highlights[id];
-            });
-
-            ALL_QUESTIONS = ALL_QUESTIONS.filter(q => !idsToRemove.has(q.id));
-            localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
-            saveProgress();
-
-            alert(`Deleted selected questions. Total remaining: ${ALL_QUESTIONS.length}.`);
-            clearModal.classList.remove("open");
-            showHomeView();
-          }
-        } else {
-          if (confirm("Are you sure you want to delete all questions? This will wipe the bank completely.")) {
-            localStorage.removeItem("nbme_all_questions");
-            localStorage.removeItem("nbme_user_answers");
-            localStorage.removeItem("nbme_confirmed_answers");
-            localStorage.removeItem("nbme_flagged_questions");
-
-            ALL_QUESTIONS = [];
-            currentQuestions = [];
-            currentIndex = 0;
-            userAnswers = {};
-            stagedAnswers = {};
-            confirmedAnswers = {};
-            flaggedQuestions = {};
-            struckChoices = {};
-            highlights = {};
-
-            clearModal.classList.remove("open");
-            showHomeView();
-            loadModal.classList.add("open");
-          }
-        }
+        localStorage.clear();
+        ALL_QUESTIONS = [];
+        userAnswers = {};
+        confirmedAnswers = {};
+        flaggedQuestions = {};
+        clearModal.classList.remove("open");
+        init();
       });
 
-      btnOpenExportModal.addEventListener("click", () => exportModal.classList.add("open"));
-      btnCloseExportModal.addEventListener("click", () => exportModal.classList.remove("open"));
-      btnCancelExport.addEventListener("click", () => exportModal.classList.remove("open"));
-      btnRunExport.addEventListener("click", handleExport);
-
-      btnOpenLoadModal.addEventListener("click", () => loadModal.classList.add("open"));
+      // Import Modal
       btnCloseLoadModal.addEventListener("click", () => loadModal.classList.remove("open"));
       btnCancelLoad.addEventListener("click", () => loadModal.classList.remove("open"));
-
       btnParseDoc.addEventListener("click", () => {
         const text = txtDocInput.value.trim();
-        if (!text) {
-          alert("Please paste the text from your document first.");
-          return;
+        if (text) {
+          syncAndMergeQuestions(text);
+          txtDocInput.value = "";
+          loadModal.classList.remove("open");
         }
-        const parsed = parseDocumentText(text);
-        if (!parsed.length) {
-          alert("No questions could be identified. Make sure the document includes lines like 'Question 1', choices 'A.', 'B.', and 'Answer:'.");
-          return;
-        }
-
-        const importMode = document.querySelector('input[name="importMode"]:checked').value;
-
-        if (importMode === "append") {
-          const existingStems = new Set(ALL_QUESTIONS.map(q => q.stem.slice(0, 80)));
-          let addedCount = 0;
-
-          parsed.forEach(newQ => {
-            if (!existingStems.has(newQ.stem.slice(0, 80))) {
-              ALL_QUESTIONS.push(newQ);
-              existingStems.add(newQ.stem.slice(0, 80));
-              addedCount++;
-            }
-          });
-
-          alert(`Done! Appended ${addedCount} new questions. Total bank is now ${ALL_QUESTIONS.length} questions.`);
-        } else {
-          ALL_QUESTIONS = parsed;
-          userAnswers = {};
-          stagedAnswers = {};
-          confirmedAnswers = {};
-          flaggedQuestions = {};
-          highlights = {};
-          saveProgress();
-          alert(`Bank reset and replaced with ${parsed.length} questions!`);
-        }
-
-        localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
-        txtDocInput.value = "";
-        loadModal.classList.remove("open");
-        showHomeView();
       });
 
-      // Hierarchical Quiz Modal Selection Buttons
-      btnOpenQuizModal.addEventListener("click", () => quizModal.classList.add("open"));
-      btnCloseModal.addEventListener("click", () => quizModal.classList.remove("open"));
-      btnCancelQuiz.addEventListener("click", () => quizModal.classList.remove("open"));
+      // Export Modal
+      btnCloseExportModal.addEventListener("click", () => exportModal.classList.remove("open"));
+      btnCancelExport.addEventListener("click", () => exportModal.classList.remove("open"));
+      btnRunExport.addEventListener("click", () => {
+        const scope = exportScope.value;
+        let exportList = ALL_QUESTIONS;
+        if (scope === "missed") exportList = ALL_QUESTIONS.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
+        if (scope === "flagged") exportList = ALL_QUESTIONS.filter(q => flaggedQuestions[q.id]);
 
-      btnSelectAllSub.addEventListener("click", () => {
-        document.querySelectorAll('input[name="subjectCheck"]').forEach(cb => cb.checked = true);
-        document.querySelectorAll('.chk-folder-master').forEach(cb => {
-          cb.checked = true;
-          cb.indeterminate = false;
+        let content = "";
+        exportList.forEach((q, i) => {
+          content += `${q.subject}\nQuestion ${i + 1}\n${q.stem}\n`;
+          q.choices.forEach(c => content += `${c.letter}. ${c.text}\n`);
+          content += `Answer: ${q.answer}\nWhy this is correct: ${q.whyCorrect}\n\n`;
         });
+
+        const blob = new Blob([content], { type: "text/plain;charset=utf-8" });
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = `QBank_Export_${scope}.txt`;
+        a.click();
+        exportModal.classList.remove("open");
       });
-
-      btnDeselectAllSub.addEventListener("click", () => {
-        document.querySelectorAll('input[name="subjectCheck"]').forEach(cb => cb.checked = false);
-        document.querySelectorAll('.chk-folder-master').forEach(cb => {
-          cb.checked = false;
-          cb.indeterminate = false;
-        });
-      });
-
-      btnStartCustomQuiz.addEventListener("click", handleStartCustomQuiz);
-      btnFinishBlock.addEventListener("click", showScoreModal);
-      btnCloseScoreModal.addEventListener("click", () => scoreModal.classList.remove("open"));
-
-      btnReviewMissed.addEventListener("click", () => {
-        scoreModal.classList.remove("open");
-        testMode = "tutor";
-        modeBadge.textContent = "Review Mode";
-        navFilter = "missed";
-        document.querySelectorAll("[data-navfilter]").forEach(b => b.classList.remove("active"));
-        document.getElementById("navFilterMs").classList.add("active");
-        renderQuestion();
-        renderNavPalette();
-      });
-
-      btnRetakeMissed.addEventListener("click", () => {
-        scoreModal.classList.remove("open");
-        const missed = currentQuestions.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-        if (!missed.length) {
-          alert("Great job! There are no missed questions to retake.");
-          return;
-        }
-
-        missed.forEach(q => {
-          delete confirmedAnswers[q.id];
-          delete userAnswers[q.id];
-          delete stagedAnswers[q.id];
-          delete struckChoices[q.id];
-        });
-        saveProgress();
-
-        currentQuestions = missed;
-        currentIndex = 0;
-        testMode = "tutor";
-        modeBadge.textContent = "Retake Missed";
-        timerSeconds = 0;
-        showQuizView();
-      });
-    }
-
-    function handleStartCustomQuiz() {
-      const mode = document.querySelector('input[name="quizMode"]:checked').value;
-      const countVal = document.getElementById("modalQCount").value;
-      const poolType = document.querySelector('input[name="poolType"]:checked').value;
-      const selectedSubs = Array.from(document.querySelectorAll('input[name="subjectCheck"]:checked')).map(cb => cb.value);
-      const doShuffleQ = document.getElementById("chkShuffleQ").checked;
-      const doShuffleChoices = document.getElementById("chkShuffleChoices").checked;
-
-      if (!selectedSubs.length) {
-        alert("Please select at least one folder or sub-topic.");
-        return;
-      }
-
-      let pool = ALL_QUESTIONS.filter(q => selectedSubs.includes(q.subject));
-
-      if (poolType === "missed") {
-        pool = pool.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-        if (!pool.length) {
-          alert("No previously missed questions found in the selected categories.");
-          return;
-        }
-
-        pool.forEach(q => {
-          delete confirmedAnswers[q.id];
-          delete userAnswers[q.id];
-          delete stagedAnswers[q.id];
-          delete struckChoices[q.id];
-        });
-        saveProgress();
-      } else if (poolType === "flagged") {
-        pool = pool.filter(q => flaggedQuestions[q.id]);
-        if (!pool.length) {
-          alert("No flagged questions found in the selected categories.");
-          return;
-        }
-      } else if (poolType === "unanswered") {
-        pool = pool.filter(q => !confirmedAnswers[q.id]);
-        if (!pool.length) {
-          alert("All questions in the selected categories have already been answered.");
-          return;
-        }
-      }
-
-      if (doShuffleQ) {
-        pool = pool.sort(() => Math.random() - 0.5);
-      }
-
-      if (countVal !== "all") {
-        const n = parseInt(countVal, 10);
-        pool = pool.slice(0, n);
-      }
-
-      if (doShuffleChoices) {
-        pool = pool.map(q => {
-          const clone = JSON.parse(JSON.stringify(q));
-          clone.choices = clone.choices.sort(() => Math.random() - 0.5);
-          return clone;
-        });
-      }
-
-      currentQuestions = pool;
-      currentIndex = 0;
-      testMode = mode;
-      timerSeconds = 0;
-      modeBadge.textContent = mode === "tutor" ? "Tutor Mode" : "Timed Exam";
-      filterBadge.textContent = selectedSubs.length === 1 ? selectedSubs[0] : `${selectedSubs.length} Categories`;
-
-      quizModal.classList.remove("open");
-      showQuizView();
-    }
-
-    function showScoreModal() {
-      let correct = 0;
-      let answered = 0;
-      const subStats = {};
-
-      currentQuestions.forEach(q => {
-        const folderName = q.folder || "General";
-        if (!subStats[folderName]) subStats[folderName] = { correct: 0, total: 0 };
-        subStats[folderName].total++;
-
-        if (confirmedAnswers[q.id]) {
-          answered++;
-          if (userAnswers[q.id] === q.answer) {
-            correct++;
-            subStats[folderName].correct++;
-          }
-        }
-      });
-
-      const pct = answered > 0 ? Math.round((correct / answered) * 100) : 0;
-      document.getElementById("scorePercent").textContent = `${pct}%`;
-      document.getElementById("scoreFraction").textContent = `${correct} / ${currentQuestions.length}`;
-      document.getElementById("scoreTimeTaken").textContent = timerText.textContent;
-
-      let subHtml = "";
-      for (const [folderName, data] of Object.entries(subStats)) {
-        const subPct = data.total > 0 ? Math.round((data.correct / data.total) * 100) : 0;
-        subHtml += `
-          <div style="margin-bottom:8px;">
-            <div class="sub-bar-row">
-              <span><strong>${folderName}</strong> (${data.correct}/${data.total})</span>
-              <span>${subPct}%</span>
-            </div>
-            <div style="width:100%;height:6px;background:var(--border);border-radius:3px;overflow:hidden;margin-top:2px;">
-              <div style="width:${subPct}%;height:100%;background:var(--primary);"></div>
-            </div>
-          </div>
-        `;
-      }
-      document.getElementById("subjectScoreRows").innerHTML = subHtml;
-      scoreModal.classList.add("open");
     }
 
     init();
