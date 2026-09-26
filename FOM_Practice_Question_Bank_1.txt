@@ -13390,7 +13390,6 @@ A. The toxin inactivates elongation factor 2: That's diphtheria toxin and Pseudo
 B. The toxin raises cGMP in the gut: That's the heat-stable toxin of B. cereus.
 C. The toxin blocks acetylcholine release: That's botulinum toxin.
 D. The toxin is lipooligosaccharide from the outer membrane: LOS is a gram-negative component; this organism is gram positive.
-Image credit: Ajay Kumar Chaurasiya, CC BY-SA 4.0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
 Question 2
@@ -13407,7 +13406,6 @@ A. Exotoxin A: Exotoxin A belongs to Pseudomonas.
 B. Pneumolysin: Pneumolysin belongs to S. pneumoniae.
 D. Granadaene: Granadaene is the hemolytic pigment of group B strep.
 E. TSST-1: TSST-1 is a Staphylococcus aureus toxin.
-Image credit: Gary E. Kaiser, Ph.D., CC BY 3.0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
 Question 3
@@ -13424,11 +13422,10 @@ A. Staphylococcal scalded skin syndrome: SSSS causes skin peeling from exfoliati
 B. Rocky Mountain spotted fever: RMSF causes a rash that starts at the wrists and ankles after a tick bite.
 C. Diphtheria: Diphtheria causes pharyngitis with a bull neck.
 D. Toxic shock syndrome: TSS causes shock with a sunburn-like rash from S. aureus.
-Image credit: Whispyhistory, CC BY-SA 4.0, via Wikimedia Commons
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
 Question 4
-A 6-year-old boy has a sore throat, and a throat swab is plated on blood agar. He has had fever and painful swallowing for 2 days. Temperature is 38.6°C (101.5°F), and he has tonsillar exudates. After 24 hours the colonies look like the image below, with complete clearing of the agar around each colony. His physician explains that this organism can later cause joint pain, carditis, and involuntary jerking movements if untreated. Which organism is this? ![Blood agar plate](https://upload.wikimedia.org/wikipedia/commons/9/95/Streptococcus_pyogenes_%28Lancefield_Group_A%29_on_Columbia_Horse_Blood_Agar_-_Detail.jpg)
+A 6-year-old boy has a sore throat and fever for 2 days. He attends first grade, where several classmates have had strep throat. Temperature is 38.6°C (101.5°F), and he has tonsillar exudates and tender anterior cervical nodes. He has no cough or rhinorrhea. A throat swab plated on blood agar grows the colonies shown, with complete clearing of the agar around each colony. Which organism is this? ![Blood agar plate](https://upload.wikimedia.org/wikipedia/commons/9/95/Streptococcus_pyogenes_%28Lancefield_Group_A%29_on_Columbia_Horse_Blood_Agar_-_Detail.jpg)
 A. Streptococcus pneumoniae
 B. Enterococcus faecalis
 C. Staphylococcus saprophyticus
@@ -13441,7 +13438,6 @@ A. Streptococcus pneumoniae: S. pneumoniae is alpha hemolytic.
 B. Enterococcus faecalis: Enterococcus is gamma hemolytic.
 C. Staphylococcus saprophyticus: S. saprophyticus causes UTIs and grows in clusters.
 D. Viridans streptococci: Viridans strep are alpha hemolytic.
-Image credit: Nathan Reading from Halesowen, UK, CC BY 2.0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
 Question 5
@@ -13458,7 +13454,6 @@ B. Streptococcus pyogenes: Group A strep isn't identified by a positive CAMP tes
 C. Listeria monocytogenes: Listeria is a gram-positive rod.
 D. Enterococcus faecalis: Enterococcus grows in 6.5% NaCl and is gamma hemolytic.
 E. Staphylococcus aureus: S. aureus grows in clusters.
-Image credit: Blueiridium, CC0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
 Question 6
@@ -13475,7 +13470,6 @@ B. M protein: M protein is the virulence factor of group A strep.
 C. Lecithinase (alpha toxin): That's C. perfringens.
 D. TSST-1: TSST-1 comes from S. aureus.
 E. Exoenzyme S: That's Pseudomonas.
-Image credit: Copacopac, CC BY-SA 3.0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
 Question 7
@@ -13492,7 +13486,6 @@ A. Streptococcus pneumoniae: Pneumococcus is optochin sensitive and alpha hemoly
 B. Proteus mirabilis: Proteus is a gram-negative rod that swarms.
 D. Streptococcus agalactiae: Group B strep is identified by the CAMP test.
 E. Staphylococcus saprophyticus: S. saprophyticus is a coagulase-negative staph that causes UTIs in young women.
-Image credit: Pavel Dušek, CC BY 3.0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
 Question 8
@@ -13528,7 +13521,7 @@ E. Staphylococcus aureus: S. aureus is coagulase positive.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
 Question 10
-A 45-year-old man with a skin abscess has pus sent for culture. He injects heroin into his arm. Temperature is 38.3°C (100.9°F), and there is a 4-cm fluctuant, tender mass on his forearm. The lab finds gram-positive cocci in clusters and needs to separate Staphylococcus aureus from the coagulase-negative staph like S. epidermidis and S. saprophyticus. His HIV test is negative, and his glucose is normal. Blood cultures are drawn. Which test distinguishes them?
+A 45-year-old man who injects heroin has a 4-cm fluctuant, tender mass on his forearm. Temperature is 38.3°C (100.9°F). His HIV test is negative, and his glucose is normal. The abscess is drained, and Gram stain of the pus shows gram-positive cocci in clusters. Blood cultures are drawn. Which test would confirm Staphylococcus aureus rather than a coagulase-negative staphylococcus such as S. epidermidis or S. saprophyticus?
 A. The oxidase test
 B. The CAMP test
 C. The coagulase test
@@ -13591,9 +13584,105 @@ D. Enterococcus faecalis: Enterococcus is gamma hemolytic.
 E. Streptococcus pyogenes: Group A strep is beta hemolytic.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
+Question 14
+A 19-year-old college student has had burning with urination, urgency, and frequency for 3 days. She became sexually active 2 months ago and takes an oral contraceptive. Temperature is 37.2°C (99°F), and she has mild suprapubic tenderness without flank pain. Urinalysis shows white cells. Urine culture grows gram-positive cocci in clusters that don't clot rabbit plasma. What is the most likely cause?
+A. Staphylococcus aureus
+B. Staphylococcus epidermidis
+C. Enterococcus faecalis
+D. Staphylococcus saprophyticus
+E. Streptococcus agalactiae
+Answer: D. Staphylococcus saprophyticus
+Why this is correct: S. saprophyticus is a coagulase-negative, gram-positive coccus that causes UTIs.
+Why the other answers are wrong:
+A. Staphylococcus aureus: S. aureus is coagulase positive.
+B. Staphylococcus epidermidis: S. epidermidis causes prosthetic device infections and bacteremia in neutropenic patients.
+C. Enterococcus faecalis: Enterococcus is a gamma-hemolytic streptococcus.
+E. Streptococcus agalactiae: Group B strep colonizes the GU tract but grows in chains.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 15
+A 47-year-old woman with acute myeloid leukemia develops fever 10 days after induction chemotherapy. She has a central venous catheter in her chest. Temperature is 38.9°C (102°F), and her absolute neutrophil count is 100/mm³. The catheter site is mildly red. Two sets of blood cultures, including one drawn through the catheter, grow gram-positive cocci in clusters that are coagulase negative. Which organism is most likely?
+A. Staphylococcus epidermidis
+B. Staphylococcus saprophyticus
+C. Staphylococcus aureus
+D. Viridans streptococci
+E. Streptococcus pneumoniae
+Answer: A. Staphylococcus epidermidis
+Why this is correct: S. epidermidis is a coagulase-negative staph that causes bacteremia in neutropenic patients and infects prosthetic devices.
+Why the other answers are wrong:
+B. Staphylococcus saprophyticus: That causes UTIs.
+C. Staphylococcus aureus: S. aureus is coagulase positive.
+D. Viridans streptococci: Those grow in chains and cause endocarditis after dental work.
+E. Streptococcus pneumoniae: Pneumococcus is an alpha-hemolytic diplococcus.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 16
+A 2-day-old girl born at 37 weeks develops grunting, poor feeding, and temperature instability. Her mother's vaginal-rectal culture wasn't done, and membranes were ruptured for 20 hours before delivery. Respiratory rate is 72/min, and blood pressure is low. Blood cultures grow encapsulated, gram-positive cocci in chains that are weakly beta hemolytic and produce an orange-red pigment. Which organism is most likely?
+A. Streptococcus pyogenes
+B. Staphylococcus aureus
+C. Listeria monocytogenes
+D. Enterococcus faecalis
+E. Streptococcus agalactiae (group B)
+Answer: E. Streptococcus agalactiae (group B)
+Why this is correct: Group B strep colonizes the GI and GU tracts, is transmitted to babies at birth with help from its hemolytic pigment granadaene, is weakly beta or alpha hemolytic and encapsulated, and causes neonatal sepsis.
+Why the other answers are wrong:
+A. Streptococcus pyogenes: Group A strep causes pharyngitis and skin infections.
+B. Staphylococcus aureus: Staph grows in clusters.
+C. Listeria monocytogenes: Listeria is a gram-positive rod.
+D. Enterococcus faecalis: Enterococcus is gamma hemolytic.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 17
+A 34-year-old man with a history of rheumatic fever has fever and fatigue for 4 weeks. He had a dental cleaning with scaling 6 weeks ago and has several dental caries. Temperature is 38.1°C (100.6°F). He has a new mitral regurgitation murmur and small painless macules on his palms. Blood cultures grow alpha-hemolytic, gram-positive cocci in chains that aren't typeable by Lancefield grouping and grow despite an optochin disk. Which organism is most likely?
+A. Streptococcus pneumoniae
+B. Viridans streptococci
+C. Enterococcus faecalis
+D. Staphylococcus epidermidis
+E. Streptococcus pyogenes
+Answer: B. Viridans streptococci
+Why this is correct: Viridans streptococci are alpha hemolytic and not Lancefield typeable. They cause caries (sugar-driven acidification and demineralization) and infective endocarditis.
+Why the other answers are wrong:
+A. Streptococcus pneumoniae: Pneumococcus is inhibited by optochin.
+C. Enterococcus faecalis: Enterococcus is gamma hemolytic and grows in 6.5% NaCl.
+D. Staphylococcus epidermidis: That grows in clusters.
+E. Streptococcus pyogenes: Group A strep is beta hemolytic.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 18
+A 72-year-old man with COPD has high fever, shaking chills, and a cough with rust-colored sputum for 2 days. Temperature is 39.4°C (102.9°F), and he has crackles and egophony over the right lower lobe. Chest x-ray shows lobar consolidation. Sputum Gram stain shows lancet-shaped gram-positive diplococci. On blood agar the colonies are alpha hemolytic with a clear zone of no growth around an optochin disk. What is the most likely organism?
+A. Viridans streptococci
+B. Streptococcus pyogenes
+C. Streptococcus pneumoniae
+D. Klebsiella pneumoniae
+E. Staphylococcus aureus
+Answer: C. Streptococcus pneumoniae
+Why this is correct: S. pneumoniae causes pneumonia and is alpha hemolytic with a zone of inhibition around optochin. Pneumolysin creates pores and reduces ciliary motility.
+Why the other answers are wrong:
+A. Viridans streptococci: They grow despite optochin.
+B. Streptococcus pyogenes: Group A strep is beta hemolytic.
+D. Klebsiella pneumoniae: Klebsiella is a gram-negative rod.
+E. Staphylococcus aureus: S. aureus grows in clusters.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 19
+A 70-year-old man develops fever and right upper quadrant pain 5 days after biliary surgery. He has diabetes and takes insulin. Temperature is 38.8°C (101.8°F). Blood cultures grow gram-positive cocci in chains that don't hemolyze blood agar, grow in 6.5% NaCl broth, and turn bile esculin agar black. He was receiving a cephalosporin at the time the fever began. Which organism is most likely?
+A. Streptococcus pneumoniae
+B. Viridans streptococci
+C. Staphylococcus aureus
+D. Streptococcus agalactiae
+E. Enterococcus faecalis
+Answer: E. Enterococcus faecalis
+Why this is correct: Enterococcus (group D strep) lives in the GI, GU, and biliary tracts, is gamma hemolytic, grows in 6.5% NaCl, and reacts with iron to turn black on bile esculin agar. Aminopenicillins cover E. faecalis.
+Why the other answers are wrong:
+A. Streptococcus pneumoniae: Pneumococcus is alpha hemolytic and optochin sensitive.
+B. Viridans streptococci: Those are alpha hemolytic and don't grow in 6.5% NaCl.
+C. Staphylococcus aureus: S. aureus grows in clusters.
+D. Streptococcus agalactiae: Group B strep is identified by the CAMP test.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 9: Bacteria & Antibiotics / Gram-Positive Bacilli
 
-Question 14
+Question 20
 A 50-year-old man who works in a wool processing plant comes to the emergency department with fever, cough, and chest discomfort. His symptoms began like the flu 5 days ago, improved briefly, and then worsened with severe shortness of breath and confusion. Temperature is 39.2°C (102.6°F), and oxygen saturation is 84%. Chest x-ray shows a widened mediastinum. Blood culture grows non-motile, non-hemolytic, spore-forming gram-positive rods in long chains, shown below. What is the diagnosis? ![Stained smear](https://upload.wikimedia.org/wikipedia/commons/1/12/Bacillus_anthracis.png)
 A. Bacillus cereus food poisoning
 B. Gastrointestinal anthrax
@@ -13607,10 +13696,9 @@ A. Bacillus cereus food poisoning: B. cereus is a motile, beta-hemolytic rod lin
 B. Gastrointestinal anthrax: GI anthrax causes intestinal ulcers and bloody diarrhea.
 C. Q fever: Q fever is caused by Coxiella, a gram-negative coccobacillus.
 D. Cutaneous anthrax: Cutaneous anthrax causes a malignant pustule.
-Image credit: CDC, uploaded by en:User:MarcoTolo, Public domain, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 15
+Question 21
 A 42-year-old rancher comes to the physician because of a sore on his forearm that started as a small bump 6 days ago. He recently skinned a cow that had died suddenly. He takes no medications. Temperature is 38.0°C (100.4°F). The lesion is shown below, with swelling around it and painful enlarged lymph nodes in his armpit. His vaccines are up to date, and he has no other medical problems. Which toxin component helps this organism's other toxins enter cells? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/5/5f/Anthrax_PHIL_2033.png)
 A. Lethal factor alone
 B. Protective antigen
@@ -13624,10 +13712,9 @@ A. Lethal factor alone: Lethal toxin needs PA to enter cells.
 C. Pneumolysin: That's a pneumococcal toxin.
 D. Exfoliative toxin: That's the cause of SSSS.
 E. TSST-1: That's a staph superantigen.
-Image credit: CDC/ James H. Steele, Public domain, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 16
+Question 22
 A 72-year-old woman is admitted with 12 watery stools a day, cramping, and fever. Two weeks ago she finished a course of clindamycin for a dental abscess. She lives in a nursing home and has hypertension. Temperature is 38.5°C (101.3°F), and WBC is 24,000/mm³. Colonoscopy shows the appearance below. Her blood pressure is 102/62 mm Hg, and her abdomen is diffusely tender without rebound. Stool testing is pending. What is the most likely cause? ![Gross pathology specimen](https://upload.wikimedia.org/wikipedia/commons/1/18/Clostridioides_%28pseudomembranous%29_colitis.jpg)
 A. Bacillus cereus
 B. Enterotoxigenic E. coli
@@ -13641,10 +13728,9 @@ A. Bacillus cereus: B. cereus causes food poisoning from fried rice.
 B. Enterotoxigenic E. coli: ETEC causes traveler's diarrhea.
 D. Shigella: Shigella causes bloody diarrhea and HUS.
 E. Clostridium perfringens food poisoning: C. perfringens food poisoning isn't linked to antibiotics.
-Image credit: Narraburra, CC0, via Wikimedia Commons
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 17
+Question 23
 A 20-year-old college student comes to the emergency department with intense vomiting that started 2 hours after eating leftover fried rice from a restaurant. His roommate who ate the same rice is also sick. He has no fever or diarrhea. Pulse is 104/min, and his mucous membranes are dry. The rice grows a large, motile, beta-hemolytic gram-positive rod. His abdomen is soft and nontender. His stool is normal. How does this organism's toxin cause vomiting?
 A. A heat-labile toxin raises cAMP
 B. A toxin inactivates elongation factor 2
@@ -13660,7 +13746,7 @@ C. A toxin blocks acetylcholine release: That's botulinum toxin.
 E. A superantigen binds MHC II: That's TSST-1.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 18
+Question 24
 A 34-year-old construction worker comes to the emergency department with severe pain in his leg 2 days after a deep, dirty laceration. Temperature is 39.2°C (102.6°F), pulse is 128/min, and blood pressure is 88/50 mm Hg. The skin around the wound is swollen and discolored, and crepitus is felt. The wound smells foul. Culture on blood agar shows a double zone of hemolysis, beta inside and alpha outside. He has no allergies and his tetanus vaccine is up to date. His CK is elevated. Which toxin causes this finding?
 A. Tetanospasmin of Clostridium tetani
 B. Pneumolysin of S. pneumoniae
@@ -13676,7 +13762,7 @@ D. TSST-1 of S. aureus: That causes toxic shock.
 E. Exotoxin A of Pseudomonas: That inactivates elongation factor 2.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 19
+Question 25
 A 5-day-old boy born at 29 weeks is in the neonatal ICU when he develops abdominal distension, vomiting, and bloody stools. He is fed formula by tube. Temperature is 36.2°C (97.2°F), pulse is 178/min, and his abdomen is tender and shiny. X-ray shows gas in the bowel wall. Stool grows an anaerobic gram-positive rod that produces a double zone of hemolysis. His platelets are 72,000/mm³, and blood cultures are drawn. What is the diagnosis?
 A. Infant botulism
 B. Shigella dysentery
@@ -13692,7 +13778,7 @@ C. Neonatal Listeria sepsis: Listeria is an aerobic gram-positive rod.
 E. Pseudomembranous colitis from C. difficile: C. diff follows antibiotic use.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 20
+Question 26
 A 58-year-old farmer stepped on a nail in his barn 10 days ago and didn't seek care. He never received a tetanus booster. He now has jaw stiffness, a fixed grin, and painful spasms that arch his back when he hears loud noises. He is awake and alert. Temperature is 37.8°C (100°F). A Gram stain of the wound shows gram-positive rods with terminal spores shaped like tennis rackets. How does this organism's toxin cause his spasms?
 A. It inhibits release of glycine and GABA
 B. It inactivates elongation factor 2
@@ -13708,7 +13794,7 @@ D. It blocks acetylcholine release: That's botulinum toxin, causing flaccid para
 E. It acts as a superantigen: That's TSST-1.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 21
+Question 27
 A 4-month-old boy is brought to the physician because of constipation for 5 days, a weak cry, and poor feeding. His parents have been putting honey on his pacifier to calm him. He was born at term. He is afebrile, has drooping eyelids, and is floppy with poor head control. His blood glucose and electrolytes are normal. He has a weak suck and poor gag. Which tests confirm the diagnosis, and how does the toxin work?
 A. Stool culture; the toxin raises cAMP
 B. CAMP test; the toxin lyses red cells
@@ -13724,7 +13810,7 @@ C. Blood culture; the toxin inhibits glycine release: Glycine inhibition is teta
 E. Loeffler medium culture; the toxin inactivates EF-2: That's diphtheria.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 22
+Question 28
 A 7-year-old boy who recently arrived from a country with low vaccination rates has a sore throat, fever, and a swollen neck. He hasn't received any vaccines. Temperature is 38.7°C (101.7°F). He has a gray membrane over his tonsils and massive neck swelling. A week later he has a new arrhythmia. The organism forms black colonies on blood agar, and on Loeffler medium it shows metachromatic granules. His throat membrane bleeds when scraped. He has decreased palate movement when he says 'ah.' What is the treatment?
 A. Supportive care only
 B. Rifampin prophylaxis alone
@@ -13740,7 +13826,7 @@ D. Vancomycin alone: That doesn't address the toxin.
 E. Doxycycline alone: That treats rickettsial infections.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 23
+Question 29
 A 30-year-old woman at 30 weeks' gestation comes to the physician because of fever, muscle aches, and fatigue for 3 days. She ate deli meats and soft cheese last week. Temperature is 38.6°C (101.5°F), and fetal heart rate is 164/min. Blood cultures grow a small, aerobic, beta-hemolytic gram-positive rod. In wet mounts the organism tumbles, and in semisolid agar it grows in an umbrella shape. Her WBC is 14,200/mm³. She has no urinary symptoms or rash. Which complications is her baby at risk for?
 A. Infant botulism
 B. Neonatal sepsis and meningitis
@@ -13756,7 +13842,7 @@ D. Scarlet fever: That's group A strep.
 E. Gonococcal conjunctivitis: That's N. gonorrhoeae at birth.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 24
+Question 30
 A 35-year-old man in a rural village where several animals recently died develops fever, chills, sore throat, and trouble swallowing. He ate undercooked meat from one of the animals 3 days ago. Temperature is 39.0°C (102.2°F), and pulse is 124/min. He has neck swelling and bloody diarrhea. CT shows enlarged mesenteric lymph nodes. Blood cultures grow spore-forming gram-positive rods in chains. He has no cough or skin lesions. His chest x-ray is normal. What is the diagnosis?
 A. Bacillus cereus food poisoning
 B. Injectional anthrax
@@ -13772,9 +13858,121 @@ C. Cutaneous anthrax: That causes a malignant pustule.
 E. Inhalational anthrax: That causes a widened mediastinum.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
+Question 31
+A 29-year-old man who injects heroin has a swollen, painful thigh at an injection site for 3 days. Temperature is 39.0°C (102.2°F), pulse is 118/min, and blood pressure is 94/58 mm Hg. The skin is red and tense with a fluctuant abscess, and the pain extends beyond the redness. His heroin supply was traced to a batch contaminated with animal-derived material. Culture grows non-motile, non-hemolytic, spore-forming gram-positive rods. Which form of anthrax is this?
+A. Injectional anthrax
+B. Cutaneous anthrax
+C. Inhalational anthrax
+D. Gastrointestinal anthrax
+E. Clostridium perfringens gas gangrene
+Answer: A. Injectional anthrax
+Why this is correct: Injectional anthrax causes cellulitis, abscess, and necrotizing fasciitis, beginning with flu-like symptoms and progressing to dyspnea, confusion, and eventually shock.
+Why the other answers are wrong:
+B. Cutaneous anthrax: That causes a malignant pustule with painful adenopathy.
+C. Inhalational anthrax: That causes a widened mediastinum.
+D. Gastrointestinal anthrax: That causes intestinal ulcers and bloody diarrhea.
+E. Clostridium perfringens gas gangrene: C. perfringens is an obligate anaerobe with double-zone hemolysis.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 32
+A 35-year-old metalworker is struck in the eye by a metal fragment. Within 24 hours the eye becomes severely painful with rapidly worsening vision. Temperature is 37.9°C (100.2°F). Exam shows a corneal wound, a layer of pus in the anterior chamber, and loss of the red reflex. Vitreous culture grows a large, motile, beta-hemolytic, gram-positive rod. Which organism is most likely?
+A. Bacillus anthracis
+B. Pseudomonas aeruginosa
+C. Staphylococcus epidermidis
+D. Bacillus cereus
+E. Clostridium tetani
+Answer: D. Bacillus cereus
+Why this is correct: B. cereus causes food poisoning linked to fried rice and rapid eye toxicity with post-traumatic endophthalmitis. It's a large, motile, beta-hemolytic rod.
+Why the other answers are wrong:
+A. Bacillus anthracis: B. anthracis is non-motile and non-hemolytic.
+B. Pseudomonas aeruginosa: Pseudomonas is a gram-negative rod.
+C. Staphylococcus epidermidis: That's a gram-positive coccus.
+E. Clostridium tetani: C. tetani causes spastic paralysis.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 33
+A 70-year-old man who gardens without gloves has jaw tightness and trouble swallowing 8 days after a deep thorn puncture to his hand. He hasn't had a tetanus booster in decades. Temperature is 37.6°C (99.7°F). He has a fixed grimace, rigid abdominal muscles, and painful spasms triggered by noise. Gram stain of the wound shows rods with terminal spores in a tennis-racket shape. Which organism is responsible?
+A. Clostridium botulinum
+B. Clostridium perfringens
+C. Clostridium tetani
+D. Bacillus anthracis
+E. Listeria monocytogenes
+Answer: C. Clostridium tetani
+Why this is correct: C. tetani is found in soil. Its toxin inhibits glycine and GABA, causing spastic paralysis with risus sardonicus, spasms, and asphyxiation or pneumonia.
+Why the other answers are wrong:
+A. Clostridium botulinum: That causes flaccid paralysis.
+B. Clostridium perfringens: That causes gas gangrene.
+D. Bacillus anthracis: That forms bamboo-like chains.
+E. Listeria monocytogenes: Listeria causes sepsis and meningitis.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 34
+A 45-year-old woman comes to the emergency department with double vision, drooping eyelids, and trouble swallowing that began 18 hours after eating home-canned green beans. Her husband ate the same beans and has similar symptoms. She is afebrile and alert. She has bilateral ptosis, fixed dilated pupils, and descending weakness of her arms. Her reflexes are decreased. Which mechanism explains her weakness?
+A. Inhibited glycine and GABA release
+B. Blocked acetylcholine release causing flaccid paralysis
+C. Inactivation of elongation factor 2
+D. A superantigen binding MHC II
+E. Increased cGMP in neurons
+Answer: B. Blocked acetylcholine release causing flaccid paralysis
+Why this is correct: Clostridium botulinum spores are found in canned food, honey, corn syrup, soil, and water. Botulinum toxin blocks acetylcholine release, causing flaccid paralysis.
+Why the other answers are wrong:
+A. Inhibited glycine and GABA release: That's tetanus, with spastic paralysis.
+C. Inactivation of elongation factor 2: That's diphtheria and Pseudomonas exotoxin A.
+D. A superantigen binding MHC II: That's TSST-1.
+E. Increased cGMP in neurons: That's the B. cereus heat-stable toxin in the gut.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 35
+A 68-year-old woman in a nursing home has had 8 watery stools a day for 5 days. She finished a course of a fluoroquinolone for pneumonia 2 weeks ago. Temperature is 38.3°C (100.9°F), and WBC is 21,000/mm³. Her abdomen is distended and tender. Abdominal x-ray shows a markedly dilated colon. Stool testing is positive for toxin from an obligate anaerobic gram-positive rod. What is the diagnosis?
+A. Clostridium perfringens food poisoning
+B. Shigella dysentery
+C. Bacillus cereus food poisoning
+D. Enterotoxigenic E. coli
+E. Clostridioides difficile colitis with toxic megacolon
+Answer: E. Clostridioides difficile colitis with toxic megacolon
+Why this is correct: C. difficile causes pseudomembranous colitis, diarrhea, and megacolon after fluoroquinolone or clindamycin use lets it overgrow, especially with prolonged antibiotic use in healthcare settings.
+Why the other answers are wrong:
+A. Clostridium perfringens food poisoning: That isn't linked to antibiotics.
+B. Shigella dysentery: Shigella is a gram-negative rod.
+C. Bacillus cereus food poisoning: That follows fried rice.
+D. Enterotoxigenic E. coli: That's traveler's diarrhea.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 36
+A 26-year-old man who lives in a shelter has an ulcer on his shin that hasn't healed for 5 weeks. It has a gray membrane at its base. He recently had a sore throat. Temperature is 37.8°C (100°F). A swab grown on Loeffler medium shows gram-positive rods with metachromatic granules, and the organism forms black colonies on blood agar. Which organism is most likely?
+A. Corynebacterium diphtheriae
+B. Bacillus anthracis
+C. Streptococcus pyogenes
+D. Listeria monocytogenes
+E. Pseudomonas aeruginosa
+Answer: A. Corynebacterium diphtheriae
+Why this is correct: C. diphtheriae causes pharyngitis, bull neck, myocarditis, cranial neuropathy, and necrotic cutaneous infection, with epidemics in the homeless. It forms black colonies, shows metachromatic granules on Loeffler medium, and its toxin inactivates EF-2.
+Why the other answers are wrong:
+B. Bacillus anthracis: That forms bamboo-like chains and a malignant pustule.
+C. Streptococcus pyogenes: That's a gram-positive coccus.
+D. Listeria monocytogenes: Listeria tumbles and causes sepsis and meningitis.
+E. Pseudomonas aeruginosa: That's a gram-negative rod.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 37
+A 72-year-old man on prednisone for polymyalgia rheumatica has fever, headache, and confusion for 2 days. He eats deli meats daily. Temperature is 39.2°C (102.6°F), and he has neck stiffness. CSF shows neutrophils and a low glucose. CSF Gram stain shows small gram-positive rods, and the organism is beta hemolytic, tumbles in a wet mount, and grows in an umbrella shape in semisolid agar. What is the most likely organism?
+A. Streptococcus pneumoniae
+B. Neisseria meningitidis
+C. Clostridium perfringens
+D. Listeria monocytogenes
+E. Haemophilus influenzae
+Answer: D. Listeria monocytogenes
+Why this is correct: Listeria is a small, aerobic, beta-hemolytic gram-positive rod with tumbling motility from actin rockets and umbrella-shaped growth in agar. It causes flu-like illness, puerperal fever, neonatal sepsis, and meningitis.
+Why the other answers are wrong:
+A. Streptococcus pneumoniae: That's a gram-positive diplococcus.
+B. Neisseria meningitidis: That's a gram-negative diplococcus.
+C. Clostridium perfringens: That's an anaerobe causing gas gangrene.
+E. Haemophilus influenzae: That's a gram-negative coccobacillus.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 9: Bacteria & Antibiotics / Gram-Negative Bacilli
 
-Question 25
+Question 38
 A 38-year-old woman comes to the emergency department with severe left flank pain radiating to her groin. She has had four urinary tract infections this year. Temperature is 37.9°C (100.2°F). Urine pH is 8.0, and CT shows a large branching kidney stone. Her urine culture grows a gram-negative rod that is urease positive and oxidase negative, and it spreads across the plate as shown below. She takes no medications and has no other medical problems. Her WBC is 12,800/mm³. Which organism is this? ![Blood agar plate](https://upload.wikimedia.org/wikipedia/commons/a/ad/Proteus_swarming_on_blood_agar.jpg)
 A. Pseudomonas aeruginosa
 B. Shigella
@@ -13788,10 +13986,9 @@ A. Pseudomonas aeruginosa: Pseudomonas is oxidase positive.
 B. Shigella: Shigella is non-motile.
 C. Enterococcus faecalis: Enterococcus is a gram-positive coccus.
 E. Klebsiella pneumoniae: Klebsiella is non-motile with a thick capsule.
-Image credit: Microrao, CC BY-SA 4.0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 26
+Question 39
 A 60-year-old woman with pyelonephritis has a urine sample plated on selective media. She has type 2 diabetes. Temperature is 38.9°C (102°F), and she has left flank tenderness. Gram-positive organisms don't grow on the plate, and the gram-negative colonies turn pink-red as shown below. She takes metformin and has had two urinary infections this year. Her WBC is 15,200/mm³, and urinalysis shows nitrites. What does the pink color indicate? ![MacConkey agar plate](https://upload.wikimedia.org/wikipedia/commons/0/05/Raoultella_planticola_MacConkey_colonies_32.jpg)
 A. The organism is oxidase positive
 B. The organism ferments lactose, dropping the pH below 6.8
@@ -13805,10 +14002,9 @@ A. The organism is oxidase positive: Oxidase isn't what MacConkey measures.
 C. The organism produces urease: Urease isn't measured by MacConkey.
 D. The organism is gram positive: Crystal violet and bile salts stop gram-positive growth.
 E. The organism raised the pH above 6.8: A pH above 6.8 gives no color.
-Image credit: A doubt, CC BY-SA 4.0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 27
+Question 40
 A 62-year-old man is admitted with fever and hypotension from a urinary source. He has diabetes and takes insulin. Temperature is 39.4°C (103°F), and blood pressure is 80/44 mm Hg. Blood cultures grow a gram-negative rod that ferments glucose, reduces nitrate to nitrite, and is oxidase negative. His lactate is 5.4 mmol/L, and his WBC is 21,000/mm³. Urinalysis shows many white cells. Which component of this organism mainly drives his shock?
 A. M protein
 B. Pneumolysin
@@ -13824,7 +14020,7 @@ C. TSST-1: That's a staph superantigen.
 D. Exotoxin A: That's a Pseudomonas toxin; Pseudomonas is oxidase positive.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 28
+Question 41
 A 24-year-old woman develops watery diarrhea 3 days into a trip to Mexico. She has 8 loose stools a day and mild cramps. She has no fever or blood in her stool. Pulse is 98/min, and her mucous membranes are dry. Stool grows a motile gram-negative rod that makes heat-labile and heat-stable toxins. Her WBC is normal, and stool shows no white cells. She is drinking fluids. Which organism is this?
 A. Enterotoxigenic E. coli
 B. Shigella
@@ -13840,7 +14036,7 @@ D. Salmonella typhi: S. typhi causes typhoid fever.
 E. Clostridioides difficile: C. diff follows antibiotic use.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 29
+Question 42
 A 4-year-old boy is brought to the emergency department because he hasn't urinated in a day. A week ago he had bloody diarrhea. He is pale and has petechiae. Blood pressure is 126/82 mm Hg. Hemoglobin is 7.6 g/dL, platelets are 40,000/mm³, creatinine is 2.8 mg/dL, and the smear shows fragmented red cells. His stool had grown a non-motile gram-negative rod. His stool culture from last week also grew organisms that don't have flagella. What is the most likely cause?
 A. TSST-1
 B. Shiga toxin causing HUS
@@ -13856,7 +14052,7 @@ D. Typhoid fever: S. typhi causes typhoid fever.
 E. C. difficile toxin: C. diff causes pseudomembranous colitis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 30
+Question 43
 A 58-year-old man with alcohol use disorder is admitted with high fever, cough, and thick, bloody sputum. He drinks a liter of vodka daily. Temperature is 39.1°C (102.4°F), and he has crackles over the right upper lobe. Sputum grows a non-motile gram-negative rod that ferments glucose and is oxidase negative, with large mucoid colonies from a thick capsule. His WBC is 19,400/mm³. Chest x-ray shows right upper lobe consolidation with a bulging fissure. Which organism is most likely?
 A. Proteus mirabilis
 B. Haemophilus influenzae
@@ -13872,7 +14068,7 @@ C. Pseudomonas aeruginosa: Pseudomonas is oxidase positive.
 D. Streptococcus pneumoniae: Pneumococcus is a gram-positive coccus.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 31
+Question 44
 A 45-year-old man is admitted with fever and abdominal pain 10 days after surgery for a perforated appendix. He has hypertension. Temperature is 38.8°C (101.8°F), and CT shows a pelvic abscess. The drained pus smells foul, and Gram stain shows mixed organisms. Culture grows an anaerobic gram-negative rod that contains endotoxin and makes beta-lactamase. His WBC is 18,200/mm³. He received cefazolin at surgery. Which features point to an anaerobic infection?
 A. A positive CAMP test
 B. Coagulase-positive cocci
@@ -13888,7 +14084,7 @@ D. Growth only on MacConkey agar: MacConkey is selective for gram-negative organ
 E. A single organism with no odor: That doesn't fit anaerobic infection.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 32
+Question 45
 A 40-year-old man is admitted with burns over 35% of his body after a house fire. On day 8, his burn wounds develop a blue-green exudate with a sweet, grape-like odor. Temperature is 39.0°C (102.2°F). Culture grows an aerobic gram-negative rod that is oxidase positive. He is on broad-spectrum antibiotics. Pulse is 124/min, and blood pressure is 96/58 mm Hg. Which toxin from this organism inactivates elongation factor 2?
 A. Elastase
 B. Exoenzyme S
@@ -13904,9 +14100,137 @@ C. TSST-1: That's a staph toxin.
 D. Heat-stable toxin: That's from B. cereus or ETEC.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
+Question 46
+A 30-year-old woman develops 6 watery stools a day on the third day of a trip to Southeast Asia. She has mild cramps but no fever or blood in her stool. Pulse is 96/min, and her mucous membranes are dry. Stool culture grows a motile, glucose-fermenting, oxidase-negative gram-negative rod that makes heat-labile and heat-stable toxins. What type of diarrhea do these toxins cause?
+A. Bloody diarrhea from Shiga toxin
+B. Pseudomembranous colitis
+C. Osmotic diarrhea from enterotoxigenic E. coli
+D. Vomiting from a cGMP toxin
+E. Typhoid fever
+Answer: C. Osmotic diarrhea from enterotoxigenic E. coli
+Why this is correct: ETEC's heat-labile and heat-stable toxins cause osmotic diarrhea. E. coli is motile.
+Why the other answers are wrong:
+A. Bloody diarrhea from Shiga toxin: That's Shigella and causes HUS.
+B. Pseudomembranous colitis: That's C. difficile.
+D. Vomiting from a cGMP toxin: That's B. cereus.
+E. Typhoid fever: That's Salmonella typhi.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 47
+A 3-year-old boy has had fever, cramping, and frequent small stools with blood and mucus for 3 days. His daycare has had several similar cases. Temperature is 38.9°C (102°F). His abdomen is tender without guarding. Stool culture grows a non-motile, oxidase-negative gram-negative rod that ferments glucose. Five days later his urine output drops and he becomes pale. Which toxin is responsible for his complications?
+A. Heat-labile toxin
+B. Shiga toxin
+C. TSST-1
+D. Exotoxin A
+E. Lecithinase (alpha toxin)
+Answer: B. Shiga toxin
+Why this is correct: Shiga toxin from Shigella causes bloody diarrhea, HUS, and microangiopathic hemolytic anemia. Shigella is non-motile.
+Why the other answers are wrong:
+A. Heat-labile toxin: That's ETEC and causes watery diarrhea.
+C. TSST-1: That causes toxic shock.
+D. Exotoxin A: That's Pseudomonas.
+E. Lecithinase (alpha toxin): That's C. perfringens.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 48
+A 24-year-old man returns from a month in South Asia with fever that has climbed stepwise over 10 days, abdominal pain, headache, and constipation. He didn't receive travel vaccines. Temperature is 39.8°C (103.6°F), but pulse is 84/min. His spleen is palpable, and he has faint pink spots on his abdomen. Blood cultures grow a gram-negative rod that ferments glucose and is oxidase negative. What is the diagnosis?
+A. Shigella dysentery
+B. Enterotoxigenic E. coli
+C. Leptospirosis
+D. Brucellosis
+E. Typhoid fever from Salmonella typhi
+Answer: E. Typhoid fever from Salmonella typhi
+Why this is correct: Salmonella typhi is a member of the Enterobacteriaceae (glucose fermenters, nitrate reducers, oxidase negative) and causes typhoid fever.
+Why the other answers are wrong:
+A. Shigella dysentery: Shigella causes bloody diarrhea and HUS.
+B. Enterotoxigenic E. coli: That causes watery traveler's diarrhea.
+C. Leptospirosis: Leptospira is a spirochete from rat-contaminated water.
+D. Brucellosis: Brucella is a gram-negative coccobacillus from animals.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 49
+A 45-year-old man returns from a trip to India with 12 days of fever, abdominal pain, and malaise. Temperature is 39.5°C (103.1°F). Blood cultures grow Salmonella typhi. The microbiology lab confirms the organism is a facultative anaerobe. Which set of biochemical features is shared by this organism and the rest of its family?
+A. Ferments glucose, reduces nitrate to nitrite, and is oxidase negative
+B. Oxidase positive, non-fermenter
+C. Coagulase positive
+D. Requires X and V factors
+E. Acid-fast staining
+Answer: A. Ferments glucose, reduces nitrate to nitrite, and is oxidase negative
+Why this is correct: Enterobacteriaceae are facultative anaerobes that all ferment glucose, reduce nitrate to nitrite, and lack cytochrome c oxidase (oxidase negative). The family includes Salmonella typhi, Yersinia pestis, E. coli, Shigella, Proteus, Serratia, Enterobacter, and Klebsiella.
+Why the other answers are wrong:
+B. Oxidase positive, non-fermenter: That's Pseudomonas.
+C. Coagulase positive: That's S. aureus.
+D. Requires X and V factors: That's H. influenzae.
+E. Acid-fast staining: That's mycobacteria.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 50
+A 66-year-old man with diabetes has a high fever and cough productive of thick, blood-tinged sputum. He drinks heavily. Temperature is 39.3°C (102.7°F), and he has crackles in the right upper lobe. Chest x-ray shows a dense upper lobe consolidation with a bulging fissure. Sputum culture grows large, very mucoid colonies of a non-motile gram-negative rod that ferments glucose and is oxidase negative. Which feature of this organism explains the mucoid colonies?
+A. Swarming motility
+B. Pyoverdin pigment
+C. Lipooligosaccharide
+D. A thick capsule
+E. Urease
+Answer: D. A thick capsule
+Why this is correct: Klebsiella pneumoniae is a non-motile member of the Enterobacteriaceae with a thick capsule.
+Why the other answers are wrong:
+A. Swarming motility: That's Proteus.
+B. Pyoverdin pigment: Pseudomonas makes a blue-green pigment.
+C. Lipooligosaccharide: LOS is a Neisseria and Moraxella feature.
+E. Urease: That's Proteus.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 51
+A 50-year-old woman with a long-term urinary catheter after a spinal cord injury has recurrent urinary infections. CT shows a large branching kidney stone. Her urine pH is 8.5. Urine culture grows an oxidase-negative, urease-positive gram-negative rod that spreads across the agar in rippled rings like a target. Which organism is most likely?
+A. Klebsiella pneumoniae
+B. Escherichia coli
+C. Proteus mirabilis
+D. Pseudomonas aeruginosa
+E. Enterococcus faecalis
+Answer: C. Proteus mirabilis
+Why this is correct: Proteus mirabilis causes kidney stones, is urease positive and oxidase negative, and has swarming motility that makes the agar look like a target with ripples.
+Why the other answers are wrong:
+A. Klebsiella pneumoniae: Klebsiella is non-motile.
+B. Escherichia coli: E. coli doesn't swarm.
+D. Pseudomonas aeruginosa: Pseudomonas is oxidase positive.
+E. Enterococcus faecalis: Enterococcus is gram positive.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 52
+A 58-year-old woman has fever and a foul-smelling abscess in her pelvis 8 days after a colon resection. Temperature is 38.9°C (102°F). CT shows gas within the collection. Aspirated pus has a Gram stain with mixed organisms, and an anaerobic culture grows a gram-negative rod that contains endotoxin and makes beta-lactamase. Which organism group is most likely?
+A. Pseudomonas aeruginosa
+B. Bacteroidetes
+C. Enterococcus faecalis
+D. Proteus mirabilis
+E. Clostridium tetani
+Answer: B. Bacteroidetes
+Why this is correct: Bacteroidetes are anaerobes that contain endotoxin and make beta-lactamase. Anaerobic infections occur near mucosa with mixed flora, foul odor, and tissue gas.
+Why the other answers are wrong:
+A. Pseudomonas aeruginosa: Pseudomonas is an aerobe.
+C. Enterococcus faecalis: That's gram positive.
+D. Proteus mirabilis: Proteus is a facultative anaerobe that swarms.
+E. Clostridium tetani: That's gram positive and causes tetanus.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 53
+A 16-year-old boy with cystic fibrosis has increased sputum and worsening cough. His sputum has a sweet, grape-like odor and is greenish. Culture on agar shows blue-green pigmented colonies of an aerobic gram-negative rod that is oxidase positive. Which organism is most likely?
+A. Klebsiella pneumoniae
+B. Proteus mirabilis
+C. Haemophilus influenzae
+D. Bordetella pertussis
+E. Pseudomonas aeruginosa
+Answer: E. Pseudomonas aeruginosa
+Why this is correct: Pseudomonas aeruginosa is an aerobic, oxidase-positive gram-negative rod found in soil and water, with blue-green pigment and a grape-like odor. It has elastase, alkaline protease, exotoxin A, and exoenzyme S.
+Why the other answers are wrong:
+A. Klebsiella pneumoniae: Klebsiella is oxidase negative.
+B. Proteus mirabilis: Proteus is oxidase negative and swarms.
+C. Haemophilus influenzae: H. influenzae needs X and V factors.
+D. Bordetella pertussis: That's grown on Regan-Lowe medium.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 9: Bacteria & Antibiotics / Gram-Negative Cocci & Coccobacilli
 
-Question 33
+Question 54
 A 22-year-old man comes to the physician because of burning with urination and a thick yellow discharge from his penis for 3 days. He had a new sexual partner 2 weeks ago. Temperature is 37.0°C (98.6°F). A Gram stain of the discharge looks like the image below, and the organism ferments glucose but not maltose. He has no rash or joint pain, and HIV testing is negative. His urinalysis shows many white cells. Which treatment is recommended? ![Gram stain of urethral discharge](https://upload.wikimedia.org/wikipedia/commons/8/87/Neisseria_gonorrhoeae_PHIL_3693_lores.jpg)
 A. Parenteral ceftriaxone
 B. Oral tetracycline
@@ -13920,10 +14244,9 @@ B. Oral tetracycline: Efflux pumps give resistance to tetracyclines.
 C. Vancomycin: Vancomycin only covers gram-positive organisms.
 D. Oral ciprofloxacin: Mutations in porins and DNA gyrase give fluoroquinolone resistance.
 E. Rifampin prophylaxis: Rifampin is used for meningococcal contacts.
-Image credit: Content Providers(s): CDC/ Dr. Norman Jacobs, Public domain, via Wikimedia Commons
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 34
+Question 55
 An 18-year-old college freshman is brought to the emergency department with fever, headache, and a spreading purple rash that began this morning. He lives in a dormitory. Temperature is 39.8°C (103.6°F), pulse is 136/min, and blood pressure is 74/40 mm Hg. He has neck stiffness and oozing from IV sites. CSF shows gram-negative diplococci that ferment both glucose and maltose. He dies of shock, and autopsy shows adrenal hemorrhage. What is the name of this complication?
 A. Hemolytic uremic syndrome
 B. Staphylococcal scalded skin syndrome
@@ -13939,8 +14262,8 @@ D. Weil disease: That's severe leptospirosis.
 E. Toxic shock syndrome: That's from staph TSST-1.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 35
-The roommate of an 18-year-old college student with meningococcal meningitis comes to the physician. He feels well and has no fever or headache. He takes no medications. His vital signs and exam are normal. He needs chemoprophylaxis. He shared a room with the patient for 3 weeks. Which option is appropriate, and what should he know about one of the choices?
+Question 56
+An 18-year-old college student shared a dorm room for 3 weeks with a roommate who was just diagnosed with meningococcal meningitis. He feels well and has no fever, headache, or rash. He takes no medications. His vital signs and exam are normal. Which chemoprophylaxis options are appropriate for him, and which drug-interaction concern applies to one of them?
 A. No prophylaxis is needed for close contacts
 B. Doxycycline; it causes photosensitivity
 C. Vancomycin; it causes red man syndrome
@@ -13955,8 +14278,8 @@ C. Vancomycin; it causes red man syndrome: Vancomycin isn't used for prophylaxis
 E. Metronidazole; it causes a disulfiram reaction: Metronidazole isn't used here.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 36
-A 19-year-old woman is starting college in the fall and will live in a dormitory. She received the quadrivalent meningococcal vaccine at 16. She is healthy and takes no medications. Her physician recommends an additional vaccine for short-term protection against one serogroup not covered by her first vaccine. Her vital signs are normal. Her other childhood vaccines are up to date. Which serogroup is this?
+Question 57
+A 19-year-old woman will start college in the fall and live in a dormitory. She received the quadrivalent meningococcal conjugate vaccine at 16. She is healthy and takes no medications. Her vital signs are normal, and her other childhood vaccines are up to date. Her vaccine covers four serogroups. Against which serogroup does she still need a separate vaccine for short-term protection before college?
 A. Serogroup B
 B. Serogroup W
 C. Serogroup Y
@@ -13971,7 +14294,7 @@ D. Serogroup C: C is covered by the quadrivalent vaccine.
 E. Serogroup A: A is covered by the quadrivalent vaccine.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 37
+Question 58
 A 3-day-old boy has red, swollen eyelids and a thick purulent discharge from both eyes. He was born vaginally to a mother who had no prenatal care. He is otherwise feeding well. Temperature is 37.2°C (99°F). Gram stain of the discharge shows gram-negative diplococci that ferment glucose only and have no capsule. His mother had a vaginal discharge late in pregnancy that wasn't treated. Why isn't a tetracycline or fluoroquinolone used for this organism?
 A. Chromosomal resistance from efflux pumps (tetracyclines) and porin and DNA gyrase changes (fluoroquinolones)
 B. It's a gram-positive organism
@@ -13987,7 +14310,7 @@ D. It has a thick capsule that blocks the drugs: N. gonorrhoeae has no capsule.
 E. It lives inside host cell vacuoles: That describes Ehrlichia and Anaplasma.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 38
+Question 59
 A 3-year-old boy is brought to the physician because of fever and ear pain for 2 days. He attends daycare and hasn't completed his vaccines. Temperature is 38.6°C (101.5°F), and his right tympanic membrane is red and bulging. Culture of ear fluid grows a pleomorphic gram-negative coccobacillus that only grows when X and V factors are supplied. His WBC is 14,600/mm³. He has no allergies. Which antibiotic is appropriate for his ear infection?
 A. Vancomycin
 B. A third-generation cephalosporin only
@@ -14003,7 +14326,7 @@ C. Dapsone: Dapsone is used for leprosy.
 E. Doxycycline: That's for rickettsial and atypical infections.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 39
+Question 60
 An unvaccinated 3-year-old girl is brought to the emergency department with high fever, drooling, a muffled voice, trouble swallowing, and breathing distress. She is sitting upright and leaning forward. Temperature is 39.8°C (103.6°F), and she has inspiratory stridor. The organism later grows only with X and V factors. She is anxious and her voice is muffled. Her WBC is 22,000/mm³. Which vaccine would have prevented this?
 A. Serogroup B vaccine
 B. Quadrivalent meningococcal vaccine
@@ -14019,7 +14342,7 @@ C. Pneumococcal vaccine: That prevents S. pneumoniae.
 D. Tdap: Tdap prevents tetanus, diphtheria, and pertussis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 40
+Question 61
 A 10-month-old boy is admitted with fever, irritability, and a bulging fontanelle. He hasn't received any vaccines. Temperature is 39.4°C (103°F). CSF shows many neutrophils and a low glucose, and Gram stain shows pleomorphic gram-negative coccobacilli that grow only with X and V factors. His WBC is 19,000/mm³. He has no rash. Which antibiotic class is recommended for his meningitis?
 A. Metronidazole
 B. Doxycycline
@@ -14035,7 +14358,7 @@ C. Vancomycin alone: Vancomycin doesn't cover gram-negative organisms.
 D. Ampicillin alone: That's for otitis media and sinusitis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 41
+Question 62
 A 3-month-old unvaccinated girl is brought to the emergency department because of coughing fits that end with a high-pitched whoop and vomiting. She had a runny nose for a week before the cough started. Between spells she looks well. During a spell she turns blue. WBC is 40,000/mm³ with 70% lymphocytes. The organism is grown on Regan-Lowe medium. Her oxygen saturation is 97% between spells. How does its toxin work?
 A. It inactivates elongation factor 2
 B. It binds MHC II as a superantigen
@@ -14051,7 +14374,7 @@ C. It blocks acetylcholine release: That's botulinum toxin.
 D. It raises cGMP: That's the B. cereus heat-stable toxin.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 42
+Question 63
 A 4-year-old girl is brought to the physician because of ear pain and fever for 2 days. She attends preschool and has had three ear infections this year. Temperature is 38.4°C (101.1°F), and her left tympanic membrane is bulging. Ear fluid grows an oxidase-positive gram-negative diplococcus that doesn't use carbohydrates. She has no allergies. Her WBC is 12,400/mm³. What is the key virulence factor of this organism?
 A. Exotoxin A
 B. A polysaccharide capsule
@@ -14067,7 +14390,7 @@ C. M protein: That's group A strep.
 D. Pneumolysin: That's pneumococcus.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 43
+Question 64
 A 20-month-old boy is brought to the physician because he refuses to walk and his right knee is swollen and warm. He had a cold with mouth sores last week. He attends daycare. Temperature is 38.5°C (101.3°F), and he holds his knee flexed. Joint fluid has many neutrophils, but routine cultures are negative. His WBC is 14,800/mm³, and his ESR is elevated. How is the most likely organism usually identified?
 A. Darkfield microscopy
 B. Regan-Lowe medium
@@ -14083,9 +14406,57 @@ D. India ink stain: That's for Cryptococcus.
 E. Culture with X and V factors: That identifies H. influenzae.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
+Question 65
+A 30-year-old woman has had a cough for 5 weeks. It started like a cold, then turned into fits of coughing that end in a gasp and sometimes vomiting. Her infant nephew was just hospitalized with the same illness. She never got a Tdap booster. Temperature is 37.2°C (99°F), and her lungs are clear between fits. WBC is 24,000/mm³ with 60% lymphocytes. Nasopharyngeal culture on Regan-Lowe medium grows an oxidase-positive gram-negative coccobacillus. What is the treatment?
+A. Erythromycin
+B. Parenteral ceftriaxone
+C. Doxycycline and gentamicin
+D. Vancomycin
+E. Rifaximin
+Answer: A. Erythromycin
+Why this is correct: Bordetella pertussis is spread by aerosol and passes through catarrhal, paroxysmal, and convalescent stages. It causes a very high WBC with lymphocytosis, is cultured on Regan-Lowe, is treated with erythromycin, and is prevented with Tdap.
+Why the other answers are wrong:
+B. Parenteral ceftriaxone: That's for gonorrhea and meningococcus.
+C. Doxycycline and gentamicin: That's for brucellosis.
+D. Vancomycin: That's gram-positive only.
+E. Rifaximin: That's GI-only.
+Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
+
+Question 66
+A 68-year-old man with COPD has a worsening productive cough and fever for 4 days. He smokes. Temperature is 38.4°C (101.1°F), and he has coarse crackles. Chest x-ray shows a patchy infiltrate. Sputum shows many neutrophils and oxidase-positive gram-negative diplococci that don't use any carbohydrates. Which organism is most likely?
+A. Neisseria meningitidis
+B. Neisseria gonorrhoeae
+C. Haemophilus influenzae
+D. Moraxella catarrhalis
+E. Streptococcus pneumoniae
+Answer: D. Moraxella catarrhalis
+Why this is correct: Moraxella catarrhalis is an oxidase-positive gram-negative diplococcus that doesn't use carbohydrates. LOS is its key virulence factor, and it causes otitis media and pneumonia.
+Why the other answers are wrong:
+A. Neisseria meningitidis: It ferments glucose and maltose.
+B. Neisseria gonorrhoeae: It ferments glucose.
+C. Haemophilus influenzae: That's a coccobacillus needing X and V factors.
+E. Streptococcus pneumoniae: That's a gram-positive diplococcus.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 67
+A 55-year-old man has fever, fatigue, and a new murmur for 3 weeks. He has a prosthetic aortic valve. Temperature is 38.3°C (100.9°F). Echocardiography shows a vegetation. Routine blood cultures stay negative for several days, but PCR of the blood identifies an oxidase-positive gram-negative coccobacillus with pili and a capsule that also causes septic arthritis in toddlers. Which organism is most likely?
+A. Haemophilus influenzae
+B. Moraxella catarrhalis
+C. Kingella kingae
+D. Bordetella pertussis
+E. Brucella
+Answer: C. Kingella kingae
+Why this is correct: Kingella kingae is an oxidase-positive gram-negative coccobacillus with pili, a capsule, and a toxin. It causes septic arthritis in toddlers, endocarditis, and osteoarticular infection, and PCR-based assays are used for diagnosis.
+Why the other answers are wrong:
+A. Haemophilus influenzae: That needs X and V factors and causes otitis and meningitis.
+B. Moraxella catarrhalis: That's a diplococcus causing otitis and pneumonia.
+D. Bordetella pertussis: That causes whooping cough.
+E. Brucella: Brucella causes undulant fever from animals.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 9: Bacteria & Antibiotics / Mycobacteria & Nocardia
 
-Question 44
+Question 68
 A 36-year-old man with AIDS comes to the physician because of fever, night sweats, diarrhea, and a 9-kg weight loss. He stopped his antiretrovirals a year ago. His CD4 count is 30/μL. Temperature is 38.7°C (101.7°F), and he has an enlarged liver and spleen and anemia. Blood cultures grow slow-growing organisms that are non-chromogens. A stain of the organisms is shown below. He has no cough, and chest x-ray is clear. What is the recommended treatment? ![Acid-fast stain](https://upload.wikimedia.org/wikipedia/commons/d/d1/Acid_fast_bacilli.jpg)
 A. Clarithromycin or azithromycin plus ethambutol
 B. Dapsone, rifampin, and clofazimine
@@ -14099,10 +14470,9 @@ B. Dapsone, rifampin, and clofazimine: That's the regimen for leprosy.
 C. Amphotericin B and flucytosine: That's for cryptococcal meningitis.
 D. Trimethoprim-sulfamethoxazole alone: That's for PCP and Nocardia.
 E. Doxycycline alone: That's used for rickettsial infections.
-Image credit: Microrao, CC BY-SA 4.0, via Wikimedia Commons
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 45
+Question 69
 A 55-year-old man who received a kidney transplant 2 years ago develops cough and fever for 3 weeks, followed by headache and new weakness in his right arm. He takes tacrolimus and prednisone. Temperature is 38.3°C (100.9°F). Chest CT shows a lung nodule, and brain MRI shows an abscess. Sputum shows weakly acid-fast, filamentous branching organisms, shown below. Biopsy shows no granulomas. His WBC is 12,400/mm³, and blood cultures are negative. What is the most likely organism? ![Gram stain](https://upload.wikimedia.org/wikipedia/commons/a/a9/Norcardia_Bacteria_under_the_Microscope.jpg)
 A. Toxoplasma gondii
 B. Mycobacterium avium complex
@@ -14116,10 +14486,9 @@ A. Toxoplasma gondii: Toxoplasma is a parasite, not a branching bacterium.
 B. Mycobacterium avium complex: MAC is fully acid fast and not filamentous.
 D. Mycobacterium kansasii: M. kansasii causes TB-like cavitary lung disease without brain abscess.
 E. Cryptococcus neoformans: Cryptococcus is an encapsulated yeast.
-Image credit: Siduduziwe Nxumalo, CC BY-SA 4.0, via Wikimedia Commons
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 46
+Question 70
 A 60-year-old man who smokes comes to the physician because of a chronic cough and weight loss for 4 months. He isn't immunocompromised and has no TB exposure. Chest CT shows a cavitary lesion in the right upper lobe that looks like TB. Sputum grows a slow-growing mycobacterium that makes pigment only after exposure to light and is consistently isolated from tap water. His HIV test is negative. Temperature is 37.6°C (99.7°F). Which organism is this?
 A. Mycobacterium kansasii
 B. Mycobacterium abscessus
@@ -14135,7 +14504,7 @@ D. Mycobacterium gordonae: It's a scotochromogen.
 E. Mycobacterium avium complex: MAC is a non-chromogen.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 47
+Question 71
 A 3-year-old girl is brought to the physician because of a painless, enlarging lump in her neck for 6 weeks. She is healthy otherwise, and her vaccines are up to date. Temperature is 37.1°C (98.8°F), and there's a firm 3-cm node in her neck. Culture of the node grows a slow-growing mycobacterium that makes yellow pigment even when grown in the dark. She has no fever, cough, or TB exposure. Her chest x-ray is normal. How is this organism classified?
 A. A non-grower
 B. A scotochromogen
@@ -14151,7 +14520,7 @@ D. A photochromogen: Photochromogens need light to make pigment.
 E. A non-chromogen: Non-chromogens like MAC don't make pigment.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 48
+Question 72
 A 22-year-old woman with cystic fibrosis has worsening cough and weight loss despite her usual treatments. Her FEV1 has fallen to 48% of predicted. Chest CT shows nodules and bronchiectasis that resemble MAC disease. Sputum grows a mycobacterium that forms non-pigmented colonies within a week. She takes inhaled antibiotics and pancreatic enzymes. Her BMI is 17.8. Which organism is most likely?
 A. Mycobacterium avium complex
 B. Mycobacterium abscessus
@@ -14167,7 +14536,7 @@ D. Mycobacterium kansasii: M. kansasii is a slow-growing photochromogen.
 E. Mycobacterium leprae: M. leprae doesn't grow in culture.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
-Question 49
+Question 73
 A 38-year-old man from Brazil comes to the physician because of a few pale, numb skin patches on his arm and trunk. He burned his hand on a stove without feeling it. He has thickened nerves at his elbow. Biopsy shows granulomas with very few acid-fast bacilli. His family has lived for generations in a rural area where armadillos are common. He has no fever. Which immune response explains this form of his disease?
 A. An IgE-mediated response
 B. No immune response
@@ -14183,7 +14552,7 @@ C. A weak TH1 and strong TH2 response: That's lepromatous leprosy.
 D. A complement deficiency: That isn't the mechanism.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 50
+Question 74
 A 52-year-old man from rural India comes to the physician because of numb hands and feet and many skin nodules on his face and ears. He has lost his eyebrows, and his face looks thickened. Biopsy shows many acid-fast bacilli clustered in globi. He has no fever, and his CBC is normal. He has lost sensation in several fingers. Which immune response and treatment fit this form?
 A. A strong TH2 response; amphotericin B
 B. A strong TH1 response; clarithromycin and ethambutol
@@ -14199,7 +14568,7 @@ C. A strong TH1 response; dapsone, rifampin, and clofazimine: A strong TH1 respo
 D. A strong TH2 response; doxycycline alone: The regimen is the triple drug combination.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 51
+Question 75
 A 6-year-old boy has had disseminated infection with non-tuberculous mycobacteria despite being HIV negative. He has had several serious infections since infancy. His parents are first cousins. His CD4 count is normal. Genetic testing shows a defect in a cytokine pathway. He had a severe reaction to the BCG vaccine as a baby. His immunoglobulin levels are normal. Which pathway is most likely affected?
 A. The MHC II pathway
 B. The complement pathway
@@ -14215,9 +14584,89 @@ C. The CCR5 pathway: CCR5 is the HIV co-receptor.
 D. The TSST-1 pathway: TSST-1 is a staph toxin.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
+Question 76
+A 34-year-old man with AIDS has 6 weeks of fever, night sweats, diarrhea, and abdominal pain. He has lost 10 kg. His CD4 count is 25/μL, and he takes no prophylaxis. He has hepatosplenomegaly and cervical lymphadenitis. Hemoglobin is 8.1 g/dL. Blood cultures grow slow-growing acid-fast bacilli that don't make pigment in light or dark. Which organism is most likely?
+A. Mycobacterium kansasii
+B. Mycobacterium scrofulaceum
+C. Mycobacterium abscessus
+D. Nocardia asteroides
+E. Mycobacterium avium complex
+Answer: E. Mycobacterium avium complex
+Why this is correct: MAC causes disseminated infection in AIDS with CD4 under 50, with cervical lymphadenitis, hepatosplenomegaly, diarrhea, weight loss, abdominal pain, anemia, fever, and night sweats. It's a slow-growing non-chromogen, and prophylaxis is azithromycin, clarithromycin, or rifabutin.
+Why the other answers are wrong:
+A. Mycobacterium kansasii: That's a photochromogen with TB-like cavitary lung disease.
+B. Mycobacterium scrofulaceum: That's a scotochromogen.
+C. Mycobacterium abscessus: That's a rapid grower.
+D. Nocardia asteroides: Nocardia is weakly acid fast and branching.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 77
+A 48-year-old woman with a heart transplant takes tacrolimus and prednisone. She has 2 weeks of cough, fever, and a new severe headache. Temperature is 38.4°C (101.1°F). Chest CT shows a cavitating nodule, and brain MRI shows a ring-enhancing abscess. Bronchoscopy samples show gram-positive, weakly acid-fast, branching filaments. Biopsy shows no granulomas. How does this organism survive inside phagocytes?
+A. It inactivates elongation factor 2
+B. It prevents phagosome acidification and phagolysosome fusion
+C. It forms a thick capsule
+D. It binds MHC II as a superantigen
+E. It produces pneumolysin
+Answer: B. It prevents phagosome acidification and phagolysosome fusion
+Why this is correct: Nocardia is a gram-positive, weakly acid-fast, branching filamentous organism. N. asteroides causes lung infections in immunocompromised patients that can spread to the brain. It prevents phagosome acidification and phagolysosome fusion and doesn't form granulomas.
+Why the other answers are wrong:
+A. It inactivates elongation factor 2: That's diphtheria toxin and exotoxin A.
+C. It forms a thick capsule: That's Klebsiella and Cryptococcus.
+D. It binds MHC II as a superantigen: That's TSST-1.
+E. It produces pneumolysin: That's S. pneumoniae.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 78
+A 66-year-old man who never smoked has had a cough and 5-kg weight loss for 3 months. He is HIV negative and has no TB exposure. Chest CT shows a thick-walled cavity in the right upper lobe. His tuberculin test is weakly positive. Sputum grows a slow-growing mycobacterium that turns yellow only after light exposure. The same organism is regularly isolated from his home's tap water. Which organism is most likely?
+A. Mycobacterium kansasii
+B. Mycobacterium avium complex
+C. Mycobacterium gordonae
+D. Mycobacterium abscessus
+E. Mycobacterium leprae
+Answer: A. Mycobacterium kansasii
+Why this is correct: M. kansasii causes TB-like lung disease with cavitation and a right upper lobe predilection, prevents phagolysosome fusion, is consistently isolated from tap water, and is a slow-growing photochromogen.
+Why the other answers are wrong:
+B. Mycobacterium avium complex: MAC is a non-chromogen.
+C. Mycobacterium gordonae: That's a scotochromogen.
+D. Mycobacterium abscessus: That's a rapid, non-pigmented grower.
+E. Mycobacterium leprae: That doesn't grow in culture.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 79
+A 4-year-old boy has a painless swelling in his neck for 2 months that hasn't improved with amoxicillin. He is healthy and HIV negative. Temperature is 37.0°C (98.6°F). He has a firm, non-tender 3-cm submandibular node with purplish overlying skin. Excision shows granulomatous inflammation, and culture grows a slow-growing mycobacterium that produces yellow-orange pigment even when kept in the dark. How is this organism classified?
+A. A slow-growing photochromogen
+B. A rapid-growing non-pigmented organism
+C. A non-chromogen
+D. A slow-growing scotochromogen (M. scrofulaceum)
+E. A non-grower
+Answer: D. A slow-growing scotochromogen (M. scrofulaceum)
+Why this is correct: M. scrofulaceum and M. gordonae are slow-growing scotochromogens, which make pigment in the dark. M. kansasii and M. marinum are photochromogens, and MAC is a non-chromogen.
+Why the other answers are wrong:
+A. A slow-growing photochromogen: Photochromogens need light.
+B. A rapid-growing non-pigmented organism: That's M. abscessus.
+C. A non-chromogen: That's MAC.
+E. A non-grower: That's M. leprae.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 80
+A 55-year-old woman has a lung disease that resembles MAC on CT, with nodules and bronchiectasis. She has lost 4 kg. She has no HIV. Sputum grows a non-pigmented mycobacterium that forms colonies within 5 days. She has a fish tank and gardens often. Which organism is most likely?
+A. Mycobacterium avium complex
+B. Mycobacterium kansasii
+C. Mycobacterium abscessus
+D. Mycobacterium scrofulaceum
+E. Nocardia asteroides
+Answer: C. Mycobacterium abscessus
+Why this is correct: M. abscessus resembles MAC disease, is found in soil, dust, water, and wild or domestic animals and fish, and is non-pigmented and rapid growing.
+Why the other answers are wrong:
+A. Mycobacterium avium complex: MAC is slow growing.
+B. Mycobacterium kansasii: That's a slow-growing photochromogen.
+D. Mycobacterium scrofulaceum: That's a slow-growing scotochromogen.
+E. Nocardia asteroides: Nocardia is branching and weakly acid fast.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 9: Bacteria & Antibiotics / Zoonotic, Tick-Borne & Intracellular Infections
 
-Question 52
+Question 81
 A 6-year-old girl from North Carolina is brought to the emergency department in June because of fever, headache, and a rash for 3 days. Her family went camping 10 days ago, and her mother removed a tick from her scalp. Temperature is 39.6°C (103.3°F). The rash began on her wrists and ankles and spread to her trunk, as shown below. Platelets are 82,000/mm³, and ALT and AST are elevated. What is the most appropriate treatment? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/d/d2/Rocky_Mountain_spotted_fever_PHIL_1962_lores.jpg)
 A. Penicillin
 B. Doxycycline
@@ -14231,10 +14680,9 @@ A. Penicillin: Penicillin doesn't cover Rickettsia.
 C. Supportive care only: Treatment shouldn't be delayed.
 D. Vancomycin: Vancomycin only covers gram-positive organisms.
 E. Ceftriaxone: Ceftriaxone isn't the treatment for RMSF.
-Image credit: , Public domain, via Wikimedia Commons
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 53
+Question 82
 A 45-year-old man who raises goats and drinks unpasteurized milk comes to the physician because of fevers that come and go over 6 weeks, drenching foul-smelling sweats, and lower back pain. Temperature is 38.9°C (102°F), and his liver and spleen are enlarged. He has tenderness over his sacroiliac joints. Blood and marrow cultures grow a gram-negative coccobacillus, and a Rose Bengal test is positive. His WBC is normal, and his ALT is mildly elevated. What is the treatment?
 A. Doxycycline plus gentamicin
 B. Penicillin G
@@ -14250,7 +14698,7 @@ D. Supportive care only: Brucellosis needs antibiotics.
 E. Doxycycline alone: The recommended regimens combine drugs.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 54
+Question 83
 A 50-year-old dairy farmer with untreated brucellosis for several months is brought in by his wife because he has become depressed and his personality has changed. He also has double vision. Temperature is 38.0°C (100.4°F). He has a sixth nerve palsy. MRI shows meningeal enhancement and a small abscess. His CSF shows lymphocytes and a high protein. What is the diagnosis?
 A. Toxoplasmosis
 B. Neurobrucellosis
@@ -14266,7 +14714,7 @@ D. PML: PML is a demyelinating disease from JC virus.
 E. Tetanus: Tetanus causes spastic paralysis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 55
+Question 84
 A 55-year-old man from Missouri comes to the physician because of fever, headache, and muscle aches for 5 days. He removed a tick after hiking 2 weeks ago. Temperature is 39.0°C (102.2°F). He has a faint petechial rash on his trunk. WBC is 2,800/mm³, platelets are 90,000/mm³, and liver enzymes are elevated. A blood smear shows clusters of organisms inside vacuoles of monocytes. He has no joint pain. His CSF is normal. What is the diagnosis and treatment?
 A. Q fever; hydroxychloroquine alone
 B. Human granulocytic anaplasmosis; doxycycline
@@ -14282,7 +14730,7 @@ C. Brucellosis; doxycycline and gentamicin: Brucella doesn't form clusters in mo
 D. Rocky Mountain spotted fever; penicillin: RMSF organisms grow freely in the cytoplasm, and treatment is doxycycline.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 56
+Question 85
 A 62-year-old woman from Wisconsin comes to the physician because of fever, chills, and muscle aches for 4 days after a tick bite. She has fewer GI symptoms and no rash. Temperature is 38.9°C (102°F). She has mild anemia, leukopenia with increased bands, and a platelet count of 88,000/mm³. A smear shows clusters of organisms inside neutrophil vacuoles. Her ALT is mildly elevated. She has no neurologic symptoms. Which organism is responsible?
 A. Ehrlichia chaffeensis
 B. Anaplasma phagocytophilum
@@ -14298,7 +14746,7 @@ D. Brucella: Brucella causes undulating fever and sacroiliitis.
 E. Rickettsia: Rickettsia grows freely in the cytoplasm and causes a rash that starts at the wrists.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 57
+Question 86
 A 40-year-old man who works in a slaughterhouse comes to the physician because of fever, headache, dry cough, and shortness of breath. Temperature is 39.4°C (103°F), but his pulse is only 72/min. He has crackles at both bases, and CT shows rounded densities with halo signs. WBC is low, and CRP, ALT, and AST are elevated. Echocardiogram shows a bicuspid aortic valve. He has no rash. His blood cultures are negative. What is the treatment?
 A. Doxycycline alone
 B. Ceftriaxone
@@ -14314,7 +14762,7 @@ C. Doxycycline plus gentamicin: That's for brucellosis.
 E. Supportive care only: Q fever needs antibiotics.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 58
+Question 87
 A 30-year-old man comes to the physician because of fever, headache, and calf pain after a trip to Southeast Asia, where he waded through floodwater. He improved for a few days and then got worse. Temperature is 39.2°C (102.6°F). His eyes are red without discharge, and he is jaundiced. He coughs up blood. Darkfield microscopy of his blood shows highly motile spirochetes. His creatinine is elevated, and his platelets are 80,000/mm³. What is the treatment for his severe illness?
 A. Dapsone
 B. Supportive care only
@@ -14330,7 +14778,7 @@ D. Doxycycline plus hydroxychloroquine: That's for Q fever with heart disease.
 E. Vancomycin: Vancomycin only covers gram-positive organisms.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 59
+Question 88
 A 28-year-old woman who works at a pet store comes to the physician because of fever, chills, headache, dry cough, and diarrhea for 5 days. Several birds at the store recently died. Temperature is 39.0°C (102.2°F). She has faint pink spots on her face, and chest x-ray shows lobar pneumonia. Sputum Gram stain shows many neutrophils. Her WBC is normal, and her liver enzymes are mildly elevated. What is the treatment?
 A. Penicillin G
 B. Amphotericin B
@@ -14346,7 +14794,7 @@ D. Doxycycline plus gentamicin: That's for brucellosis.
 E. Supportive care: Psittacosis needs antibiotics.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 60
+Question 89
 A 35-year-old man from New Mexico is admitted with fever, muscle aches, and sudden cough and shortness of breath. Last week he cleaned out a cabin full of mouse droppings. Temperature is 39.0°C (102.2°F), blood pressure is 84/50 mm Hg, and oxygen saturation is 80%. Platelets are 60,000/mm³, and chest x-ray shows bilateral pulmonary edema. His creatinine is normal. He has no rash. What is the treatment?
 A. Supportive care
 B. Amphotericin B
@@ -14362,7 +14810,7 @@ D. TMP-SMX: That treats PCP and Nocardia.
 E. Doxycycline: Doxycycline treats rickettsial and some bacterial infections.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 61
+Question 90
 A 30-year-old woman is admitted in Argentina with fever, cough, and respiratory failure from a hantavirus. Five days later, a nurse who cared for her develops the same illness, even though the nurse had no rodent exposure. The patient's vital signs are unstable, and she needs a ventilator. She has no history of rodent exposure in the past month. Her platelets are low. What is unusual about the strain that caused her illness?
 A. Andes hantavirus is the only hantavirus spread person to person
 B. It responds to doxycycline
@@ -14378,7 +14826,7 @@ D. It's spread by mosquitoes: That isn't how hantavirus spreads.
 E. It's spread by ticks: Hantaviruses are rodent-borne.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 62
+Question 91
 A 7-year-old girl from Tennessee is admitted in July with fever, headache, and a spreading rash for 4 days after a camping trip. The rash started on her wrists and ankles. Temperature is 39.4°C (103°F). Platelets are 76,000/mm³, and CSF shows pleocytosis. She is started on doxycycline immediately. Her ALT is elevated, and her WBC is normal. Which tests can confirm the diagnosis?
 A. Indirect or direct fluorescent antibody tests
 B. Regan-Lowe culture
@@ -14394,9 +14842,89 @@ D. Darkfield microscopy: That's for Leptospira.
 E. India ink stain: That's for Cryptococcus.
 Objective: Explain bacterial cell wall structures and associated properties (Gram positive/negative cell wall, staining, peptidoglycan, LPS, role in pathogenesis, and targets of antibiotics) (CBO 1.1)
 
+Question 92
+A 60-year-old man from Arkansas has fever, headache, and muscle aches for 6 days. He removed several ticks after deer hunting 2 weeks ago. Temperature is 39.0°C (102.2°F). He has a faint maculopapular rash on his trunk. WBC is 2,600/mm³, platelets are 70,000/mm³, and ALT is elevated. A peripheral smear shows clusters of bacteria inside vacuoles of monocytes. Which organism is most likely?
+A. Anaplasma phagocytophilum
+B. Ehrlichia chaffeensis
+C. Rickettsia
+D. Coxiella burnetii
+E. Brucella
+Answer: B. Ehrlichia chaffeensis
+Why this is correct: Ehrlichia chaffeensis causes human monocytic ehrlichiosis. It's an obligate intracellular organism that replicates in host cell vacuoles, rarely causes vasculitis, and has a rash in about a third of cases. It's treated with doxycycline.
+Why the other answers are wrong:
+A. Anaplasma phagocytophilum: That infects granulocytes.
+C. Rickettsia: Rickettsia grows freely in the cytoplasm.
+D. Coxiella burnetii: That causes Q fever.
+E. Brucella: That causes undulant fever.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 93
+A 58-year-old woman from Minnesota has had fever, chills, headache, and muscle aches for 5 days after a hike. She has no rash and few GI symptoms. Temperature is 38.8°C (101.8°F). Hemoglobin is 11.4 g/dL, WBC is 2,900/mm³ with increased bands, and platelets are 80,000/mm³. A smear shows clusters of organisms inside neutrophil vacuoles. What is the treatment?
+A. Doxycycline
+B. Doxycycline plus hydroxychloroquine
+C. Penicillin G
+D. Supportive care
+E. Doxycycline plus gentamicin
+Answer: A. Doxycycline
+Why this is correct: Anaplasma phagocytophilum causes human granulocytic anaplasmosis, with nonspecific symptoms, fewer GI symptoms, a rash in 10%, mild anemia, leukopenia with bands, and low platelets. It's treated with doxycycline.
+Why the other answers are wrong:
+B. Doxycycline plus hydroxychloroquine: That's for Q fever with heart disease.
+C. Penicillin G: That's for severe leptospirosis.
+D. Supportive care: It needs antibiotics.
+E. Doxycycline plus gentamicin: That's for brucellosis.
+Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
+
+Question 94
+A 52-year-old sheep farmer has had fatigue, night sweats, and fevers for 6 months after an episode of pneumonia last year. Temperature is 38.1°C (100.6°F). His liver and spleen are enlarged, and a new murmur is heard. Echocardiography shows an aortic valve vegetation, but routine blood cultures are negative. Serology shows high antibody titers to an organism acquired from infected aerosols and raw milk. What is the diagnosis?
+A. Brucellosis
+B. Viridans streptococcal endocarditis
+C. Leptospirosis
+D. Psittacosis
+E. Chronic Q fever endocarditis from Coxiella burnetii
+Answer: E. Chronic Q fever endocarditis from Coxiella burnetii
+Why this is correct: Coxiella burnetii causes Q fever from infected aerosols, raw milk, or ticks, and chronic disease causes endocarditis, myocarditis, and hepatosplenomegaly. With heart disease it's treated with doxycycline and hydroxychloroquine.
+Why the other answers are wrong:
+A. Brucellosis: Brucella causes undulant fever and sacroiliitis.
+B. Viridans streptococcal endocarditis: Blood cultures would be positive.
+C. Leptospirosis: That causes jaundice and conjunctival suffusion.
+D. Psittacosis: That comes from birds and causes pneumonia.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 95
+A 35-year-old man who works in a city sewer system has fever, severe headache, and calf pain for 6 days. He has cuts on his hands. His eyes are red without discharge. Temperature is 39.1°C (102.4°F). He is jaundiced, his creatinine is 2.4 mg/dL, and he coughs up blood. Darkfield microscopy of his blood shows highly motile spirochetes. What is the most likely diagnosis?
+A. Hantavirus pulmonary syndrome
+B. Q fever
+C. Rocky Mountain spotted fever
+D. Weil disease from Leptospira
+E. Typhoid fever
+Answer: D. Weil disease from Leptospira
+Why this is correct: Leptospira comes from rats and contaminated food, soil, or water and enters through skin defects. Weil disease is often biphasic, with jaundice, conjunctival suffusion, flu-like symptoms, and pulmonary hemorrhage. It's diagnosed by darkfield microscopy, culture, or microscopic agglutination test.
+Why the other answers are wrong:
+A. Hantavirus pulmonary syndrome: Hantavirus is a virus, not a spirochete.
+B. Q fever: Coxiella is a coccobacillus.
+C. Rocky Mountain spotted fever: RMSF follows a tick bite with a spreading rash.
+E. Typhoid fever: Salmonella typhi is a gram-negative rod.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 96
+A 42-year-old veterinarian who treats parrots has had high fever, headache, dry cough, sore throat, and diarrhea for 6 days. Temperature is 39.4°C (102.9°F). He has faint pink macules on his face. Chest x-ray shows lobar consolidation, and a sputum Gram stain shows many neutrophils but no organisms. What is the most likely organism?
+A. Coxiella burnetii
+B. Chlamydophila psittaci
+C. Streptococcus pneumoniae
+D. Leptospira
+E. Hantavirus
+Answer: B. Chlamydophila psittaci
+Why this is correct: Psittacosis is caused by Chlamydophila psittaci, carried by parrots and other birds. Poultry workers, veterinarians, pet store workers, and bird owners are at risk. It causes fever, dry cough, diarrhea, facial Horder spots, lobar pneumonia, and a sputum Gram stain with many polys.
+Why the other answers are wrong:
+A. Coxiella burnetii: That's from livestock and raw milk.
+C. Streptococcus pneumoniae: Gram stain would show diplococci.
+D. Leptospira: That's from rats and water.
+E. Hantavirus: That's from mouse droppings.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 9: Bacteria & Antibiotics / HIV/AIDS & Opportunistic Infections
 
-Question 63
+Question 97
 A 38-year-old man with AIDS comes to the emergency department because of headache and fever for 2 weeks. He hasn't taken antiretrovirals for 2 years. His CD4 count is 40/μL. Temperature is 38.4°C (101.1°F), and he has mild neck stiffness. Lumbar puncture shows a high opening pressure, and his CSF is shown below with an India ink stain. He has no focal deficits, and CT of the head is normal. What is the treatment? ![CSF India ink preparation](https://upload.wikimedia.org/wikipedia/commons/6/6f/Cryptococcus_neoformans_using_a_light_India_ink_staining_preparation_PHIL_3771_lores.jpg)
 A. Amphotericin B plus flucytosine, then fluconazole
 B. Clarithromycin and ethambutol
@@ -14410,10 +14938,9 @@ B. Clarithromycin and ethambutol: That treats MAC.
 C. Pyrimethamine and sulfadiazine: That treats toxoplasmosis.
 D. Ceftriaxone: Ceftriaxone treats bacterial meningitis.
 E. Radiation: Radiation treats CNS lymphoma.
-Image credit: Content Providers(s): CDC/Dr. Leanor Haley, Public domain, via Wikimedia Commons
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 64
+Question 98
 A 40-year-old man with HIV comes to the physician because of purple skin lesions on his legs that have grown over 3 months. He stopped his antiretrovirals a year ago. His CD4 count is 150/μL. He has several raised, violet plaques on his legs, as shown below, and similar lesions on his palate. He has no other symptoms. He has no fever or weight loss. His lymph nodes aren't enlarged, and he has no GI bleeding. Which virus causes these lesions? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Kaposi%27s_Sarcoma.jpg)
 A. HIV itself
 B. Epstein-Barr virus
@@ -14427,11 +14954,10 @@ A. HIV itself: HIV lowers CD4 counts but HHV-8 causes KS.
 B. Epstein-Barr virus: EBV causes CNS lymphoma in AIDS.
 C. Hantavirus: Hantavirus causes hemorrhagic fever and pulmonary syndrome.
 D. JC virus: JC virus causes PML.
-Image credit: Unknown authorUnknown author, Public domain, via Wikimedia Commons
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 65
-A 34-year-old man has had several sexual partners with HIV but has never been infected despite repeated exposures. He is healthy and takes no medications. Genetic testing shows he is homozygous for a deletion in a co-receptor that HIV uses to enter cells. He is also told he has a higher risk of another infection. His CD4 count is normal, and HIV testing is negative. Which infection is it?
+Question 99
+A 34-year-old man has had several sexual partners with HIV but has never been infected despite repeated exposures. He is healthy and takes no medications. His CD4 count is normal, and HIV testing is negative. Genetic testing shows he is homozygous for a deletion in a co-receptor that HIV uses to enter cells. For which other infection is he at increased risk?
 A. Hantavirus
 B. Pneumocystis pneumonia
 C. Kaposi sarcoma
@@ -14446,8 +14972,8 @@ C. Kaposi sarcoma: Kaposi sarcoma is from HHV-8.
 D. Toxoplasmosis: Toxoplasmosis is a risk with a low CD4 count.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 66
-A 36-year-old man with HIV comes for follow-up. He has missed several appointments and his antiretrovirals. He feels well except for mild fatigue. He has no opportunistic infections or other AIDS-defining conditions. His CD4 count is 180 cells/μL. His viral load is 48,000 copies/mL. His vital signs are normal, and he has no thrush or weight loss. He asks whether he now has AIDS. Does he meet the definition of AIDS?
+Question 100
+A 36-year-old man with HIV comes for follow-up after missing several appointments and doses of his antiretrovirals. He feels well except for mild fatigue. His vital signs are normal, and he has no thrush, weight loss, opportunistic infections, or other AIDS-defining conditions. His CD4 count is 180 cells/μL, and his viral load is 48,000 copies/mL. Does he meet the definition of AIDS?
 A. No, because his CD4 count must be below 50
 B. Yes, because his CD4 count is below 200 cells/μL
 C. No, because he has no opportunistic infection
@@ -14462,7 +14988,7 @@ D. Yes, but only if his viral load is high: Viral load isn't part of the definit
 E. No, because AIDS requires Kaposi sarcoma: Kaposi sarcoma isn't required.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 67
+Question 101
 A 36-year-old man with HIV who isn't taking antiretrovirals comes to the emergency department with a dry cough and shortness of breath on exertion for 3 weeks. His CD4 count is 110/μL, and he isn't on any prophylaxis. Temperature is 38.3°C (100.9°F), and oxygen saturation falls to 86% when he walks. Room air PaO2 is 62 mm Hg. Chest CT shows bilateral ground-glass opacities. His LDH is elevated. He is not allergic to sulfa drugs. What is the treatment?
 A. Clarithromycin plus ethambutol
 B. TMP-SMX alone
@@ -14478,7 +15004,7 @@ C. Pyrimethamine plus sulfadiazine: That's for toxoplasmosis.
 D. Amphotericin B plus flucytosine: That's for cryptococcal meningitis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 68
+Question 102
 A 43-year-old woman with AIDS is brought to the emergency department with headache, fever, and new weakness in her left arm for 2 weeks. She has two cats. She hasn't taken antiretrovirals or prophylaxis for a year. Her CD4 count is 60/μL. Temperature is 38.5°C (101.3°F). MRI shows multiple ring-enhancing lesions in the basal ganglia, and anti-Toxoplasma IgG is positive. She has no history of cancer. Her CSF PCR for toxoplasma is pending. What is the treatment?
 A. Radiation
 B. Doxycycline
@@ -14494,7 +15020,7 @@ C. Amphotericin B: That's for cryptococcal meningitis.
 D. Treating the HIV alone: That's the approach for PML.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 69
+Question 103
 A 38-year-old man with AIDS is brought in by his partner because of confusion, trouble walking, and bumping into things on his right side for 2 months. His CD4 count is 40/μL. He is afebrile. Visual field testing shows a right homonymous hemianopsia. MRI shows white matter lesions without mass effect or enhancement. CSF PCR is positive for JC virus. Which virus causes this condition?
 A. JC virus
 B. HHV-8
@@ -14510,7 +15036,7 @@ D. Hantavirus: Hantavirus causes pulmonary and renal syndromes.
 E. Toxoplasma gondii: Toxoplasma is a parasite causing ring-enhancing lesions.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 70
+Question 104
 A 45-year-old man with AIDS has headaches, a seizure, and new weakness in his left leg. He has been on toxoplasmosis treatment for 2 weeks without improvement. His CD4 count is 30/μL. MRI shows an enhancing lesion with surrounding edema. CSF PCR is positive for a herpesvirus. His anti-Toxoplasma IgG is negative. The lesion is single and near the ventricles. What is the treatment?
 A. Ganciclovir alone
 B. Radiation
@@ -14526,10 +15052,106 @@ D. Liposomal doxorubicin: That's used for Kaposi sarcoma.
 E. Amphotericin B plus flucytosine: That's for cryptococcal meningitis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
+Question 105
+A 39-year-old woman with AIDS has had headache and fever for 3 weeks and is now confused. Her CD4 count is 30/μL. She has mild neck stiffness but no focal deficits. Lumbar puncture shows an opening pressure of 30 cm H2O, lymphocytic pleocytosis, and a slightly low glucose. CSF cryptococcal antigen is positive. Which organism is responsible?
+A. Toxoplasma gondii
+B. JC virus
+C. Cryptococcus neoformans
+D. Epstein-Barr virus
+E. Neisseria meningitidis
+Answer: C. Cryptococcus neoformans
+Why this is correct: Cryptococcal meningitis is caused by Cryptococcus neoformans or gattii and diagnosed by cryptococcal antigen, PCR, culture, or India ink stain. It's treated with amphotericin B plus flucytosine, then fluconazole.
+Why the other answers are wrong:
+A. Toxoplasma gondii: That causes ring-enhancing lesions.
+B. JC virus: That causes PML.
+D. Epstein-Barr virus: That causes CNS lymphoma.
+E. Neisseria meningitidis: That causes acute bacterial meningitis with neutrophils.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 106
+A 44-year-old man with HIV has raised purple plaques on his legs and similar lesions on his palate and in his mouth. His CD4 count is 120/μL. CT shows enlarged lymph nodes. Biopsy of a plaque shows a vascular tumor. His oncologist stages it as advanced disease beyond what antiretrovirals alone should control. What is the treatment?
+A. Antiretrovirals alone
+B. Radiation
+C. Ganciclovir
+D. Amphotericin B
+E. Antiretrovirals plus liposomal doxorubicin
+Answer: E. Antiretrovirals plus liposomal doxorubicin
+Why this is correct: Kaposi sarcoma is caused by HHV-8 and involves skin, oral mucosa, and lymph nodes (visceral involvement in about half). Stage T0 is treated with antiretrovirals alone, and stage T1 with antiretrovirals plus liposomal doxorubicin.
+Why the other answers are wrong:
+A. Antiretrovirals alone: That's for stage T0.
+B. Radiation: That's for CNS lymphoma.
+C. Ganciclovir: That's for CMV.
+D. Amphotericin B: That's for cryptococcus.
+Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
+
+Question 107
+A 42-year-old man with HIV hasn't taken antiretrovirals or prophylaxis for a year. He has had a dry cough and worsening shortness of breath for 3 weeks. His CD4 count is 90/μL. His room-air PaO2 is 64 mm Hg. Chest CT shows bilateral ground-glass opacities. Bronchoalveolar lavage with a direct fluorescent antibody stain is positive. Which organism is responsible?
+A. Pneumocystis jirovecii
+B. Streptococcus pneumoniae
+C. Cryptococcus neoformans
+D. Mycobacterium avium complex
+E. Toxoplasma gondii
+Answer: A. Pneumocystis jirovecii
+Why this is correct: PCP occurs with CD4 below 200 (or 14%), shows ground-glass opacities, and is diagnosed by bronchoalveolar lavage, PCR, stains, or DFA. Moderate to severe disease (PaO2 below 70) is treated with TMP-SMX plus corticosteroids.
+Why the other answers are wrong:
+B. Streptococcus pneumoniae: That causes lobar consolidation.
+C. Cryptococcus neoformans: That causes meningitis.
+D. Mycobacterium avium complex: That causes disseminated disease with CD4 below 50.
+E. Toxoplasma gondii: That causes brain lesions.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 108
+A 46-year-old man with AIDS has had headache, fever, and new left-sided weakness for 2 weeks. He has two cats. His CD4 count is 55/μL, and he takes no prophylaxis. MRI shows multiple ring-enhancing lesions, most in the basal ganglia. His anti-Toxoplasma IgG is positive. What is the most likely diagnosis?
+A. CNS lymphoma
+B. PML
+C. Cryptococcal meningitis
+D. Cerebral toxoplasmosis
+E. Kaposi sarcoma
+Answer: D. Cerebral toxoplasmosis
+Why this is correct: Toxoplasmosis occurs with CD4 below 100, is associated with cats and litter boxes, and shows multiple lesions with a basal ganglia predilection. A presumptive diagnosis rests on a consistent presentation, anti-Toxoplasma IgG, and response to treatment.
+Why the other answers are wrong:
+A. CNS lymphoma: That's usually EBV-positive with a single lesion.
+B. PML: PML causes white matter lesions without enhancement.
+C. Cryptococcal meningitis: That causes high CSF pressure without ring lesions.
+E. Kaposi sarcoma: That's a skin and mucosal tumor.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 109
+A 40-year-old woman with AIDS has had worsening balance, confusion, and trouble seeing things on her left for 6 weeks. Her CD4 count is 35/μL. She has no fever or headache. Visual field testing shows a left homonymous hemianopsia. MRI shows patchy lesions confined to the white matter without mass effect or enhancement. What is the diagnosis?
+A. Cerebral toxoplasmosis
+B. CNS lymphoma
+C. Progressive multifocal leukoencephalopathy
+D. Cryptococcal meningitis
+E. CMV retinitis
+Answer: C. Progressive multifocal leukoencephalopathy
+Why this is correct: PML causes gait disturbance, confusion, or homonymous hemianopsia from white matter demyelination, usually with CD4 under 50. It's caused by JC virus and treated by treating the HIV.
+Why the other answers are wrong:
+A. Cerebral toxoplasmosis: That causes ring-enhancing lesions.
+B. CNS lymphoma: That causes enhancing lesions with edema.
+D. Cryptococcal meningitis: That causes headache and high CSF pressure.
+E. CMV retinitis: That causes floaters and blurred vision.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 110
+A 50-year-old man with AIDS has had headaches and personality changes for 5 weeks and had a seizure yesterday. His CD4 count is 40/μL. He is afebrile. MRI shows a single enhancing periventricular lesion with surrounding edema. His anti-Toxoplasma IgG is negative. CSF PCR detects a herpesvirus DNA. Which virus is associated with this condition?
+A. JC virus
+B. Epstein-Barr virus
+C. HHV-8
+D. CMV
+E. HSV-1
+Answer: B. Epstein-Barr virus
+Why this is correct: CNS lymphoma causes headaches, seizures, and focal deficits, with enhancing lesions and edema on CT or MRI. It's associated with EBV, diagnosed by EBV PCR from CSF, and treated with radiation.
+Why the other answers are wrong:
+A. JC virus: That causes PML.
+C. HHV-8: That causes Kaposi sarcoma.
+D. CMV: That causes retinitis.
+E. HSV-1: HSV-1 causes temporal lobe encephalitis.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 9: Bacteria & Antibiotics / Beta-Lactam Antibiotics
 
-Question 71
-A 30-year-old woman is diagnosed with streptococcal pharyngitis and prescribed penicillin. She has no drug allergies and takes an oral contraceptive. Temperature is 38.5°C (101.3°F), and her tonsils have exudates. Her physician explains that the drug binds bacterial proteins that cross-link the cell wall. She works as a teacher. Her rapid strep test is positive, and she has tender anterior cervical nodes. How do beta-lactams kill bacteria?
+Question 111
+A 30-year-old teacher has a sore throat and fever for 2 days. She has no drug allergies and takes an oral contraceptive. Temperature is 38.5°C (101.3°F), her tonsils have exudates, and she has tender anterior cervical nodes. Her rapid strep test is positive, and she is prescribed penicillin. Two days later her fever resolves. By which mechanism did this drug kill the organism?
 A. They bind penicillin-binding proteins and block transpeptidation, so the cell wall can't form and the cell lyses
 B. They form cation channels in the membrane
 C. They bind the 30S ribosome
@@ -14544,7 +15166,7 @@ D. They bind D-ala-D-ala and block polymerization: That's vancomycin.
 E. They inhibit DNA-dependent RNA polymerase: That's rifamycins.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 72
+Question 112
 A 30-year-old man comes to the physician because of a painless genital ulcer 3 weeks after unprotected sex. He has no drug allergies. The ulcer is firm with a clean base, and he has painless inguinal nodes. Darkfield microscopy shows spirochetes, and his RPR is positive. He takes no medications and has no drug allergies. His HIV test is negative. Which antibiotic is appropriate?
 A. Penicillin
 B. Rifaximin
@@ -14560,7 +15182,7 @@ D. Aztreonam: Aztreonam is for gram-negative coverage in penicillin allergy.
 E. Metronidazole: Metronidazole covers anaerobes and protozoa.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 73
+Question 113
 A 55-year-old man is admitted with a skin abscess and bacteremia. He has diabetes and takes insulin. Temperature is 38.9°C (102°F). Blood cultures grow Staphylococcus aureus that is methicillin susceptible (MSSA). He injects insulin into his thigh, where the abscess formed. Blood pressure is 118/74 mm Hg, and his WBC is 16,400/mm³. He has no drug allergies. Which antibiotic class is appropriate?
 A. Aztreonam
 B. Fosfomycin
@@ -14576,7 +15198,7 @@ C. Polymyxin: Polymyxins target gram-negative organisms.
 D. An aminopenicillin: Aminopenicillins are listed for Enterococcus faecalis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 74
+Question 114
 A 70-year-old man is admitted with fever and a new murmur. He had a colonoscopy 3 weeks ago. He has hypertension and takes lisinopril. Temperature is 38.6°C (101.5°F). Blood cultures grow Enterococcus faecalis that is ampicillin susceptible. He has no drug allergies. Echocardiography shows a vegetation on the aortic valve. Which penicillin class is listed for this organism?
 A. First-generation cephalosporins
 B. Aminopenicillins
@@ -14592,8 +15214,8 @@ D. Anti-staphylococcal penicillins: Those are for MSSA.
 E. Monobactams: Aztreonam is for gram-negative coverage.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 75
-A 40-year-old woman is bitten by a dog on her hand. She has no allergies and takes no medications. The wound is swollen and red, and she has a low-grade fever. Her physician prescribes an oral aminopenicillin combined with a beta-lactamase inhibitor to cover anaerobic organisms. Temperature is 37.9°C (100.2°F). The wound has swelling and redness spreading 3 cm from the bite. Her tetanus vaccine is up to date. Which drug is this?
+Question 115
+A 40-year-old woman is bitten on the hand by a dog. She has no allergies and takes no medications. Temperature is 37.9°C (100.2°F). The wound is swollen, and redness spreads 3 cm from the bite. Her tetanus vaccine is up to date. She will be treated as an outpatient with an oral antibiotic that covers anaerobic organisms. Which drug is most appropriate?
 A. Cefepime
 B. Piperacillin-tazobactam
 C. Ampicillin-sulbactam
@@ -14608,7 +15230,7 @@ C. Ampicillin-sulbactam: That's the IV combination, listed for Acinetobacter.
 D. Aztreonam: That's a monobactam.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 76
+Question 116
 A 62-year-old woman on a ventilator in the ICU develops a new fever and purulent secretions. She has COPD. Temperature is 39.0°C (102.2°F), and chest x-ray shows a new infiltrate. Sputum grows an oxidase-positive gram-negative rod with a grape-like odor. She has been hospitalized for 10 days and has received several antibiotics. Her WBC is 17,200/mm³. Which penicillin combination covers this organism?
 A. Anti-staphylococcal penicillin
 B. Piperacillin plus a beta-lactamase inhibitor
@@ -14624,8 +15246,8 @@ D. Amoxicillin-clavulanate: That's used for anaerobes.
 E. Ampicillin alone: Aminopenicillins cover E. faecalis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 77
-A 48-year-old woman is having elective surgery. She has no drug allergies. Her surgeon orders a first-generation cephalosporin before the incision. Her vital signs and labs are normal. She is having a hysterectomy for fibroids. She takes ibuprofen as needed. Her creatinine is normal. Which drug is a first-generation cephalosporin that covers MSSA?
+Question 117
+A 48-year-old woman develops redness and purulent drainage from her incision 5 days after a hysterectomy for fibroids. She has no drug allergies and takes ibuprofen as needed. Temperature is 38.2°C (100.8°F), and her creatinine is normal. Wound culture grows methicillin-susceptible Staphylococcus aureus. Which first-generation cephalosporin covers this organism?
 A. Ceftriaxone
 B. Ceftaroline
 C. Cefazolin
@@ -14640,8 +15262,8 @@ D. Cefepime: That's fourth generation.
 E. Cefoxitin: That's second generation.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 78
-A 60-year-old man with a diabetic foot infection grows Pseudomonas aeruginosa. He has chronic kidney disease. Temperature is 38.4°C (101.1°F). His physician chooses a fourth-generation cephalosporin whose molecule carries both positive and negative charges with a net charge of zero. His foot has a deep ulcer with surrounding redness. His creatinine is 1.8 mg/dL. He has no drug allergies. Which drug is this?
+Question 118
+A 60-year-old man with diabetes and chronic kidney disease has a deep foot ulcer with surrounding redness. Temperature is 38.4°C (101.1°F), and his creatinine is 1.8 mg/dL. He has no drug allergies. Deep tissue culture grows Pseudomonas aeruginosa. Which cephalosporin covers this organism?
 A. Ceftriaxone
 B. Ceftaroline
 C. Cefepime
@@ -14650,14 +15272,14 @@ E. Cefuroxime
 Answer: C. Cefepime
 Why this is correct: Cefepime is a fourth-generation cephalosporin with Pseudomonas coverage. It's a zwitterion, with positive and negative charges and a net charge of zero.
 Why the other answers are wrong:
-A. Ceftriaxone: Ceftriaxone is third generation and isn't the zwitterion described.
+A. Ceftriaxone: Among the third-generation drugs, ceftazidime (not ceftriaxone) is the one listed for Pseudomonas.
 B. Ceftaroline: Ceftaroline is fifth generation with MRSA activity.
 D. Cefazolin: Cefazolin is first generation for MSSA.
 E. Cefuroxime: Cefuroxime is second generation.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 79
-A 55-year-old man injects drugs and is admitted with a skin infection that has spread to his blood. He has hepatitis C. Temperature is 39.1°C (102.4°F). Blood cultures grow MRSA. His physician considers a cephalosporin that covers MRSA. His WBC is 18,600/mm³, and echocardiography shows no vegetation. He has no drug allergies. Which generation and drug is this?
+Question 119
+A 55-year-old man who injects drugs is admitted with cellulitis that has spread to his blood. He has hepatitis C. Temperature is 39.1°C (102.4°F), and his WBC is 18,600/mm³. Echocardiography shows no vegetation. He has no drug allergies. Blood cultures grow MRSA. Which cephalosporin has activity against this organism?
 A. Second generation, cefoxitin
 B. Fourth generation, cefepime
 C. First generation, cefazolin
@@ -14672,8 +15294,8 @@ C. First generation, cefazolin: Cefazolin covers MSSA, not MRSA.
 D. Third generation, ceftriaxone: Ceftriaxone doesn't cover MRSA.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 80
-A 65-year-old woman is admitted with a complicated urinary infection. She has diabetes. The infectious disease team chooses a carbapenem but notes that one carbapenem lacks coverage of Acinetobacter, Pseudomonas, and E. faecalis. Her urine grows an Enterobacterales species. Her creatinine is normal, and she has no drug allergies. Temperature is 38.6°C (101.5°F). Which carbapenem is this?
+Question 120
+A 65-year-old woman with diabetes is admitted with a complicated urinary infection. She has no drug allergies, and her creatinine is normal. She is started on a carbapenem. After 3 days she still has fevers to 38.6°C (101.5°F) and flank pain, and her urine culture grows Pseudomonas aeruginosa. Which carbapenem was she most likely given?
 A. Cefepime
 B. Ertapenem
 C. Imipenem
@@ -14688,8 +15310,8 @@ D. Aztreonam: Aztreonam is a monobactam.
 E. Meropenem: Meropenem covers these organisms.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 81
-A 50-year-old woman with a severe penicillin allergy (anaphylaxis) is admitted with Pseudomonas pneumonia. She has asthma and uses an inhaled steroid. Temperature is 38.8°C (101.8°F). Her physician chooses an anti-pseudomonal beta-lactam suitable for patients with penicillin allergy. Her WBC is 16,800/mm³. Sputum grows an oxidase-positive gram-negative rod. Which drug is this?
+Question 121
+A 50-year-old woman with asthma is admitted with pneumonia. She had anaphylaxis to penicillin in the past. Temperature is 38.8°C (101.8°F), and her WBC is 16,800/mm³. Sputum grows an oxidase-positive gram-negative rod with a grape-like odor. Which antibiotic is most appropriate for her?
 A. Daptomycin
 B. Amoxicillin-clavulanate
 C. Aztreonam
@@ -14706,7 +15328,7 @@ Objective: Describe the mechanisms of action of major classes of antimicrobial d
 
 Week 9: Bacteria & Antibiotics / Other Cell Wall & Membrane Antibiotics
 
-Question 82
+Question 122
 A 70-year-old man with MRSA bacteremia is started on IV vancomycin. He has chronic kidney disease. During a rapid infusion he develops flushing and itching of his face and upper body. His creatinine has also started to rise. His blood pressure is stable, and his rash fades when the infusion is slowed. His creatinine rose from 1.6 to 2.1 mg/dL. Why must his drug levels be monitored?
 A. Vancomycin has a narrow therapeutic index and can cause nephrotoxicity and ototoxicity
 B. It's a CYP inducer
@@ -14722,8 +15344,8 @@ D. It causes a disulfiram-like reaction: That's metronidazole.
 E. It causes rhabdomyolysis: That's daptomycin.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 83
-A 60-year-old woman with MRSA pneumonia is being treated. She has hypertension and takes lisinopril. Her team considered daptomycin because it covers MRSA, but decided against it. Temperature is 38.6°C (101.5°F), and chest x-ray shows a right lower lobe infiltrate. Her WBC is 17,000/mm³, and her creatinine is normal. Why isn't daptomycin used for pneumonia?
+Question 123
+A 60-year-old woman with hypertension is admitted with MRSA pneumonia. She takes lisinopril. She is started on daptomycin. Three days later her fever persists at 38.6°C (101.5°F), chest x-ray shows a larger right lower lobe infiltrate, and her WBC has risen to 19,000/mm³. Her creatinine and CK are normal. Why did this treatment fail?
 A. It causes nephrotoxicity
 B. It causes serotonin syndrome
 C. It has no MRSA activity
@@ -14738,7 +15360,7 @@ C. It has no MRSA activity: Daptomycin covers S. aureus.
 D. It only works in urine: That's fosfomycin.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 84
+Question 124
 A 52-year-old man with MRSA endocarditis is on daptomycin. He has type 2 diabetes and takes a statin. After 2 weeks he has muscle pain and weakness, and his CK is 8,400 U/L. He has no dark urine. His creatinine is normal. Which adverse effect of daptomycin is this?
 A. Thrombocytopenia
 B. Body fluid discoloration
@@ -14754,8 +15376,8 @@ C. Ototoxicity: That's vancomycin and aminoglycosides.
 D. Tooth discoloration: That's tetracyclines.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 85
-A 26-year-old woman has uncomplicated cystitis and wants a single oral dose. She has no allergies and is not pregnant. Temperature is 37.0°C (98.6°F), and urinalysis shows white cells and nitrites. Her physician prescribes an oral drug that is only effective for urinary tract infections. She has had symptoms for 1 day. She takes no medications. Which drug is this?
+Question 125
+A 26-year-old woman has burning with urination and frequency for 1 day. She has no allergies, takes no medications, and isn't pregnant. Temperature is 37.0°C (98.6°F), and she has no flank pain. Urinalysis shows white cells and nitrites. She prefers a single oral dose. Which drug is most appropriate for her uncomplicated cystitis?
 A. Daptomycin
 B. Clindamycin
 C. Rifaximin
@@ -14770,8 +15392,8 @@ C. Rifaximin: Rifaximin stays in the GI tract.
 D. Moxifloxacin: Moxifloxacin has no urinary penetration.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 86
-A 50-year-old man in the ICU has a multidrug-resistant gram-negative infection, and his team adds a polymyxin. He has chronic kidney disease. His physician explains that this drug class disrupts the bacterial membrane. The organism is resistant to carbapenems. His creatinine is 2.2 mg/dL, and blood pressure is 96/60 mm Hg. How is its mechanism described?
+Question 126
+A 50-year-old man in the ICU has a gram-negative bloodstream infection resistant to carbapenems. He has chronic kidney disease. His creatinine is 2.2 mg/dL, and blood pressure is 96/60 mm Hg. He is started on colistin, a polymyxin. By which mechanism does this drug kill the organism?
 A. Blocking DHFR
 B. Blocking tRNA binding
 C. Binding D-ala-D-ala
@@ -14788,7 +15410,7 @@ Objective: Describe the mechanisms of action of major classes of antimicrobial d
 
 Week 9: Bacteria & Antibiotics / DNA & RNA Synthesis Inhibitors
 
-Question 87
+Question 127
 A 68-year-old man is treated with levofloxacin for pneumonia. He also takes prednisone for COPD. A week later he feels a pop in his heel while walking and can't push off with his foot. His ECG before treatment showed a borderline QTc. His creatinine is normal. He has no fever. Which adverse effect of fluoroquinolones is this?
 A. Gynecomastia
 B. Ototoxicity
@@ -14804,8 +15426,8 @@ D. Photosensitivity: That's tetracyclines.
 E. Rhabdomyolysis: That's daptomycin.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 88
-A 34-year-old woman has pyelonephritis. She is allergic to penicillin. Her physician considers a fluoroquinolone but notes that one of them has no urinary penetration and no Pseudomonas activity. Temperature is 38.9°C (102°F). Her creatinine is normal. Her urine culture is pending. Which fluoroquinolone shouldn't be used for her infection?
+Question 128
+A 34-year-old woman with a penicillin allergy has fever and flank pain and is diagnosed with pyelonephritis. Her creatinine is normal. She is started on a fluoroquinolone, but after 3 days her fever is 38.9°C (102°F) and her flank pain is worse. Her urine culture grows Pseudomonas aeruginosa. Which fluoroquinolone was the wrong choice for her infection?
 A. Ciprofloxacin
 B. Delafloxacin
 C. None of them
@@ -14820,7 +15442,7 @@ C. None of them: Moxifloxacin lacks urinary penetration.
 E. Levofloxacin: Levofloxacin covers Enterobacterales, Pseudomonas, and strep.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 89
+Question 129
 A 25-year-old woman is diagnosed with bacterial vaginosis and prescribed metronidazole. She drinks wine on weekends. Two days later she has a glass of wine and develops flushing, nausea, and a pounding headache. She has a thin gray discharge with a fishy odor. She takes no other medications. How does metronidazole kill organisms, and what caused her reaction?
 A. It binds the 30S ribosome; it causes ototoxicity
 B. It blocks DHFR; it causes hyperkalemia
@@ -14836,7 +15458,7 @@ C. It binds D-ala-D-ala; it causes infusion syndrome: That's vancomycin.
 D. It inhibits RNA polymerase; it turns body fluids orange: That's rifampin.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 90
+Question 130
 A 40-year-old woman with a prosthetic joint infection is started on rifampin along with another antibiotic. She takes an oral contraceptive and warfarin. A week later her urine and tears are orange, and her INR has dropped. Her prosthetic joint was placed 2 years ago. Her liver enzymes are mildly elevated. Why is rifampin never used alone, and why did her INR drop?
 A. Resistance develops with monotherapy, and rifampin induces CYP enzymes
 B. It only works in urine, and it chelates warfarin
@@ -14852,8 +15474,8 @@ D. It causes tendon rupture, and it prolongs QT: That's fluoroquinolones.
 E. It's too nephrotoxic, and it binds vitamin K: That isn't the mechanism.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 91
-A 58-year-old man with cirrhosis has had two episodes of confusion from hepatic encephalopathy. He takes lactulose. His physician adds a poorly absorbed rifamycin that stays in the GI tract. His ammonia is 90 μmol/L. His creatinine is normal, and his albumin is 2.8 g/dL. Which drug is this?
+Question 131
+A 58-year-old man with cirrhosis has had two episodes of confusion from hepatic encephalopathy despite taking lactulose. His ammonia is 90 μmol/L. His creatinine is normal, and his albumin is 2.8 g/dL. He has asterixis. Which poorly absorbed antibiotic should be added to reduce further episodes?
 A. Rifabutin
 B. Metronidazole
 C. Rifampin
@@ -14868,7 +15490,7 @@ C. Rifampin: Rifampin is absorbed and has broad activity.
 E. Fosfomycin: Fosfomycin is used for UTIs.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 92
+Question 132
 A 34-year-old man with HIV is started on TMP-SMX to prevent Pneumocystis pneumonia. He also takes lisinopril. Three weeks later his potassium is 5.9 mEq/L and his sodium is 131 mEq/L. He also has a new rash. His CD4 count is 150/μL, and his creatinine is normal. He has no fever. How does TMP-SMX work, and what serious reaction can the rash progress to?
 A. It binds the 50S ribosome; C. diff colitis
 B. It inhibits RNA polymerase; hepatotoxicity
@@ -14884,8 +15506,8 @@ D. It forms cation channels; rhabdomyolysis: That's daptomycin.
 E. It binds PBPs; anaphylaxis: That's beta-lactams.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 93
-A 70-year-old woman is admitted with a urinary infection. She has a penicillin rash history. Her urine grows Enterobacterales. Her physician considers ciprofloxacin but notes it wouldn't work well if she also had a strep or staph infection. Temperature is 38.4°C (101.1°F), and her creatinine is normal. Which statement about ciprofloxacin's spectrum is correct?
+Question 133
+A 70-year-old woman is admitted with a urinary infection and cellulitis of her leg. She has a penicillin rash history. She is started on ciprofloxacin. Her urine culture grows Enterobacterales, and her urinary symptoms improve, but the leg redness spreads and a wound swab grows Streptococcus pyogenes. Temperature is 38.4°C (101.1°F). Which statement explains this outcome?
 A. It has no urinary penetration
 B. It covers strep but not Pseudomonas
 C. It covers only gram-positive organisms
@@ -14900,8 +15522,8 @@ C. It covers only gram-positive organisms: That's vancomycin.
 D. It covers MRSA and anaerobes: That's delafloxacin.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 94
-A 40-year-old woman with HIV has a non-tuberculous mycobacterial infection. She takes antiretrovirals that interact heavily with CYP inducers. Her physician wants a rifamycin for the NTM regimen with fewer drug interactions than rifampin. Her CD4 count is 180/μL. She has no liver disease. Her viral load is undetectable. Which rifamycin is chosen?
+Question 134
+A 40-year-old woman with HIV has a non-tuberculous mycobacterial infection. Her CD4 count is 180/μL, and her viral load is undetectable on antiretrovirals that interact heavily with CYP inducers. She has no liver disease. Her NTM regimen needs a rifamycin. Which rifamycin is most appropriate?
 A. Rifaximin
 B. Rifabutin
 C. Daptomycin
@@ -14918,8 +15540,8 @@ Objective: Describe the mechanisms of action of major classes of antimicrobial d
 
 Week 9: Bacteria & Antibiotics / Protein Synthesis Inhibitors
 
-Question 95
-A 30-year-old woman at 12 weeks' gestation has a urinary tract infection with a Pseudomonas species. She has no allergies. Her physician avoids an antibiotic class that binds the 30S ribosome, causes mRNA misreading, and can cause ototoxicity, nephrotoxicity, and neuromuscular blockade. She has no drug allergies and her creatinine is normal. Her fetal ultrasound is normal. Which class is this?
+Question 135
+A newborn boy fails his hearing screen twice. His mother had a Pseudomonas urinary tract infection at 12 weeks' gestation and was treated with a drug that binds the 30S ribosome and causes mRNA misreading. She also developed vertigo and a rise in creatinine during treatment. The baby's other exam findings are normal. Which antibiotic class was she most likely given?
 A. Aminoglycosides
 B. Fluoroquinolones
 C. Macrolides
@@ -14934,7 +15556,7 @@ D. Oxazolidinones: Linezolid binds the 50S subunit.
 E. Beta-lactams: Beta-lactams bind PBPs.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 96
+Question 136
 A 65-year-old man with a non-tuberculous mycobacterial lung infection is started on a multidrug regimen that includes an aminoglycoside. He has COPD. His hearing and kidney function are checked before starting. His CD4 count is normal, and HIV testing is negative. Chest CT shows nodules and bronchiectasis. Which aminoglycoside covers Enterobacterales, Pseudomonas, and non-tuberculous mycobacteria?
 A. Rifaximin
 B. Plazomicin
@@ -14950,8 +15572,8 @@ D. Gentamicin: Gentamicin isn't listed for NTM.
 E. Tobramycin: Tobramycin isn't listed for NTM.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 97
-A 26-year-old woman with Rocky Mountain spotted fever is started on doxycycline. She takes an iron supplement for heavy periods. She is told to take the drug with a full glass of water, stay upright, and avoid the sun. She lives in North Carolina and developed a rash on her wrists and ankles after a tick bite. Her platelets are 90,000/mm³. How do tetracyclines work, and why should they be separated from her iron?
+Question 137
+A 26-year-old woman from North Carolina has a rash on her wrists and ankles after a tick bite and is started on doxycycline. She takes an iron supplement for heavy periods and swallows both pills together each morning. After 3 days her fever persists, and her platelets are 90,000/mm³. How do tetracyclines work, and why did her iron interfere with treatment?
 A. They block tRNA binding to the 30S ribosome; they chelate metals
 B. They bind the 50S ribosome; they induce CYP
 C. They form cation channels; they're inactivated by surfactant
@@ -14966,7 +15588,7 @@ D. They inhibit DHFR; they cause hyperkalemia: That's TMP-SMX.
 E. They bind PBPs; they cause nephrotoxicity: That's beta-lactams and vancomycin.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 98
+Question 138
 A 30-year-old woman with walking pneumonia from an atypical organism is prescribed azithromycin. She has no allergies and takes an oral contraceptive. Temperature is 38.1°C (100.6°F), and chest x-ray shows patchy infiltrates. She has had a dry cough for a week and a mild headache. Her WBC is normal. How do macrolides work?
 A. They bind the 50S subunit and inhibit transpeptidation during elongation
 B. They block tRNA binding to the 30S subunit
@@ -14982,7 +15604,7 @@ D. They bind the 30S subunit and cause misreading: That's aminoglycosides.
 E. They inhibit DNA-dependent RNA polymerase: That's rifamycins.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 99
+Question 139
 A 45-year-old woman is treated with clindamycin for a dental abscess. She has hypothyroidism and takes levothyroxine. Ten days later she has 10 watery stools a day, fever, and cramping. Temperature is 38.4°C (101.1°F), and her WBC is 18,000/mm³. Colonoscopy shows yellow-white plaques on the colon wall. How does clindamycin work, and what caused her diarrhea?
 A. It breaks DNA strands; disulfiram-like reaction
 B. It binds the 30S subunit; nephrotoxicity
@@ -14998,7 +15620,7 @@ C. It binds PBPs; allergic colitis: That isn't the mechanism.
 E. It inhibits RNA polymerase; hepatotoxicity: That's rifamycins.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 100
+Question 140
 A 62-year-old man with a VRE infection is on linezolid. He also takes sertraline for depression. After 2 weeks his platelets have fallen to 64,000/mm³, and he now has agitation, tremor, fever, and muscle rigidity. His VRE bacteremia has cleared. His creatinine is normal, and his lactate is mildly elevated. Which drug class is linezolid, and what explains his new symptoms?
 A. A tetracycline; photosensitivity
 B. A glycopeptide; infusion syndrome
