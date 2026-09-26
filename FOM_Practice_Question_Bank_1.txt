@@ -11445,7 +11445,7 @@ E. It has a segmented genome: Segmentation affects reassortment, not stability.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 2
-A 30-year-old nurse asks why the influenza virus doesn't spread through contaminated food the way norovirus does. She works on a pediatric unit and received this year's flu vaccine. Her vital signs are normal. Her physician explains that influenza carries a lipid layer taken from the host cell membrane, studded with glycoprotein spikes. She asks because a coworker got sick after sharing a lunch with a child who had norovirus. She washes her hands often and uses alcohol sanitizer. Which statement about viruses with this structure is correct?
+A 30-year-old nurse on a pediatric unit develops fever, cough, and muscle aches during a winter outbreak. Temperature is 38.9°C (102°F), and her rapid influenza test is positive. That same month, a norovirus outbreak on her unit spread through shared food, but infection control found no influenza cases linked to the cafeteria. Electron microscopy of her virus shows a lipid layer taken from the host cell membrane, studded with glycoprotein spikes. Which statement about viruses with this structure is correct?
 A. They're resistant to detergents
 B. Their envelope is made by viral enzymes from scratch
 C. They're fragile and spread through bodily fluids, not the fecal-oral route
@@ -11461,7 +11461,7 @@ E. They survive stomach acid: Enveloped viruses are acid-sensitive.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 3
-A 22-year-old woman develops sore throat, fever, and a runny nose. She works at a daycare and takes an oral contraceptive. Temperature is 38.3°C (100.9°F). Her physician explains that the virus causing her illness first had to recognize and bind specific molecules on her respiratory epithelial cells before it could enter. Her pulse is 96/min, and her throat is red without exudates. Her rapid strep test is negative. She asks why some viruses infect the throat but not other organs. What determines which host and tissue a virus infects?
+A 22-year-old woman who works at a daycare develops sore throat, fever, and a runny nose. She takes an oral contraceptive. Temperature is 38.3°C (100.9°F), pulse is 96/min, and her throat is red without exudates. Her rapid strep test is negative. A respiratory viral panel identifies a virus that infects the epithelium of the upper airway and doesn't infect her gut, liver, or other organs. Which factor best explains why this virus infected her respiratory epithelium?
 A. The viral polymerase
 B. The prodromal period
 C. Uncoating
@@ -11477,7 +11477,7 @@ D. Chromatin margination: That's a histologic finding in parvovirus B19.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 4
-A 41-year-old man with fever and cough has a respiratory virus grown in the hospital lab to guide his care. He has asthma and uses an albuterol inhaler. Temperature is 38.6°C (101.5°F). The microbiologist explains that the virus has attached to and entered his cells, but it hasn't yet released its genome from the protein capsid. His oxygen saturation is 95%, and his chest x-ray is clear. The lab is studying how the virus moves through the steps of infection inside cells. Which step of the viral life cycle comes next?
+A 41-year-old man with asthma has fever and cough for 3 days. He uses an albuterol inhaler. Temperature is 38.6°C (101.5°F), oxygen saturation is 95%, and his chest x-ray is clear. A respiratory virus is grown from his nasal swab. Electron micrographs of his infected cells show that the virus has attached and entered, but its genome is still enclosed in the protein capsid inside the cell. Which step of the viral life cycle occurs next?
 A. Release
 B. Uncoating
 C. Attachment
@@ -11509,7 +11509,7 @@ E. Acyclovir: Acyclovir treats HSV and VZV.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 6
-A 33-year-old woman with influenza asks why the virus is described as unusual among RNA viruses. She is a teacher and takes no medications. Temperature is 38.8°C (101.8°F). Her physician explains that most RNA viruses replicate in the cytoplasm using an RNA-dependent RNA polymerase, but influenza and HIV are exceptions. Her pulse is 102/min, and she has muscle aches and a dry cough. Her rapid influenza test is positive. She is a biology teacher and wants to explain it to her students. What is the exception?
+A 33-year-old teacher has fever, muscle aches, and a dry cough for 2 days. She takes no medications. Temperature is 38.8°C (101.8°F), and pulse is 102/min. Her rapid influenza test is positive. Studies of her virus show its RNA genome is copied in an unusual location for an RNA virus, a feature it shares with HIV. Which feature do influenza and HIV share that sets them apart from most RNA viruses?
 A. They're naked viruses
 B. They use DNA polymerase
 C. They have no capsid
@@ -11541,7 +11541,7 @@ E. Reverse transcription: That's retroviruses.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 8
-A 67-year-old woman gets her annual influenza vaccine every fall because the vaccine is updated each year. She has COPD and uses an inhaler. Her vital signs are normal. She asks why last year's shot isn't enough. She had the flu two years ago despite being vaccinated the year before. Her blood pressure is 128/76 mm Hg. Her physician explains why flu vaccines are updated. What causes the slow year-to-year changes in influenza A that create yearly outbreaks?
+A 67-year-old woman with COPD comes to the physician with fever, cough, and muscle aches for 2 days in January. She received last year's influenza vaccine but not this year's. She had influenza two years ago despite being vaccinated the year before. Temperature is 38.7°C (101.7°F), and her rapid influenza A test is positive. Typing shows the circulating strain differs from last year's by small changes in its surface antigens. Which process explains why last year's vaccine didn't protect her?
 A. Antigenic shift
 B. Integration into host DNA
 C. Chromatin margination
@@ -11605,7 +11605,7 @@ E. Adenovirus: Adenovirus doesn't cause hydrops.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 12
-A 7-month-old girl has fever and rhinorrhea for 3 days followed by wheezing and increased work of breathing. She was born at 34 weeks and attends daycare. Respiratory rate is 62/min, and oxygen saturation is 91%. Her physician mentions that this virus causes infected cells to fuse into large multinucleated cells. Her older brother has a cold. She has intercostal retractions and diffuse wheezes. Rapid antigen testing is positive for RSV. What causes this finding?
+A 7-month-old girl has fever and rhinorrhea for 3 days followed by wheezing and increased work of breathing. She was born at 34 weeks and attends daycare. Respiratory rate is 62/min, and oxygen saturation is 91%. She has intercostal retractions and diffuse wheezes. Rapid antigen testing is positive for RSV. Cells from a nasopharyngeal aspirate include large multinucleated cells formed from many fused epithelial cells. Which mechanism produces these multinucleated cells?
 A. Negri bodies form
 B. Chromatin marginates to the nuclear edge
 C. Viral glycoproteins on the cell surface promote cell fusion (syncytium)
@@ -11621,7 +11621,7 @@ E. Viral DNA integrates into the host: That's retroviruses.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 13
-A 30-year-old man develops fever and muscle aches for 2 days before his specific illness becomes clear. He had a viral exposure 10 days ago at work. His vital signs show a temperature of 38.2°C (100.8°F). His physician explains the stages of viral illness. He works as a veterinary technician and takes no medications. His pulse is 98/min, and his exam is otherwise normal. He asks why he feels sick before any specific symptoms appear. What is the phase with nonspecific fever, chills, and body aches called?
+A 30-year-old veterinary technician has had fever, chills, and muscle aches for 2 days. He had a viral exposure at work 10 days ago. He takes no medications. Temperature is 38.2°C (100.8°F), and pulse is 98/min. His exam is otherwise normal, with no rash, lymphadenopathy, or organ-specific findings yet. Which phase of viral illness is he in?
 A. Acquisition
 B. Convalescence
 C. Contagion
@@ -11637,7 +11637,7 @@ D. The incubation period: That's amplification before symptoms.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 14
-A 64-year-old man is admitted with COVID-19 pneumonia. He has hypertension and diabetes and takes lisinopril and metformin. Oxygen saturation is 86%, and his D-dimer is elevated. His physician explains that the virus binds a host peptidase and causes loss of its function. His blood pressure is 152/94 mm Hg, and chest CT shows bilateral ground-glass opacities. His platelets are normal. What is the downstream effect?
+A 64-year-old man with hypertension and diabetes is admitted with COVID-19 pneumonia. He takes lisinopril and metformin. Blood pressure is 152/94 mm Hg, and oxygen saturation is 86%. Chest CT shows bilateral ground-glass opacities, and his D-dimer is elevated. The virus entered his cells by binding a host peptidase on the cell surface, and binding caused loss of that enzyme's function. Which downstream effect most likely contributes to his vascular and clotting abnormalities?
 A. Increased ACE2 activity
 B. Increased angiotensin II, causing vasoconstriction and coagulopathy
 C. Decreased angiotensin II
@@ -11653,7 +11653,7 @@ E. Syncytium in the gut only: That isn't the mechanism described.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 15
-A 48-year-old man is diagnosed with HTLV-1 after workup for an abnormal white count. He was born in southern Japan and takes no medications. His physician explains that his virus has a (+) RNA genome that is copied into DNA and inserted into his cells' chromosomes. His lymphocyte count is elevated, and his calcium is high. He has no medical problems otherwise. His mother also has HTLV-1. Why does this family of viruses carry oncogenic potential?
+A 48-year-old man born in southern Japan is evaluated for an abnormal white count. He takes no medications. His lymphocyte count and calcium are elevated. He is diagnosed with HTLV-1, and his mother also has the infection. Analysis of his lymphocytes shows viral DNA copied from the (+) RNA genome by reverse transcriptase. Which feature of this virus family gives it oncogenic potential?
 A. They cause koilocytosis
 B. They replicate only in the cytoplasm
 C. They have segmented genomes
@@ -11716,10 +11716,58 @@ C. Rabies: Rabies makes cytoplasmic Negri bodies.
 D. HPV: HPV causes koilocytosis.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
+Question 19
+A 19-year-old Army recruit develops fever, sore throat, cough, and hoarseness during the third week of basic training. Several recruits in his barracks have similar symptoms. He takes no medications. Temperature is 38.6°C (101.5°F), pulse is 102/min, and oxygen saturation is 95%. His pharynx is red, and he has scattered wheezes. His rapid strep and influenza tests are negative. A respiratory PCR panel identifies a non-enveloped DNA virus. Which virus types most likely caused this illness?
+A. Adenovirus types 8, 19, and 37
+B. Adenovirus types 3, 4, and 7
+C. Adenovirus types 41 and 42
+D. HPV types 6 and 11
+E. Influenza A with antigenic shift
+Answer: B. Adenovirus types 3, 4, and 7
+Why this is correct: Adenovirus 3, 4, and 7 cause acute respiratory disease, 8, 19, and 37 cause epidemic keratoconjunctivitis, and 41 and 42 cause acute gastroenteritis.
+Why the other answers are wrong:
+A. Adenovirus types 8, 19, and 37: Those cause epidemic keratoconjunctivitis.
+C. Adenovirus types 41 and 42: Those cause gastroenteritis.
+D. HPV types 6 and 11: Those cause genital warts.
+E. Influenza A with antigenic shift: His influenza test is negative, and the virus is a DNA virus.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 20
+A 2-year-old boy has had watery diarrhea for 8 days with occasional vomiting. He attends daycare, where several toddlers have had similar illnesses. He is fully vaccinated, including against rotavirus. Temperature is 37.9°C (100.2°F), pulse is 124/min, and his mucous membranes are slightly dry. His stool has no blood. Stool PCR is negative for rotavirus and norovirus but positive for a non-enveloped double-stranded DNA virus. Which virus types are most likely responsible?
+A. Adenovirus types 3, 4, and 7
+B. Adenovirus types 8, 19, and 37
+C. Rotavirus
+D. Parvovirus B19
+E. Adenovirus types 41 and 42
+Answer: E. Adenovirus types 41 and 42
+Why this is correct: Adenovirus 41 and 42 cause acute gastroenteritis. As naked viruses, they resist acid and detergents and spread by the fecal-oral route.
+Why the other answers are wrong:
+A. Adenovirus types 3, 4, and 7: Those cause acute respiratory disease.
+B. Adenovirus types 8, 19, and 37: Those cause keratoconjunctivitis.
+C. Rotavirus: His PCR is negative for rotavirus, and rotavirus is an RNA virus.
+D. Parvovirus B19: That causes fifth disease and hydrops fetalis.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 21
+A 6-year-old girl has had bright red cheeks for 2 days, followed by a lacy, reticular rash on her arms and legs. A week earlier she had a low-grade fever, runny nose, and headache. She attends first grade, where several classmates have had the same rash. She takes no medications. Temperature is 37.4°C (99.3°F), and she is playful. Her CBC is normal. Which virus most likely caused her illness?
+A. Parvovirus B19
+B. HHV-6
+C. VZV
+D. Adenovirus type 41
+E. RSV
+Answer: A. Parvovirus B19
+Why this is correct: Parvovirus B19 causes fifth disease in children. In pregnant women it causes fetal anemia, high-output cardiac failure, and hydrops fetalis. Its histologic hallmark is chromatin margination.
+Why the other answers are wrong:
+B. HHV-6: HHV-6 causes roseola, with a rash after high fever breaks.
+C. VZV: Chickenpox is vesicular and itchy.
+D. Adenovirus type 41: That causes gastroenteritis.
+E. RSV: RSV causes bronchiolitis and pneumonia in children.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 8: Virology & Cell Injury / Herpes Virus Infections
 
-Question 19
-A 26-year-old woman asks why her cold sores keep returning. She had her first outbreak as a child. She takes an oral contraceptive. Her physician explains that her virus is a double-stranded DNA virus with a lipid envelope, an icosahedral nucleocapsid, and a layer of proteins between them that helps it replicate. She takes no medications and works as a nurse. Her blood pressure is 114/72 mm Hg. She read that herpesviruses have four structural layers. What is that middle layer called?
+Question 22
+A 26-year-old nurse has had recurrent cold sores since childhood. She takes an oral contraceptive. Her blood pressure is 114/72 mm Hg. A new vesicle on her lip is swabbed, and electron microscopy shows an enveloped virus with an icosahedral nucleocapsid, a double-stranded DNA core, and an amorphous layer of proteins between the capsid and the envelope that aids replication and reactivation. What is this protein layer called?
 A. The peplomer
 B. The matrix of the envelope
 C. The tegument
@@ -11734,7 +11782,7 @@ D. The core: The core holds the DNA.
 E. The capsid: The capsid is the icosahedral cage.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 20
+Question 23
 A 5-year-old boy has fever, drooling, and painful ulcers across his gums, lips, and tongue for 3 days. He attends kindergarten. Temperature is 38.9°C (102°F), and his gums are swollen and bleed easily. He refuses to drink. His mother had a cold sore last month. His pulse is 124/min, and he has tender submandibular nodes. He is drinking very little. Which virus most likely caused his primary infection, and where will it remain latent?
 A. HSV-1; the sensory (trigeminal) ganglia
 B. HSV-2; the lumbosacral spinal cord
@@ -11750,7 +11798,7 @@ D. EBV; B cells: EBV causes mononucleosis.
 E. HHV-6; T cells: HHV-6 causes roseola.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 21
+Question 24
 A 19-year-old college wrestler develops clustered, painful vesicles on his neck and shoulder after a tournament. He had a cold sore as a child. Temperature is 37.8°C (100°F). A Tzanck smear shows multinucleated giant cells. He takes no medications and wrestles four times a week. His teammates have similar lesions. His lymph nodes are mildly enlarged. What is this presentation called?
 A. Herpes gladiatorum
 B. Chickenpox
@@ -11766,8 +11814,8 @@ D. Herpetic whitlow: That's HSV infection of the finger.
 E. Eczema herpeticum: That's HSV in the setting of active skin disease.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 22
-A 24-year-old woman comes to the physician because of painful grouped vesicles on the vulva, fever, and tender inguinal nodes for 4 days. She has a new sexual partner. Temperature is 38.3°C (100.9°F). Viral PCR confirms HSV-2. She asks about her chance of another outbreak and passing it on. She takes an oral contraceptive and has no other medical problems. Her HIV test is negative. She asks whether she can prevent passing it on. Which statement is correct?
+Question 25
+A 24-year-old woman comes to the physician because of painful grouped vesicles on the vulva, fever, and tender inguinal nodes for 4 days. She has a new sexual partner. She takes an oral contraceptive. Temperature is 38.3°C (100.9°F). The vesicles sit on an erythematous base, and some have become ulcers. Her HIV test is negative, and viral PCR confirms HSV-2. Which statement about this patient's infection is correct?
 A. It never recurs after the first episode
 B. It's cured by a single dose of acyclovir
 C. About 88% of HSV-2 infections recur within a year, and asymptomatic shedding can transmit virus
@@ -11782,7 +11830,7 @@ D. Shedding only occurs with visible sores: Asymptomatic shedding occurs.
 E. Suppressive therapy eliminates shedding completely: It may not fully eliminate shedding.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 23
+Question 26
 A 35-year-old man is brought to the emergency department with fever, confusion, and strange behavior for 2 days, followed by a seizure. He has a history of cold sores. Temperature is 39.2°C (102.6°F). MRI shows abnormal signal in the temporal lobe, and CSF PCR is positive for HSV-1. He works as an accountant and takes no medications. His blood pressure is 128/80 mm Hg. CSF shows lymphocytes and red cells. What is the treatment?
 A. Supportive care only
 B. Ganciclovir
@@ -11798,7 +11846,7 @@ C. Amphotericin B: That treats cryptococcus.
 D. Maraviroc: That's an HIV CCR5 inhibitor.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 24
+Question 27
 A 9-day-old boy is brought in with lethargy, poor feeding, and a seizure. He was born vaginally, and his mother had genital sores near delivery that weren't evaluated. Temperature is 38.4°C (101.1°F), and he has a few vesicles on his scalp. CSF shows lymphocytes, and PCR is positive for HSV. He was born at 38 weeks. His mother took no prenatal vitamins and had no prenatal care. His pulse is 176/min. What complication does this represent?
 A. Eczema herpeticum
 B. Neonatal herpes with meningoencephalitis
@@ -11814,7 +11862,7 @@ D. Roseola: That's HHV-6.
 E. Congenital rubella: Rubella causes cataracts and heart defects.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 25
+Question 28
 A 4-year-old girl with poorly controlled atopic dermatitis suddenly develops fever and clusters of punched-out, crusted erosions over her eczema patches on her face and neck. She uses topical steroids. Temperature is 38.7°C (101.7°F). Tzanck smear shows multinucleated giant cells. Her pulse is 128/min, and she is irritable. Her mother has a cold sore. She attends preschool. What is the diagnosis?
 A. Chickenpox
 B. Shingles
@@ -11830,8 +11878,8 @@ C. Impetigo: The Tzanck smear points to herpes.
 E. Herpes gladiatorum: That's HSV in wrestlers.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 26
-A 34-year-old woman is exposed to her nephew's chickenpox. She has no memory of having had it and never received the vaccine. Five days after delivering her son, she develops a vesicular rash. Her newborn is exposed. She has asthma and takes an inhaled steroid. Her son was born at 39 weeks and is feeding well. Her physician explains treatment for the baby. Which treatment is recommended for the neonate?
+Question 29
+A 34-year-old woman with asthma develops a vesicular rash 5 days after delivering her son at 39 weeks. She was exposed to her nephew's chickenpox 2 weeks before delivery, has no history of chickenpox, and was never vaccinated. She takes an inhaled steroid. Her son is feeding well and has no rash. Temperature is 37.2°C (99°F). Which treatment is recommended for the newborn?
 A. Supportive care only
 B. Acyclovir alone
 C. Shingrix
@@ -11846,8 +11894,8 @@ C. Shingrix: Shingrix prevents zoster in adults.
 E. Ganciclovir: That treats CMV.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 27
-A 7-year-old boy is kept home from school with an itchy vesicular rash that began on his trunk 4 days ago. Some lesions are vesicles, some are pustules, and some are crusted. He was never vaccinated. Temperature is 38.1°C (100.6°F). His mother asks when he can return to school. His sister is 2 and also unvaccinated. His pulse is 104/min, and he is scratching constantly. His lungs are clear. What is the answer?
+Question 30
+A 7-year-old boy has an itchy vesicular rash that began on his trunk 4 days ago. He was never vaccinated, and his 2-year-old sister is also unvaccinated. Temperature is 38.1°C (100.6°F), and pulse is 104/min. He is scratching constantly. Some lesions are vesicles, some are pustules, and some are crusted. His lungs are clear. At which point is he no longer contagious?
 A. After 24 hours of antibiotics
 B. When all lesions have crusted
 C. When the fever resolves
@@ -11862,7 +11910,7 @@ D. Immediately, since chickenpox isn't contagious: It's contagious.
 E. Only after a negative PCR: That isn't the listed criterion.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 28
+Question 31
 A 74-year-old man had a painful band-like rash on his left chest 3 months ago that has healed, but he still has burning pain in the same area that keeps him awake. He has hypertension and takes amlodipine. His skin looks normal. He never received a shingles vaccine. His blood pressure is 136/82 mm Hg. The rash was treated late with an antiviral. What is this condition, and what might have reduced its risk?
 A. Eczema herpeticum; steroids
 B. Recurrent chickenpox; VZIG
@@ -11878,8 +11926,8 @@ C. Herpes encephalitis; acyclovir: He has no CNS symptoms.
 D. Disseminated zoster; ganciclovir: His rash was dermatomal.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 29
-A 62-year-old woman asks about a vaccine her friend received after a painful rash. She had chickenpox as a child and is otherwise healthy. Her vital signs are normal. She is 62 and takes a statin. Her blood pressure is 124/78 mm Hg. Her friend had shingles last year. Which vaccine prevents shingles, and how is it given?
+Question 32
+A 62-year-old woman comes for a routine visit. She had chickenpox as a child and has never had shingles. She takes a statin and has no immunocompromising conditions. Her blood pressure is 124/78 mm Hg, and her exam is normal. Her vaccine record shows no zoster vaccination. Which vaccine is recommended to prevent herpes zoster, and how is it given?
 A. VARIVAX, a single adult dose
 B. HPV vaccine
 C. Shingrix, a two-dose series
@@ -11894,8 +11942,8 @@ D. Acyclovir prophylaxis: That isn't a vaccine.
 E. VZIG, a monthly injection: VZIG is immune globulin for exposed neonates.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 30
-A 17-year-old boy has fever, severe sore throat, and fatigue for a week. He recently started dating someone. Temperature is 38.6°C (101.5°F), and he has exudative tonsils, posterior cervical nodes, and a palpable spleen. His WBC shows 18% atypical lymphocytes, and a heterophile antibody test is positive. His pulse is 104/min, and his liver enzymes are mildly elevated. He plays varsity football. He asks when he can go back to practice. What advice is most important?
+Question 33
+A 17-year-old varsity football player has fever, severe sore throat, and fatigue for a week. He recently started dating someone. Temperature is 38.6°C (101.5°F), and pulse is 104/min. He has exudative tonsils, posterior cervical nodes, and a palpable spleen. His WBC shows 18% atypical lymphocytes, his liver enzymes are mildly elevated, and a heterophile antibody test is positive. Which recommendation is most important for this patient?
 A. Avoid contact sports
 B. Start acyclovir
 C. No restrictions are needed
@@ -11910,7 +11958,7 @@ D. Start ganciclovir: That treats CMV.
 E. Start amoxicillin: It's a viral infection.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 31
+Question 34
 A 24-year-old graduate student has fever, malaise, and enlarged lymph nodes for 2 weeks. He has no sore throat. Temperature is 38.2°C (100.8°F). His blood shows atypical lymphocytes, but his heterophile antibody test is negative on two occasions. CMV IgM is positive. He has no rash, and his throat is normal. His liver enzymes are mildly elevated. He works in a lab and takes no medications. What is the diagnosis?
 A. CMV mononucleosis syndrome
 B. HHV-6 infection
@@ -11926,7 +11974,7 @@ D. EBV mononucleosis: EBV mono has a positive heterophile test.
 E. Acute HIV: That isn't supported here.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 32
+Question 35
 A 50-year-old man received an allogeneic bone marrow transplant 3 weeks ago. He is CMV seropositive, and so was his donor. He takes tacrolimus. His physician starts a drug to prevent CMV reactivation during this high-risk period. He had AML and received conditioning chemotherapy. His blood counts are recovering. His quantitative CMV PCR is currently negative. Which drug is used for prevention of CMV reactivation after marrow transplant?
 A. Nitazoxanide
 B. Acyclovir
@@ -11942,7 +11990,7 @@ D. Oseltamivir: That isn't in the review.
 E. Maraviroc: That's for HIV.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 33
+Question 36
 A kidney transplant recipient develops fever, low white count, and rising creatinine 2 months after transplant. He takes mycophenolate, tacrolimus, and prednisone. Temperature is 38.4°C (101.1°F). WBC is 2,600/mm³. Quantitative blood PCR shows a rising viral load of the herpesvirus most associated with graft loss. He is 52 and received a deceased-donor kidney. His donor was CMV positive, and he was CMV negative. His pulse is 106/min. What is the first-line treatment?
 A. Famciclovir
 B. Acyclovir
@@ -11958,7 +12006,7 @@ C. Supportive care: CMV disease needs antivirals.
 D. Letermovir only: Letermovir is used for prevention in BMT.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 34
+Question 37
 A 10-month-old girl had 3 days of high fever up to 40°C (104°F), during which she seemed surprisingly well. When the fever broke, a pink, blanching rash appeared on her trunk. She had a brief febrile seizure on day 2. Her vaccines are up to date. She attends daycare and has an older brother. Her pulse is 128/min, and she is playing normally now. Her parents ask what caused the rash. What is the most likely cause?
 A. Parvovirus B19
 B. HHV-6 (exanthem subitum)
@@ -11974,8 +12022,8 @@ D. EBV: EBV causes mononucleosis.
 E. HSV-1: HSV-1 causes gingivostomatitis.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 35
-A 32-year-old woman has had cold sores several times a year since childhood. She notices they appear after sunburns, stressful exams, and when she has a fever. She takes no medications. She asks where the virus hides between outbreaks and what happens during one. Her vital signs are normal. She asks what triggers the outbreaks and where the virus goes. Which statement is correct?
+Question 38
+A 32-year-old woman has had cold sores several times a year since childhood. They appear after sunburns, stressful exams, and fevers, and each starts with tingling at the same spot on her lip. She takes no medications. Her vital signs are normal, and her lip shows a healing crusted lesion. Which statement best describes the virus between and during her outbreaks?
 A. It's cleared completely after each outbreak
 B. It integrates into skin cell DNA
 C. It lies latent in endothelial cells
@@ -11990,8 +12038,8 @@ C. It lies latent in endothelial cells: That's HHV-8.
 E. It lives in B cells and reactivates in the blood: That's EBV latency.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 36
-A 28-year-old man has blood drawn during a workup for fatigue. He is otherwise healthy. His physician explains the serologic pattern for his herpesvirus results: one antibody class suggests acute infection, and another shows prior exposure. His vital signs are normal, and his exam shows no rash. His physician ordered antibodies to several herpesviruses. He asks what the results mean. Which pairing is correct?
+Question 39
+A 28-year-old man has fatigue, fever, and tender cervical nodes for 10 days. He is otherwise healthy. Temperature is 38.1°C (100.6°F), and his exam shows no rash. Antibody testing against several herpesviruses shows IgM positive and IgG negative for one virus, and IgG positive with IgM negative for another. Which interpretation of herpesvirus serology is correct?
 A. Serology can't be used for herpesviruses
 B. IgA suggests acute infection
 C. IgE indicates prior exposure
@@ -12006,7 +12054,7 @@ C. IgE indicates prior exposure: That isn't the listed marker.
 E. IgG suggests acute infection, and IgM indicates prior exposure: This is reversed.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 37
+Question 40
 A 2-year-old boy is evaluated for a febrile seizure. He had a high fever and then a rash appeared. His older sister had a similar illness caused by HHV-6. His testing points to a closely related betaherpesvirus acquired in childhood through saliva. His temperature was 40°C (104°F) at its peak. His vaccines are up to date. He attends daycare. Which virus is it?
 A. VZV
 B. HHV-7
@@ -12022,7 +12070,7 @@ D. HHV-8: HHV-8 causes Kaposi sarcoma.
 E. HSV-2: HSV-2 causes genital lesions.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 38
+Question 41
 A newborn girl is small for gestational age with a small head, hepatosplenomegaly, and jaundice. Her mother had a flu-like illness with swollen glands during pregnancy and works in a daycare. The newborn's urine PCR is positive for a betaherpesvirus. She weighs 2.1 kg at 38 weeks. Her platelets are low, and her hearing screen is abnormal. CT shows periventricular calcifications. What is this congenital infection called?
 A. Neonatal herpes
 B. Exanthem subitum
@@ -12038,7 +12086,7 @@ C. Congenital rubella: Rubella isn't a herpesvirus.
 D. Hydrops fetalis: That's parvovirus B19.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 39
+Question 42
 A 23-year-old woman has painful grouped vesicles on an erythematous base on her labia. She has a new partner. Temperature is 37.9°C (100.2°F). She has tender inguinal nodes. Her HIV test is negative. The smear is taken from the base of a fresh vesicle. Scrapings from the base of a vesicle are stained, and the smear shows the finding in the image. What is this test, and what does the finding indicate? ![Stained smear](https://upload.wikimedia.org/wikipedia/commons/e/ea/Multinucleate-giant-cell-on-Tzanck-smear.png)
 A. A Pap smear showing koilocytes
 B. An India ink stain showing capsules
@@ -12054,8 +12102,8 @@ D. A Gram stain showing gram-negative diplococci: That would suggest gonorrhea.
 E. A modified acid-fast stain showing oocysts: That's for Cryptosporidium.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 40
-A 70-year-old man has a painful band of vesicles on his right flank. He has diabetes and takes metformin. He never received a shingles vaccine. His physician uses the smear to teach a medical student. A smear from the base of a vesicle shows the cells in the image. His physician explains which viruses can produce this same finding. Which viruses produce multinucleated giant cells with eosinophilic nuclear inclusions? ![Stained smear](https://upload.wikimedia.org/wikipedia/commons/e/ea/Multinucleate-giant-cell-on-Tzanck-smear.png)
+Question 43
+A 70-year-old man with diabetes has a painful band of vesicles on his right flank that doesn't cross the midline. He takes metformin and never received a shingles vaccine. Temperature is 37.4°C (99.3°F). A smear from the base of a vesicle shows the cells in the image, with multinucleated giant cells and glassy eosinophilic nuclear inclusions. Which viruses produce this finding? ![Stained smear](https://upload.wikimedia.org/wikipedia/commons/e/ea/Multinucleate-giant-cell-on-Tzanck-smear.png)
 A. HSV and VZV
 B. HPV 16 and 18
 C. HIV and HHV-8
@@ -12070,8 +12118,8 @@ D. CMV and EBV: CMV makes owl's eyes, and EBV isn't diagnosed this way.
 E. Rabies and parvovirus: Those cause Negri bodies and chromatin margination.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 41
-A 29-year-old woman has a painful blister on her upper lip that started with tingling the day before, as shown. She gets these several times a year, usually after sunburn or stress. She takes an oral contraceptive. Temperature is normal. She works as a lifeguard and spends hours in the sun. Her lymph nodes are normal. She asks whether she can prevent the sores. Which treatment options can help prevent sores from forming if started early? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/b/b2/Herpes_labialis.jpg)
+Question 44
+A 29-year-old lifeguard has a painful blister on her upper lip that started with tingling the day before, as shown. She gets these several times a year, usually after long days in the sun or stress. She takes an oral contraceptive. Temperature is normal, and her lymph nodes are normal. Which treatment options, started at the first tingling, can help prevent sores from forming? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/b/b2/Herpes_labialis.jpg)
 A. Acyclovir, famciclovir, or valacyclovir
 B. Topical antifungals
 C. Antibiotics
@@ -12086,7 +12134,7 @@ D. Ganciclovir: That's for CMV.
 E. Letermovir: That prevents CMV reactivation after BMT.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 42
+Question 45
 A 26-year-old dental hygienist has a very painful, swollen fingertip with the clustered vesicles shown. She had a cold sore last week and sometimes works without gloves. Temperature is 37.8°C (100°F). Her physician warns against incising the lesion. She has no fever or streaking up the arm. Her nail isn't involved. Her physician recognizes the lesion as viral. What is the diagnosis? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Herpetic_Whitlow.jpg)
 A. Bacterial paronychia
 B. Eczema herpeticum
@@ -12102,7 +12150,7 @@ D. Herpes gladiatorum: That's skin HSV in wrestlers.
 E. Shingles: Shingles is dermatomal.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 43
+Question 46
 A 68-year-old man has a painful, burning rash on his arm in a single band that doesn't cross the midline, as shown. He had chickenpox as a child. He has diabetes and takes metformin. Temperature is 37.4°C (99.3°F). His pulse is 88/min. He has no other lesions. The pain began 2 days before the rash. Where did this virus lie dormant, and which drugs treat it? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/e/ec/Herps_zoster_new_photo.jpg)
 A. B cells; ganciclovir
 B. Hepatocytes; lamivudine
@@ -12118,7 +12166,7 @@ C. Endothelial cells; radiation: That's HHV-8.
 D. The trigeminal ganglion only; letermovir: Letermovir prevents CMV reactivation.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 44
+Question 47
 A 1-year-old girl had 3 days of high fever and was fussy but playful. Her pulse is 124/min, and she is eating well. She has no conjunctivitis or cough. Her older brother had a similar illness. When the fever broke, the pink, blanching rash shown appeared on her trunk. She had a short febrile seizure on day 2. Her vaccines are up to date. What is the diagnosis? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/3/37/Sestamalattia.JPG)
 A. Fifth disease
 B. Exanthem subitum (roseola infantum) from HHV-6
@@ -12134,7 +12182,7 @@ D. Chickenpox: Chickenpox is vesicular and itchy.
 E. Mononucleosis: That's EBV.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 45
+Question 48
 A 3-year-old boy with atopic dermatitis suddenly develops fever and the clustered punched-out erosions shown over his face. His parents stopped his steroid cream a week ago. Temperature is 38.9°C (102°F). PCR of a lesion is positive for HSV-1. His pulse is 134/min. His eczema has been flaring for a month. He attends daycare. What is the diagnosis? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/2/29/Eczema_herpitcum.jpg)
 A. Herpes gladiatorum
 B. Herpetic whitlow
@@ -12150,7 +12198,7 @@ C. Chickenpox: Chickenpox starts on the trunk.
 E. Impetigo: PCR shows HSV.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 46
+Question 49
 An 18-year-old woman has fever, sore throat, and swollen neck nodes for 10 days. Her spleen is palpable, and her liver enzymes are elevated. Her heterophile test is positive. She has no rash. Her WBC is 13,000/mm³ with 60% lymphocytes. Her smear is shown, with large lymphocytes that have abundant cytoplasm indented by surrounding red cells. What are these cells? ![Peripheral blood smear](https://upload.wikimedia.org/wikipedia/commons/9/92/Infectious_Mononucleosis_2.jpg)
 A. EBV-infected B cells
 B. Leukemic blasts
@@ -12166,7 +12214,7 @@ C. Plasma cells: These aren't plasma cells.
 E. Neutrophils: These are lymphocytes.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 47
+Question 50
 A 19-year-old man has fever, sore throat, and fatigue. His spleen is mildly enlarged. His liver enzymes are elevated. He has tender posterior cervical nodes. His smear shows the atypical lymphocytes in the image, making up 22% of his white cells. His heterophile antibody test is positive. Which virus is most likely, and what receptor does it use to enter B cells? ![Peripheral blood smear](https://upload.wikimedia.org/wikipedia/commons/9/92/Infectious_Mononucleosis_2.jpg)
 A. HHV-6, through CD21
 B. EBV, which enters B cells through CD21
@@ -12182,10 +12230,122 @@ D. HIV, through CD4 and CCR5: That isn't mono.
 E. CMV, through CD4: CMV mono is heterophile negative.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
+Question 51
+A 24-year-old graduate student has a severe sore throat, fever, and painful swallowing for 4 days. He takes no medications. Temperature is 38.8°C (101.8°F), and pulse is 104/min. His tonsils are swollen with gray exudates, and there are shallow ulcers on his posterior pharynx and soft palate. He has tender anterior cervical nodes. His rapid strep test is negative, his heterophile test is negative, and his spleen isn't enlarged. PCR of a pharyngeal ulcer is positive. What is the most likely diagnosis?
+A. EBV mononucleosis
+B. HSV-2 genital infection
+C. Primary HSV-1 exudative pharyngitis
+D. Adenovirus acute respiratory disease
+E. CMV mononucleosis
+Answer: C. Primary HSV-1 exudative pharyngitis
+Why this is correct: Primary HSV-1 usually causes gingivostomatitis in children, but in adults it can cause exudative pharyngitis. It resolves in 10 to 14 days and establishes latency in the sensory ganglia.
+Why the other answers are wrong:
+A. EBV mononucleosis: His heterophile test is negative and his spleen is normal.
+B. HSV-2 genital infection: The lesions are pharyngeal.
+D. Adenovirus acute respiratory disease: That causes respiratory illness, and PCR here identified a herpesvirus.
+E. CMV mononucleosis: CMV mono causes adenopathy and atypical lymphocytes without ulcers.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 52
+A 22-year-old woman has painful vesicles on her labia for 5 days. It's her first episode. She has one partner, who gets cold sores. She takes an oral contraceptive. Temperature is 37.3°C (99.1°F). She has a small cluster of vesicles on an erythematous base without adenopathy, and her symptoms are milder than expected. Viral PCR of a vesicle identifies the same herpesvirus type that usually causes cold sores. What is the diagnosis?
+A. Genital HSV-2 infection
+B. Herpes gladiatorum
+C. Eczema herpeticum
+D. Genital HSV-1 infection
+E. Condylomata acuminata
+Answer: D. Genital HSV-1 infection
+Why this is correct: Genital HSV-1 is uncommon and usually milder than HSV-2. HSV-2 more typically causes genital lesions, with 88% recurring within a year.
+Why the other answers are wrong:
+A. Genital HSV-2 infection: PCR identified the cold sore type.
+B. Herpes gladiatorum: That's HSV-1 on the skin of wrestlers.
+C. Eczema herpeticum: That's HSV on active skin disease.
+E. Condylomata acuminata: Those are painless HPV warts.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 53
+A 34-year-old man has a painful, red right eye with tearing and blurred vision for 3 days. He has had cold sores since childhood and had one last week. He wears no contact lenses. Visual acuity in the right eye is 20/50. Fluorescein staining shows a branching, dendritic ulcer on the cornea. The left eye is normal. Which complication of herpesvirus infection does he have?
+A. CMV retinitis
+B. Ocular herpes (herpes keratitis)
+C. Adenovirus keratoconjunctivitis
+D. Herpes encephalitis
+E. Herpetic whitlow
+Answer: B. Ocular herpes (herpes keratitis)
+Why this is correct: Ocular herpes is an HSV complication that can cause keratitis or retinitis.
+Why the other answers are wrong:
+A. CMV retinitis: CMV retinitis occurs in AIDS and causes floaters without a corneal ulcer.
+C. Adenovirus keratoconjunctivitis: That's epidemic and doesn't cause a dendritic ulcer.
+D. Herpes encephalitis: That causes fever, behavior changes, and seizures.
+E. Herpetic whitlow: That's HSV of the finger.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 54
+A 9-year-old boy with acute lymphoblastic leukemia on chemotherapy develops a widespread vesicular rash, high fever, cough, and shortness of breath. His brother had chickenpox 2 weeks ago. He was never vaccinated. Temperature is 39.6°C (103.3°F), and oxygen saturation is 88%. Lesions in different stages cover his trunk, face, and limbs, and chest x-ray shows diffuse nodular infiltrates. His ALT is 310 U/L. What is the diagnosis?
+A. Disseminated zoster
+B. Eczema herpeticum
+C. Shingles
+D. Measles
+E. Disseminated varicella
+Answer: E. Disseminated varicella
+Why this is correct: Disseminated varicella occurs in immunocompromised individuals. Chickenpox is spread by respiratory transmission or lesion contact and is contagious until all lesions crust.
+Why the other answers are wrong:
+A. Disseminated zoster: That's reactivation, and this is his first exposure.
+B. Eczema herpeticum: That's HSV on active skin disease.
+C. Shingles: Shingles is a dermatomal reactivation rash.
+D. Measles: The vesicular rash and exposure point to varicella.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 55
+A 58-year-old man had a kidney transplant 6 months ago and takes tacrolimus, mycophenolate, and prednisone. He had chickenpox as a child. Five days ago a painful vesicular rash appeared in a band on his left chest. Now vesicles have spread to his back, arms, and legs, well beyond that band. Temperature is 38.7°C (101.7°F). His ALT is elevated. What is the diagnosis?
+A. Disseminated zoster
+B. Primary varicella
+C. Post-herpetic neuralgia
+D. Disseminated HSV
+E. Eczema herpeticum
+Answer: A. Disseminated zoster
+Why this is correct: Disseminated zoster occurs in immunocompromised patients. Shingles is reactivation of latent varicella from a sensory ganglion, usually in a thoracic or lumbar dermatome.
+Why the other answers are wrong:
+B. Primary varicella: He had chickenpox before, so this is reactivation.
+C. Post-herpetic neuralgia: That's persistent pain after the rash resolves.
+D. Disseminated HSV: The dermatomal onset points to VZV.
+E. Eczema herpeticum: That's HSV on active skin disease.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 56
+A 3-month-old girl born at 29 weeks has fever, poor feeding, and an enlarged liver and spleen. She was fed her mother's breast milk in the NICU. Her newborn screen and hearing test were normal, and her head size was normal at birth. Her WBC is 3,400/mm³, platelets are 88,000/mm³, and liver enzymes are elevated. Her mother is CMV IgG positive with no illness during pregnancy. Urine PCR at birth was negative, but it's now positive for CMV. What is the diagnosis?
+A. Cytomegalic inclusion disease
+B. CMV mononucleosis syndrome
+C. Perinatal CMV infection
+D. Neonatal herpes
+E. Exanthem subitum
+Answer: C. Perinatal CMV infection
+Why this is correct: Perinatal CMV infection comes from acquisition at birth or through breastfeeding. Cytomegalic inclusion disease is congenital infection from primary CMV in the mother.
+Why the other answers are wrong:
+A. Cytomegalic inclusion disease: Her birth testing was negative, so this wasn't congenital.
+B. CMV mononucleosis syndrome: That affects healthy young adults.
+D. Neonatal herpes: PCR shows CMV.
+E. Exanthem subitum: That's HHV-6.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 57
+A 14-month-old boy has had a fever up to 40.1°C (104.2°F) for 3 days. He is irritable but drinking, and has no cough, diarrhea, or rash. His vaccines are up to date. His ears, throat, and lungs are normal, and urinalysis is negative. His fever resolves on day 4, and no rash appears. PCR of his blood shows a herpesvirus that infects over 80% of children by age 2 and is spread through saliva. Which virus is most likely?
+A. Parvovirus B19
+B. VZV
+C. EBV
+D. HHV-6
+E. HHV-8
+Answer: D. HHV-6
+Why this is correct: HHV-6 causes exanthem subitum (roseola) and a febrile syndrome without rash. It spreads through saliva, blood, tissues, and genital secretions, with seroprevalence over 80% by age 2.
+Why the other answers are wrong:
+A. Parvovirus B19: That causes fifth disease with slapped cheeks.
+B. VZV: Chickenpox causes a vesicular rash.
+C. EBV: EBV causes mononucleosis with pharyngitis and adenopathy.
+E. HHV-8: HHV-8 causes Kaposi sarcoma.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 8: Virology & Cell Injury / HIV Pathogenesis & Opportunistic Infections
 
-Question 48
-A 29-year-old man is diagnosed with HIV after a routine screening. He feels well and takes no medications. His CD4 count is 520/μL. He asks how the virus gets into his cells. His physician explains that binding CD4 alone isn't enough, and that the virus needs a second receptor to trigger entry. He works as a paramedic and has no other medical problems. His viral load is 38,000 copies/mL. He asks why the virus targets only certain cells. What happens after gp120 binds CD4 and a co-receptor?
+Question 58
+A 29-year-old paramedic had fever, sore throat, and a rash 4 weeks after a needlestick injury. He is now diagnosed with HIV. He takes no medications. His CD4 count is 520/μL, and his viral load is 38,000 copies/mL. Studies of his virus show that its gp120 binds CD4 and then the CCR5 co-receptor on his helper T cells. Which event must follow co-receptor binding for the virus to enter the cell?
 A. The virus enters by lysis
 B. gp41 binds MHC class II
 C. gp120 integrates into the membrane
@@ -12200,7 +12360,7 @@ C. gp120 integrates into the membrane: gp41 mediates fusion.
 D. CD4 alone triggers endocytosis: CD4 isn't enough for entry.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 49
+Question 59
 A 36-year-old man has had repeated sexual exposures to partners with HIV but has never been infected. He takes no medications and is healthy. Genetic testing shows he is homozygous for a truncated co-receptor. His brother, who is heterozygous for the same variant, has HIV. He works as a sex educator and uses condoms inconsistently. His vital signs are normal. His HIV antibody and RNA tests have always been negative. What explains the difference?
 A. CXCR4 Δ32 causes resistance
 B. CCR5 Δ32 prevents CD4 expression
@@ -12216,8 +12376,8 @@ D. Heterozygotes are fully resistant: Heterozygotes are susceptible.
 E. The brother has an elite controller genotype: That isn't what's described.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 50
-A 42-year-old woman has been HIV positive for 6 years and has never taken antiretrovirals. She feels well. Her HIV RNA has stayed detectable but below 200 copies/mL for 3 years, and her CD4 count is 780/μL. She is heterozygous for CCR5 Δ32. She works as an accountant and takes no medications. She has no opportunistic infections. She asks whether she can still infect a partner. How is she best classified?
+Question 60
+A 42-year-old accountant has been HIV positive for 6 years and has never taken antiretrovirals. She feels well and has no opportunistic infections. Her HIV RNA has stayed detectable but below 200 copies/mL for 3 years, and her CD4 count is 780/μL. She is heterozygous for CCR5 Δ32. Her vital signs and exam are normal. How is she best classified?
 A. An elite controller
 B. She can't transmit the virus
 C. She is HIV resistant
@@ -12232,8 +12392,8 @@ D. She has AIDS: Her CD4 is above 200 without OIs.
 E. She has acute HIV: Her infection is years old.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 51
-A 38-year-old man with HIV hasn't taken antiretrovirals for 2 years. He has a new cough and weight loss. His CD4 count is 240/μL, and chest imaging is normal. A dentist had noted white plaques in his mouth last month. His pulse is 92/min, and he has lost 4 kg. He works as a cook. He asks what the white patches mean. Which fungal infection is described as the first sign of immunosuppression, and how is it treated?
+Question 61
+A 38-year-old cook with HIV hasn't taken antiretrovirals for 2 years. He has a new cough and has lost 4 kg. His CD4 count is 240/μL, and chest imaging is normal. His pulse is 92/min. A dentist noted white plaques in his mouth last month, and today they coat his tongue and palate and scrape off. Which condition is the most likely cause of his oral findings, and how is it treated?
 A. Candidiasis; oral imidazoles like fluconazole
 B. Histoplasmosis; itraconazole
 C. Cryptococcosis; amphotericin B
@@ -12248,7 +12408,7 @@ D. Toxoplasmosis; sulfadiazine: That's a CNS parasite.
 E. PCP; TMP-SMX: That's a pulmonary infection.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 52
+Question 62
 A 40-year-old woman with AIDS has pain when swallowing and trouble getting food down for 2 weeks. She has had oral thrush that she didn't treat. Her CD4 count is 60/μL. Endoscopy shows white plaques lining her esophagus. She has lost 5 kg because eating hurts. She hasn't taken antiretrovirals in a year. Her pulse is 102/min. How is this form of candidiasis classified?
 A. Superficial thrush
 B. Angular cheilitis
@@ -12264,7 +12424,7 @@ D. Erythematous candidiasis: That's oral glossitis.
 E. Recurrent vaginal candidiasis: That's genital.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 53
+Question 63
 A 44-year-old man with untreated HIV has a dry cough, shortness of breath, and fever for 3 weeks. His CD4 count is 90/μL. His lungs are clear, but his oxygen saturation falls from 94% to 84% when he walks. Room-air PaO2 is 62 mm Hg. Chest x-ray shows diffuse interstitial infiltrates. He has lost 6 kg and has no chest pain. He hasn't taken any prophylaxis. His pulse is 112/min. What should be given along with TMP-SMX?
 A. Nothing else, since steroids are contraindicated
 B. Fluconazole
@@ -12280,7 +12440,7 @@ C. Amphotericin B: That treats cryptococcus.
 D. Clarithromycin: That treats MAC.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 54
+Question 64
 A 37-year-old man with AIDS has headache, fever, and confusion that developed over 2 weeks. His CD4 count is 40/μL. Lumbar puncture shows an opening pressure of 34 cm H2O, lymphocytic pleocytosis, and slightly low glucose. CSF cryptococcal antigen is positive. He is afebrile at times but mostly has a temperature near 38.4°C (101.1°F). He has no focal deficits. He is started on induction therapy. What is the most common cause of death in this disease?
 A. Hepatic failure
 B. Failure to recognize and manage increased CSF pressure
@@ -12296,7 +12456,7 @@ D. Bacterial superinfection: That isn't the listed cause.
 E. Stevens-Johnson syndrome: That isn't the listed cause.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 55
+Question 65
 A 39-year-old woman with AIDS develops headaches, seizures, and right-sided weakness. Her CD4 count is 80/μL. She has several brain lesions with edema. Her toxoplasma serology is negative, and CSF PCR is positive for a gammaherpesvirus. Her pulse is 96/min, and her temperature is 37.8°C (100°F). She has had AIDS for 4 years. MRI shows two enhancing lesions with edema. What is the treatment?
 A. Ganciclovir
 B. Nitazoxanide
@@ -12312,7 +12472,7 @@ C. Amphotericin B: That's for cryptococcus.
 E. Sulfadiazine and pyrimethamine: That's for toxoplasmosis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 56
+Question 66
 A 46-year-old man with AIDS has fever, weight loss, fatigue, and enlarged abdominal lymph nodes. His CD4 count is 30/μL. Hemoglobin is 8.8 g/dL. Blood cultures grow acid-fast bacilli. His pulse is 104/min, and his spleen is mildly enlarged. He hasn't taken antiretrovirals for a year. His albumin is 3.0 g/dL. What is the treatment besides starting antiretroviral therapy?
 A. TMP-SMX
 B. Radiation
@@ -12328,7 +12488,7 @@ C. Fluconazole: That's for candidiasis.
 E. Ganciclovir: That's for CMV.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 57
+Question 67
 A 34-year-old man with advanced HIV has had large-volume watery diarrhea for 3 weeks. He drinks untreated well water at a cabin. His CD4 count is 50/μL. A stool sample with a modified acid-fast stain shows small red oocysts. He has had 8 to 10 stools a day and has lost 7 kg. His pulse is 108/min. He hasn't taken antiretrovirals for a year. Besides treating his HIV, which drug can be used?
 A. Fluconazole
 B. Nitazoxanide
@@ -12344,8 +12504,8 @@ D. Pyrimethamine: That's for toxoplasmosis.
 E. Ganciclovir: That's for CMV.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 58
-A 32-year-old man is newly diagnosed with HIV. He has no symptoms and no opportunistic infections. His CD4 count is 170/μL. He asks whether this means he has AIDS. He works as a mechanic and has no medical problems. His viral load is 64,000 copies/mL. His vital signs are normal, and he has no thrush or weight loss. What is the answer?
+Question 68
+A 32-year-old mechanic is newly diagnosed with HIV at a screening event. He has no symptoms and no medical problems. His vital signs are normal, and he has no thrush, weight loss, or opportunistic infections. His CD4 count is 170/μL, and his viral load is 64,000 copies/mL. Does this patient meet the definition of AIDS?
 A. No, because the cutoff is 50
 B. It can't be decided without a viral load
 C. No, because he has no opportunistic infection
@@ -12360,8 +12520,8 @@ C. No, because he has no opportunistic infection: A CD4 below 200 alone is enoug
 D. Yes, but only if he has Kaposi sarcoma: That isn't required.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 59
-A 28-year-old woman in Zambia is diagnosed with HIV and later develops a subacute dry cough and hypoxia. Her CD4 count is 110/μL. Her physician explains that one fungal co-infection with protozoal features is the most common HIV co-infection on the African continent. Her oxygen saturation drops when she walks. Her pulse is 108/min. She has had a dry cough for 4 weeks. Which organism is it, and how is it usually acquired?
+Question 69
+A 28-year-old woman in Zambia was diagnosed with HIV and hasn't started treatment. She now has a dry cough for 4 weeks and shortness of breath. Her CD4 count is 110/μL. Her pulse is 108/min, and her oxygen saturation drops from 94% to 85% when she walks. Her lungs are clear, and chest x-ray shows diffuse interstitial infiltrates. Which organism is the most likely cause, and how is it usually acquired?
 A. Cryptococcus neoformans, acquired from soil
 B. Candida albicans, acquired at birth
 C. Pneumocystis jirovecii, acquired in childhood and reactivated later
@@ -12376,8 +12536,8 @@ D. Toxoplasma gondii, from cysts: Toxoplasma is a parasite.
 E. Cryptosporidium, from water: That causes diarrhea.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 60
-A 33-year-old man with HIV asks which of his immune cells the virus prefers. His CD4 count is 410/μL, and he takes a single-pill regimen. His physician explains that CD4 is present on all helper T cells, but the virus's primary target is a particular subset. His viral load is undetectable. His vital signs are normal. He works as a biology teacher and wants to understand his disease. Which cells are the primary target of HIV?
+Question 70
+A 33-year-old man with HIV takes a single-pill antiretroviral regimen. His viral load is undetectable, his CD4 count is 410/μL, and his vital signs are normal. Before treatment, flow cytometry showed that his CD4+ helper T cells were being lost, with one subset infected far more often than the others. Which cells are the primary target of HIV?
 A. Memory T cells
 B. Naive B cells
 C. Neutrophils
@@ -12392,7 +12552,7 @@ D. NK cells: NK cells aren't the primary target.
 E. Red blood cells: They lack CD4.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 61
+Question 71
 A 35-year-old man comes to the dentist because of a burning mouth. He hasn't seen a physician in years. He has lost 5 kg and has had night sweats. His lymph nodes are enlarged. He works as a truck driver. The dentist finds the white plaques shown, which scrape off, extending beyond the tongue onto the palate. HIV testing is positive, and his CD4 count is 210/μL. How is this form of candidiasis treated? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Oral_pseudomembranous_candidiasis_on_the_dorsum_of_the_tongue_of_a_59-year-old_male_%28third_week_of_RT_for_a_squamous_cell_carcinoma_of_the_floor_of_the_mouth%2C_T3N0M0%2C_daily_dose_1.8_Gy%29.png)
 A. Oral imidazoles such as fluconazole
 B. Amphotericin B for 2 weeks
@@ -12408,7 +12568,7 @@ D. Nitazoxanide: That's for Cryptosporidium.
 E. TMP-SMX: That's for PJP.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 62
+Question 72
 A 41-year-old woman with untreated HIV has a dry cough, dyspnea, and fever for 3 weeks. Her CD4 count is 70/μL. Her lungs are clear, but she desaturates with exertion. Her room-air PaO2 is 64 mm Hg. Her chest x-ray shows diffuse interstitial infiltrates. She hasn't taken prophylaxis. Bronchoalveolar lavage with a silver stain shows the cysts in the image in foamy intra-alveolar fluid. What is the treatment regimen? ![Silver stain of lung fluid](https://upload.wikimedia.org/wikipedia/commons/8/87/Pneumocystis_carinii_01.jpg)
 A. Sulfadiazine and pyrimethamine
 B. Amphotericin B and flucytosine
@@ -12424,8 +12584,8 @@ D. Clarithromycin and ethambutol: That's for MAC.
 E. Fluconazole: That's for candidiasis.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 63
-A 36-year-old man with AIDS has a subacute dry cough and fever. His room-air oxygen saturation is 90%. His CD4 count is 50/μL. He hasn't taken prophylaxis. His BAL silver stain is shown. His physician explains that this organism is a ubiquitous fungus with protozoal features that he probably acquired as a child. Which finding on exam and imaging is typical? ![Silver stain of lung fluid](https://upload.wikimedia.org/wikipedia/commons/8/87/Pneumocystis_carinii_01.jpg)
+Question 73
+A 36-year-old man with AIDS has a dry cough and fever for 3 weeks. His CD4 count is 50/μL, and he hasn't taken prophylaxis. His room-air oxygen saturation is 90%. Bronchoalveolar lavage with a silver stain shows the cysts in the image. Which additional findings on exam and imaging are most likely? ![Silver stain of lung fluid](https://upload.wikimedia.org/wikipedia/commons/8/87/Pneumocystis_carinii_01.jpg)
 A. Cavitary upper lobe lesions
 B. Ring-enhancing brain lesions
 C. Lobar consolidation with crackles
@@ -12440,7 +12600,7 @@ C. Lobar consolidation with crackles: That fits bacterial pneumonia.
 D. Pleural effusion with normal oxygen: PJP causes hypoxia.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 64
+Question 74
 A 42-year-old man with AIDS notices floaters and blurry vision in his right eye. His CD4 count is 25/μL, and he stopped antiretrovirals a year ago. He has no eye pain. His vision in the left eye is normal. His CMV PCR in blood is positive. The ophthalmologist's fundus exam is shown, with hemorrhage and white retinal necrosis along the vessels. What is the treatment? ![Fundus photograph](https://upload.wikimedia.org/wikipedia/commons/8/8d/PMID20029144_06_cytomegalovirus_retinitis_-_pizza_pie.png)
 A. Acyclovir
 B. Ganciclovir or oral valganciclovir, plus treating the HIV
@@ -12456,7 +12616,7 @@ D. Fluconazole: That's for Candida.
 E. Radiation: That's for CNS lymphoma.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 65
+Question 75
 A 38-year-old man with AIDS has had profuse watery diarrhea for 4 weeks after swimming in a lake. His CD4 count is 60/μL. He has lost 8 kg and has no blood in his stool. His pulse is 110/min. He hasn't taken antiretrovirals for 2 years. A stool sample with the stain shown reveals small red-staining round organisms. What stain is this, and which organism is it? ![Stool stain](https://upload.wikimedia.org/wikipedia/commons/8/8b/7829_lores.jpg)
 A. India ink showing Cryptococcus
 B. A Tzanck smear showing HSV
@@ -12472,7 +12632,7 @@ C. A Gram stain showing gram-negative rods: That isn't the stain shown.
 E. A silver stain showing Pneumocystis: That's for BAL fluid.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 66
+Question 76
 A 45-year-old man with AIDS has 2 months of worsening gait, confusion, and bumping into objects on his left side. He is afebrile. His CD4 count is 30/μL. His vision field shows a left homonymous hemianopsia. He has no headache or fever. CSF cryptococcal antigen is negative. His MRI is shown, with bright white matter lesions without mass effect. How is the diagnosis confirmed? ![Brain MRI](https://upload.wikimedia.org/wikipedia/commons/9/99/Progressive_multifocal_leukoencephalopathy_002.jpg)
 A. Heterophile antibody
 B. India ink and cryptococcal antigen
@@ -12488,10 +12648,154 @@ C. CSF PCR for EBV: That's for CNS lymphoma.
 E. Toxoplasma IgG: That's for toxoplasmosis.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
+Question 77
+A 36-year-old man with HIV hasn't taken antiretrovirals for a year. His mouth has been sore for 2 weeks, especially with spicy foods. His CD4 count is 190/μL. His tongue is smooth, red, and tender, with patchy loss of papillae, and there are red patches on his palate but no white plaques. A scraping shows budding yeast. What is the diagnosis?
+A. Erythematous oral candidiasis
+B. Pseudomembranous thrush
+C. Angular cheilitis
+D. Kaposi sarcoma
+E. Herpes labialis
+Answer: A. Erythematous oral candidiasis
+Why this is correct: Erythematous candidiasis may be painful and often presents as glossitis. Pseudomembranous thrush has white plaques, and angular cheilitis affects the corners of the mouth. Treatment is oral imidazoles.
+Why the other answers are wrong:
+B. Pseudomembranous thrush: He has no white plaques.
+C. Angular cheilitis: That's at the corners of the mouth.
+D. Kaposi sarcoma: KS is violaceous plaques.
+E. Herpes labialis: That's vesicles on the lip.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 78
+A 41-year-old woman with HIV has painful cracking at the corners of her mouth for 3 weeks. She doesn't take her antiretrovirals regularly. Her CD4 count is 230/μL. Both corners of her mouth are red and fissured, with small ulcers. Her tongue and palate are normal. A scraping from the fissures shows budding yeast and pseudohyphae. What is the diagnosis?
+A. Pseudomembranous thrush
+B. Herpes labialis
+C. Angular cheilitis from Candida
+D. Erythematous candidiasis
+E. Herpetic whitlow
+Answer: C. Angular cheilitis from Candida
+Why this is correct: Angular cheilitis is a form of oral candidiasis that is mildly painful and can ulcerate at the corners of the mouth. Candidiasis is often the first sign of immunosuppression.
+Why the other answers are wrong:
+A. Pseudomembranous thrush: That's white plaques on the oral mucosa.
+B. Herpes labialis: That's HSV vesicles on the lip.
+D. Erythematous candidiasis: That presents as glossitis.
+E. Herpetic whitlow: That's HSV of the finger.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 79
+A 44-year-old man with AIDS has had painful swallowing and trouble getting solid food down for 3 weeks. He has lost 5 kg. His CD4 count is 70/μL, and he stopped antiretrovirals a year ago. He has white plaques on his palate. Endoscopy shows creamy white plaques along the esophageal mucosa that scrape off, and biopsy shows yeast and pseudohyphae invading the mucosa. What is the diagnosis and treatment?
+A. CMV esophagitis; ganciclovir
+B. HSV esophagitis; acyclovir
+C. Kaposi sarcoma; radiation
+D. Esophageal candidiasis; oral fluconazole
+E. Cryptosporidium; nitazoxanide
+Answer: D. Esophageal candidiasis; oral fluconazole
+Why this is correct: Esophageal candidiasis is invasive and causes dysphagia and odynophagia. Candidiasis is treated with oral imidazoles (fluconazole).
+Why the other answers are wrong:
+A. CMV esophagitis; ganciclovir: Biopsy shows yeast.
+B. HSV esophagitis; acyclovir: Biopsy shows yeast, not viral inclusions.
+C. Kaposi sarcoma; radiation: KS is a vascular tumor.
+E. Cryptosporidium; nitazoxanide: That causes watery diarrhea.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 80
+A 32-year-old woman with HIV has had vaginal itching and mild pain for a week, her third episode this year. Her CD4 count is 260/μL. Pelvic exam shows white plaques on the vaginal mucosa. Vaginal pH is 4.2, and a KOH preparation shows budding yeast and pseudohyphae. What is the most likely diagnosis?
+A. Genital HSV-2
+B. Recurrent vaginal candidiasis
+C. Condylomata acuminata
+D. Cervical carcinoma
+E. Kaposi sarcoma
+Answer: B. Recurrent vaginal candidiasis
+Why this is correct: Vaginal candidiasis in HIV is recurrent, with pruritus, mild pain, and white mucosal plaques. It's treated with oral imidazoles.
+Why the other answers are wrong:
+A. Genital HSV-2: That causes grouped painful vesicles.
+C. Condylomata acuminata: Those are painless cauliflower-like HPV warts.
+D. Cervical carcinoma: That's HPV 16 and 18.
+E. Kaposi sarcoma: That's a vascular tumor.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 81
+A 39-year-old man with AIDS has had headache, confusion, and weakness in his left arm for 10 days, and he had a seizure today. He hasn't taken antiretrovirals or prophylaxis in 2 years. His CD4 count is 60/μL. He owns two cats. Temperature is 38.2°C (100.8°F). MRI shows several ring-enhancing lesions with surrounding edema, the largest in the basal ganglia. His Toxoplasma IgG is positive. What is the most likely diagnosis?
+A. CNS lymphoma
+B. PML
+C. Cryptococcal meningitis
+D. Herpes encephalitis
+E. Cerebral toxoplasmosis
+Answer: E. Cerebral toxoplasmosis
+Why this is correct: Cerebral toxoplasmosis from Toxoplasma gondii causes focal encephalitis with headache, confusion, focal deficits, and seizures. It has a predilection for the basal ganglia, and MRI usually shows several ring-enhancing lesions with edema. It's treated with sulfadiazine and pyrimethamine.
+Why the other answers are wrong:
+A. CNS lymphoma: It's usually a single enhancing lesion with positive EBV PCR.
+B. PML: PML affects only white matter without enhancement.
+C. Cryptococcal meningitis: That causes headache and high CSF pressure without ring lesions.
+D. Herpes encephalitis: That affects the temporal lobe.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 82
+A 45-year-old woman with AIDS has multiple ring-enhancing brain lesions with edema, mostly in the basal ganglia. She has headache, confusion, and right-sided weakness. Her CD4 count is 50/μL, and her Toxoplasma IgG is positive. She has no drug allergies. Her creatinine is normal. Which treatment is indicated?
+A. Sulfadiazine and pyrimethamine
+B. Radiation therapy
+C. Amphotericin B and flucytosine
+D. Ganciclovir
+E. Clarithromycin and ethambutol
+Answer: A. Sulfadiazine and pyrimethamine
+Why this is correct: Cerebral toxoplasmosis is usually a clinical diagnosis supported by Toxoplasma IgG, with ring-enhancing lesions and a basal ganglia predilection. Treatment is sulfadiazine and pyrimethamine.
+Why the other answers are wrong:
+B. Radiation therapy: That's for CNS lymphoma.
+C. Amphotericin B and flucytosine: That's for cryptococcus.
+D. Ganciclovir: That's for CMV.
+E. Clarithromycin and ethambutol: That's for MAC.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 83
+A 37-year-old man with AIDS has a 3-week history of headache, fever, and confusion. His CD4 count is 35/μL. He has no focal deficits. Lumbar puncture shows an opening pressure of 32 cm H2O, lymphocytic pleocytosis, and slightly low glucose. The CSF preparation is shown. What is the diagnosis? ![CSF preparation](https://upload.wikimedia.org/wikipedia/commons/6/6f/Cryptococcus_neoformans_using_a_light_India_ink_staining_preparation_PHIL_3771_lores.jpg)
+A. Cerebral toxoplasmosis
+B. PML
+C. CNS lymphoma
+D. Cryptococcal meningitis
+E. Herpes encephalitis
+Answer: D. Cryptococcal meningitis
+Why this is correct: Cryptococcal disease comes from the encapsulated yeast Cryptococcus neoformans, causing subacute headache, fever, and confusion. CSF shows lymphocytic pleocytosis and slightly low glucose, the opening pressure is usually above 20 cm, and India ink and cryptococcal antigen reveal the diagnosis.
+Why the other answers are wrong:
+A. Cerebral toxoplasmosis: That causes ring-enhancing lesions and focal deficits.
+B. PML: PML is a white matter disease from JC virus.
+C. CNS lymphoma: That causes enhancing lesions with positive EBV PCR.
+E. Herpes encephalitis: That affects the temporal lobe.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 84
+A 43-year-old man with AIDS has had fatigue, fevers, and night sweats for 6 weeks. He has lost 8 kg. His CD4 count is 25/μL, and he doesn't take prophylaxis. He has pale conjunctivae and hepatosplenomegaly. Hemoglobin is 7.9 g/dL, and CT shows enlarged abdominal lymph nodes. Blood cultures grow acid-fast bacilli. What is the diagnosis?
+A. Cryptosporidium
+B. PJP
+C. Mycobacterium avium complex infection
+D. CMV retinitis
+E. Kaposi sarcoma
+Answer: C. Mycobacterium avium complex infection
+Why this is correct: MAC presents with malaise, anemia, and CT lymphadenopathy. It's usually treated by treating the HIV, often with clarithromycin and ethambutol.
+Why the other answers are wrong:
+A. Cryptosporidium: That causes watery diarrhea.
+B. PJP: That causes a dry cough and hypoxia.
+D. CMV retinitis: That causes floaters and blurred vision.
+E. Kaposi sarcoma: That causes violaceous skin plaques.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 85
+A 40-year-old woman with AIDS has had headaches for a month and had her first seizure yesterday. Her CD4 count is 45/μL. She is afebrile. MRI shows a single enhancing lesion with edema in the left frontal lobe. Toxoplasma IgG is negative, and CSF PCR is positive for EBV. What is the diagnosis?
+A. Cerebral toxoplasmosis
+B. Primary CNS lymphoma
+C. PML
+D. Cryptococcal meningitis
+E. Burkitt lymphoma
+Answer: B. Primary CNS lymphoma
+Why this is correct: CNS lymphoma is the first lymphoma considered HIV-related and is mostly due to EBV. It causes headache, seizures, and focal deficits, with single or multiple enhancing lesions with edema, and is diagnosed by CSF PCR for EBV. Treatment is radiation.
+Why the other answers are wrong:
+A. Cerebral toxoplasmosis: Her Toxoplasma IgG is negative.
+C. PML: PML affects white matter without enhancement.
+D. Cryptococcal meningitis: That shows high opening pressure and positive antigen.
+E. Burkitt lymphoma: That's a B-cell lymphoma of the jaw or abdomen.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 8: Virology & Cell Injury / Oncogenic Viruses
 
-Question 67
-A 28-year-old woman asks how a virus can cause cancer. She has had abnormal Pap smears. She smokes and takes an oral contraceptive. Her physician explains that some viruses insert into the host genome and turn a normal growth gene into a cancer-driving gene, while others disable genes that normally stop growth. Her last Pap smear showed a low-grade lesion. Her blood pressure is 118/74 mm Hg. She asks whether the virus that causes warts could cause cancer too. Which pair of terms describes these two mechanisms?
+Question 86
+A 28-year-old woman who smokes has a cervical biopsy showing high-grade dysplasia. Her last two Pap smears were abnormal. She takes an oral contraceptive. Her blood pressure is 118/74 mm Hg. HPV 16 is detected, and viral DNA is integrated into the host genome of the dysplastic cells, where viral proteins disable the host's growth-restraining proteins. By which two general mechanisms can viruses cause cancer?
 A. Latency and reactivation
 B. Activating oncogenes and interfering with tumor suppressor genes
 C. Budding and lysis
@@ -12506,8 +12810,8 @@ D. Antigenic drift and shift: Those describe influenza.
 E. Syncytium and koilocytosis: Those are histologic findings.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 68
-A 10-year-old boy in Uganda has a rapidly growing jaw mass. He lives in a region with high rates of malaria. Biopsy shows a high-grade B-cell lymphoma, and the tumor cells carry EBV genomes. His physician explains how the virus sets the stage for the translocation. His WBC is 14,000/mm³, and his LDH is very high. His HIV test is negative. The mass has doubled in size in 3 weeks. What is EBV's role?
+Question 87
+A 10-year-old boy in Uganda has a jaw mass that has doubled in size in 3 weeks. He lives in a region with high rates of malaria. His WBC is 14,000/mm³, his LDH is very high, and his HIV test is negative. Biopsy shows a high-grade B-cell lymphoma with t(8;14), and the tumor cells carry EBV genomes. What role does EBV play in the development of this tumor?
 A. It integrates at the MYC locus
 B. It inactivates p53 with E6
 C. It produces viral IL-6 in endothelial cells
@@ -12522,8 +12826,8 @@ C. It produces viral IL-6 in endothelial cells: That's HHV-8.
 D. It causes koilocytosis: That's HPV.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 69
-A 20-year-old man with EBV mononucleosis asks how the virus could ever cause cancer. He is otherwise healthy. His physician explains that an EBV latent protein acts like a constitutively active CD40 receptor, driving B-cell growth and activating BCL2. His spleen is mildly enlarged, and his liver enzymes are elevated. He takes no medications. His heterophile test is positive. Which protein is this?
+Question 88
+A 22-year-old man is diagnosed with EBV-positive Hodgkin lymphoma after 2 months of night sweats and neck swelling. He had mononucleosis at age 16. He takes no medications. His spleen is mildly enlarged. The tumor cells express an EBV latent membrane protein that acts like a constitutively active CD40 receptor, driving B-cell growth and activating BCL2. Which protein is this?
 A. LANA-1
 B. vIL-10
 C. LMP-1
@@ -12538,8 +12842,8 @@ D. EBNA-2: EBNA-2 transactivates cyclin D.
 E. E6: E6 is an HPV protein.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 70
-A 25-year-old woman has a mononucleosis-like illness, and her EBV serology confirms primary infection. She works as a barista and takes no medications. Temperature is 38.4°C (101.1°F), and she has tender cervical nodes. She asks how EBV keeps infected B cells alive and dividing. Her physician describes a viral nuclear antigen that transactivates host genes such as cyclin D. Her spleen isn't palpable. Her heterophile test is positive. Which EBV protein is this?
+Question 89
+A 25-year-old woman has a mononucleosis-like illness, and her EBV serology confirms primary infection. She takes no medications. Temperature is 38.4°C (101.1°F), she has tender cervical nodes, and her heterophile test is positive. Her infected B cells express a viral nuclear antigen that transactivates host genes such as cyclin D and immortalizes the cells. Which EBV protein is this?
 A. EBNA-2
 B. E7
 C. gp120
@@ -12554,8 +12858,8 @@ D. LMP-1: LMP-1 acts as a constitutively active CD40.
 E. vIL-10: vIL-10 blocks macrophage activation of T cells.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 71
-A 38-year-old woman has a cervical biopsy showing invasive squamous cell carcinoma. She never received the HPV vaccine. Testing shows HPV 16. Her physician explains that two viral proteins drive the cancer. She had abnormal Pap smears in her twenties that weren't followed up. She smokes a pack a day. Her pelvic exam shows a friable cervical mass. Which proteins do E6 and E7 inactivate?
+Question 90
+A 38-year-old woman has a cervical biopsy showing invasive squamous cell carcinoma. She never received the HPV vaccine. She had abnormal Pap smears in her twenties that weren't followed up, and she smokes a pack a day. Her pelvic exam shows a friable cervical mass. Testing shows HPV 16, and the tumor cells express viral E6 and E7. Which host proteins do E6 and E7 inactivate?
 A. E6 inactivates p53, and E7 inactivates Rb
 B. Both activate MYC
 C. Both mimic CD40
@@ -12570,8 +12874,8 @@ D. E6 inactivates Rb, and E7 inactivates p53: It's the reverse.
 E. Both block ACE2: That's SARS-CoV-2.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 72
-A 16-year-old girl comes for a well visit and asks about the HPV vaccine. She isn't sexually active. Her vaccines are otherwise up to date. Her physician explains which types the vaccine discussed in her course covers. She plays volleyball and has no medical problems. Her mother had cervical precancer treated years ago. She asks which strains the vaccine protects against. Which HPV types does it protect against?
+Question 91
+A 12-year-old girl comes for a well visit and receives the HPV vaccine. She isn't sexually active. Her vaccines are otherwise up to date, and her exam is normal. Her mother had cervical precancer treated years ago. The vaccine covers the low-risk types that cause genital warts and the high-risk types responsible for about 70% of cervical cancers. Which HPV types does it protect against?
 A. 41 and 42
 B. 6 and 11 only
 C. 6, 11, 16, and 18
@@ -12586,8 +12890,8 @@ D. 16 and 18 only: It also covers 6 and 11.
 E. 3, 4, and 7: Those are adenovirus types.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 73
-A 45-year-old man from Southeast Asia has chronic hepatitis B and is found to have a liver mass on ultrasound. His alpha-fetoprotein is elevated. He drinks alcohol rarely. His physician explains how often this virus is responsible for this tumor. His mother also had hepatitis B. His ALT is 64 U/L, and he has no ascites. The mass is 4 cm in the right lobe. What proportion of hepatocellular carcinoma is attributed to HBV?
+Question 92
+A 45-year-old man from Southeast Asia has chronic hepatitis B. His mother also had hepatitis B. He drinks alcohol rarely. His ALT is 64 U/L, and he has no ascites. Ultrasound shows a 4-cm mass in the right lobe of the liver, and his alpha-fetoprotein is elevated. Biopsy confirms hepatocellular carcinoma. Approximately what proportion of hepatocellular carcinoma is attributed to this patient's viral infection?
 A. About 30%
 B. About 50%
 C. About 10%
@@ -12602,8 +12906,8 @@ C. About 10%: It's about 80%.
 D. Nearly 100%: It's about 80%.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 74
-A 40-year-old man with HIV has purple plaques on his legs. His CD4 count is 150/μL. Biopsy shows sheets of proliferating endothelial spindle cells, and the tumor contains a herpesvirus. His physician explains that the virus encodes proteins that inhibit apoptosis and inactivate Rb, and produces growth factors. He also has lesions on his palate. He takes antiretrovirals intermittently. His lymph nodes are enlarged. Which viral products are described?
+Question 93
+A 40-year-old man with HIV has purple plaques on his legs and palate. He takes antiretrovirals intermittently. His CD4 count is 150/μL, and his lymph nodes are enlarged. Biopsy of a leg plaque shows sheets of proliferating endothelial spindle cells containing a latent herpesvirus. Which viral products drive the growth and survival of these tumor cells?
 A. E6 and E7
 B. Viral BCL2, LANA-1 (an Rb inhibitor), and IL-6/IL-8
 C. ACE2 and Ang II
@@ -12618,7 +12922,7 @@ D. LMP-1 and EBNA-2: Those are EBV proteins.
 E. gp120 and gp41: Those are HIV envelope proteins.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 75
+Question 94
 A 24-year-old man has the soft, cauliflower-like growths shown on his penis for 2 months. He has had several partners and didn't receive the HPV vaccine. The lesions aren't painful. His HIV test is negative. He has no other skin lesions. His partner has similar lesions. Which HPV types most often cause these lesions? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/f/fd/Penile_warts.jpg)
 A. HHV-8
 B. HSV-2
@@ -12634,7 +12938,7 @@ C. HPV 16 and 18: Those are high-risk cancer types.
 E. Adenovirus 8: That causes keratoconjunctivitis.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 76
+Question 95
 A 30-year-old woman has a routine Pap smear. She has had three sexual partners and smokes. She takes an oral contraceptive. Her previous Pap smears were normal. She never received the HPV vaccine. Her smear shows squamous cells with enlarged, wrinkled nuclei and a large clear space around the nucleus, as shown. Which virus causes this change, and what is it called? ![Pap smear](https://upload.wikimedia.org/wikipedia/commons/8/85/ThinPrep_Pap_smear_HPV.jpeg)
 A. CMV; owl's eye inclusions
 B. Parvovirus; chromatin margination
@@ -12650,8 +12954,8 @@ C. EBV; atypical lymphocytes: Those are blood cells.
 E. HSV; Cowdry bodies: Those are nuclear inclusions.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
-Question 77
-A 34-year-old woman's Pap smear shows the cells in the image, and HPV testing is positive for type 16. She never received the HPV vaccine. Her physician explains how this virus leads to cancer. She smokes and takes an oral contraceptive. Her colposcopy is scheduled. She asks why the virus causes cancer. Besides inactivating p53, what does E6 do? ![Pap smear](https://upload.wikimedia.org/wikipedia/commons/8/85/ThinPrep_Pap_smear_HPV.jpeg)
+Question 96
+A 34-year-old woman who smokes has the Pap smear shown, and HPV testing is positive for type 16. She never received the HPV vaccine. She takes an oral contraceptive. Her colposcopy shows an abnormal area on the cervix, and biopsy confirms high-grade dysplasia. The viral E6 protein is expressed in the dysplastic cells. Besides inactivating p53, what does E6 do? ![Pap smear](https://upload.wikimedia.org/wikipedia/commons/8/85/ThinPrep_Pap_smear_HPV.jpeg)
 A. It acts as a CD40 mimic
 B. It increases telomerase (TERT) expression
 C. It produces viral IL-6
@@ -12666,9 +12970,41 @@ D. It activates Rb: E7 inactivates Rb.
 E. It blocks ACE2: That's SARS-CoV-2.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
+Question 97
+A 45-year-old man from southern China has nasal obstruction, bloody nasal discharge, and a painless mass in his neck for 3 months. He smokes and has hearing loss in his right ear. His exam shows a firm 3-cm upper cervical node. Endoscopy shows a mass in the nasopharynx, and biopsy shows undifferentiated carcinoma. EBV RNA is detected in the tumor cells. What is the diagnosis?
+A. Burkitt lymphoma
+B. Nasopharyngeal carcinoma associated with EBV
+C. HPV-related cervical carcinoma
+D. Kaposi sarcoma
+E. CNS lymphoma
+Answer: B. Nasopharyngeal carcinoma associated with EBV
+Why this is correct: EBV is associated with Burkitt lymphoma and nasopharyngeal carcinoma, as well as Hodgkin and non-Hodgkin lymphomas.
+Why the other answers are wrong:
+A. Burkitt lymphoma: Burkitt is a B-cell lymphoma, often of the jaw in Africa.
+C. HPV-related cervical carcinoma: That's a different site.
+D. Kaposi sarcoma: KS is a vascular tumor of endothelial spindle cells.
+E. CNS lymphoma: That's an HIV-related brain lymphoma.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
+Question 98
+A 38-year-old man with untreated HIV has raised, violaceous plaques on his legs and trunk that have enlarged over 3 months, as shown. His CD4 count is 130/μL. He has similar lesions on his hard palate. He has no fever. Biopsy shows sheets of proliferating endothelial spindle cells. Which virus is responsible? ![Clinical photo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Kaposi%27s_Sarcoma.jpg)
+A. EBV
+B. HPV 6
+C. CMV
+D. HHV-6
+E. HHV-8 (KSHV)
+Answer: E. HHV-8 (KSHV)
+Why this is correct: Kaposi sarcoma is a multicentric vascular tumor caused by HHV-8, probably acquired sexually, presenting as violaceous raised plaques made of proliferating endothelial spindle cells.
+Why the other answers are wrong:
+A. EBV: EBV causes lymphomas and nasopharyngeal carcinoma.
+B. HPV 6: HPV 6 causes genital warts.
+C. CMV: CMV causes retinitis and other organ disease.
+D. HHV-6: HHV-6 causes roseola.
+Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
+
 Week 8: Virology & Cell Injury / HIV Treatment & Resistance
 
-Question 78
+Question 99
 A 34-year-old man with multidrug-resistant HIV is started on an injectable drug that resembles the C-helix of gp41 and blocks the conformational change needed for fusion. He has had HIV for 15 years. After a week, he has red, itchy nodules where he injects it. His CD4 count is 180/μL, and his viral load is 60,000 copies/mL. He has tried many regimens. His blood pressure is 118/72 mm Hg. Which drug is this?
 A. Ritonavir
 B. Abacavir
@@ -12684,7 +13020,7 @@ C. Dolutegravir: That's an integrase inhibitor.
 D. Maraviroc: Maraviroc blocks CCR5.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 79
+Question 100
 A 40-year-old woman with HIV is being considered for a drug that blocks the co-receptor used by some HIV strains. She takes a statin. Before prescribing it, her physician orders a test to see which co-receptor her virus uses. Her CD4 count is 420/μL, and her viral load is 12,000 copies/mL. She has had resistance to other drugs. Her blood pressure is 126/80 mm Hg. Which drug requires this tropism testing?
 A. Enfuvirtide
 B. Lamivudine
@@ -12700,8 +13036,8 @@ D. Efavirenz: That's an NNRTI.
 E. Bictegravir: That's an integrase inhibitor.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 80
-A 30-year-old man with HIV is started on a regimen that includes zidovudine. He has hepatitis C. His physician explains that the drug is a thymidine analog whose 3' hydroxyl is replaced by an azido group, so it acts as a chain terminator. After a month, his hemoglobin falls and his neutrophil count drops. His CD4 count is 290/μL. His blood pressure is 120/76 mm Hg, and he has no bleeding. His MCV is elevated. Which toxicity is this?
+Question 101
+A 30-year-old man with HIV and hepatitis C is started on a regimen that includes zidovudine. His CD4 count is 290/μL. After a month, he has fatigue. His blood pressure is 120/76 mm Hg, and he has no bleeding. His hemoglobin has fallen from 13.8 to 10.1 g/dL, his MCV is elevated, and his neutrophil count has dropped from 3,200 to 900/mm³. Which toxicity is this?
 A. Bone marrow suppression
 B. Bone density loss
 C. Injection-site reactions
@@ -12716,7 +13052,7 @@ D. Stevens-Johnson syndrome: That's NNRTIs.
 E. Hypersensitivity: That's abacavir.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 81
+Question 102
 A 26-year-old woman with newly diagnosed HIV is about to start treatment. She has no other medical problems. Before prescribing one NRTI, her physician checks for an HLA allele because the drug can cause a severe reaction. Her CD4 count is 520/μL, and her viral load is 22,000 copies/mL. She has no allergies. Her vital signs are normal. Which NRTI is this?
 A. Abacavir
 B. Dolutegravir
@@ -12732,7 +13068,7 @@ D. Zidovudine: Zidovudine causes marrow suppression.
 E. Lamivudine: That isn't the listed hypersensitivity drug.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 82
+Question 103
 A 58-year-old woman with HIV and osteoporosis is switched from tenofovir disoproxil fumarate to another formulation of tenofovir. She has taken antiretrovirals for 10 years and had a wrist fracture last year. Her CD4 count is 610/μL, and her viral load is undetectable. Her DEXA scan shows osteoporosis. She takes calcium and vitamin D. Why was the new formulation developed?
 A. TAF is given by injection
 B. TAF avoids marrow suppression
@@ -12748,7 +13084,7 @@ D. TAF is an integrase inhibitor: It's still an NRTI.
 E. TAF avoids abacavir hypersensitivity: That's unrelated.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 83
+Question 104
 A 45-year-old man with HIV had a widespread rash with blistering of his mouth and eyes and liver inflammation after starting a drug years ago. His physician says this class isn't used much anymore because of such side effects. He was hospitalized for the reaction and recovered. His CD4 count is 450/μL. He now takes a different regimen. Which class caused this?
 A. Protease inhibitors
 B. Fusion inhibitors
@@ -12764,7 +13100,7 @@ C. Integrase inhibitors: These are the best tolerated class.
 D. CCR5 inhibitors: That isn't the listed toxicity.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 84
+Question 105
 A 29-year-old man is newly diagnosed with HIV and wants a simple regimen. His CD4 count is 610/μL. His physician starts a single pill containing bictegravir, tenofovir alafenamide, and emtricitabine. He has no medical problems and takes no medications. His viral load is 42,000 copies/mL. He wants the regimen with the fewest side effects. How does the anchor drug in this pill work?
 A. It blocks viral maturation
 B. It blocks insertion of HIV DNA into the host genome, leaving circular non-integrated episomes
@@ -12780,8 +13116,8 @@ D. It blocks CCR5: That's maraviroc.
 E. It blocks gp41 fusion: That's enfuvirtide.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 85
-A 35-year-old woman with HIV develops nausea and diarrhea after starting a drug whose name ends in '-navir.' She takes no other new medications. Her physician explains how this class works. Her CD4 count is 380/μL. Her viral load is 1,200 copies/mL. She has no fever and her abdomen is soft. What is the mechanism?
+Question 106
+A 35-year-old woman with HIV develops nausea and diarrhea after starting a drug whose name ends in '-navir.' She takes no other new medications. Her CD4 count is 380/μL, and her viral load is 1,200 copies/mL. She has no fever, and her abdomen is soft. Her stool studies are negative. What is the mechanism of action of this drug class?
 A. It inhibits uncoating
 B. It blocks integration
 C. It blocks gp120 binding
@@ -12796,8 +13132,8 @@ C. It blocks gp120 binding: That isn't this class.
 E. It terminates the DNA chain: That's NRTIs.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 86
-A 31-year-old man is diagnosed with HIV. His CD4 count is 680/μL, and he feels well. He asks whether he can wait to start treatment until his CD4 count falls. His physician recommends a two-drug regimen of dolutegravir and lamivudine. His viral load is 18,000 copies/mL. He has no symptoms. His hepatitis B testing is negative. What is the current approach to timing?
+Question 107
+A 31-year-old man is diagnosed with HIV at a routine screening. He feels well and has no symptoms. His CD4 count is 680/μL, and his viral load is 18,000 copies/mL. His hepatitis B testing is negative. His vital signs and exam are normal. His physician recommends a two-drug regimen of dolutegravir and lamivudine. When should antiretroviral therapy be started in this patient?
 A. Start only after an opportunistic infection
 B. Wait until CD4 falls below 350
 C. Wait until CD4 falls below 200
@@ -12812,7 +13148,7 @@ C. Wait until CD4 falls below 200: Treatment starts regardless of CD4.
 E. Start only if symptoms develop: Treatment starts right away.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 87
+Question 108
 A 44-year-old woman with HIV has a rising viral load while taking lamivudine and emtricitabine as part of her regimen. She admits to missing doses. Resistance testing shows a single mutation in reverse transcriptase. Her CD4 count is 330/μL, and her viral load has risen to 8,000 copies/mL. She has no symptoms. Her physician orders genotype testing. Which mutation causes resistance to these two drugs?
 A. K103N
 B. M184V
@@ -12828,7 +13164,7 @@ D. A gp41 mutation: That isn't the listed mutation.
 E. TAMs: Those affect AZT and d4T.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 88
+Question 109
 A 39-year-old man with HIV has virologic failure on an NNRTI-based regimen. He was infected 12 years ago. Resistance testing shows a mutation in reverse transcriptase at position 103. His CD4 count is 260/μL. He had missed doses for months. His viral load is 24,000 copies/mL. Which drug class is affected?
 A. Integrase inhibitors
 B. Protease inhibitors
@@ -12844,8 +13180,8 @@ C. All NRTIs: K103N affects NNRTIs.
 D. CCR5 inhibitors: That isn't K103N.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
-Question 89
-A 52-year-old man with chronic hepatitis C genotype 1 is started on a combination pill. He has cirrhosis and takes propranolol. His physician explains that one drug targets the NS3/4A protease and the other targets NS5A. His platelets are 110,000/mm³, and his HCV RNA is high. He drinks no alcohol. His albumin is 3.4 g/dL. Which pair is this?
+Question 110
+A 52-year-old man with chronic hepatitis C genotype 1 and cirrhosis takes propranolol. He drinks no alcohol. His platelets are 110,000/mm³, his albumin is 3.4 g/dL, and his HCV RNA is high. He is started on a combination pill containing an NS3/4A protease inhibitor and an NS5A inhibitor. Which pair of drugs, matched to their targets, is he taking?
 A. Acyclovir and famciclovir
 B. Glecaprevir (NS5A) and pibrentasvir (NS3/4A)
 C. Glecaprevir (NS3/4A) and pibrentasvir (NS5A)
@@ -12862,8 +13198,8 @@ Objective: Describe the mechanisms of action of major classes of antimicrobial d
 
 Week 8: Virology & Cell Injury / Pathology of Cell Injury & Death
 
-Question 90
-A 55-year-old man has chest pain from a coronary blockage that resolves after 10 minutes of rest. He has hypertension and smokes. His troponin stays normal. His physician explains how brief ischemia injures cells. His ECG during pain showed ST depression that resolved. His blood pressure is 148/92 mm Hg. He asks what happens inside heart cells when blood flow drops. What is the earliest consequence of decreased mitochondrial activity?
+Question 111
+A 55-year-old man who smokes has chest pain while shoveling snow that resolves after 10 minutes of rest. He has hypertension. His blood pressure is 148/92 mm Hg. His ECG during the pain showed ST depression that resolved, and his troponin stays normal. Which change occurs first inside his heart muscle cells when blood flow drops?
 A. Inadequate ATP production, causing failure of membrane pumps
 B. Fibrin deposition in vessels
 C. Koilocytosis
@@ -12878,8 +13214,8 @@ D. Caseous necrosis: That's typical of TB.
 E. Immediate karyolysis: That's a late irreversible change.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 91
-A pathologist reviews an electron micrograph of heart muscle from a patient who had a brief episode of ischemia but recovered fully. The patient is a 50-year-old man with diabetes. The patient's episode lasted 15 minutes, and his troponin stayed normal. His heart function is normal on echocardiogram. The micrograph was taken from a biopsy during unrelated surgery. Which ultrastructural findings are characteristic of reversible injury?
+Question 112
+A 50-year-old man with diabetes had a 15-minute episode of chest pain from myocardial ischemia last month. His troponin stayed normal, and his heart function is normal on echocardiogram. During unrelated cardiac surgery, a small biopsy of the affected area is taken shortly after a brief ischemic episode and examined by electron microscopy. The cells are expected to recover fully. Which ultrastructural findings are expected in these cells?
 A. Ribosomes detached from rough ER with preserved mitochondrial cristae
 B. Karyorrhexis
 C. Severe mitochondrial swelling with destroyed cristae
@@ -12894,7 +13230,7 @@ D. Lysosomal enzyme leakage: That's irreversible.
 E. Extensive plasma membrane damage: That's irreversible.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 92
+Question 113
 A 70-year-old woman dies 3 days after a large heart attack. She had diabetes and hypertension. At autopsy, heart muscle cells show small, dense, shrunken nuclei; others show fragmented nuclei; and some have no nuclei at all. Her troponin had peaked at a very high level. She had no fever. Her coronary arteries show a fresh clot. What is the correct order of these nuclear changes?
 A. Karyorrhexis, then pyknosis, then karyolysis
 B. Koilocytosis, then syncytium
@@ -12910,7 +13246,7 @@ D. Karyolysis, then pyknosis, then karyorrhexis: The order is wrong.
 E. Hydropic degeneration, then fatty change: Those are reversible changes.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 93
+Question 114
 A 68-year-old man with atrial fibrillation stopped his anticoagulant and developed a sudden left-sided weakness. He dies 2 weeks later, and autopsy shows a cystic, liquefied area in the right hemisphere where the tissue architecture is lost. His blood pressure was 168/96 mm Hg at admission. He had no fever. CT at the time showed a large right-sided infarct. Why does ischemia in this organ produce this pattern rather than coagulative necrosis?
 A. Brain cells have no lysosomes
 B. Intracellular acidosis preserves the architecture
@@ -12926,7 +13262,7 @@ C. Fat saponification: That's fat necrosis.
 D. Granulomas form: That's caseous necrosis.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 94
+Question 115
 A 50-year-old man with long-standing, poorly controlled hypertension has a kidney biopsy for rising creatinine. His blood pressure is 210/130 mm Hg. The small arteries show bright pink, smudgy material deposited in their damaged walls. His creatinine has risen from 1.2 to 3.4 mg/dL. He has headaches and blurred vision. Fundoscopy shows hemorrhages. What type of necrosis is this?
 A. Caseous necrosis
 B. Fibrinoid necrosis
@@ -12942,7 +13278,7 @@ D. Liquefactive necrosis: That's typical of the brain.
 E. Coagulative necrosis: That preserves architecture.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 95
+Question 116
 A 30-year-old man with sudden kidney pain has a renal infarct from a clot. He has a patent foramen ovale. A biopsy 2 days later shows cells without nuclei, but the outlines of tubules are still visible and deeply pink. His creatinine is mildly elevated. His urinalysis shows blood. He had a recent long flight. What explains why the architecture is preserved?
 A. Fibrin coats the vessels
 B. Granulomas wall off the area
@@ -12958,7 +13294,7 @@ C. Lysosomal enzymes digest the tissue: That's liquefactive necrosis.
 E. Lipase saponifies fat: That's fat necrosis.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 96
+Question 117
 A 45-year-old man with heavy alcohol use has an enlarged liver. His liver biopsy shows many cells with clear cytoplasmic droplets and others with pale, swollen cytoplasm full of water. He stops drinking, and his liver enzymes normalize. He drinks a liter of vodka daily. His ALT and AST are elevated. His albumin is normal. How are these changes classified?
 A. Irreversible injury with karyolysis
 B. Coagulative necrosis
@@ -12974,8 +13310,8 @@ C. Fibrinoid necrosis: That's vascular.
 E. Caseous necrosis: That's TB.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 97
-A 60-year-old woman has a prolonged cardiac arrest before resuscitation and later develops heart failure. Her heart shows extensive muscle cell death. Her physician explains what happens once injury becomes irreversible. She had no pulse for 25 minutes. Her troponin is very high. Her ejection fraction is 25% afterward. Which process leads to enzymatic digestion of tissue and necrosis?
+Question 118
+A 60-year-old woman had a cardiac arrest with no pulse for 25 minutes before resuscitation. She later develops heart failure. Her troponin was very high, and her ejection fraction is now 25%. Her echocardiogram shows a large akinetic region of the left ventricle. Biopsy shows extensive myocyte death with loss of cell membranes and digestion of the tissue. Which process leads to this enzymatic digestion and necrosis?
 A. Koilocytosis
 B. Calcium influx and release of lysosomal enzymes after membrane damage
 C. Ribosome detachment from rough ER
@@ -12990,7 +13326,7 @@ D. Fatty change: That's reversible.
 E. Preservation of mitochondrial cristae: That's reversible.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 98
+Question 119
 A 58-year-old man from Haiti dies of an unrelated cause. He had lived in the United States for 20 years. He had no history of cough or weight loss. His chest x-ray years ago showed a small calcified nodule. At autopsy, the lung has the subpleural lesion shown, with soft, white, cheese-like dead tissue. Histology shows amorphous pink debris with no tissue architecture, surrounded by granulomas. Which infection is classically associated with this necrosis? ![Gross specimen](https://upload.wikimedia.org/wikipedia/commons/b/b5/Tuberculosis_-_Sub-pleural_primary_%28Ghon%29_focus_%286596011395%29.jpg)
 A. Stroke
 B. Pancreatitis
@@ -13006,7 +13342,7 @@ C. Hypertension: That causes fibrinoid necrosis.
 D. Myocardial infarction: That causes coagulative necrosis.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 99
+Question 120
 A 64-year-old man dies 2 days after a large myocardial infarction. He had diabetes and smoked. His troponin had peaked at a very high level. He had a left anterior descending occlusion. He had no fever. A section of his heart is shown, with deeply eosinophilic muscle fibers that have lost their nuclei but keep their outlines. What type of necrosis is this? ![Histology section](https://upload.wikimedia.org/wikipedia/commons/4/48/Histopathology_of_coagulative_necrosis_of_cardiomyocytes.jpg)
 A. Liquefactive necrosis
 B. Fat necrosis
@@ -13022,7 +13358,7 @@ D. Fibrinoid necrosis: That's in vessel walls.
 E. Caseous necrosis: That's typical of TB.
 Objective: Integrate basic science knowledge with clinical information to begin developing critical thinking and problem-solving skills necessary for diagnosing and managing patients (CBO 2.6)
 
-Question 100
+Question 121
 A 45-year-old man with malignant hypertension has a blood pressure of 230/140 mm Hg and rising creatinine. He has headaches and blurred vision. His fundoscopic exam shows hemorrhages and papilledema. He stopped his antihypertensive pills months ago. His kidney biopsy is shown, with bright pink material in the damaged wall of a small vessel at the arrow. What type of necrosis is this, and which conditions cause it? ![Kidney biopsy](https://upload.wikimedia.org/wikipedia/commons/4/48/Fibrinoid_necrosis.jpg)
 A. Fibrinoid necrosis; vasculitis and hypertension
 B. Coagulative necrosis; infarction
