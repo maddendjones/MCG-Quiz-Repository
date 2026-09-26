@@ -905,7 +905,7 @@ E. SGLT1: SGLT1 absorbs glucose in the gut.
 Objective: Identify functional groups unique to proteins, nucleic acids, lipids, and carbohydrates, and apply the underlying principles as to how these biomolecules communicate with one another in health and disease (CBO 1.1)
 
 Question 57
-A 30-year-old woman has had high blood sugar since her teens. She has a normal BMI and no autoantibodies. Her insulin levels are low for her glucose level. Genetic testing shows an inactivating mutation in the transporter that lets her beta cells sense glucose. Her mother and grandmother also developed diabetes in their teens. Her fasting glucose is 138 mg/dL, and her C-peptide is low. What is the expected consequence?
+A 30-year-old woman comes for genetic counseling before a planned pregnancy. She feels well, has a normal BMI, and takes no medications. Her mother and grandmother each developed a metabolic disorder in their teens. Genetic testing shows she carries their inactivating mutation in the transporter that lets beta cells sense glucose. Her vital signs are normal. What is the expected consequence of this mutation?
 A. Hypoinsulinemia and diabetes
 B. Hyperinsulinemic hypoglycemia
 C. Diarrhea after fructose
@@ -2055,7 +2055,7 @@ E. Exercise-associated thermogenesis: That's about 25%.
 Objective: Interpret the role of protein, carbohydrate, lipid, and nucleic acid metabolisms in normal and pathophysiological states (CBO 1.1)
 
 Question 28
-A 28-year-old woman on a high-protein diet notices she feels warm after meals. She lifts weights 4 days a week and takes a protein supplement. Her vital signs and BMI are normal. Indirect calorimetry shows her metabolic rate rises after each meal. She eats about 160 g of protein a day. Her kidney function is normal, and her BMI is 22. For which macronutrient is this thermic effect greatest?
+A 28-year-old woman notices she feels warm after meals. She lifts weights 4 days a week and takes no medications. Her vital signs are normal, and her BMI is 22. Indirect calorimetry shows her metabolic rate rises after each meal, and the rise differs depending on what she eats. Her kidney function is normal. For which macronutrient is this thermic effect greatest?
 A. All are equal
 B. Lipid
 C. Alcohol
@@ -2623,7 +2623,7 @@ Objective: Interpret the role of protein, carbohydrate, lipid, and nucleic acid 
 Week 3: Metabolism / Plasma Lipid Transport (Lipoproteins)
 
 Question 63
-A 30-year-old man fasts overnight before a lipid panel. He is healthy and takes no medications. His glucagon is high, and his fat cells are releasing free fatty acids into his blood. His triglycerides and cholesterol are carried in lipoproteins. His glucose is 88 mg/dL, and his triglycerides are 110 mg/dL. His albumin is normal. How are the free fatty acids transported in his blood?
+A 30-year-old man fasts overnight before a lipid panel. He is healthy and takes no medications. His glucagon is high, and his fat cells are releasing free fatty acids into his blood. His triglycerides and cholesterol are carried in lipoproteins. His glucose is 88 mg/dL, and his triglycerides are 110 mg/dL. How are the free fatty acids transported in his blood?
 A. Bound to ApoB100
 B. Bound to albumin
 C. In chylomicrons
@@ -4983,7 +4983,7 @@ E. Monoclonality: Clonality describes how the tumor arose, not how it feels.
 Objective: Explain principles and rationales for use of diagnostic radiology and be able to interpret the results of imaging studies, histopathologic exams and routine laboratory tests (CBO 2.4)
 
 Question 9
-A 60-year-old man comes to the physician for a screening colonoscopy. He has no abdominal pain, bleeding, or change in bowel habits, and there is no family history of colon cancer. He has hyperlipidemia and takes atorvastatin. Vital signs are normal, and his hemoglobin is 14.8 g/dL. Colonoscopy shows a single 1-cm pedunculated polyp in the sigmoid colon, which is removed. Microscopy shows a benign tumor forming tubular glands, with no invasion of the stalk. What is the correct name for this tumor?
+A 60-year-old man comes to the physician for a screening colonoscopy. He has no abdominal pain, bleeding, or change in bowel habits, and there is no family history of colon cancer. He has hyperlipidemia and takes atorvastatin. Vital signs are normal, and his hemoglobin is 14.8 g/dL. Colonoscopy shows a single 1-cm pedunculated polyp in the sigmoid colon, which is removed. Microscopy shows a benign tumor forming closely packed glands, with no invasion of the stalk. What is the correct name for this tumor?
 A. Hamartoma
 B. Tubular adenoma
 C. Adenocarcinoma
@@ -11779,7 +11779,7 @@ D. Maraviroc: That's an HIV CCR5 inhibitor.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 27
-A 9-day-old boy is brought in with lethargy, poor feeding, and a seizure. He was born vaginally, and his mother had genital sores near delivery that weren't evaluated. Temperature is 38.4°C (101.1°F), and he has a few vesicles on his scalp. CSF shows lymphocytes, and PCR is positive for HSV. He was born at 38 weeks. His mother took no prenatal vitamins and had no prenatal care. His pulse is 176/min. What complication does this represent?
+A 9-day-old boy is brought in with lethargy, poor feeding, and a seizure. He was born vaginally, and his mother had genital sores near delivery that weren't evaluated. Temperature is 38.4°C (101.1°F), and he has a few vesicles on his scalp. CSF shows lymphocytes and red cells. He was born at 38 weeks. His mother took no prenatal vitamins and had no prenatal care. His pulse is 176/min. What complication does this represent?
 A. Eczema herpeticum
 B. Neonatal herpes with meningoencephalitis
 C. Cytomegalic inclusion disease
@@ -11843,7 +11843,7 @@ E. Only after a negative PCR: That isn't the listed criterion.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 31
-A 74-year-old man had a painful band-like rash on his left chest 3 months ago that has healed, but he still has burning pain in the same area that keeps him awake. He has hypertension and takes amlodipine. His skin looks normal. He never received a shingles vaccine. His blood pressure is 136/82 mm Hg. The rash was treated late with an antiviral. What is this condition, and what might have reduced its risk?
+A 74-year-old man had a painful band-like rash on his left chest 3 months ago that has healed, but he still has burning pain in the same area that keeps him awake. He has hypertension and takes amlodipine. His skin looks normal. He never received a shingles vaccine. His blood pressure is 136/82 mm Hg. What is this condition, and what might have reduced its risk?
 A. Eczema herpeticum; topical steroids for the skin
 B. Recurrent chickenpox; varicella zoster immune globulin
 C. Herpes encephalitis; prompt IV acyclovir
@@ -11891,7 +11891,7 @@ E. Start amoxicillin: It's a viral infection.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 34
-A 24-year-old graduate student has fever, malaise, and enlarged lymph nodes for 2 weeks. He has no sore throat. Temperature is 38.2°C (100.8°F). His blood shows atypical lymphocytes, but his heterophile antibody test is negative on two occasions. CMV IgM is positive. He has no rash, and his throat is normal. His liver enzymes are mildly elevated. He works in a lab and takes no medications. What is the diagnosis?
+A 24-year-old graduate student has fever, malaise, and enlarged lymph nodes for 2 weeks. He has no sore throat. Temperature is 38.2°C (100.8°F). His blood shows atypical lymphocytes, but his heterophile antibody test is negative on two occasions. IgM antibodies against a herpesvirus other than EBV are positive. He has no rash, and his throat is normal. His liver enzymes are mildly elevated. He works in a lab and takes no medications. What is the diagnosis?
 A. CMV mononucleosis syndrome
 B. HHV-6 infection
 C. Toxoplasmosis
@@ -12166,10 +12166,10 @@ Question 51
 A 24-year-old graduate student has a severe sore throat, fever, and painful swallowing for 4 days. He takes no medications. Temperature is 38.8°C (101.8°F), and pulse is 104/min. His tonsils are swollen with gray exudates, and there are shallow ulcers on his posterior pharynx and soft palate. He has tender anterior cervical nodes. His rapid strep test is negative, his heterophile test is negative, and his spleen isn't enlarged. PCR of a pharyngeal ulcer is positive. What is the most likely diagnosis?
 A. EBV mononucleosis
 B. HSV-2 genital infection
-C. Primary HSV-1 infection of the pharynx
+C. Primary HSV-1 infection
 D. Adenovirus acute respiratory disease
 E. CMV mononucleosis
-Answer: C. Primary HSV-1 infection of the pharynx
+Answer: C. Primary HSV-1 infection
 Why this is correct: Primary HSV-1 usually causes gingivostomatitis in children, but in adults it can cause exudative pharyngitis. It resolves in 10 to 14 days and establishes latency in the sensory ganglia.
 Why the other answers are wrong:
 A. EBV mononucleosis: His heterophile test is negative and his spleen is normal.
@@ -13273,7 +13273,7 @@ E. Binding to ergosterol to form pores: That's amphotericin B and nystatin.
 Objective: Describe the mechanisms of action of major classes of antimicrobial drugs and recommend appropriate antibiotic treatments for infectious diseases based on patient factors, pathogens involved, and pharmacokinetics and pharmacodynamics of the drugs (CBO 1.4)
 
 Question 120
-A 46-year-old man with AIDS has taken high-dose oral fluconazole as maintenance therapy for cryptococcal meningitis for 8 months. He now has tender breast enlargement, decreased libido, and erectile difficulty. His testosterone level is low. His liver enzymes are mildly elevated. He takes no other new medications. What is the most likely cause of these new symptoms?
+A 46-year-old man with AIDS has taken high-dose oral fluconazole as maintenance therapy for cryptococcal meningitis for 8 months. He now has tender breast enlargement, decreased libido, and erectile difficulty. His liver enzymes are mildly elevated. He takes no other new medications. What is the most likely cause of these new symptoms?
 A. Amphotericin B nephrotoxicity
 B. Flucytosine marrow suppression
 C. Relapse of cryptococcal meningitis
@@ -13611,7 +13611,7 @@ E. Adenovirus 8: That causes keratoconjunctivitis.
 Objective: Explain the mechanisms of viral pathogenesis, including cytopathic effect and immunopathogenesis (CBO 1.2)
 
 Question 141
-A 30-year-old woman has a routine Pap smear. She has had three sexual partners and smokes. She takes an oral contraceptive. Her previous Pap smears were normal. She never received the HPV vaccine. Her smear shows squamous cells with enlarged, wrinkled nuclei and a large clear space around the nucleus, as shown. Which virus causes this change, and what is it called? ![Pap smear](https://upload.wikimedia.org/wikipedia/commons/8/85/ThinPrep_Pap_smear_HPV.jpeg)
+A 30-year-old woman has a routine Pap smear. She has had three sexual partners and smokes. She takes an oral contraceptive. Her previous Pap smears were normal. Her smear shows squamous cells with enlarged, wrinkled nuclei and a large clear space around the nucleus, as shown. Which virus causes this change, and what is it called? ![Pap smear](https://upload.wikimedia.org/wikipedia/commons/8/85/ThinPrep_Pap_smear_HPV.jpeg)
 A. CMV; owl's eye inclusions
 B. Parvovirus; chromatin margination
 C. EBV; atypical lymphocytes
@@ -17133,7 +17133,7 @@ D. A disruption, from breakdown of normal tissue: That's an extrinsic insult.
 Objective: Differentiate between the embryonic and fetal periods in terms of their chronology, developmental processes occurring in each, and susceptibility to maternal exposures (CBO 1.3)
 
 Question 52
-A 60-year-old woman comes to the physician because her 62-year-old brother was born with short, flipper-like arms. Their mother took a sedative for morning sickness in 1961. Her brother also had a heart murmur as a child. Their mother had no other medical problems. Her brother had normal intelligence and worked as an engineer. Their mother had severe nausea early in that pregnancy. Which drug is most likely, and which other defect can it cause?
+A 60-year-old woman comes to the physician because her 62-year-old brother was born with short, flipper-like arms. Their mother took a sedative for morning sickness in 1961. Their mother had no other medical problems. Her brother had normal intelligence and worked as an engineer. Their mother had severe nausea early in that pregnancy. Which drug is most likely, and which other defect can it cause?
 A. Valproic acid; cleft lip
 B. Thalidomide; heart defects
 C. Radiation; microcephaly
