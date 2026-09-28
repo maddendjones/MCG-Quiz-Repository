@@ -400,47 +400,45 @@
       }
     }
 
-    /* System & Subjects Selection Table with Quick Practice Actions */
+    /* Multi-Table Modular Subject & Subfolder System */
+    .subjects-tables-stack {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
     .uw-table-container {
       border: 1px solid var(--border);
       border-radius: var(--radius);
       background: var(--surface);
       display: flex;
       flex-direction: column;
+      overflow: hidden;
+      box-shadow: var(--shadow);
     }
     .uw-table-header {
       background: var(--surface-sub);
       border-bottom: 1px solid var(--border);
-      padding: 10px 16px;
+      padding: 12px 16px;
       display: grid;
       grid-template-columns: 1fr 90px 90px 130px;
-      font-size: 0.75rem;
+      font-size: 0.85rem;
       font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      color: var(--text-muted);
+      color: var(--text);
       align-items: center;
+      user-select: none;
+      cursor: pointer;
+    }
+    .uw-table-header:hover {
+      background: #f1f5f9;
     }
     .uw-table-scroll-body {
       display: flex;
       flex-direction: column;
     }
-    .uw-folder-row {
-      border-bottom: 1px solid var(--border-sub);
+    .uw-table-scroll-body.collapsed {
+      display: none;
     }
-    .uw-folder-row:last-child { border-bottom: none; }
-    .uw-folder-header {
-      padding: 12px 16px;
-      display: grid;
-      grid-template-columns: 1fr 90px 90px 130px;
-      align-items: center;
-      background: var(--surface);
-      font-size: 0.85rem;
-      font-weight: 700;
-      cursor: pointer;
-      user-select: none;
-    }
-    .uw-folder-header:hover { background: #f8fafc; }
+
     .folder-toggle-icon {
       display: inline-block;
       width: 14px;
@@ -451,25 +449,53 @@
     .folder-toggle-icon.expanded {
       transform: rotate(90deg);
     }
-    .uw-folder-subitems {
-      background: var(--surface-sub);
-      border-top: 1px dashed var(--border-sub);
-      display: flex;
-      flex-direction: column;
+
+    /* Subfolder & Sub-subfolder Rows */
+    .uw-subfolder-block {
+      border-bottom: 1px solid var(--border-sub);
     }
-    .uw-folder-subitems.collapsed {
-      display: none;
+    .uw-subfolder-block:last-child {
+      border-bottom: none;
     }
-    .uw-sub-row {
-      padding: 9px 16px 9px 42px;
+    .uw-sub-header {
+      padding: 10px 16px 10px 36px;
       display: grid;
       grid-template-columns: 1fr 90px 90px 130px;
       align-items: center;
-      font-size: 0.8rem;
+      background: var(--surface);
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      user-select: none;
+      border-bottom: 1px solid rgba(0,0,0,0.03);
+    }
+    .uw-sub-header:hover {
+      background: #f8fafc;
+    }
+    .uw-subsub-container {
+      background: var(--surface-sub);
+      display: flex;
+      flex-direction: column;
+      border-top: 1px dashed var(--border-sub);
+    }
+    .uw-subsub-container.collapsed {
+      display: none;
+    }
+    .uw-subsub-row {
+      padding: 8px 16px 8px 60px;
+      display: grid;
+      grid-template-columns: 1fr 90px 90px 130px;
+      align-items: center;
+      font-size: 0.78rem;
       color: var(--text-sub);
       border-bottom: 1px solid rgba(0,0,0,0.03);
     }
-    .uw-sub-row:hover { background: #f1f5f9; }
+    .uw-subsub-row:last-child {
+      border-bottom: none;
+    }
+    .uw-subsub-row:hover {
+      background: #f1f5f9;
+    }
 
     .btn-quick-play {
       padding: 3px 8px;
@@ -1048,9 +1074,9 @@
         </div>
       </div>
 
-      <!-- 3. Subjects & Systems Table -->
-      <div class="uw-section-box" style="padding:0; overflow:hidden;">
-        <div style="padding:14px 20px 10px; display:flex; justify-content:space-between; align-items:center;">
+      <!-- 3. Separate Tables for Each Main Folder -->
+      <div class="uw-section-box" style="background:transparent; border:none; padding:0; box-shadow:none;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
           <div class="uw-section-title" style="margin:0;">Subjects & Systems</div>
           <div style="display:flex; gap:8px;">
             <button id="btnTableSelectAll" style="padding:2px 8px; font-size:0.7rem;">Select All</button>
@@ -1058,15 +1084,8 @@
           </div>
         </div>
 
-        <div class="uw-table-container" style="border:none; border-top:1px solid var(--border);">
-          <div class="uw-table-header">
-            <span>Subject / Sub-Topic</span>
-            <span style="text-align:center;">Available</span>
-            <span style="text-align:center;">Selected</span>
-            <span style="text-align:center;">Action</span>
-          </div>
-          <div class="uw-table-scroll-body" id="uwSubjectTableBody"></div>
-        </div>
+        <!-- Container where each distinct main folder table is injected -->
+        <div class="subjects-tables-stack" id="subjectsTablesStack"></div>
       </div>
 
       <!-- Fixed Bottom Action Launch Bar -->
@@ -1083,7 +1102,7 @@
       </div>
     </div>
 
-    <!-- View 2: Performance Reports Hub (Symmetrical 4-Column Grid) -->
+    <!-- View 2: Performance Reports Hub -->
     <div class="performance-view" id="performanceView">
       <div class="uw-section-box">
         <div class="uw-section-title">Overall Performance</div>
@@ -1213,7 +1232,7 @@
         <button id="btnCloseLoadModal" style="border:none;font-weight:700;">Close</button>
       </div>
       <div class="modal-body">
-        <p style="color:var(--text-sub);">Paste formatted questions below. Headings formatted as <code>Folder / Subfolder</code> will be sorted automatically.</p>
+        <p style="color:var(--text-sub);">Paste formatted questions below. Headings formatted as <code>Folder / Subfolder / Sub-subfolder</code> will be parsed and nested automatically.</p>
         <textarea id="txtDocInput" placeholder="Paste questions here..." style="width:100%;height:180px;padding:10px;border:1px solid var(--border);border-radius:6px;font-family:monospace;font-size:0.75rem;background:var(--bg);color:var(--text);"></textarea>
       </div>
       <div class="modal-footer">
@@ -1265,7 +1284,7 @@
   <script id="default-questions-data" type="text/plain"></script>
 
   <script>
-    /* Robust State-Machine Parser with Unique ID Generation */
+    /* Robust State-Machine Parser Supporting Folders, Subfolders, and Sub-subfolders */
     function parseDocumentText(rawText) {
       const cleanLine = (l) => l.replace(/[\u00A0\u1680\u180e\u2000-\u200b\u202f\u205f\u3000\ufeff]/g, " ")
                                 .replace(/^[#*\-•\s]+/, "")
@@ -1283,6 +1302,7 @@
       const parsed = [];
       let currentFolder = "General";
       let currentSubfolder = "General";
+      let currentSubSubfolder = "";
       let currentQ = null;
       let state = "IDLE";
       let globalQuestionCounter = 0;
@@ -1297,10 +1317,10 @@
 
       function commitCurrentQuestion() {
         if (currentQ && currentQ.stem && currentQ.choices.length && currentQ.answer) {
-          const fullSubject = currentQ.subfolder !== "General"
-            ? `${currentQ.folder} / ${currentQ.subfolder}`
-            : currentQ.folder;
-          currentQ.subject = fullSubject;
+          let pathParts = [currentQ.folder];
+          if (currentQ.subfolder && currentQ.subfolder !== "General") pathParts.push(currentQ.subfolder);
+          if (currentQ.subSubfolder) pathParts.push(currentQ.subSubfolder);
+          currentQ.subject = pathParts.join(" / ");
           parsed.push(currentQ);
         }
         currentQ = null;
@@ -1313,7 +1333,15 @@
 
         const subGroupMatch = line.match(/^(?:Subgroup|Subfolder|Topic|Subtopic|Section):\s*(.*)$/i);
         if (subGroupMatch) {
-          currentSubfolder = subGroupMatch[1].trim();
+          const rawSub = subGroupMatch[1].trim();
+          if (rawSub.includes("/") || rawSub.includes(">") || rawSub.includes("->")) {
+            const parts = rawSub.split(/\/|>|->/).map(p => p.trim()).filter(p => p.length > 0);
+            currentSubfolder = parts[0] || "General";
+            currentSubSubfolder = parts[1] || "";
+          } else {
+            currentSubfolder = rawSub;
+            currentSubSubfolder = "";
+          }
           continue;
         }
 
@@ -1327,9 +1355,11 @@
             const parts = line.split(/\/|>|->/).map(p => p.trim()).filter(p => p.length > 0);
             currentFolder = parts[0] || "General";
             currentSubfolder = parts[1] || "General";
+            currentSubSubfolder = parts[2] || "";
           } else {
             currentFolder = line;
             currentSubfolder = "General";
+            currentSubSubfolder = "";
           }
           continue;
         }
@@ -1339,13 +1369,14 @@
           commitCurrentQuestion();
           globalQuestionCounter++;
           const rawNum = parseInt(qMatch[1], 10);
-          const uniqueId = `${currentFolder}__${currentSubfolder}__q${rawNum}__${globalQuestionCounter}`;
+          const uniqueId = `${currentFolder}__${currentSubfolder}__${currentSubSubfolder}__q${rawNum}__${globalQuestionCounter}`;
 
           currentQ = {
             id: uniqueId,
             rawNumber: rawNum,
             folder: currentFolder,
             subfolder: currentSubfolder,
+            subSubfolder: currentSubSubfolder,
             stem: "",
             stemLines: [],
             choices: [],
@@ -1434,20 +1465,25 @@
           const parts = q.subject.split("/").map(s => s.trim());
           q.folder = parts[0];
           q.subfolder = parts[1] || "General";
+          q.subSubfolder = parts[2] || "";
         } else {
           q.folder = q.subject || "General";
           q.subfolder = "General";
+          q.subSubfolder = "";
         }
+      } else {
+        if (!q.subSubfolder) q.subSubfolder = "";
       }
+
       if (typeof q.id === "number" || !q.id || !q.id.includes("__")) {
-        q.id = `${q.folder}__${q.subfolder}__q${q.rawNumber || index}__${index}`;
+        q.id = `${q.folder}__${q.subfolder}__${q.subSubfolder}__q${q.rawNumber || index}__${index}`;
       }
       return q;
     }
 
-    /* Stable Question Identifier by topic and question number */
-    function getStableQuestionKey(folder, subfolder, rawNum) {
-      return `${folder}__${subfolder}__q${rawNum}`;
+    /* Stable Question Identifier by hierarchical path and question number */
+    function getStableQuestionKey(folder, subfolder, subSubfolder, rawNum) {
+      return `${folder}__${subfolder}__${subSubfolder || ""}__q${rawNum}`;
     }
 
     /* Seamless Sync & In-Place Edit Engine */
@@ -1455,10 +1491,9 @@
       const incomingQuestions = parseDocumentText(rawText);
       if (!incomingQuestions.length) return false;
 
-      // Map current questions by their stable question key
       const currentMap = new Map();
       ALL_QUESTIONS.forEach(q => {
-        const key = getStableQuestionKey(q.folder, q.subfolder, q.rawNumber);
+        const key = getStableQuestionKey(q.folder, q.subfolder, q.subSubfolder, q.rawNumber);
         currentMap.set(key, q);
       });
 
@@ -1466,10 +1501,9 @@
       let updatedCount = 0;
 
       incomingQuestions.forEach((incomingQ) => {
-        const key = getStableQuestionKey(incomingQ.folder, incomingQ.subfolder, incomingQ.rawNumber);
+        const key = getStableQuestionKey(incomingQ.folder, incomingQ.subfolder, incomingQ.subSubfolder, incomingQ.rawNumber);
 
         if (currentMap.has(key)) {
-          // In-place update of edited contents without touching progress
           const existingQ = currentMap.get(key);
           existingQ.stem = incomingQ.stem;
           existingQ.choices = incomingQ.choices;
@@ -1478,10 +1512,10 @@
           existingQ.whyWrong = incomingQ.whyWrong;
           existingQ.objective = incomingQ.objective;
           existingQ.subject = incomingQ.subject;
+          existingQ.subSubfolder = incomingQ.subSubfolder;
           updatedCount++;
         } else {
-          // Brand-new question
-          incomingQ.id = `${incomingQ.folder}__${incomingQ.subfolder}__q${incomingQ.rawNumber}__${ALL_QUESTIONS.length + 1}`;
+          incomingQ.id = `${incomingQ.folder}__${incomingQ.subfolder}__${incomingQ.subSubfolder}__q${incomingQ.rawNumber}__${ALL_QUESTIONS.length + 1}`;
           ALL_QUESTIONS.push(incomingQ);
           currentMap.set(key, incomingQ);
           addedCount++;
@@ -1525,7 +1559,7 @@
     const createTestView = document.getElementById("createTestView");
     const performanceView = document.getElementById("performanceView");
     const quizWorkspace = document.getElementById("quizWorkspace");
-    const uwSubjectTableBody = document.getElementById("uwSubjectTableBody");
+    const subjectsTablesStack = document.getElementById("subjectsTablesStack");
     const btnLaunchExam = document.getElementById("btnLaunchExam");
     const inputBlockSize = document.getElementById("inputBlockSize");
     const btnExamExit = document.getElementById("btnExamExit");
@@ -1616,24 +1650,26 @@
       document.getElementById("repIncorrect").textContent = incorrectCount;
       document.getElementById("repMarked").textContent = markedCount;
 
-      renderUWTable();
+      renderMultiTableSubjects();
       renderPerformanceBreakdown();
       updateAvailableCount();
     }
 
-    function renderUWTable() {
+    /* Renders Each Main Folder as an Independent Table with Subfolders & Sub-subfolders */
+    function renderMultiTableSubjects() {
       const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
-      uwSubjectTableBody.innerHTML = "";
+      subjectsTablesStack.innerHTML = "";
 
       folders.forEach(fName => {
         const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
-        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
 
-        const folderRow = document.createElement("div");
-        folderRow.className = "uw-folder-row";
+        // Separate Table Card Container for this Folder
+        const tableCard = document.createElement("div");
+        tableCard.className = "uw-table-container";
 
+        // Table Header representing the Main Folder
         const headerDiv = document.createElement("div");
-        headerDiv.className = "uw-folder-header";
+        headerDiv.className = "uw-table-header";
         headerDiv.innerHTML = `
           <div style="display:flex; align-items:center; gap:8px;">
             <span class="folder-toggle-icon">&#9656;</span>
@@ -1647,73 +1683,158 @@
           </div>
         `;
 
-        const subContainer = document.createElement("div");
-        subContainer.className = "uw-folder-subitems collapsed";
+        // Scroll body that opens/closes under this main folder
+        const tbody = document.createElement("div");
+        tbody.className = "uw-table-scroll-body collapsed";
+
+        // Identify Subfolders
+        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
 
         subfolders.forEach(sName => {
           const subQs = folderQs.filter(q => (q.subfolder || "General") === sName);
-          const subSubject = sName !== "General" ? `${fName} / ${sName}` : fName;
+          const subSubfolders = [...new Set(subQs.map(q => q.subSubfolder).filter(Boolean))];
+
+          const subfolderBlock = document.createElement("div");
+          subfolderBlock.className = "uw-subfolder-block";
+
+          const hasSubSubs = subSubfolders.length > 0;
+          const subSubjectBase = sName !== "General" ? `${fName} / ${sName}` : fName;
           const subLabel = sName === "General" ? "General / Overview" : sName;
 
-          const subRow = document.createElement("div");
-          subRow.className = "uw-sub-row";
-          subRow.innerHTML = `
+          // Subfolder Header Row
+          const subHeader = document.createElement("div");
+          subHeader.className = "uw-sub-header";
+          subHeader.innerHTML = `
             <div style="display:flex; align-items:center; gap:8px;">
-              <input type="checkbox" class="chk-sub-item" name="uwSubjectCheck" data-parent-folder="${fName}" value="${subSubject}" />
+              ${hasSubSubs ? '<span class="folder-toggle-icon">&#9656;</span>' : '<span style="display:inline-block;width:14px;"></span>'}
+              <input type="checkbox" class="chk-sub-item" data-parent-folder="${fName}" data-subfolder="${sName}" ${!hasSubSubs ? `value="${subSubjectBase}" name="uwSubjectCheck"` : ''} />
               <span>${subLabel}</span>
             </div>
             <span style="text-align:center;">${subQs.length}</span>
             <span style="text-align:center;" class="sub-sel-count">0</span>
             <div style="text-align:center;">
-              <button class="btn-quick-play" data-action="all-subfolder" data-subject="${subSubject}">Practice</button>
+              <button class="btn-quick-play" data-action="sub-practice" data-folder="${fName}" data-subfolder="${sName}">Practice</button>
             </div>
           `;
-          subContainer.appendChild(subRow);
+
+          subfolderBlock.appendChild(subHeader);
+
+          // If there are Sub-subfolders, build their nested container
+          let subSubContainer = null;
+          if (hasSubSubs) {
+            subSubContainer = document.createElement("div");
+            subSubContainer.className = "uw-subsub-container collapsed";
+
+            subSubfolders.forEach(ssName => {
+              const ssQs = subQs.filter(q => q.subSubfolder === ssName);
+              const fullSSPath = `${subSubjectBase} / ${ssName}`;
+
+              const ssRow = document.createElement("div");
+              ssRow.className = "uw-subsub-row";
+              ssRow.innerHTML = `
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <input type="checkbox" class="chk-subsub-item" name="uwSubjectCheck" data-parent-folder="${fName}" data-parent-sub="${sName}" value="${fullSSPath}" />
+                  <span>${ssName}</span>
+                </div>
+                <span style="text-align:center;">${ssQs.length}</span>
+                <span style="text-align:center;" class="subsub-sel-count">0</span>
+                <div style="text-align:center;">
+                  <button class="btn-quick-play" data-action="subsub-practice" data-path="${fullSSPath}">Practice</button>
+                </div>
+              `;
+              subSubContainer.appendChild(ssRow);
+            });
+
+            subfolderBlock.appendChild(subSubContainer);
+
+            // Subfolder row toggle
+            subHeader.addEventListener("click", (e) => {
+              if (e.target.tagName.toLowerCase() === "input" || e.target.classList.contains("btn-quick-play")) return;
+              const icon = subHeader.querySelector(".folder-toggle-icon");
+              subSubContainer.classList.toggle("collapsed");
+              if (icon) icon.classList.toggle("expanded");
+            });
+
+            // Subfolder master checkbox toggles child sub-subfolder checkboxes
+            const subChk = subHeader.querySelector(".chk-sub-item");
+            subChk.addEventListener("change", (e) => {
+              const isChecked = e.target.checked;
+              subSubContainer.querySelectorAll(".chk-subsub-item").forEach(cb => {
+                cb.checked = isChecked;
+              });
+              updateAvailableCount();
+            });
+
+            // Child sub-subfolder checkboxes update parent subfolder checkbox
+            subSubContainer.querySelectorAll(".chk-subsub-item").forEach(cb => {
+              cb.addEventListener("change", () => {
+                const allSubs = Array.from(subSubContainer.querySelectorAll(".chk-subsub-item"));
+                subChk.checked = allSubs.every(c => c.checked);
+                subChk.indeterminate = allSubs.some(c => c.checked) && !subChk.checked;
+                updateAvailableCount();
+              });
+            });
+          }
+
+          tbody.appendChild(subfolderBlock);
         });
 
+        // Click on Main Folder Table Header toggles expansion
         headerDiv.addEventListener("click", (e) => {
           if (e.target.tagName.toLowerCase() === "input" || e.target.classList.contains("btn-quick-play")) return;
           const icon = headerDiv.querySelector(".folder-toggle-icon");
-          subContainer.classList.toggle("collapsed");
+          tbody.classList.toggle("collapsed");
           icon.classList.toggle("expanded");
         });
 
+        // Main Folder Checkbox toggles all descendants in this table
         const masterChk = headerDiv.querySelector(".chk-folder-master");
         masterChk.addEventListener("change", (e) => {
           const isChecked = e.target.checked;
-          subContainer.querySelectorAll(".chk-sub-item").forEach(cb => {
+          tbody.querySelectorAll('input[type="checkbox"]').forEach(cb => {
             cb.checked = isChecked;
           });
           updateAvailableCount();
         });
 
-        subContainer.querySelectorAll(".chk-sub-item").forEach(cb => {
+        // Any checkbox change inside the table updates main folder master checkbox
+        tbody.querySelectorAll('input[type="checkbox"]').forEach(cb => {
           cb.addEventListener("change", () => {
-            const allSubs = Array.from(subContainer.querySelectorAll(".chk-sub-item"));
-            const allChecked = allSubs.every(c => c.checked);
-            const someChecked = allSubs.some(c => c.checked);
-            masterChk.checked = allChecked;
-            masterChk.indeterminate = someChecked && !allChecked;
+            const allCheckboxes = Array.from(tbody.querySelectorAll('input[name="uwSubjectCheck"]'));
+            masterChk.checked = allCheckboxes.every(c => c.checked);
+            masterChk.indeterminate = allCheckboxes.some(c => c.checked) && !masterChk.checked;
             updateAvailableCount();
           });
         });
 
+        // Quick Practice: Main Folder
         headerDiv.querySelector('[data-action="all-folder"]').addEventListener("click", (e) => {
           e.stopPropagation();
           startDirectPractice(q => (q.folder || "General") === fName, fName);
         });
 
-        subContainer.querySelectorAll('[data-action="all-subfolder"]').forEach(btn => {
+        // Quick Practice: Subfolder
+        tbody.querySelectorAll('[data-action="sub-practice"]').forEach(btn => {
           btn.addEventListener("click", (e) => {
             e.stopPropagation();
-            const targetSubject = btn.dataset.subject;
-            startDirectPractice(q => q.subject === targetSubject, targetSubject);
+            const f = btn.dataset.folder;
+            const sf = btn.dataset.subfolder;
+            startDirectPractice(q => (q.folder || "General") === f && (q.subfolder || "General") === sf, `${f} / ${sf}`);
           });
         });
 
-        folderRow.appendChild(headerDiv);
-        folderRow.appendChild(subContainer);
-        uwSubjectTableBody.appendChild(folderRow);
+        // Quick Practice: Sub-subfolder
+        tbody.querySelectorAll('[data-action="subsub-practice"]').forEach(btn => {
+          btn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            const path = btn.dataset.path;
+            startDirectPractice(q => q.subject === path, path);
+          });
+        });
+
+        tableCard.appendChild(headerDiv);
+        tableCard.appendChild(tbody);
+        subjectsTablesStack.appendChild(tableCard);
       });
     }
 
@@ -1807,24 +1928,48 @@
       totalAvailablePool.textContent = eligible.length;
       totalSelectedInTree.textContent = eligible.length;
 
-      document.querySelectorAll(".uw-folder-row").forEach(folderRow => {
-        let folderSelectedCount = 0;
-        folderRow.querySelectorAll(".uw-sub-row").forEach(subRow => {
-          const cb = subRow.querySelector(".chk-sub-item");
-          const selSpan = subRow.querySelector(".sub-sel-count");
-          if (cb.checked) {
-            let subEligible = ALL_QUESTIONS.filter(q => q.subject === cb.value);
-            if (poolStatus === "unanswered") subEligible = subEligible.filter(q => !confirmedAnswers[q.id]);
-            else if (poolStatus === "missed") subEligible = subEligible.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-            else if (poolStatus === "flagged") subEligible = subEligible.filter(q => flaggedQuestions[q.id]);
-            else if (poolStatus === "correct") subEligible = subEligible.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
-            selSpan.textContent = subEligible.length;
-            folderSelectedCount += subEligible.length;
-          } else {
-            selSpan.textContent = "0";
+      // Update table live selection counts
+      document.querySelectorAll(".uw-table-container").forEach(tableCard => {
+        let tableTotalSelected = 0;
+
+        tableCard.querySelectorAll(".uw-subfolder-block").forEach(subBlock => {
+          let subBlockTotal = 0;
+          const subChk = subBlock.querySelector('.chk-sub-item');
+          const subSelSpan = subBlock.querySelector('.sub-sel-count');
+
+          // If this subfolder directly has questions (no sub-subfolders)
+          if (subChk.hasAttribute("name") && subChk.checked) {
+            let directQs = ALL_QUESTIONS.filter(q => q.subject === subChk.value);
+            if (poolStatus === "unanswered") directQs = directQs.filter(q => !confirmedAnswers[q.id]);
+            else if (poolStatus === "missed") directQs = directQs.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
+            else if (poolStatus === "flagged") directQs = directQs.filter(q => flaggedQuestions[q.id]);
+            else if (poolStatus === "correct") directQs = directQs.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
+            subBlockTotal += directQs.length;
           }
+
+          // If there are sub-subfolder rows
+          subBlock.querySelectorAll(".uw-subsub-row").forEach(ssRow => {
+            const ssCb = ssRow.querySelector(".chk-subsub-item");
+            const ssSpan = ssRow.querySelector(".subsub-sel-count");
+            if (ssCb && ssCb.checked) {
+              let ssQs = ALL_QUESTIONS.filter(q => q.subject === ssCb.value);
+              if (poolStatus === "unanswered") ssQs = ssQs.filter(q => !confirmedAnswers[q.id]);
+              else if (poolStatus === "missed") ssQs = ssQs.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
+              else if (poolStatus === "flagged") ssQs = ssQs.filter(q => flaggedQuestions[q.id]);
+              else if (poolStatus === "correct") ssQs = ssQs.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
+              ssSpan.textContent = ssQs.length;
+              subBlockTotal += ssQs.length;
+            } else if (ssSpan) {
+              ssSpan.textContent = "0";
+            }
+          });
+
+          if (subSelSpan) subSelSpan.textContent = subBlockTotal;
+          tableTotalSelected += subBlockTotal;
         });
-        folderRow.querySelector(".folder-sel-count").textContent = folderSelectedCount;
+
+        const folderCountSpan = tableCard.querySelector(".folder-sel-count");
+        if (folderCountSpan) folderCountSpan.textContent = tableTotalSelected;
       });
 
       inputBlockSize.max = Math.max(1, eligible.length);
@@ -1842,7 +1987,7 @@
       const requestedCount = parseInt(inputBlockSize.value, 10) || 10;
 
       if (!selectedSubs.length) {
-        alert("Please select at least one system or subject.");
+        alert("Please select at least one system, subject, or subfolder.");
         return;
       }
 
@@ -2175,7 +2320,6 @@
       navItemExport.addEventListener("click", () => exportModal.classList.add("open"));
       btnExamExit.addEventListener("click", () => showView("create-test"));
 
-      // Segmented Radio Buttons Toggle styling
       document.querySelectorAll('input[name="uwTestMode"]').forEach(radio => {
         radio.addEventListener("change", (e) => {
           document.querySelectorAll('#btnModeTutor, #btnModeTimed').forEach(btn => btn.classList.remove("active"));
@@ -2183,7 +2327,6 @@
         });
       });
 
-      // Status Matrix Tile clicks
       document.querySelectorAll(".status-tile").forEach(tile => {
         tile.addEventListener("click", () => {
           document.querySelectorAll(".status-tile").forEach(t => t.classList.remove("active"));
@@ -2193,15 +2336,14 @@
         });
       });
 
-      // Table Select All / Deselect All
       document.getElementById("btnTableSelectAll").addEventListener("click", () => {
         document.querySelectorAll('input[name="uwSubjectCheck"]').forEach(cb => cb.checked = true);
-        document.querySelectorAll('.chk-folder-master').forEach(cb => { cb.checked = true; cb.indeterminate = false; });
+        document.querySelectorAll('.chk-folder-master, .chk-sub-item').forEach(cb => { cb.checked = true; cb.indeterminate = false; });
         updateAvailableCount();
       });
       document.getElementById("btnTableDeselectAll").addEventListener("click", () => {
         document.querySelectorAll('input[name="uwSubjectCheck"]').forEach(cb => cb.checked = false);
-        document.querySelectorAll('.chk-folder-master').forEach(cb => { cb.checked = false; cb.indeterminate = false; });
+        document.querySelectorAll('.chk-folder-master, .chk-sub-item').forEach(cb => { cb.checked = false; cb.indeterminate = false; });
         updateAvailableCount();
       });
 
@@ -2236,7 +2378,6 @@
         vignetteText.innerHTML = q.stem;
       });
 
-      // Text Highlighting Tooling Listener
       vignetteText.addEventListener("mouseup", () => {
         const selection = window.getSelection();
         if (!selection || selection.isCollapsed || !selection.toString().trim()) {
@@ -2296,7 +2437,6 @@
       btnToggleNav.addEventListener("click", () => sidebarPane.classList.toggle("collapsed"));
       btnThemeToggle.addEventListener("click", () => document.body.classList.toggle("dark-mode"));
 
-      // Keyboard Controls
       window.addEventListener("keydown", (e) => {
         if (activeView !== "exam") return;
         if (loadModal.classList.contains("open") || exportModal.classList.contains("open") || clearModal.classList.contains("open")) return;
@@ -2324,7 +2464,6 @@
         }
       });
 
-      // Clear Modal
       btnOpenClearModal.addEventListener("click", () => clearModal.classList.add("open"));
       btnCloseClearModal.addEventListener("click", () => clearModal.classList.remove("open"));
       btnCancelClear.addEventListener("click", () => clearModal.classList.remove("open"));
@@ -2338,7 +2477,6 @@
         init();
       });
 
-      // Import Modal
       btnCloseLoadModal.addEventListener("click", () => loadModal.classList.remove("open"));
       btnCancelLoad.addEventListener("click", () => loadModal.classList.remove("open"));
       btnParseDoc.addEventListener("click", () => {
@@ -2350,7 +2488,6 @@
         }
       });
 
-      // Export Modal
       btnCloseExportModal.addEventListener("click", () => exportModal.classList.remove("open"));
       btnCancelExport.addEventListener("click", () => exportModal.classList.remove("open"));
       btnRunExport.addEventListener("click", () => {
