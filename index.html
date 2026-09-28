@@ -15,7 +15,6 @@
       --text-sub: #475569;
       --text-muted: #64748b;
       
-      /* UWorld Signature Palette */
       --uw-nav-bg: #0f1e36;
       --uw-nav-hover: #1e2e4a;
       --uw-nav-active: #1d3557;
@@ -69,7 +68,6 @@
       overflow: hidden;
     }
 
-    /* Left Navigation Bar */
     aside.uw-sidebar {
       width: 230px;
       min-width: 230px;
@@ -147,7 +145,6 @@
       color: #fff;
     }
 
-    /* Main Container */
     .app-main {
       flex: 1;
       display: flex;
@@ -158,7 +155,6 @@
       position: relative;
     }
 
-    /* Header for active test screen */
     header.exam-header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
@@ -210,7 +206,6 @@
     }
     button.btn-primary:hover:not(:disabled) { background: var(--uw-primary-hover); }
 
-    /* Central Create Test Hub */
     .create-test-view {
       padding: 24px 32px 180px;
       display: flex;
@@ -243,7 +238,6 @@
       justify-content: space-between;
     }
 
-    /* Symmetrical 2x2 Grid for Test Mode & Options */
     .segmented-group {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
@@ -285,7 +279,6 @@
       border-color: var(--uw-primary);
     }
 
-    /* Question Status: Row 1 (2 items), Row 2 (3 items) */
     .status-matrix-container {
       display: flex;
       flex-direction: column;
@@ -350,7 +343,6 @@
       flex-shrink: 0;
     }
 
-    /* Symmetrical Performance 4-Column Grid */
     .perf-matrix-grid {
       display: grid;
       grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -388,19 +380,11 @@
     }
 
     @media (max-width: 900px) {
-      .segmented-group {
-        grid-template-columns: 1fr;
-      }
-      .status-row-top,
-      .status-row-bottom {
-        grid-template-columns: 1fr;
-      }
-      .perf-matrix-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-      }
+      .segmented-group { grid-template-columns: 1fr; }
+      .status-row-top, .status-row-bottom { grid-template-columns: 1fr; }
+      .perf-matrix-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     }
 
-    /* Multi-Table Modular Subject & Subfolder System */
     .subjects-tables-stack {
       display: flex;
       flex-direction: column;
@@ -428,16 +412,12 @@
       user-select: none;
       cursor: pointer;
     }
-    .uw-table-header:hover {
-      background: #f1f5f9;
-    }
+    .uw-table-header:hover { background: #f1f5f9; }
     .uw-table-scroll-body {
       display: flex;
       flex-direction: column;
     }
-    .uw-table-scroll-body.collapsed {
-      display: none;
-    }
+    .uw-table-scroll-body.collapsed { display: none; }
 
     .folder-toggle-icon {
       display: inline-block;
@@ -446,17 +426,10 @@
       color: var(--text-muted);
       transition: transform 0.2s ease;
     }
-    .folder-toggle-icon.expanded {
-      transform: rotate(90deg);
-    }
+    .folder-toggle-icon.expanded { transform: rotate(90deg); }
 
-    /* Subfolder & Sub-subfolder Rows */
-    .uw-subfolder-block {
-      border-bottom: 1px solid var(--border-sub);
-    }
-    .uw-subfolder-block:last-child {
-      border-bottom: none;
-    }
+    .uw-subfolder-block { border-bottom: 1px solid var(--border-sub); }
+    .uw-subfolder-block:last-child { border-bottom: none; }
     .uw-sub-header {
       padding: 10px 16px 10px 36px;
       display: grid;
@@ -469,18 +442,14 @@
       user-select: none;
       border-bottom: 1px solid rgba(0,0,0,0.03);
     }
-    .uw-sub-header:hover {
-      background: #f8fafc;
-    }
+    .uw-sub-header:hover { background: #f8fafc; }
     .uw-subsub-container {
       background: var(--surface-sub);
       display: flex;
       flex-direction: column;
       border-top: 1px dashed var(--border-sub);
     }
-    .uw-subsub-container.collapsed {
-      display: none;
-    }
+    .uw-subsub-container.collapsed { display: none; }
     .uw-subsub-row {
       padding: 8px 16px 8px 60px;
       display: grid;
@@ -490,12 +459,8 @@
       color: var(--text-sub);
       border-bottom: 1px solid rgba(0,0,0,0.03);
     }
-    .uw-subsub-row:last-child {
-      border-bottom: none;
-    }
-    .uw-subsub-row:hover {
-      background: #f1f5f9;
-    }
+    .uw-subsub-row:last-child { border-bottom: none; }
+    .uw-subsub-row:hover { background: #f1f5f9; }
 
     .btn-quick-play {
       padding: 3px 8px;
@@ -511,7 +476,6 @@
       border-color: var(--uw-primary);
     }
 
-    /* Fixed Bottom Action Bar */
     .uw-action-bar {
       position: fixed;
       bottom: 0;
@@ -549,7 +513,6 @@
       text-align: center;
     }
 
-    /* Performance Report View */
     .performance-view {
       display: none;
       padding: 24px 32px 140px;
@@ -570,7 +533,79 @@
       gap: 6px;
     }
 
-    /* Workspace Exam Split Screen Container */
+    .ai-view {
+      display: none;
+      flex: 1;
+      height: 100vh;
+      overflow-y: auto;
+      padding: 24px 32px 60px;
+      flex-direction: column;
+      gap: 18px;
+      max-width: 1000px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .ai-chat-box {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      display: flex;
+      flex-direction: column;
+      height: 480px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .ai-messages-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .ai-msg {
+      max-width: 80%;
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      line-height: 1.5;
+    }
+    .ai-msg.user {
+      align-self: flex-end;
+      background: var(--uw-primary);
+      color: #fff;
+    }
+    .ai-msg.bot {
+      align-self: flex-start;
+      background: var(--surface-sub);
+      border: 1px solid var(--border);
+      color: var(--text);
+      white-space: pre-wrap;
+    }
+
+    .ai-input-bar {
+      display: flex;
+      gap: 8px;
+      padding: 12px;
+      background: var(--surface-sub);
+      border-top: 1px solid var(--border);
+    }
+    .ai-input-bar textarea {
+      flex: 1;
+      resize: none;
+      height: 40px;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--surface);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.85rem;
+    }
+
     .app-workspace {
       display: none;
       flex: 1;
@@ -717,7 +752,6 @@
     }
     .q-actions { display: flex; align-items: center; gap: 8px; }
 
-    /* Highlight Tooling */
     .hl-yellow { background-color: #fef08a !important; color: #1e293b !important; border-radius: 2px; padding: 0 1px; }
     .hl-blue { background-color: #bae6fd !important; color: #082f49 !important; border-radius: 2px; padding: 0 1px; }
     .hl-pink { background-color: #fbcfe8 !important; color: #831843 !important; border-radius: 2px; padding: 0 1px; }
@@ -748,7 +782,6 @@
     .hl-toolbar .dot-blue { background: #38bdf8; border: 1px solid #0284c7; }
     .hl-toolbar .dot-pink { background: #f472b6; border: 1px solid #db2777; }
 
-    /* Vignette & Choices */
     .vignette-box {
       font-size: 1.05rem;
       line-height: 1.65;
@@ -903,18 +936,19 @@
       gap: 12px;
     }
 
-    /* Modals */
     .modal-backdrop {
       position: fixed;
       inset: 0;
-      background: rgba(0, 0, 0, 0.55);
+      background: rgba(0, 0, 0, 0.6);
       display: none;
       align-items: center;
       justify-content: center;
-      z-index: 50;
+      z-index: 999;
       padding: 16px;
     }
-    .modal-backdrop.open { display: flex; }
+    .modal-backdrop.open {
+      display: flex !important;
+    }
     .modal-dialog {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -957,6 +991,28 @@
       color: var(--text-muted);
       text-transform: uppercase;
     }
+
+    .app-toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      padding: 12px 20px;
+      background: #0f172a;
+      color: #fff;
+      font-size: 0.85rem;
+      font-weight: 600;
+      border-radius: 8px;
+      box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3);
+      z-index: 9999;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: all 0.2s ease;
+      pointer-events: none;
+    }
+    .app-toast.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
   </style>
 </head>
 <body>
@@ -967,20 +1023,24 @@
       <div class="uw-brand">
         <span>WPS-Archive</span>
       </div>
-      <ul class="uw-nav-list">
-        <li class="uw-nav-item active" id="navItemCreateTest">
+      <ul class="uw-nav-list" id="uwNavList">
+        <li class="uw-nav-item active" id="navItemCreateTest" onclick="showView('create-test')">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 4v16m8-8H4"></path></svg>
           <span>Create Test</span>
         </li>
-        <li class="uw-nav-item" id="navItemPerformance">
+        <li class="uw-nav-item" id="navItemPerformance" onclick="showView('performance')">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 3v18h18M9 9l3 3 5-5 4 4"></path></svg>
           <span>Performance</span>
         </li>
-        <li class="uw-nav-item" id="navItemImport">
+        <li class="uw-nav-item" id="navItemAITutor" onclick="showView('ai-tutor')">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+          <span>AI Tutor & Builder</span>
+        </li>
+        <li class="uw-nav-item" id="navItemImport" onclick="openModal('loadModal')">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
           <span>Import Text</span>
         </li>
-        <li class="uw-nav-item" id="navItemExport">
+        <li class="uw-nav-item" id="navItemExport" onclick="openModal('exportModal')">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
           <span>Export Bank</span>
         </li>
@@ -988,8 +1048,8 @@
     </div>
 
     <div class="uw-nav-footer">
-      <button id="btnThemeToggle">Toggle Dark Mode</button>
-      <button id="btnOpenClearModal" style="color:#ef4444;border-color:rgba(239,68,68,0.3);">Reset Question Bank</button>
+      <button id="btnThemeToggle" onclick="document.body.classList.toggle('dark-mode')">Toggle Dark Mode</button>
+      <button id="btnOpenClearModal" onclick="openManageModal()" style="color:#ef4444;border-color:rgba(239,68,68,0.3);">Manage & Reset Bank</button>
     </div>
   </aside>
 
@@ -998,8 +1058,6 @@
     
     <!-- View 1: Central "Create Test" Page -->
     <div class="create-test-view" id="createTestView">
-      
-      <!-- 1. Test Mode & Options (Symmetrical 2x2 Grid) -->
       <div class="uw-section-box">
         <div class="uw-section-title">Test Mode & Options</div>
         <div class="segmented-group">
@@ -1022,11 +1080,9 @@
         </div>
       </div>
 
-      <!-- 2. Question Status Matrix (Row 1: 2 items, Row 2: 3 items) -->
       <div class="uw-section-box">
         <div class="uw-section-title">Question Status</div>
         <div class="status-matrix-container">
-          <!-- Row 1: All & Unused -->
           <div class="status-row-top">
             <div class="status-tile active" data-status="all">
               <div class="status-lbl">
@@ -1045,7 +1101,6 @@
             </div>
           </div>
 
-          <!-- Row 2: Incorrect, Marked, Correct -->
           <div class="status-row-bottom">
             <div class="status-tile" data-status="missed">
               <div class="status-lbl">
@@ -1074,21 +1129,18 @@
         </div>
       </div>
 
-      <!-- 3. Separate Tables for Each Main Folder -->
       <div class="uw-section-box" style="background:transparent; border:none; padding:0; box-shadow:none;">
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
           <div class="uw-section-title" style="margin:0;">Subjects & Systems</div>
           <div style="display:flex; gap:8px;">
-            <button id="btnTableSelectAll" style="padding:2px 8px; font-size:0.7rem;">Select All</button>
-            <button id="btnTableDeselectAll" style="padding:2px 8px; font-size:0.7rem;">Deselect All</button>
+            <button id="btnTableSelectAll">Select All</button>
+            <button id="btnTableDeselectAll">Deselect All</button>
           </div>
         </div>
 
-        <!-- Container where each distinct main folder table is injected -->
         <div class="subjects-tables-stack" id="subjectsTablesStack"></div>
       </div>
 
-      <!-- Fixed Bottom Action Launch Bar -->
       <div class="uw-action-bar">
         <div class="uw-action-stats">
           <div>Total Available: <strong id="totalAvailablePool">0</strong></div>
@@ -1132,7 +1184,43 @@
       </div>
     </div>
 
-    <!-- View 3: Active Exam Testing Engine Workspace -->
+    <!-- View 3: Gemini AI Tutor & Question Generator View -->
+    <div class="ai-view" id="aiView">
+      <div class="uw-section-box">
+        <div class="uw-section-title">
+          <span>Gemini AI Tutor Configuration</span>
+          <span style="font-size:0.75rem; text-transform:none; font-weight:600; color:var(--text-muted);">Stored securely in browser localStorage</span>
+        </div>
+        <div style="display:flex; gap:10px; align-items:center;">
+          <input type="password" id="geminiApiKeyInput" placeholder="Enter Google AI Studio Gemini API Key..." style="flex:1; padding:8px 12px; border:1px solid var(--border); border-radius:6px; font-size:0.85rem; background:var(--surface); color:var(--text);" />
+          <button class="btn-primary" id="btnSaveApiKey">Save Key</button>
+        </div>
+      </div>
+
+      <div class="uw-section-box">
+        <div class="uw-section-title">Adaptive Diagnostic Tools</div>
+        <div style="display:flex; gap:10px; flex-wrap:wrap;">
+          <button id="btnAiAnalyzeWeakness" class="btn-primary" style="background:#059669; border-color:#059669;">
+            Analyze My Missed Questions & Generate 3 Weak-Spot Items
+          </button>
+          <button id="btnAiExplainStruggles">
+            Explain My Top Misconceptions
+          </button>
+        </div>
+      </div>
+
+      <div class="ai-chat-box">
+        <div class="ai-messages-list" id="aiMessagesList">
+          <div class="ai-msg bot">Hello! I am your NBME Board Tutor. Ask me to clarify medical mechanisms, explain why a distractor is wrong, or click above to automatically generate new practice questions targeting your weakest subjects.</div>
+        </div>
+        <div class="ai-input-bar">
+          <textarea id="aiChatInput" placeholder="Ask a medical question, or say 'Generate 2 questions on HIV Opportunistic Infections'..." onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();handleSendAiChat();}"></textarea>
+          <button class="btn-primary" id="btnSendAiChat">Send</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- View 4: Active Exam Testing Engine Workspace -->
     <div class="app-workspace" id="quizWorkspace">
       <header class="exam-header">
         <div class="exam-header-left">
@@ -1163,7 +1251,6 @@
 
           <div class="vignette-box" id="vignetteText">Loading question...</div>
 
-          <!-- Highlight Context Toolbar -->
           <div class="hl-toolbar" id="hlToolbar">
             <button class="dot-yellow" data-color="yellow" title="Highlight Yellow"></button>
             <button class="dot-blue" data-color="blue" title="Highlight Blue"></button>
@@ -1229,15 +1316,18 @@
     <div class="modal-dialog">
       <div class="modal-header">
         <h3>Import Questions</h3>
-        <button id="btnCloseLoadModal" style="border:none;font-weight:700;">Close</button>
+        <button onclick="closeModal('loadModal')" style="border:none;font-weight:700;">Close</button>
       </div>
       <div class="modal-body">
         <p style="color:var(--text-sub);">Paste formatted questions below. Headings formatted as <code>Folder / Subfolder / Sub-subfolder</code> will be parsed and nested automatically.</p>
+        <div style="display:flex; gap:10px;">
+          <button type="button" id="btnInsertSampleData" style="font-size:0.75rem; background:#e0f2fe; color:var(--uw-primary); border-color:var(--uw-primary);">Load Built-In Sample Test Questions</button>
+        </div>
         <textarea id="txtDocInput" placeholder="Paste questions here..." style="width:100%;height:180px;padding:10px;border:1px solid var(--border);border-radius:6px;font-family:monospace;font-size:0.75rem;background:var(--bg);color:var(--text);"></textarea>
       </div>
       <div class="modal-footer">
-        <button id="btnCancelLoad">Cancel</button>
-        <button class="btn-primary" id="btnParseDoc">Import Questions</button>
+        <button type="button" onclick="closeModal('loadModal')">Cancel</button>
+        <button type="button" class="btn-primary" id="btnParseDoc" onclick="handleDirectImport()">Import Questions</button>
       </div>
     </div>
   </div>
@@ -1246,7 +1336,7 @@
     <div class="modal-dialog" style="max-width:480px;">
       <div class="modal-header">
         <h3>Export Question Bank</h3>
-        <button id="btnCloseExportModal" style="border:none;font-weight:700;">Close</button>
+        <button onclick="closeModal('exportModal')" style="border:none;font-weight:700;">Close</button>
       </div>
       <div class="modal-body">
         <div class="form-group">
@@ -1259,32 +1349,166 @@
         </div>
       </div>
       <div class="modal-footer">
-        <button id="btnCancelExport">Cancel</button>
-        <button class="btn-primary" id="btnRunExport">Download .txt</button>
+        <button type="button" onclick="closeModal('exportModal')">Cancel</button>
+        <button type="button" class="btn-primary" id="btnRunExport">Download .txt</button>
       </div>
     </div>
   </div>
 
+  <!-- Manage & Targeted Delete Modal -->
   <div class="modal-backdrop" id="clearModal">
-    <div class="modal-dialog" style="max-width:440px;">
+    <div class="modal-dialog" style="max-width:540px;">
       <div class="modal-header">
-        <h3>Reset Data</h3>
-        <button id="btnCloseClearModal" style="border:none;font-weight:700;">Close</button>
+        <h3>Manage & Delete Bank Questions</h3>
+        <button onclick="closeModal('clearModal')" style="border:none;font-weight:700;">Close</button>
       </div>
       <div class="modal-body">
-        <p style="color:var(--text-sub);">Wipe all questions and progress history from local storage?</p>
+        <div class="form-group">
+          <label>Targeted Deletion (Folder / Subfolder / Sub-subfolder)</label>
+          <select id="selectTargetDelete" style="padding:8px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:0.85rem;width:100%;">
+            <option value="">-- Select a Category to Delete --</option>
+          </select>
+          <p style="font-size:0.75rem;color:var(--text-muted);margin-top:4px;">Deletes only questions within the selected path without affecting other folders.</p>
+          <button type="button" class="btn-primary" id="btnDeleteSelectedTarget" style="background:#d97706;border-color:#b45309;margin-top:6px;width:100%;justify-content:center;">Delete Selected Category</button>
+        </div>
+
+        <div style="border-top:1px solid var(--border);margin-top:10px;padding-top:14px;" class="form-group">
+          <label style="color:var(--wrong);">Full Bank Factory Reset</label>
+          <p style="color:var(--text-sub);font-size:0.8rem;">Wipe the entire question bank and all history from local storage.</p>
+          <button type="button" class="btn-primary" id="btnConfirmClear" style="background:var(--wrong);border-color:var(--wrong-border);margin-top:6px;width:100%;justify-content:center;">Reset Entire Question Bank</button>
+        </div>
       </div>
       <div class="modal-footer">
-        <button id="btnCancelClear">Cancel</button>
-        <button class="btn-primary" id="btnConfirmClear" style="background:var(--wrong);border-color:var(--wrong-border);">Wipe Bank</button>
+        <button type="button" onclick="closeModal('clearModal')">Close</button>
       </div>
     </div>
   </div>
+
+  <div class="app-toast" id="appToast">Notification</div>
 
   <script id="default-questions-data" type="text/plain"></script>
 
   <script>
-    /* Robust State-Machine Parser Supporting Folders, Subfolders, and Sub-subfolders */
+    function showToast(msg) {
+      const toast = document.getElementById("appToast");
+      if (!toast) return;
+      toast.textContent = msg;
+      toast.classList.add("visible");
+      setTimeout(() => toast.classList.remove("visible"), 3200);
+    }
+
+    function openModal(id) {
+      const modal = document.getElementById(id);
+      if (modal) modal.classList.add("open");
+    }
+
+    function closeModal(id) {
+      const modal = document.getElementById(id);
+      if (modal) modal.classList.remove("open");
+    }
+
+    function openManageModal() {
+      populateTargetDeleteDropdown();
+      openModal("clearModal");
+    }
+
+    function populateTargetDeleteDropdown() {
+      const select = document.getElementById("selectTargetDelete");
+      if (!select) return;
+
+      select.innerHTML = '<option value="">-- Select a Category to Delete --</option>';
+
+      if (!ALL_QUESTIONS.length) {
+        const opt = document.createElement("option");
+        opt.value = "";
+        opt.textContent = "(Question bank is empty)";
+        opt.disabled = true;
+        select.appendChild(opt);
+        return;
+      }
+
+      const paths = new Map();
+
+      ALL_QUESTIONS.forEach(q => {
+        const f = q.folder || "General";
+        const sf = q.subfolder && q.subfolder !== "General" ? q.subfolder : "";
+        const ssf = q.subSubfolder || "";
+
+        const fPath = f;
+        paths.set(`folder:::${fPath}`, `[Folder] ${fPath}`);
+
+        if (sf) {
+          const sfPath = `${f} / ${sf}`;
+          paths.set(`subfolder:::${sfPath}`, `  ↳ [Subfolder] ${sfPath}`);
+        }
+
+        if (sf && ssf) {
+          const ssfPath = `${f} / ${sf} / ${ssf}`;
+          paths.set(`subsub:::${ssfPath}`, `      ↳ [Sub-subfolder] ${ssfPath}`);
+        }
+      });
+
+      Array.from(paths.entries()).forEach(([val, label]) => {
+        const opt = document.createElement("option");
+        opt.value = val;
+        opt.textContent = label;
+        select.appendChild(opt);
+      });
+    }
+
+    function deleteTargetedCategory() {
+      const select = document.getElementById("selectTargetDelete");
+      if (!select || !select.value) {
+        showToast("Please choose a category to delete.");
+        return;
+      }
+
+      const [type, path] = select.value.split(":::");
+      let initialCount = ALL_QUESTIONS.length;
+
+      if (type === "folder") {
+        ALL_QUESTIONS = ALL_QUESTIONS.filter(q => (q.folder || "General") !== path);
+      } else if (type === "subfolder") {
+        ALL_QUESTIONS = ALL_QUESTIONS.filter(q => {
+          const curPath = `${q.folder || "General"} / ${q.subfolder || "General"}`;
+          return curPath !== path;
+        });
+      } else if (type === "subsub") {
+        ALL_QUESTIONS = ALL_QUESTIONS.filter(q => q.subject !== path);
+      }
+
+      const deletedCount = initialCount - ALL_QUESTIONS.length;
+
+      if (deletedCount > 0) {
+        localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
+        showToast(`Deleted ${deletedCount} questions from ${path}.`);
+        populateTargetDeleteDropdown();
+        renderUWSurface();
+      } else {
+        showToast("No matching questions found.");
+      }
+    }
+
+    function handleDirectImport() {
+      const txtArea = document.getElementById("txtDocInput");
+      if (!txtArea) return;
+      const text = txtArea.value.trim();
+      if (!text) {
+        showToast("Please paste text or load sample questions first.");
+        return;
+      }
+
+      const count = syncAndMergeQuestions(text);
+      if (count > 0) {
+        showToast(`Imported ${count} questions successfully!`);
+        txtArea.value = "";
+        closeModal("loadModal");
+        renderUWSurface();
+      } else {
+        showToast("No valid questions parsed. Check Question, choices, and Answer lines.");
+      }
+    }
+
     function parseDocumentText(rawText) {
       const cleanLine = (l) => l.replace(/[\u00A0\u1680\u180e\u2000-\u200b\u202f\u205f\u3000\ufeff]/g, " ")
                                 .replace(/^[#*\-•\s]+/, "")
@@ -1481,15 +1705,13 @@
       return q;
     }
 
-    /* Stable Question Identifier by hierarchical path and question number */
     function getStableQuestionKey(folder, subfolder, subSubfolder, rawNum) {
       return `${folder}__${subfolder}__${subSubfolder || ""}__q${rawNum}`;
     }
 
-    /* Seamless Sync & In-Place Edit Engine */
     function syncAndMergeQuestions(rawText) {
       const incomingQuestions = parseDocumentText(rawText);
-      if (!incomingQuestions.length) return false;
+      if (!incomingQuestions.length) return 0;
 
       const currentMap = new Map();
       ALL_QUESTIONS.forEach(q => {
@@ -1524,13 +1746,10 @@
 
       if (addedCount > 0 || updatedCount > 0) {
         localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
-        renderUWSurface();
-        return true;
       }
-      return false;
+      return incomingQuestions.length;
     }
 
-    /* Application State */
     let ALL_QUESTIONS = [];
     let currentQuestions = [];
     let currentIndex = 0;
@@ -1548,16 +1767,9 @@
     let highlights = {};
     let navFilter = "all";
 
-    /* DOM References */
-    const uwSidebar = document.getElementById("uwSidebar");
-    const navItemCreateTest = document.getElementById("navItemCreateTest");
-    const navItemPerformance = document.getElementById("navItemPerformance");
-    const navItemImport = document.getElementById("navItemImport");
-    const navItemExport = document.getElementById("navItemExport");
-    const btnThemeToggle = document.getElementById("btnThemeToggle");
-
     const createTestView = document.getElementById("createTestView");
     const performanceView = document.getElementById("performanceView");
+    const aiView = document.getElementById("aiView");
     const quizWorkspace = document.getElementById("quizWorkspace");
     const subjectsTablesStack = document.getElementById("subjectsTablesStack");
     const btnLaunchExam = document.getElementById("btnLaunchExam");
@@ -1601,26 +1813,128 @@
     const btnFinishBlock = document.getElementById("btnFinishBlock");
     const hlToolbar = document.getElementById("hlToolbar");
 
-    // Modal References
-    const clearModal = document.getElementById("clearModal");
-    const btnOpenClearModal = document.getElementById("btnOpenClearModal");
-    const btnCloseClearModal = document.getElementById("btnCloseClearModal");
-    const btnCancelClear = document.getElementById("btnCancelClear");
-    const btnConfirmClear = document.getElementById("btnConfirmClear");
+    const geminiApiKeyInput = document.getElementById("geminiApiKeyInput");
+    const btnSaveApiKey = document.getElementById("btnSaveApiKey");
+    const btnAiAnalyzeWeakness = document.getElementById("btnAiAnalyzeWeakness");
+    const btnAiExplainStruggles = document.getElementById("btnAiExplainStruggles");
+    const aiMessagesList = document.getElementById("aiMessagesList");
+    const aiChatInput = document.getElementById("aiChatInput");
+    const btnSendAiChat = document.getElementById("btnSendAiChat");
 
-    const loadModal = document.getElementById("loadModal");
-    const btnCloseLoadModal = document.getElementById("btnCloseLoadModal");
-    const btnCancelLoad = document.getElementById("btnCancelLoad");
+    const btnInsertSampleData = document.getElementById("btnInsertSampleData");
     const btnParseDoc = document.getElementById("btnParseDoc");
     const txtDocInput = document.getElementById("txtDocInput");
-
-    const exportModal = document.getElementById("exportModal");
-    const btnCloseExportModal = document.getElementById("btnCloseExportModal");
-    const btnCancelExport = document.getElementById("btnCancelExport");
-    const btnRunExport = document.getElementById("btnRunExport");
     const exportScope = document.getElementById("exportScope");
+    const btnRunExport = document.getElementById("btnRunExport");
+    const btnConfirmClear = document.getElementById("btnConfirmClear");
+    const btnDeleteSelectedTarget = document.getElementById("btnDeleteSelectedTarget");
 
-    /* Dashboard Rendering */
+    async function callGemini(promptText, systemInstruction = "") {
+      const apiKey = localStorage.getItem("wps_gemini_api_key");
+      if (!apiKey) {
+        showToast("Please enter and save your Gemini API Key in the AI Tutor tab first.");
+        return null;
+      }
+
+      const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+      const payload = {
+        contents: [{ role: "user", parts: [{ text: promptText }] }]
+      };
+
+      if (systemInstruction) {
+        payload.systemInstruction = { parts: [{ text: systemInstruction }] };
+      }
+
+      try {
+        const res = await fetch(endpoint, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload)
+        });
+
+        if (!res.ok) {
+          const errData = await res.json();
+          throw new Error(errData.error?.message || "Gemini API request failed.");
+        }
+
+        const data = await res.json();
+        return data.candidates?.[0]?.content?.parts?.[0]?.text || "No response received.";
+      } catch (err) {
+        showToast("Gemini Error: " + err.message);
+        return null;
+      }
+    }
+
+    function addChatMessage(role, text) {
+      const div = document.createElement("div");
+      div.className = `ai-msg ${role}`;
+      div.textContent = text;
+
+      if (role === "bot" && text.includes("Why this is correct:") && text.includes("Answer:")) {
+        const addBtn = document.createElement("button");
+        addBtn.className = "btn-primary";
+        addBtn.style.marginTop = "8px";
+        addBtn.style.fontSize = "0.75rem";
+        addBtn.textContent = "Import Question(s) Directly Into Bank";
+        addBtn.onclick = () => {
+          syncAndMergeQuestions(text);
+          showToast("Imported new AI-generated question(s) into your bank!");
+          renderUWSurface();
+        };
+        div.appendChild(document.createElement("br"));
+        div.appendChild(addBtn);
+      }
+
+      aiMessagesList.appendChild(div);
+      aiMessagesList.scrollTop = aiMessagesList.scrollHeight;
+    }
+
+    async function handleSendAiChat() {
+      const text = aiChatInput.value.trim();
+      if (!text) return;
+      aiChatInput.value = "";
+      addChatMessage("user", text);
+
+      const sys = "You are an expert USMLE/NBME board exam medical tutor and clinical instructor. When asked to generate questions, strictly format them using the exact format: 'Folder / Subfolder\\n\\nQuestion 1\\n[vignette]\\nA. [choice]\\nB. [choice]\\nAnswer: [letter]. [choice]\\nWhy this is correct: [reason]\\nWhy the other answers are wrong:\\n[letter]. [reason]\\nObjective: [goal]'";
+
+      const reply = await callGemini(text, sys);
+      if (reply) addChatMessage("bot", reply);
+    }
+
+    async function handleAnalyzeWeakness() {
+      const missed = ALL_QUESTIONS.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
+      if (!missed.length) {
+        showToast("You have no missed questions recorded! Complete some questions first.");
+        return;
+      }
+
+      const sampleMissed = missed.slice(0, 5).map(q => `Folder: ${q.folder} / ${q.subfolder}\nQuestion: ${q.stem}\nStudent Chose: ${userAnswers[q.id]}\nCorrect Answer: ${q.answer}`).join("\n---\n");
+
+      addChatMessage("user", "Analyze my missed questions and generate 3 targeted clinical vignettes targeting these exact concepts.");
+      addChatMessage("bot", "Analyzing your missed questions and drafting targeted board-style practice items...");
+
+      const prompt = `Here are concepts and questions the medical student answered incorrectly on their board review:\n\n${sampleMissed}\n\nBased on these weaknesses:\n1. Identify the high-yield physiological or microbiological patterns they are confusing.\n2. Generate 3 brand new, board-style multiple-choice questions targeting these exact weaknesses.\n\nFormat each question strictly as:\n[Folder] / [Subfolder]\n\nQuestion [number]\n[Vignette]\nA. ...\nB. ...\nC. ...\nD. ...\nE. ...\nAnswer: [letter]. [choice]\nWhy this is correct: [explanation]\nWhy the other answers are wrong:\n[letter]. [explanation]\nObjective: [learning objective]`;
+
+      const reply = await callGemini(prompt, "You are a master NBME board exam writer.");
+      if (reply) addChatMessage("bot", reply);
+    }
+
+    async function handleExplainStruggles() {
+      const missed = ALL_QUESTIONS.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
+      if (!missed.length) {
+        showToast("No missed questions on record to analyze.");
+        return;
+      }
+
+      const topics = missed.map(q => `${q.folder} - ${q.subfolder}: ${q.objective || q.stem.slice(0, 80)}`).join("\n");
+      addChatMessage("user", "Explain my top misconceptions based on my performance.");
+
+      const prompt = `A student missed questions covering these topics:\n${topics}\n\nProvide a high-yield, succinct bulleted breakdown explaining the clinical and mechanistic differences they need to remember.`;
+      const reply = await callGemini(prompt, "You are an encouraging USMLE medical tutor.");
+      if (reply) addChatMessage("bot", reply);
+    }
+
     function renderUWSurface() {
       let totalQ = ALL_QUESTIONS.length;
       let usedCount = 0;
@@ -1655,7 +1969,6 @@
       updateAvailableCount();
     }
 
-    /* Renders Each Main Folder as an Independent Table with Subfolders & Sub-subfolders */
     function renderMultiTableSubjects() {
       const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
       subjectsTablesStack.innerHTML = "";
@@ -1663,11 +1976,9 @@
       folders.forEach(fName => {
         const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
 
-        // Separate Table Card Container for this Folder
         const tableCard = document.createElement("div");
         tableCard.className = "uw-table-container";
 
-        // Table Header representing the Main Folder
         const headerDiv = document.createElement("div");
         headerDiv.className = "uw-table-header";
         headerDiv.innerHTML = `
@@ -1683,11 +1994,9 @@
           </div>
         `;
 
-        // Scroll body that opens/closes under this main folder
         const tbody = document.createElement("div");
         tbody.className = "uw-table-scroll-body collapsed";
 
-        // Identify Subfolders
         const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
 
         subfolders.forEach(sName => {
@@ -1701,7 +2010,6 @@
           const subSubjectBase = sName !== "General" ? `${fName} / ${sName}` : fName;
           const subLabel = sName === "General" ? "General / Overview" : sName;
 
-          // Subfolder Header Row
           const subHeader = document.createElement("div");
           subHeader.className = "uw-sub-header";
           subHeader.innerHTML = `
@@ -1719,10 +2027,8 @@
 
           subfolderBlock.appendChild(subHeader);
 
-          // If there are Sub-subfolders, build their nested container
-          let subSubContainer = null;
           if (hasSubSubs) {
-            subSubContainer = document.createElement("div");
+            const subSubContainer = document.createElement("div");
             subSubContainer.className = "uw-subsub-container collapsed";
 
             subSubfolders.forEach(ssName => {
@@ -1747,7 +2053,6 @@
 
             subfolderBlock.appendChild(subSubContainer);
 
-            // Subfolder row toggle
             subHeader.addEventListener("click", (e) => {
               if (e.target.tagName.toLowerCase() === "input" || e.target.classList.contains("btn-quick-play")) return;
               const icon = subHeader.querySelector(".folder-toggle-icon");
@@ -1755,7 +2060,6 @@
               if (icon) icon.classList.toggle("expanded");
             });
 
-            // Subfolder master checkbox toggles child sub-subfolder checkboxes
             const subChk = subHeader.querySelector(".chk-sub-item");
             subChk.addEventListener("change", (e) => {
               const isChecked = e.target.checked;
@@ -1765,7 +2069,6 @@
               updateAvailableCount();
             });
 
-            // Child sub-subfolder checkboxes update parent subfolder checkbox
             subSubContainer.querySelectorAll(".chk-subsub-item").forEach(cb => {
               cb.addEventListener("change", () => {
                 const allSubs = Array.from(subSubContainer.querySelectorAll(".chk-subsub-item"));
@@ -1779,7 +2082,6 @@
           tbody.appendChild(subfolderBlock);
         });
 
-        // Click on Main Folder Table Header toggles expansion
         headerDiv.addEventListener("click", (e) => {
           if (e.target.tagName.toLowerCase() === "input" || e.target.classList.contains("btn-quick-play")) return;
           const icon = headerDiv.querySelector(".folder-toggle-icon");
@@ -1787,7 +2089,6 @@
           icon.classList.toggle("expanded");
         });
 
-        // Main Folder Checkbox toggles all descendants in this table
         const masterChk = headerDiv.querySelector(".chk-folder-master");
         masterChk.addEventListener("change", (e) => {
           const isChecked = e.target.checked;
@@ -1797,7 +2098,6 @@
           updateAvailableCount();
         });
 
-        // Any checkbox change inside the table updates main folder master checkbox
         tbody.querySelectorAll('input[type="checkbox"]').forEach(cb => {
           cb.addEventListener("change", () => {
             const allCheckboxes = Array.from(tbody.querySelectorAll('input[name="uwSubjectCheck"]'));
@@ -1807,13 +2107,11 @@
           });
         });
 
-        // Quick Practice: Main Folder
         headerDiv.querySelector('[data-action="all-folder"]').addEventListener("click", (e) => {
           e.stopPropagation();
           startDirectPractice(q => (q.folder || "General") === fName, fName);
         });
 
-        // Quick Practice: Subfolder
         tbody.querySelectorAll('[data-action="sub-practice"]').forEach(btn => {
           btn.addEventListener("click", (e) => {
             e.stopPropagation();
@@ -1823,7 +2121,6 @@
           });
         });
 
-        // Quick Practice: Sub-subfolder
         tbody.querySelectorAll('[data-action="subsub-practice"]').forEach(btn => {
           btn.addEventListener("click", (e) => {
             e.stopPropagation();
@@ -1841,7 +2138,7 @@
     function startDirectPractice(filterFn, title) {
       let pool = ALL_QUESTIONS.filter(filterFn);
       if (!pool.length) {
-        alert(`No questions found in ${title}.`);
+        showToast(`No questions found in ${title}.`);
         return;
       }
 
@@ -1928,7 +2225,6 @@
       totalAvailablePool.textContent = eligible.length;
       totalSelectedInTree.textContent = eligible.length;
 
-      // Update table live selection counts
       document.querySelectorAll(".uw-table-container").forEach(tableCard => {
         let tableTotalSelected = 0;
 
@@ -1937,7 +2233,6 @@
           const subChk = subBlock.querySelector('.chk-sub-item');
           const subSelSpan = subBlock.querySelector('.sub-sel-count');
 
-          // If this subfolder directly has questions (no sub-subfolders)
           if (subChk.hasAttribute("name") && subChk.checked) {
             let directQs = ALL_QUESTIONS.filter(q => q.subject === subChk.value);
             if (poolStatus === "unanswered") directQs = directQs.filter(q => !confirmedAnswers[q.id]);
@@ -1947,7 +2242,6 @@
             subBlockTotal += directQs.length;
           }
 
-          // If there are sub-subfolder rows
           subBlock.querySelectorAll(".uw-subsub-row").forEach(ssRow => {
             const ssCb = ssRow.querySelector(".chk-subsub-item");
             const ssSpan = ssRow.querySelector(".subsub-sel-count");
@@ -1987,7 +2281,7 @@
       const requestedCount = parseInt(inputBlockSize.value, 10) || 10;
 
       if (!selectedSubs.length) {
-        alert("Please select at least one system, subject, or subfolder.");
+        showToast("Please select at least one system, subject, or subfolder.");
         return;
       }
 
@@ -2011,7 +2305,7 @@
       }
 
       if (!pool.length) {
-        alert("No questions available for this criteria.");
+        showToast("No questions available for this criteria.");
         return;
       }
 
@@ -2047,23 +2341,21 @@
     function showView(viewName) {
       activeView = viewName;
 
+      const uwSidebar = document.getElementById("uwSidebar");
+      if (uwSidebar) uwSidebar.style.display = viewName === "exam" ? "none" : "flex";
+      quizWorkspace.style.display = viewName === "exam" ? "flex" : "none";
+      createTestView.style.display = viewName === "create-test" ? "flex" : "none";
+      performanceView.style.display = viewName === "performance" ? "flex" : "none";
+      aiView.style.display = viewName === "ai-tutor" ? "flex" : "none";
+
+      document.querySelectorAll(".uw-nav-item").forEach(item => item.classList.remove("active"));
+      const activeNav = document.querySelector(`.uw-nav-item[onclick*="${viewName}"]`);
+      if (activeNav) activeNav.classList.add("active");
+
       if (viewName === "exam") {
-        uwSidebar.style.display = "none";
-        createTestView.style.display = "none";
-        performanceView.style.display = "none";
-        quizWorkspace.style.display = "flex";
         renderQuestion();
         renderNavPalette();
       } else {
-        uwSidebar.style.display = "flex";
-        quizWorkspace.style.display = "none";
-        createTestView.style.display = viewName === "create-test" ? "flex" : "none";
-        performanceView.style.display = viewName === "performance" ? "flex" : "none";
-
-        document.querySelectorAll(".uw-nav-item").forEach(item => item.classList.remove("active"));
-        if (viewName === "create-test") navItemCreateTest.classList.add("active");
-        if (viewName === "performance") navItemPerformance.classList.add("active");
-
         renderUWSurface();
       }
     }
@@ -2252,7 +2544,7 @@
             timerSeconds--;
           } else {
             timerRunning = false;
-            alert("Time has expired! Your exam block will now close.");
+            showToast("Time has expired! Closing block...");
             showView("performance");
             return;
           }
@@ -2272,53 +2564,20 @@
       localStorage.setItem("nbme_flagged_questions", JSON.stringify(flaggedQuestions));
     }
 
-    /* App Initialization */
-    function init() {
-      const savedAnswers = localStorage.getItem("nbme_user_answers");
-      if (savedAnswers) userAnswers = JSON.parse(savedAnswers);
-      const savedConfirmed = localStorage.getItem("nbme_confirmed_answers");
-      if (savedConfirmed) confirmedAnswers = JSON.parse(savedConfirmed);
-      const savedFlags = localStorage.getItem("nbme_flagged_questions");
-      if (savedFlags) flaggedQuestions = JSON.parse(savedFlags);
-
-      const savedBank = localStorage.getItem("nbme_all_questions");
-      if (savedBank) {
-        try {
-          ALL_QUESTIONS = JSON.parse(savedBank).map((q, i) => normalizeQuestionFolders(q, i));
-        } catch (e) {
-          ALL_QUESTIONS = [];
-        }
-      }
-
-      setupTimer();
-      setupEventListeners();
-      showView("create-test");
-
-      const defaultDataEl = document.getElementById("default-questions-data");
-      const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
-      if (rawEmbeddedText.length > 0) syncAndMergeQuestions(rawEmbeddedText);
-
-      const cacheBuster = `?t=${new Date().getTime()}`;
-      const remoteFiles = [
-        'FOM_Practice_Question_Bank_1.txt' + cacheBuster,
-        'Week_8_Practice_Questions.txt' + cacheBuster,
-        'questions.txt' + cacheBuster
-      ];
-
-      remoteFiles.forEach(fileUrl => {
-        fetch(fileUrl)
-          .then(res => { if (!res.ok) throw new Error(); return res.text(); })
-          .then(text => { if (text && text.trim().length > 0) syncAndMergeQuestions(text); })
-          .catch(() => {});
-      });
-    }
-
     function setupEventListeners() {
-      navItemCreateTest.addEventListener("click", () => showView("create-test"));
-      navItemPerformance.addEventListener("click", () => showView("performance"));
-      navItemImport.addEventListener("click", () => loadModal.classList.add("open"));
-      navItemExport.addEventListener("click", () => exportModal.classList.add("open"));
       btnExamExit.addEventListener("click", () => showView("create-test"));
+
+      btnSaveApiKey.addEventListener("click", () => {
+        const k = geminiApiKeyInput.value.trim();
+        if (k) {
+          localStorage.setItem("wps_gemini_api_key", k);
+          showToast("Gemini API Key saved!");
+        }
+      });
+
+      btnSendAiChat.addEventListener("click", handleSendAiChat);
+      btnAiAnalyzeWeakness.addEventListener("click", handleAnalyzeWeakness);
+      btnAiExplainStruggles.addEventListener("click", handleExplainStruggles);
 
       document.querySelectorAll('input[name="uwTestMode"]').forEach(radio => {
         radio.addEventListener("change", (e) => {
@@ -2426,7 +2685,7 @@
       });
 
       btnFinishBlock.addEventListener("click", () => {
-        if (confirm("End this exam block and return to dashboard?")) showView("performance");
+        showView("performance");
       });
 
       btnToggleTimer.addEventListener("click", () => {
@@ -2435,11 +2694,12 @@
       });
 
       btnToggleNav.addEventListener("click", () => sidebarPane.classList.toggle("collapsed"));
-      btnThemeToggle.addEventListener("click", () => document.body.classList.toggle("dark-mode"));
 
       window.addEventListener("keydown", (e) => {
         if (activeView !== "exam") return;
-        if (loadModal.classList.contains("open") || exportModal.classList.contains("open") || clearModal.classList.contains("open")) return;
+        if (document.getElementById("loadModal").classList.contains("open") ||
+            document.getElementById("exportModal").classList.contains("open") ||
+            document.getElementById("clearModal").classList.contains("open")) return;
         const key = e.key.toUpperCase();
 
         if (["A", "B", "C", "D", "E"].includes(key)) {
@@ -2464,32 +2724,62 @@
         }
       });
 
-      btnOpenClearModal.addEventListener("click", () => clearModal.classList.add("open"));
-      btnCloseClearModal.addEventListener("click", () => clearModal.classList.remove("open"));
-      btnCancelClear.addEventListener("click", () => clearModal.classList.remove("open"));
+      if (btnDeleteSelectedTarget) {
+        btnDeleteSelectedTarget.addEventListener("click", deleteTargetedCategory);
+      }
+
       btnConfirmClear.addEventListener("click", () => {
         localStorage.clear();
         ALL_QUESTIONS = [];
         userAnswers = {};
         confirmedAnswers = {};
         flaggedQuestions = {};
-        clearModal.classList.remove("open");
+        closeModal("clearModal");
+        showToast("Bank wiped successfully.");
         init();
       });
 
-      btnCloseLoadModal.addEventListener("click", () => loadModal.classList.remove("open"));
-      btnCancelLoad.addEventListener("click", () => loadModal.classList.remove("open"));
-      btnParseDoc.addEventListener("click", () => {
-        const text = txtDocInput.value.trim();
-        if (text) {
-          syncAndMergeQuestions(text);
-          txtDocInput.value = "";
-          loadModal.classList.remove("open");
-        }
-      });
+      if (btnInsertSampleData) {
+        btnInsertSampleData.addEventListener("click", () => {
+          txtDocInput.value = `Week 8: Host Defense & Infection / Viral Pathogenesis / Enveloped DNA Viruses
 
-      btnCloseExportModal.addEventListener("click", () => exportModal.classList.remove("open"));
-      btnCancelExport.addEventListener("click", () => exportModal.classList.remove("open"));
+Question 1
+A 19-year-old college student presents with a 5-day history of fatigue, sore throat, and low-grade fever. Physical examination reveals posterior cervical lymphadenopathy and mild splenomegaly. A peripheral blood smear shows atypical lymphocytes with abundant cytoplasm indenting surrounding red blood cells. A heterophile antibody agglutination assay is positive. Which of the following viral agents is the most likely cause of this patient's condition?
+A. Cytomegalovirus
+B. Epstein-Barr virus
+C. Human herpesvirus 6
+D. Toxoplasma gondii
+E. Acute HIV infection
+Answer: B. Epstein-Barr virus
+Why this is correct: Epstein-Barr virus (EBV), a member of the Herpesviridae family, causes infectious mononucleosis characterized by the triad of fever, pharyngitis, and lymphadenopathy, accompanied by atypical reactive cytotoxic T-cells (CD8+) and a positive heterophile antibody test (Monospot).
+Why the other answers are wrong:
+A. Cytomegalovirus produces a mononucleosis-like illness but characteristically has a negative heterophile antibody test.
+C. Human herpesvirus 6 causes roseola infantum (exanthem subitum) in infants.
+D. Toxoplasmosis can produce lymphadenopathy but is caused by a protozoan parasite and yields negative heterophile antibodies.
+E. Acute retroviral syndrome presents similarly but is heterophile negative.
+Objective: Recognize the clinical presentation, hematologic findings, and diagnostic serology of Epstein-Barr virus infection.
+
+Week 8: Host Defense & Infection / Viral Pathogenesis / Non-Enveloped RNA Viruses
+
+Question 2
+A 6-year-old child presents with a 2-day history of watery diarrhea, vomiting, and dehydration during winter. The pathogen is identified as a double-stranded RNA virus with a segmented genome and wheel-like appearance on electron microscopy. Which mechanism explains this virus's diarrhea?
+A. Toxin-induced stimulation of the enteric nervous system via NSP4
+B. Massive transmural mucosal ulceration in the ileum
+C. Enterocyte invasion with systemic bloodstream dissemination
+D. Secretion of heat-labile enterotoxin increasing intracellular cAMP
+E. Direct disruption of colonic tight junctions mediated by protein A
+Answer: A. Toxin-induced stimulation of the enteric nervous system via NSP4
+Why this is correct: Rotavirus encodes the nonstructural protein NSP4, a viral enterotoxin that mobilizes intracellular calcium, stimulates the enteric nervous system, and triggers secretory diarrhea.
+Why the other answers are wrong:
+B. Rotavirus induces blunting of intestinal villi without transmural ulceration.
+C. Rotavirus remains localized to the villus enterocytes of the small intestine.
+D. Heat-labile enterotoxin is produced by enterotoxigenic E. coli (ETEC), not rotavirus.
+E. Rotavirus targets the small intestine rather than the colonic mucosa.
+Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral enterotoxin.`;
+          showToast("Sample questions loaded into textbox!");
+        });
+      }
+
       btnRunExport.addEventListener("click", () => {
         const scope = exportScope.value;
         let exportList = ALL_QUESTIONS;
@@ -2508,11 +2798,59 @@
         a.href = URL.createObjectURL(blob);
         a.download = `QBank_Export_${scope}.txt`;
         a.click();
-        exportModal.classList.remove("open");
+        closeModal("exportModal");
       });
     }
 
-    init();
+    function init() {
+      setupEventListeners();
+
+      const savedAnswers = localStorage.getItem("nbme_user_answers");
+      if (savedAnswers) userAnswers = JSON.parse(savedAnswers);
+      const savedConfirmed = localStorage.getItem("nbme_confirmed_answers");
+      if (savedConfirmed) confirmedAnswers = JSON.parse(savedConfirmed);
+      const savedFlags = localStorage.getItem("nbme_flagged_questions");
+      if (savedFlags) flaggedQuestions = JSON.parse(savedFlags);
+
+      const savedApiKey = localStorage.getItem("wps_gemini_api_key");
+      if (savedApiKey) geminiApiKeyInput.value = savedApiKey;
+
+      const savedBank = localStorage.getItem("nbme_all_questions");
+      if (savedBank) {
+        try {
+          ALL_QUESTIONS = JSON.parse(savedBank).map((q, i) => normalizeQuestionFolders(q, i));
+        } catch (e) {
+          ALL_QUESTIONS = [];
+        }
+      }
+
+      setupTimer();
+      showView("create-test");
+
+      const defaultDataEl = document.getElementById("default-questions-data");
+      const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
+      if (rawEmbeddedText.length > 0) syncAndMergeQuestions(rawEmbeddedText);
+
+      const cacheBuster = `?t=${new Date().getTime()}`;
+      const remoteFiles = [
+        'FOM_Practice_Question_Bank_1.txt' + cacheBuster,
+        'Week_8_Practice_Questions.txt' + cacheBuster,
+        'questions.txt' + cacheBuster
+      ];
+
+      remoteFiles.forEach(fileUrl => {
+        fetch(fileUrl)
+          .then(res => { if (!res.ok) throw new Error(); return res.text(); })
+          .then(text => { if (text && text.trim().length > 0) syncAndMergeQuestions(text); })
+          .catch(() => {});
+      });
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
   </script>
 </body>
 </html>
