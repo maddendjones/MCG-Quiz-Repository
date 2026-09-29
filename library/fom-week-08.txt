@@ -1,0 +1,837 @@
+Foundations of Medicine, Week 8
+Sources: the project file Week_7_Review, which covers course Week 8 (including its medication list), and FOM Diseases & Drugs (Viruses, HIV Opportunistic Infections, Parasites, and Anti-Virals sections, plus cross-links noted on each page).
+That review has no week subtitle, so folders use "Week 8" until the course title is confirmed.
+The review's medication list is filed with the lecture each drug belongs to.
+Last checked: September 29, 2026.
+
+Library: Enveloped vs. naked viruses
+Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+
+## Key findings
+
+- Inside a cell, a virus exists as nucleic acid; outside, it's a virion
+- The viral envelope is a piece of host cell membrane: phospholipids plus protein and glycoprotein spikes that bind host cells
+
+| Feature | Enveloped | Naked (non-enveloped) |
+|---|---|---|
+| Release | Budding or lysis | Lysis |
+| Stability | Fragile; sensitive to acid, detergents, heat, stomach acid, and bile | Stable; resistant to acid, detergents, and heat |
+| Transmission | Body fluids; not fecal-oral | Can spread fecal-oral |
+
+> Naked viruses survive stomach acid and bile, so they can spread by the fecal-oral route.
+
+Library: Viral life cycle and replication sites
+Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+
+## Stages
+
+1. Attachment: viral attachment proteins bind host receptors and set host and tissue specificity
+2. Entry
+3. Uncoating
+4. Replication
+5. Assembly and maturation
+6. Release
+
+## Where viruses replicate
+
+| Virus type | Usual site | Exceptions |
+|---|---|---|
+| DNA viruses | Nucleus | Poxviruses replicate in the cytoplasm; HBV copies an RNA intermediate back into DNA with reverse transcriptase |
+| RNA viruses | Cytoplasm, using RNA-dependent RNA polymerase | Influenza and HIV replicate in the nucleus |
+
+- Positive-strand RNA works directly as mRNA; negative-strand RNA is the template for mRNA
+- Retroviruses use reverse transcriptase (RNA-dependent DNA polymerase) to turn (+) ssRNA into dsDNA
+- Influenza and rotavirus have segmented genomes
+- Lamivudine inhibits reverse transcriptase, so it works against both HIV and HBV
+
+> Most DNA viruses replicate in the nucleus and most RNA viruses in the cytoplasm; poxviruses, influenza, and HIV are the exceptions.
+
+Library: DNA virus families
+Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+
+DNA viruses (HHAPPPPy) stimulate cell growth and establish persistent infections.
+
+| Family | Envelope | Key viruses and diseases |
+|---|---|---|
+| Herpesviridae | Yes | HSV-1/2, VZV, EBV, CMV, HHV-6/7, HHV-8; latent infection |
+| Hepadnaviridae | Yes | HBV: hepatitis, cirrhosis, hepatocellular carcinoma |
+| Adenoviridae | No | Types 3, 4, 7: acute respiratory disease; types 8, 19, 37: epidemic keratoconjunctivitis; types 41, 42: gastroenteritis; also hemorrhagic cystitis in children |
+| Papillomaviridae | No | HPV 6, 11: genital warts; HPV 16, 18: cervical carcinoma |
+| Polyomaviridae | No | JC virus: PML; BK virus: hemorrhagic cystitis and kidney graft failure |
+| Parvoviridae (ssDNA) | No | Parvovirus B19: fifth disease (slapped cheek), aplastic crisis; in pregnancy, fetal anemia, high-output cardiac failure, and hydrops fetalis |
+| Poxviridae | Yes | Smallpox (lesions all at the same stage), vaccinia, molluscum contagiosum; replicates in the cytoplasm |
+
+> Parvovirus B19 infection in pregnancy causes fetal anemia and hydrops fetalis.
+
+Library: RNA virus families
+Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+
+## Key findings
+
+| Family | Genome | Key viruses and points |
+|---|---|---|
+| Orthomyxoviridae | (-), 8 segments, enveloped | Influenza; replicates in the nucleus; antigenic drift (slow change) causes yearly outbreaks, antigenic shift (reassortment) causes pandemics |
+| Reoviridae | Segmented dsRNA | Rotavirus: the most common cause of infant diarrhea and #1 cause of fatal childhood diarrhea worldwide |
+| Retroviridae | (+) RNA copied to DNA that integrates | HIV, HTLV; oncogenic potential |
+| Coronaviridae | (+), enveloped, helical | SARS-CoV-2; binds ACE2 |
+| Flaviviridae | (+), enveloped | HCV, West Nile, yellow fever, dengue |
+| Picornaviridae | (+), naked | HAV, polio, rhinovirus, coxsackievirus |
+| Caliciviridae | (+), naked | Norovirus (Norwalk): adult epidemic gastroenteritis |
+| Togaviridae | (+), enveloped | Rubella, equine encephalitis viruses |
+| Paramyxoviridae | (-), enveloped | RSV, measles, mumps, parainfluenza |
+| Rhabdoviridae | (-), enveloped | Rabies |
+| Bunyaviridae | (-), enveloped | Hantavirus |
+
+> Antigenic shift (reassortment of influenza's segments) causes pandemics; drift causes yearly outbreaks.
+
+Library: Viral spread and course of infection
+Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+
+## Spread
+
+- Portals of entry: broken skin, mucosa, inhalation
+- Replication happens in cells that have the receptor and the machinery to make virus
+- Symptoms accompany replication at the primary site
+- Spread to other sites is through blood or lymphatics; viremia is virus in the bloodstream
+
+## Course
+
+| Stage | What happens |
+|---|---|
+| Acquisition | Infection starts at the primary site and triggers innate defenses |
+| Incubation | Virus amplifies and may spread to a secondary site |
+| Prodrome | Nonspecific symptoms: fever, chills, body aches |
+| Specific illness | Characteristic findings from tissue damage and the immune response |
+| Contagion | Virus is released from tissue |
+| Convalescence | Resolution, or persistent or chronic disease |
+
+> The prodrome is the stage of nonspecific symptoms before the characteristic illness.
+
+Library: Viral cytopathic effects and inclusion bodies
+Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+
+## Key findings
+
+| Finding | Description | Virus |
+|---|---|---|
+| Syncytia | Viral glycoprotein on the cell surface fuses cells into multinucleated giant cells, aiding spread and hiding the virus | SARS-CoV-2, RSV |
+| Chromatin margination | Chromatin pushed to the nuclear edge | Parvovirus B19 |
+| Negri bodies | Eosinophilic cytoplasmic inclusions in pyramidal neurons | Rabies |
+| Owl's eye inclusions | Basophilic nuclear inclusions | CMV |
+| Cowdry bodies | Eosinophilic nuclear inclusions | HSV, VZV |
+| Koilocytosis | Cytoplasmic vacuolization of squamous cells | HPV |
+
+- Inclusion bodies are sites of viral replication or capsids, and their staining pattern can be diagnostic
+
+> Owl's eye inclusions mean CMV; Negri bodies mean rabies.
+
+Library: SARS-CoV-2 pathogenesis
+Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+
+## Key findings
+
+- SARS-CoV-2 binds ACE2, a peptidase that breaks down angiotensin II
+- Binding causes loss of ACE2 function, so angiotensin II rises
+- Excess angiotensin II causes vasoconstriction and coagulopathy
+- RIG-I-like receptors sensing viral RNA are part of the normal response
+- Remdesivir, an adenosine analog chain terminator, is used for COVID-19
+- The COVID-19 vaccine induces neutralizing antibodies that block the S protein from its receptor
+
+> Losing ACE2 function raises angiotensin II, driving vasoconstriction and clotting.
+
+Library: Hepatitis C antivirals
+Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+
+## Hepatitis C
+
+HCV is a (+) RNA flavivirus spread parenterally and sexually. Acute infection is usually subclinical, about 80% become chronic, and it's associated with cirrhosis and hepatocellular carcinoma.
+
+## Drugs
+
+| Drug | Target |
+|---|---|
+| Glecaprevir | NS3/4A protease |
+| Pibrentasvir | NS5A |
+| Sofosbuvir | NS5B (nucleoside analog) |
+| Velpatasvir | NS5A |
+| Ribavirin | Used for HCV and RSV (target not listed) |
+
+> Glecaprevir targets NS3/4A, pibrentasvir and velpatasvir target NS5A, and sofosbuvir targets NS5B.
+
+Library: Herpesvirus structure, subfamilies, and latency
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Structure
+
+Herpesviruses are dsDNA viruses with four parts: an outer lipid envelope, a tegument of proteins that aid replication, an icosahedral nucleocapsid, and a core of linear double-stranded DNA.
+
+## Subfamilies
+
+| Subfamily | Viruses |
+|---|---|
+| Alpha | HSV-1, HSV-2, VZV |
+| Beta | CMV, HHV-6, HHV-7 |
+| Gamma | EBV, HHV-8 |
+
+## Latency and reactivation
+
+- In latency, no infectious virions are made
+- Viral and host factors, including tegument proteins, trigger reactivation, leading to viral spread and symptoms
+
+## Pathogenesis
+
+- Tissue destruction of skin, mucosa, or organs (CMV, HSV, VZV)
+- Immunopathologic effects
+- Neoplastic transformation, directly or by altering immune surveillance
+
+> Alpha herpesviruses (HSV-1, HSV-2, VZV) establish latency in sensory ganglia.
+
+Library: Herpesvirus lab diagnosis
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Key findings
+
+| Method | Key points |
+|---|---|
+| Tissue or cell culture | Used for HSV, VZV, and CMV |
+| Antigen detection | ELISA or immunofluorescence |
+| Nucleic acid detection | PCR detects the viral genome |
+| Serology | IgM means acute infection; IgG means prior exposure |
+| Histopathology | Immunohistochemistry; a Tzanck smear showing multinucleated giant cells suggests infection |
+
+> IgM points to acute infection; IgG points to past exposure.
+
+Library: HSV-1 infection
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Primary infection
+
+- HSV is neurotropic and infects the skin, eye, mucous membranes, and nervous system
+- HSV-1 is usually acquired in childhood through saliva and is mostly asymptomatic; incubation is 2-12 days
+- Gingivostomatitis (painful blisters and ulcers of the lips, gums, and mouth) in children; exudative pharyngitis in adults
+- Resolves in 10-14 days but becomes latent in the sensory (trigeminal) ganglia
+
+## Other manifestations
+
+- Herpetic whitlow: painful finger infection spread from an oral lesion, often mistaken for a bacterial infection
+- Herpes gladiatorum: in wrestlers, anywhere on the skin
+- Genital HSV-1: uncommon and milder than HSV-2
+
+## Recurrence
+
+Reactivation travels from the neuron down the axon to the skin, causing cold sores (herpes labialis). Triggers include fever, stress, sun, trauma, lowered immunity, and steroids.
+
+> HSV-1 hides in the trigeminal ganglion and reactivates as cold sores.
+
+Library: HSV-2 and genital herpes
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Key findings
+
+- Painful grouped vesicles on a red base that progress to pustules and ulcers, usually on the external genitalia
+- A first episode can come with fever and lymphadenopathy
+- Spread by sex and perinatally; latent in the sacral ganglia
+- 88% recur within a year, more often in immunocompromised patients
+- Viral shedding, including prolonged asymptomatic shedding, spreads infection to partners
+- Viral meningitis is more common with HSV-2 than HSV-1
+
+## Treatment
+
+Acyclovir, famciclovir, or valacyclovir. Suppressive therapy reduces recurrences but may not stop shedding.
+
+> Asymptomatic viral shedding spreads genital herpes, and suppressive therapy doesn't fully stop it.
+
+Library: HSV complications
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Key findings
+
+| Complication | Key points |
+|---|---|
+| Herpes encephalitis | HSV-1 reactivation from the trigeminal ganglion; temporal lobe; fever, behavior change, seizures; treat with acyclovir |
+| Neonatal herpes | Meningoencephalitis, disseminated or localized |
+| Ocular herpes | Keratitis or retinitis |
+| Immunocompromised reactivation | Esophagitis and other organ involvement |
+| Eczema herpeticum | HSV in skin with active disease such as eczema |
+
+> Fever, behavior change, and seizures with a temporal lobe lesion point to HSV encephalitis.
+
+Library: Herpes antivirals
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Mechanism of acyclovir
+
+1. Viral thymidine kinase adds the first phosphate to acyclovir
+2. Human kinases add the other two
+3. Acyclovir triphosphate is built into viral DNA and terminates the chain
+
+Because the first step needs viral thymidine kinase, these drugs don't work against viruses that lack it.
+
+## Drugs
+
+| Drug | Use | Key toxicity |
+|---|---|---|
+| Acyclovir, valacyclovir (prodrug), famciclovir | HSV-1, HSV-2, VZV | Agitation, delirium, hallucinations, myoclonus |
+| Ganciclovir, valganciclovir | CMV | Bone marrow suppression (ganciclovir); nephrotoxicity (valganciclovir); crystalluria |
+| Cidofovir | Resistant HSV, VZV, CMV | Nephrotoxicity (dose-limiting), Fanconi-type syndrome |
+| Foscarnet | Resistant HSV, VZV, CMV | Nephrotoxicity, acute tubular necrosis |
+| Letermovir | Prevents CMV reactivation after bone marrow transplant | |
+
+- Probenecid is also on the course's herpes medication list
+
+> Acyclovir needs viral thymidine kinase for its first phosphorylation.
+
+Library: Varicella (chickenpox)
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Key findings
+
+- Primary VZV infection, usually in children and often more serious in adults
+- Spread by respiratory droplets or contact with active lesions
+- Itchy rash that starts on the trunk and moves through vesicle, pustule, and crusted ulcer
+- Contagious until all lesions have crusted
+- Disseminated varicella occurs in immunocompromised patients
+- Latent in the dorsal root or trigeminal ganglia afterward
+
+## Treatment and prevention
+
+- Neonates: varicella zoster immune globulin (VZIG) plus acyclovir
+- Adults: acyclovir
+- Prevention: VARIVAX, the childhood vaccine
+
+> Chickenpox is contagious until every lesion has crusted.
+
+Library: Herpes zoster (shingles)
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Key findings
+
+- Reactivation of latent VZV from a sensory ganglion
+- Painful, burning dermatomal vesicular rash, most often thoracic or lumbar
+- Disseminated zoster occurs in immunocompromised patients
+
+## Post-herpetic neuralgia
+
+Pain that persists in the dermatome after the rash heals, common in the elderly and probably from nerve damage. Early treatment may reduce how often it happens and how long it lasts.
+
+## Treatment and prevention
+
+- Treatment: famciclovir or valacyclovir
+- Prevention: Shingrix, a two-dose vaccine series
+
+> Early antiviral treatment of shingles may reduce post-herpetic neuralgia.
+
+Library: EBV and infectious mononucleosis
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Key findings
+
+- Very common, mostly acquired in childhood and usually asymptomatic
+- Spread by saliva through close contact with an asymptomatic shedder
+- Replicates in oropharyngeal epithelium and infects B cells through CD21, where it becomes latent
+
+## Infectious mononucleosis
+
+- Ranges from asymptomatic to life-threatening
+- Fever, pharyngitis, lymphadenopathy, hepatosplenomegaly, malaise, fatigue
+- Mild leukocytosis with relative neutropenia; elevated liver enzymes
+- Atypical lymphocytosis (over 10%) made up of reactive T cells (Downey cells)
+- Positive heterophile antibody (Monospot) test
+
+## Treatment
+
+Rest and no contact sports; steroids may help some complications.
+
+> Mono has a positive Monospot and atypical T-lymphocytes.
+
+Library: CMV infection
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Key findings
+
+| Presentation | Key points |
+|---|---|
+| CMV mononucleosis | Healthy young adults with fever, malaise, adenopathy, atypical lymphocytes, but a negative heterophile test and usually no sore throat |
+| Congenital (cytomegalic inclusion disease) | Primary maternal infection; a TORCH infection: hearing loss, microcephaly, chorioretinitis, periventricular calcifications, hepatosplenomegaly with jaundice |
+| Perinatal | Acquired at birth or through breast milk |
+| Opportunistic | Reactivation or primary infection in immunosuppressed patients; fever, leukopenia, organ inflammation, transplant graft loss |
+
+- Spread through close contact with secretions, transfusions, transplants, and sex
+- Latent in mononuclear cells; owl's eye inclusions
+
+## Diagnosis and treatment
+
+- Positive CMV IgM suggests active disease; quantitative blood PCR tracks the virus and predicts reactivation
+- Treatment: ganciclovir or valganciclovir; letermovir prevents reactivation after bone marrow transplant
+
+> CMV mono looks like EBV mono but has a negative heterophile test.
+
+Library: HHV-6, HHV-7, and roseola
+Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+
+## Key findings
+
+| Virus | Key points |
+|---|---|
+| HHV-6 (variants 6A and 6B) | Spread by saliva, blood, tissue, and genital secretions; over 80% are seropositive by age 2; causes exanthem subitum (roseola infantum) and febrile illness without rash |
+| HHV-7 | Acquired in childhood through saliva; similar illness with exanthem subitum, fever, and seizures or encephalitis |
+
+## Roseola
+
+High fever for several days, which can cause febrile seizures, followed by a diffuse macular rash that starts on the trunk and spreads ("fever first, rash later").
+
+> Roseola is high fever first, then a rash.
+
+Library: HIV entry: CD4, CCR5, and CXCR4
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## CD4
+
+- CD4 is a transmembrane glycoprotein on all helper T cells that helps them bind MHC class II
+- HIV binds CD4, but CD4 alone allows binding, not entry
+- The primary target of HIV is the memory T cell
+
+## Coreceptors and fusion
+
+- HIV also needs a coreceptor: CCR5 (CCR5-tropic strains), CXCR4 (CXCR4-tropic), or either (dual/mixed tropic)
+- Binding changes the shape of gp120 and gp41, and gp41 exposes a hydrophobic domain that fuses the viral and cell membranes
+
+## CCR5 delta-32
+
+- CCR5 normally binds pro-inflammatory cytokines
+- The delta-32 mutation truncates the receptor without harming the inflammatory response
+- Homozygotes are resistant to HIV; heterozygotes can be infected but may progress more slowly
+- Homozygotes have a higher risk of symptomatic West Nile virus infection
+
+> CCR5 delta-32 homozygotes are resistant to CCR5-tropic HIV.
+
+Library: HIV elite controllers
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Key findings
+
+- About 1.5-2% of people with HIV
+- Keep viral loads undetectable for at least 12 months without treatment
+- HIV RNA may be detectable but stays under 200 copies/mL and always under 500 copies/mL
+- CD4 count stays above 500 cells/microliter
+- CCR5 delta-32 heterozygosity doesn't fully explain it, and they can still transmit the virus
+- It isn't known whether treatment benefits them
+
+> Elite controllers keep HIV suppressed without treatment but can still transmit it.
+
+Library: AIDS and opportunistic infections by CD4 count
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## AIDS
+
+Most HIV illness comes from immunosuppression, and the worse the CD4 decline, the worse the immunosuppression. AIDS is defined by a CD4 count under 200, an opportunistic infection, or an AIDS-defining malignancy.
+
+## Infections by CD4 count
+
+| CD4 count | Conditions |
+|---|---|
+| Under 500 | Oral thrush (Candida), oral hairy leukoplakia (EBV), Kaposi sarcoma (HHV-8), HPV squamous cell carcinoma, reactivated tuberculosis |
+| Under 200 | Pneumocystis pneumonia, histoplasmosis, PML (JC virus), HIV nephropathy and dementia |
+| Under 100 | Candida esophagitis, CMV (colitis, retinitis, esophagitis, encephalitis, pneumonitis), cryptococcal meningitis, Cryptosporidium, toxoplasmosis, EBV CNS lymphoma, bacillary angiomatosis (Bartonella) |
+| Under 50 | Disseminated Mycobacterium avium complex |
+
+## Skin
+
+Seborrheic dermatitis, fungal and viral skin infections, parasites, and Kaposi sarcoma.
+
+> Pneumocystis pneumonia appears once CD4 falls below 200.
+
+Library: HIV-associated candidiasis
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Key findings
+
+Candidiasis (usually Candida albicans) is often the first sign of immunosuppression, and dentists are among the most common people to identify HIV.
+
+| Site | Findings |
+|---|---|
+| Mouth: pseudomembranous thrush | Most common; scrapable white plaques never limited to the surface of the tongue |
+| Mouth: erythematous | Can be painful; often glossitis |
+| Mouth: angular cheilitis | Mildly painful, sometimes ulcerated corners of the mouth |
+| Esophagus (invasive) | Dysphagia and odynophagia; CD4 under 100 |
+| Vagina (recurrent) | Itching, mild pain, white plaques |
+
+## Look-alike
+
+Oral hairy leukoplakia (EBV) is a white plaque on the lateral tongue that can't be scraped off.
+
+## Treatment
+
+Oral imidazoles such as fluconazole.
+
+> Thrush scrapes off; oral hairy leukoplakia on the lateral tongue doesn't.
+
+Library: Pneumocystis pneumonia
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Key findings
+
+- Pneumocystis jirovecii is a ubiquitous fungus with protozoal features, acquired in childhood; disease usually comes from reactivation
+- CD4 under 200 (or under 14%)
+- Subacute progressive dry cough, dyspnea, fever, fatigue
+- Exam: tachypnea with clear lungs
+- Chest imaging: diffuse interstitial infiltrates or ground-glass opacities
+- Arterial blood gas: hypoxia, or desaturation with exertion; a cheap and sensitive test
+- Diagnosis: bronchoalveolar lavage, biopsy, or induced sputum, showing foamy intra-alveolar fluid with trophs and cysts
+
+## Treatment
+
+- Supportive care with oxygen or intubation
+- TMP-SMX for 21 days
+- Add prednisone when room-air PaO2 is under 70 mm Hg (or the A-a gradient is over 35), to blunt the inflammatory response and avoid ventilation
+- Prophylaxis: TMP-SMX when CD4 is under 200
+
+> Add steroids to TMP-SMX for PCP when room-air PaO2 is under 70 mm Hg.
+
+Library: Mycobacterium avium complex in HIV
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Key findings
+
+- Disseminated infection when CD4 is under 50
+- Found in soil and water
+- Nonspecific systemic illness: fever, night sweats, weight loss, malaise, anemia, lymphadenopathy, heavy diarrhea, hepatosplenomegaly, high alkaline phosphatase
+
+## Treatment
+
+- Treating the HIV is central
+- Clarithromycin or azithromycin plus ethambutol, adding rifabutin if severe
+- Prophylaxis: azithromycin or clarithromycin
+
+> Disseminated MAC appears when CD4 falls below 50.
+
+Library: Cryptococcal meningitis
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Key findings
+
+- Cryptococcus neoformans, an encapsulated yeast; CD4 under 100
+- Subacute headache, fever, and confusion
+- CSF: lymphocytic pleocytosis, slightly low glucose, opening pressure usually over 20 cm
+- India ink stain and cryptococcal antigen confirm the diagnosis
+
+## Treatment
+
+| Phase | Drugs |
+|---|---|
+| Induction | Amphotericin B for two weeks, with or without flucytosine (bone marrow toxic) |
+| Consolidation | High-dose fluconazole |
+| Maintenance | Oral fluconazole |
+
+> The most common cause of death is failing to recognize and treat high CSF pressure.
+
+Library: Cerebral toxoplasmosis
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Key findings
+
+- Toxoplasma gondii, a ubiquitous parasite acquired from cysts (cat litter, undercooked meat); CD4 under 100
+- Focal encephalitis: headache, confusion, focal deficits, seizures
+- Predilection for the basal ganglia
+- MRI is more sensitive and usually shows multiple ring-enhancing lesions with edema
+
+## Diagnosis
+
+Usually clinical. A positive toxoplasma IgG with a consistent presentation and response to treatment supports a presumptive diagnosis; a definitive diagnosis needs the organism.
+
+## Treatment and prophylaxis
+
+- Pyrimethamine plus sulfadiazine (with leucovorin)
+- Prophylaxis: TMP-SMX
+
+> Multiple ring-enhancing lesions in the basal ganglia point to toxoplasmosis.
+
+Library: CNS lymphoma and PML in HIV
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Key findings
+
+| Condition | Cause | Findings | Diagnosis | Treatment |
+|---|---|---|---|---|
+| CNS lymphoma | Mostly EBV; the first lymphoma considered HIV-related | Headache, seizures, focal deficits; single or multiple enhancing lesions with edema, which may be solitary | CSF PCR for EBV | Radiation |
+| Progressive multifocal leukoencephalopathy (PML) | JC polyomavirus; affects only white matter | Gait disturbance, confusion, homonymous hemianopia; non-enhancing demyelination on MRI | CSF PCR for JC virus | Treat the underlying HIV |
+
+> PML is JC virus demyelination of white matter, with non-enhancing lesions.
+
+Library: CMV retinitis
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Key findings
+
+- Common with CMV infection in AIDS (CD4 under 100)
+- Floaters, blurred vision, and scotomata; can lead to vision loss
+- Cotton-wool spots and hemorrhage on fundoscopy
+- Diagnosed by an ophthalmologist
+
+## Treatment
+
+- Ganciclovir (bone marrow toxic), a ganciclovir retinal implant, or oral valganciclovir (nephrotoxic)
+- Treating the underlying HIV
+
+> CMV retinitis presents with floaters and scotomata when CD4 is under 100.
+
+Library: HIV-associated diarrhea and Cryptosporidium
+Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+
+## Causes
+
+Cryptosporidium, Mycobacterium avium complex, Giardia, and amoeba.
+
+## Cryptosporidium
+
+- A parasite found in water supplies; CD4 under 100
+- Large-volume, chronic watery diarrhea
+- Diagnosis: modified acid-fast stain of stool showing oocysts, or a GI pathogen panel
+- Treatment: treat the HIV to restore immunity; nitazoxanide for 14 days
+
+> Acid-fast oocysts in stool point to Cryptosporidium.
+
+Library: How viruses cause cancer
+Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+
+## Key findings
+
+Persistent viral infection can drive uncontrolled growth and malignant transformation.
+
+| Mechanism | Example |
+|---|---|
+| Viral insertion turns a proto-oncogene into an oncogene | EBV LMP-1 |
+| Viral proteins block tumor suppressors | HPV E6 (p53) and E7 (Rb) |
+| Viral anti-apoptosis proteins | HHV-8 BCL2 and LANA-1 |
+
+| Virus | Cancer |
+|---|---|
+| EBV | Burkitt, Hodgkin, and non-Hodgkin lymphoma; nasopharyngeal carcinoma; CNS lymphoma |
+| HPV 16, 18 | Cervical and anogenital carcinoma |
+| HHV-8 | Kaposi sarcoma |
+| HBV | Hepatocellular carcinoma |
+| HTLV-1 | Adult T-cell leukemia |
+
+> Oncogenic viruses either activate oncogenes or disable tumor suppressors.
+
+Library: EBV oncogenesis
+Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+
+## Infection
+
+EBV is an enveloped dsDNA herpesvirus spread by saliva. It starts in the oropharynx, reaches B cells through viremia, and stays latent in B cells. Cytotoxic T cells (Downey cells) are activated to kill infected B cells.
+
+## Viral proteins
+
+| Protein | Effect |
+|---|---|
+| LMP-1 | Oncogene that acts like a constitutively active CD40 receptor, driving B cell growth and activating BCL2 to block apoptosis |
+| EBNA-2 | Activates host genes such as cyclin D and immortalizes B cells |
+| vIL-10 | Stops macrophages from activating the T cells that would control transformed B cells |
+
+> LMP-1 acts like a permanently active CD40 and turns on BCL2.
+
+Library: Burkitt lymphoma and EBV
+Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+
+## Key findings
+
+- B cell lymphoma, common along the malaria belt; more than 90% of African tumors carry the EBV genome
+- EBV acts as a polyclonal B cell mitogen that sets the stage for the t(8;14) translocation, which puts MYC under the immunoglobulin heavy chain promoter
+- Starry sky pattern on histology; CD10 positive; Ki-67 near 100%
+
+| Form | Presentation |
+|---|---|
+| Endemic (African) | Jaw mass; EBV |
+| Sporadic | Abdominal (ileocecal) mass |
+| HIV-associated | |
+
+> Burkitt lymphoma is t(8;14) MYC activation, with a starry sky pattern.
+
+Library: HPV oncogenesis
+Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+
+## Key findings
+
+- Non-enveloped, circular dsDNA virus that infects squamous epithelium
+- Hallmark: koilocytosis (cytoplasmic vacuolization)
+- Viral DNA integrates into the host genome, leading to malignant transformation
+- E6 inactivates p53, and E7 inactivates Rb
+
+| Risk | Types | Disease |
+|---|---|---|
+| Low | 6, 11 | Anogenital warts (condylomata acuminata, cauliflower-like lesions) |
+| High | 16, 18 | 70% of cervical carcinoma; other anogenital cancers |
+
+## Prevention
+
+The HPV vaccine protects against types 6, 11, 16, and 18.
+
+> HPV E6 degrades p53 and E7 inactivates Rb.
+
+Library: Kaposi sarcoma herpesvirus (HHV-8)
+Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+
+## Key findings
+
+- Spread sexually or through organ transplants; primary infection is asymptomatic
+- Latent in endothelial spindle cells; disproportionately affects men who have sex with men with HIV
+- The virus carries human-like genes: anti-apoptosis proteins (BCL2), an Rb inhibitor (LANA-1), and growth factors (IL-6, IL-8) for B cells and spindle cells
+- Uncontrolled spindle cell growth causes Kaposi sarcoma: violaceous raised plaques or nodules made of sheets of proliferating spindle cells, often in the mouth and lymph nodes, with visceral involvement in about half
+- Also causes Castleman disease
+
+## Treatment
+
+Antiretrovirals alone for early disease (stage T0), plus liposomal doxorubicin for more advanced disease (stage T1).
+
+> Kaposi sarcoma is HHV-8-driven proliferation of endothelial spindle cells.
+
+Library: Hepatitis B and hepatocellular carcinoma
+Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+
+## Key findings
+
+- HBV causes about 80% of hepatocellular carcinoma
+- Enveloped dsDNA hepadnavirus spread by blood, sex, and shared needles
+- Causes hepatitis, cirrhosis, and hepatocellular carcinoma
+- Replicates through an RNA intermediate copied back to DNA by reverse transcriptase, so lamivudine works against it
+
+> HBV causes about 80% of hepatocellular carcinoma.
+
+Library: HIV transmission
+Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+
+## Key findings
+
+- HIV is transmitted through sex, blood transfusion, shared needles and syringes, pregnancy, breastfeeding, and organ transplant
+- Primary infection can cause a mononucleosis-like illness
+- As disease progresses, the virus kills more CD4 T cells, viral replication rises, and the gut barrier weakens
+
+> Primary HIV infection can look like mononucleosis.
+
+Library: HIV entry inhibitors: maraviroc and enfuvirtide
+Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+
+## Key findings
+
+| Drug | Class | Mechanism | Key points |
+|---|---|---|---|
+| Maraviroc | CCR5 antagonist | Blocks the CCR5 coreceptor | Needs viral tropism testing first; rarely used now; upper respiratory infections |
+| Enfuvirtide | Fusion inhibitor | Mimics the C-helix of gp41 and blocks the shape change needed for fusion | Used for multidrug-resistant HIV; injection site reactions, hypersensitivity, hypotension, GI upset, itching, myalgia |
+
+> Maraviroc only works on CCR5-tropic virus, so tropism testing comes first.
+
+Library: NRTIs and NNRTIs
+Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+
+## NRTIs
+
+Nucleoside/nucleotide reverse transcriptase inhibitors act as chain terminators.
+
+| Drug | Key toxicity |
+|---|---|
+| Abacavir (ABC) | Hypersensitivity; screen for HLA-B*57:01 first |
+| Emtricitabine (FTC) | Few side effects |
+| Lamivudine (3TC) | Few side effects; also treats HBV |
+| Tenofovir (TDF) | Bone density loss and Fanconi syndrome; tenofovir alafenamide (TAF) was developed to reduce these |
+| Zidovudine (AZT) | Bone marrow suppression, mitochondrial toxicity |
+
+- Didanosine and stavudine are also on the course's NRTI list
+
+## NNRTIs
+
+Non-nucleoside reverse transcriptase inhibitors are rarely used now. They cause rashes, Stevens-Johnson syndrome, and hepatitis ("Stevens-Johnson had a weird rash and gave me hepatitis"). Examples include efavirenz, delavirdine, and nevirapine.
+
+> Screen for HLA-B*57:01 before giving abacavir.
+
+Library: Integrase and protease inhibitors
+Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+
+## Integrase strand transfer inhibitors (INSTIs, "-tegravir")
+
+- Block insertion of HIV DNA into the host genome, leaving circular, non-integrated episomes
+- Best tolerated class with the fewest side effects; resistance develops slowly
+
+| Drug | Combination |
+|---|---|
+| Dolutegravir (DTG) | Triumeq: dolutegravir + abacavir + lamivudine |
+| Bictegravir (BIC) | Biktarvy: bictegravir + tenofovir alafenamide + emtricitabine |
+| Raltegravir | |
+
+## Protease inhibitors ("-navir")
+
+- Viral protease lets new virions mature, so blocking it stops maturation
+- Side effects are mostly GI
+- Ritonavir is an example
+
+> Integrase inhibitors are the best-tolerated HIV class and the base of two-class therapy.
+
+Library: HIV treatment strategy and resistance
+Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+
+## Management
+
+- Start treatment as soon as possible, regardless of CD4 count
+- Two-class therapy: an integrase inhibitor plus one or two NRTIs (for example, dolutegravir plus lamivudine)
+
+## Resistance mutations
+
+| Mutation | Resistance to |
+|---|---|
+| K103N | NNRTIs |
+| TAMs (thymidine analog mutations in reverse transcriptase) | NRTIs zidovudine and stavudine |
+| M184V | NRTIs lamivudine and emtricitabine |
+
+> M184V causes resistance to lamivudine and emtricitabine.
+
+Library: Mechanisms of cell injury
+Folder: Foundations of Medicine / Week 8 / Pathology of Cell Injury and Death
+
+## Key findings
+
+The main targets of cell injury are the mitochondria, the cell membrane, the cytoskeleton, and DNA and protein synthesis.
+
+1. Mitochondrial damage lowers ATP production
+2. Membrane pumps fail
+3. Intracellular free calcium rises and directly damages membranes and mitochondria
+4. Reactive oxygen species form and cause more membrane, DNA, and mitochondrial damage
+
+> Rising intracellular calcium drives much of the damage in cell injury.
+
+Library: Reversible vs. irreversible cell injury
+Folder: Foundations of Medicine / Week 8 / Pathology of Cell Injury and Death
+
+## Key findings
+
+| Feature | Reversible | Irreversible |
+|---|---|---|
+| Cause | Mild stimulus; cell recovers when it's removed | Severe or prolonged stimulus with ATP depletion and membrane damage |
+| Electron microscopy | Ribosomes detach from rough ER; mitochondrial cristae preserved (the earliest changes) | Severe mitochondrial swelling with destroyed cristae; extensive membrane damage; lysosomal enzymes leak and digest the cell |
+| Light microscopy | Cellular swelling, hydropic degeneration (water droplets), fatty change (lipid droplets) | Nuclear changes and deeply eosinophilic cytoplasm from denatured proteins |
+
+## Nuclear changes of necrosis
+
+| Change | Meaning |
+|---|---|
+| Pyknosis | Shrinkage and condensation into a small, dense nucleus |
+| Karyorrhexis | Fragmentation of the nucleus |
+| Karyolysis | Dissolution of the nucleus |
+
+- In irreversible injury, calcium influx and release of enzymes into the tissue lead to necrosis
+
+> Pyknosis, karyorrhexis, and karyolysis mark irreversible injury.
+
+Library: Types of necrosis
+Folder: Foundations of Medicine / Week 8 / Pathology of Cell Injury and Death
+
+## Key findings
+
+| Type | Features | Typical setting |
+|---|---|---|
+| Coagulative | Cell outlines and architecture preserved early; protein denaturation makes cells deeply eosinophilic | Ischemia or infarction of heart, kidney, liver, spleen (not brain) |
+| Liquefactive | Enzyme digestion outpaces denaturation; architecture lost, tissue liquefies | Ischemia of the brain |
+| Caseous | Soft, white, "cream cheese" material; amorphous with no architecture | Tuberculosis |
+| Enzymatic fat | Chalky, pale foci in fat around the pancreas from released enzymes | Pancreatitis from alcohol or duct obstruction |
+| Fibrinoid | Fibrin deposits in damaged arterial walls | Vasculitis, hypertension |
+
+> Ischemia causes coagulative necrosis everywhere except the brain, where it's liquefactive.
