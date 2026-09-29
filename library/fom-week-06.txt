@@ -1,0 +1,1219 @@
+Foundations of Medicine, Week 6: Foundations of Immunology
+Sources: Week 6: Foundations of Immunology Review (including its disease summary table), and FOM Diseases & Drugs (Immunology, Hematology, and Immunosuppressants sections, plus cross-links noted on each page).
+The Week 6: Foundations of Immunology Review has no week subtitle, so folders use "Week 6: Foundations of Immunology" until the course title is confirmed.
+Last checked: September 29, 2026.
+
+Library: Immunopathology, tolerance, and immune privilege
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Overview of the Immune System
+
+## Immunopathology
+
+An inappropriate immune response is called immunopathology.
+
+| Type | Meaning |
+|---|---|
+| Immunodeficiency | Lack of a response |
+| Autoimmunity | A response against normal self antigens |
+| Molecular mimicry (cross-reactivity) | An appropriate response to a pathogen that also recognizes similar self antigens |
+
+## Danger signals
+
+Danger signals were traditionally thought of as "non-self," but the body also has to clear self material such as cancer cells, and it sometimes misidentifies self. The strict self vs. non-self model doesn't fully work.
+
+## Tolerance and privilege
+
+- Tolerance: some organisms enter without alerting the immune system, which can be helpful, as with the microbiome
+- Immune privilege: sites protected from damaging immune responses, such as the brain, the pregnant uterus, and the testes
+
+> Molecular mimicry is an appropriate response to a pathogen that also hits similar self antigens.
+
+Library: Barriers and lymphoid organs
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Overview of the Immune System
+
+## Natural barriers
+
+| Barrier | Key points | Lymphoid tissue |
+|---|---|---|
+| Skin | Mechanical barrier with antimicrobial substances; most microbes can't cross it, so they enter through mucous membranes | SALT (skin-associated) |
+| Mucous membranes | Respiratory, GI, and GU tracts | BALT (bronchus-associated), GALT (gut-associated) |
+
+## Lymphoid organs
+
+| Type | Organs |
+|---|---|
+| Primary | Bone marrow and thymus |
+| Secondary | Lymph nodes, spleen, mucosa-associated lymphoid tissue (tonsils), lymphatic vessels and lymph |
+
+> Bone marrow and thymus are the primary lymphoid organs.
+
+Library: Innate vs. adaptive immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Overview of the Immune System
+
+## Key findings
+
+| Feature | Innate | Adaptive |
+|---|---|---|
+| Speed | Very fast | Days to weeks |
+| Response | Preprogrammed and stereotyped; the same every time | Improves with repeat exposure |
+| Memory | None | Faster, stronger secondary response |
+| Recognition | Pattern recognition receptors encoded in germline DNA, which detect PAMPs (pathogen-associated) and DAMPs (damage-associated) | Rearranged B and T cell receptors |
+| Mechanisms | Phagocytosis, inflammation, cytotoxicity | Humoral (B cells and antibodies) and cell-mediated (cytotoxic T cells) |
+
+## How infections play out
+
+- Acute: dead neutrophils collect with dead tissue and pathogens as pus
+- Chronic: the infection can be walled off as an abscess
+- Disseminated: systemic infection can lead to sepsis
+
+## Resolution
+
+As a response winds down, cytokine production and chemotaxis fall, most plasma cells die by apoptosis, and pro-inflammatory helper T cells are replaced by anti-inflammatory ones.
+
+## Reticular dysgenesis
+
+A form of SCID affecting both innate and adaptive immunity, with agranulocytosis and lymphopenia; HSCT is the only treatment.
+
+> Innate immunity is fast and has no memory; adaptive immunity is slow the first time and faster after.
+
+Library: Innate immune cells: NK cells, macrophages, and neutrophils
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Key findings
+
+| Cell | Key points |
+|---|---|
+| Natural killer (NK) cells | Innate lymphoid cells with some lymphocyte features but no antigen receptors; activated by type I interferons and IL-12; kill cells that have lost MHC class I (often virus-infected); work in innate and adaptive immunity |
+| Macrophages | Derived from blood monocytes; indiscriminate phagocytes activated by TNF-alpha and IFN-gamma; antigen-presenting cells for adaptive immunity. M1 are pro-inflammatory, M2 anti-inflammatory |
+| Neutrophils | Circulate constantly and must extravasate (using selectins and integrins) to reach pathogens |
+
+- The innate system handles danger with inflammation, cytotoxicity, and phagocytosis
+
+> NK cells kill cells that have lost MHC class I.
+
+Library: Cytokines, chemokines, and interferons
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Cytokines
+
+Cytokines are messenger molecules that signal other cells in innate and adaptive immunity. Some are pro-inflammatory and some anti-inflammatory, and they're divided into interleukins, chemokines, and interferons.
+
+| Class | Key points |
+|---|---|
+| Interleukins | More than 50; regulate innate and adaptive responses |
+| Chemokines | Form chemical gradients that guide cell movement |
+| Interferons | Activate and regulate immunity; antiviral; interact with NK cells |
+
+## Chemokines
+
+- CXCL8 (IL-8) recruits neutrophils (and basophils) out of the blood, increases their migration, and raises endothelial adhesion molecules
+- WHIM syndrome (warts, hypogammaglobulinemia, infections, myelokathexis) comes from a CXCR4 chemokine receptor variant: neutrophils are retained in the marrow, causing neutropenia, and patients are prone to HPV warts
+
+## Interferons
+
+| Type | Members | Role |
+|---|---|---|
+| Type I | IFN-alpha, IFN-beta | Respond inside cells to viral infection and interfere with viral replication |
+| Type II | IFN-gamma | Activates macrophages |
+
+> CXCL8 (IL-8) is the main neutrophil chemoattractant.
+
+Library: Pro-inflammatory and anti-inflammatory cytokines
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Pro-inflammatory
+
+- IL-1-beta and TNF-alpha are the most important, along with IL-6 and IL-12
+- They can cause cell death by apoptosis (non-inflammatory) or pyroptosis (inflammatory)
+- Endogenous pyrogens (IL-1-beta, IL-6, TNF-alpha) cause fever, which slows most pathogens
+- IL-1-beta and TNF-alpha cause vasodilation
+
+## Anti-inflammatory
+
+- IL-10 and TGF-beta
+- IL-10 comes from macrophages and dendritic cells; it inhibits inflammatory cytokines, blocks innate cell activation by PAMPs, and dampens some adaptive responses
+
+## Drug link
+
+Etanercept is a decoy TNF receptor that keeps TNF-alpha from binding its real receptor, reducing inflammation in conditions such as rheumatoid arthritis.
+
+> IL-1-beta, IL-6, and TNF-alpha are the endogenous pyrogens.
+
+Library: Complement pathways
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Key findings
+
+- Complement is a cascade of plasma proteins, mostly made in the liver, that kills pathogens directly and indirectly
+- C3 is the pivotal component: it splits into C3a and C3b, and C3b deposition on microbes is needed to destroy them
+
+| Pathway | Trigger |
+|---|---|
+| Alternative | C3b lands directly on the pathogen membrane |
+| Lectin | Mannose-binding lectin (an acute phase reactant induced by IL-1, IL-6, and TNF) binds mannose on microbes |
+| Classical | IgM, IgG, or C-reactive protein on the pathogen activates C1 |
+
+## Functions
+
+- Lysis: C5b recruits C6, C7, C8, and C9 to form a pore (the membrane attack complex). Protectin and HRF block C9 recruitment and protect host cells
+- Opsonization: C3b (along with IgM and IgG) coats microbes, and macrophage receptors recognize it
+- Inflammation
+
+## Deficiencies
+
+| Deficiency | Result |
+|---|---|
+| Early components (C1-C4) | Higher risk of lupus and infections with encapsulated organisms |
+| Terminal components (C5-C9) | Neisseria bacteremia (N. meningitidis, N. gonorrhoeae); give meningococcal vaccine and prophylactic antibiotics |
+
+- CH50 screens the classical pathway and AH50 the alternative pathway
+
+> Terminal complement (C5-C9) deficiency causes recurrent Neisseria infections.
+
+Library: Paroxysmal nocturnal hemoglobinuria
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Mechanism
+
+PIGA (phosphatidylinositol glycan class A) makes the GPI lipid anchor shared by the complement regulators HRF, protectin (CD59), and decay accelerating factor (DAF). Without the anchor, these regulators are missing, and complement lyses fragile cells such as red blood cells (intravascular hemolysis).
+
+## Key findings
+
+- Dark urine
+- Low haptoglobin
+- Atypical venous thrombosis
+
+## Treatment
+
+Eculizumab is a monoclonal antibody that binds C5 and blocks its cleavage into C5a and C5b, stopping terminal complement. It improves anemia, thrombosis, and quality of life.
+
+> PNH is a PIGA defect that strips GPI-anchored complement regulators (CD59, DAF) from red cells.
+
+Library: Hereditary angioedema
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Mechanism
+
+C1 inhibitor (C1INH) keeps C1 activation in check. Without enough of it, bradykinin is overproduced, causing painless swelling.
+
+## Types
+
+| Type | Defect |
+|---|---|
+| Type I | Too little C1INH (heterozygous quantitative deficiency); autosomal dominant |
+| Type II | C1INH is present but doesn't work |
+| Type III | Factor XII gain of function activates the contact system |
+| Acquired | An antibody against C1INH |
+
+> Hereditary angioedema is bradykinin-driven swelling from too little or nonfunctional C1 inhibitor.
+
+Library: Toll-like receptors
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Key findings
+
+TLRs are pattern recognition receptors found on all cells. When activated, they signal macrophages and other cells to make cytokines.
+
+| Location | TLRs | Ligands |
+|---|---|---|
+| Cell surface | TLR1/2, TLR2/6, TLR4, TLR5, TLR10 | LPS (TLR2 and TLR4), flagella, teichoic acids, some fungal components |
+| Endosomal (internal) | TLR3 | Double-stranded RNA |
+| Endosomal (internal) | TLR7, TLR8 | Single-stranded RNA |
+| Endosomal (internal) | TLR9 | Unmethylated CpG DNA from bacteria and viruses |
+
+## Clinical links
+
+- TLR4 variants make people less responsive to LPS and more susceptible to septic shock
+- UNC93B, the trafficking chaperone for TLRs, and TLR3 defects cause susceptibility to herpes simplex virus
+- Imiquimod is a TLR7/8 agonist used as antiviral therapy
+
+> TLR4 recognizes LPS; TLR3, 7, 8, and 9 inside endosomes sense viral nucleic acids.
+
+Library: TLR signaling and NF-kappa-B defects
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Pathway
+
+1. MyD88 binds activated TLR4 (bound to LPS)
+2. IRAK4 binds MyD88 and starts a kinase cascade that activates TRAF6 and then IKK
+3. IKK phosphorylates I-kappa-B, which releases NF-kappa-B
+4. NF-kappa-B turns on genes for cytokines and adhesion molecules
+
+## Disorders
+
+| Disorder | Defect | Key findings |
+|---|---|---|
+| IRAK4 or MyD88 deficiency | TLR signaling molecules | Bacterial infections; autosomal recessive |
+| UNC93B/TLR3 deficiency | Endosomal TLR trafficking | Recurrent viral infections including HSV-1 |
+| NEMO deficiency | IKK-gamma (NF-kappa-B essential modulator) | Bacterial infections in children; incontinentia pigmenti, anhidrotic ectodermal dysplasia, conical or pegged teeth, abnormal hair whirls, impaired class switching |
+
+> NEMO (IKK-gamma) deficiency blocks NF-kappa-B activation and causes ectodermal dysplasia with infections.
+
+Library: Inflammasome and cytosolic sensors
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## NLRP3 inflammasome
+
+- NOD-like receptors (NLRs) are intracellular receptors for PAMPs from digested pathogens; NLRP3 (cryopyrin) is the most important
+- Activated NLRP3 forms the inflammasome and binds pro-caspase-1, which becomes caspase-1
+- Caspase-1 cleaves pro-IL-1-beta into IL-1-beta, a powerful cytokine made only when needed
+
+## Other sensors
+
+| Sensor | Detects | Result |
+|---|---|---|
+| STING | Cytosolic dsDNA | Type I interferons that inhibit viral replication |
+| RIG-I-like receptors (RLRs) | Cytoplasmic viral RNA | Type I interferons and cytokines; part of the normal response to COVID-19 |
+| C-type lectin receptors | Carbohydrates on fungi, mycobacteria, hepatitis C, HIV-1 | Dectin-1 pathway defects cause familial chronic mucocutaneous candidiasis |
+
+> The NLRP3 inflammasome activates caspase-1, which makes IL-1-beta.
+
+Library: Autoinflammatory diseases
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Key findings
+
+Autoinflammatory diseases are driven by the innate immune system; autoimmune diseases are driven by the adaptive immune system.
+
+| Disease | Cause | Key findings |
+|---|---|---|
+| Familial cold autoinflammatory syndrome (FCAS1) | NLRP3 gain of function; autosomal dominant | Rash after cold exposure from an overactive inflammasome |
+| Still disease (systemic juvenile idiopathic arthritis) | | Fever, rash, arthralgia, arthritis |
+| STING gain of function | STING | Autoinflammatory disease |
+
+> FCAS1 is an NLRP3 gain-of-function disease that causes a rash after cold exposure.
+
+Library: Neutrophil extravasation and leukocyte adhesion deficiency
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Steps
+
+| Step | Molecules |
+|---|---|
+| Margination | Stasis and slow flow push neutrophils against the endothelium |
+| Rolling | Endothelial selectins bind sialyl Lewis X on leukocytes. E-selectin is induced by TNF and IL-1; P-selectin is released from Weibel-Palade bodies, induced by histamine |
+| Adhesion | Neutrophil integrins (CD11/CD18) bind endothelial ICAM-1 |
+| Diapedesis | PECAM-1 between endothelial cells; guided by a CXCL8 gradient; collagenase pierces the basement membrane |
+| Chemotaxis | Follow gradients of bacterial products, chemokines, leukotrienes, and complement products |
+| Killing | PRRs bind PAMPs, and the organism is engulfed and killed with ROS, RNS, and enzymes |
+
+## Leukocyte adhesion deficiency
+
+| Type | Defect | Key findings |
+|---|---|---|
+| LAD-1 | CD18 integrin subunit | Neutrophils can't adhere; high blood neutrophil count; late umbilical cord separation (over 30 days), absent pus, poor wound healing; autosomal recessive |
+| LAD-2 | Sialyl Lewis X | Neutrophils can't roll; trouble fighting bacterial infections |
+
+> LAD-1 (CD18) causes delayed umbilical cord separation, high blood neutrophils, and no pus.
+
+Library: Neutrophil killing disorders: CGD and Chediak-Higashi
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Neutrophil weapons
+
+Granule components (lysozyme, defensins, myeloperoxidase, proteases) kill pathogens, and NADPH oxidase lets neutrophils make bleach.
+
+## Key findings
+
+| Disorder | Defect | Key findings | Treatment |
+|---|---|---|---|
+| Chronic granulomatous disease (CGD) | NADPH oxidase; X-linked or autosomal recessive | No oxidative burst; recurrent skin infections, pneumonia, osteomyelitis, and granulomas with catalase-positive organisms such as S. aureus; DHR flow test shows no burst | Lifelong antibiotics and antifungals (TMP-SMX with itraconazole); stem cell transplant is the only cure |
+| Chediak-Higashi syndrome | LYST (lysosomal trafficking regulator); autosomal recessive | Giant neutrophil granules that interfere with diapedesis and phagolysosome fusion; silvery blond hair and blue eyes; severe childhood infections; PLAIN: progressive neurodegeneration, lymphohistiocytosis, albinism, infections, neuropathy | HSCT has helped some patients |
+
+> Giant neutrophil granules with silvery hair point to Chediak-Higashi syndrome.
+
+Library: IL-12 and interferon-gamma pathway
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
+
+## Pathway
+
+1. TLR2 recognizes mycobacterial lipoproteins
+2. This induces IL-12 from macrophages and other cells
+3. IL-12 binds receptors on T cells and NK cells
+4. Through JAK-STAT signaling, they make IFN-gamma and TNF-alpha, which activate macrophages
+
+## Mendelian susceptibility to mycobacterial disease (MSMD)
+
+- A defect anywhere in the pathway (TLR2, IL-12, IL-12 receptor, or IFN-gamma) causes susceptibility to BCG, TB, non-TB mycobacteria, and Salmonella
+- IL-12 receptor deficiency is the most common cause; autosomal recessive; low IFN-gamma
+- BCGosis: infection with normally weak mycobacteria, often after BCG vaccination
+
+> Defects in the IL-12/IFN-gamma loop cause disseminated mycobacterial infection, often after BCG.
+
+Library: Acute inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
+
+## Purpose
+
+Inflammation responds to cell injury, removes necrotic cells, and starts tissue repair. Acute inflammation is driven by the innate response; chronic inflammation by the adaptive response.
+
+## Cardinal signs
+
+Rubor (redness), calor (heat), tumor (swelling), dolor (pain), and functio laesa (loss of function).
+
+## Causes
+
+Infection (often bacterial), tissue necrosis, hypoxia, ischemia, trauma, chemicals or toxins, foreign bodies, and immune reactions such as a bee sting.
+
+## Vascular changes
+
+| Change | Effect |
+|---|---|
+| Vasodilation (nitric oxide) | More blood flow, causing redness |
+| Vascular congestion | Blood backs up and flow slows (stasis) |
+| Increased permeability (histamine) | Protein-rich fluid leaks out, causing swelling and loss of function |
+| Neutrophil emigration | Neutrophils leave the microcirculation and gather at the site |
+
+> Histamine-driven vascular leakage causes the swelling of acute inflammation.
+
+Library: Macrophages, abscesses, and chronic inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
+
+## Macrophages
+
+- Arrive 2-3 days after injury, using the same steps as neutrophils
+- Ingest and destroy injurious agents and direct what follows: continued acute inflammation, chronic inflammation, or healing
+- Neutrophils mark acute inflammation, and macrophages take part in both acute and chronic
+
+## Continued acute inflammation
+
+Macrophages make IL-8 to recruit more neutrophils. Neutrophils and macrophages can't tell offender from host, so released microbicidal products damage normal tissue, forming an abscess (a localized collection of pus and necrotic tissue).
+
+## Chronic inflammation
+
+- Lasts weeks to years, following acute inflammation or starting insidiously
+- Causes: viral or persistent infections, autoimmune disease, prolonged toxic exposure
+- Dominated by mononuclear cells (lymphocytes and macrophages)
+- Granulomas are tight clusters of macrophages around infections or foreign material, most often in the lungs
+
+| Cell | Role |
+|---|---|
+| Macrophages | Clear microbes and dead tissue, start repair, secrete TNF, IL-1, and chemokines, present peptides to CD4 T cells |
+| T lymphocytes | Secrete cytokines and drive inflammation and adaptive responses |
+| B lymphocytes | Become plasma cells that make antibodies |
+
+> Granulomas are defined by clusters of macrophages.
+
+Library: Systemic effects of inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
+
+## Key findings
+
+- Fever
+- Acute phase proteins are made by the liver in response to IL-6, IL-1, and TNF
+
+| Acute phase protein | Effect |
+|---|---|
+| Fibrinogen | Stacks red cells into rouleaux so they settle faster; the basis of the erythrocyte sedimentation rate |
+| Hepcidin | Reduces iron absorption and availability, causing anemia of chronic disease |
+| Mannose-binding lectin | Binds mannose on microbes and starts the lectin complement pathway |
+
+## Leukocytosis
+
+| Inflammation | Change |
+|---|---|
+| Acute | Neutrophilia with a left shift (release of immature cells) |
+| Chronic | Lymphocytosis |
+
+> Fibrinogen causes rouleaux, which is why the ESR rises in inflammation.
+
+Library: Regeneration and repair
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
+
+## Regeneration
+
+Replacement with the same native tissue.
+
+| Tissue type | Capacity |
+|---|---|
+| Labile | Stem cells continuously regenerate the tissue |
+| Stable | Quiescent cells can re-enter the cell cycle |
+| Permanent | No reparative potential |
+
+## Repair
+
+Replacement with a fibrous scar, when stem cells are lost (as in a deep cut) or the tissue can't regenerate.
+
+## Skin healing
+
+| Type | How | Result |
+|---|---|---|
+| Primary intention | Wound edges closed with sutures or staples, as in surgical incisions | Small scar |
+| Secondary intention | New tissue fills from the base upward | Visible granulation tissue, large scar, higher infection risk |
+
+> Permanent tissues can't regenerate, so they heal by scarring.
+
+Library: Phases of wound healing
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
+
+## Key findings
+
+| Phase | Timing | Events |
+|---|---|---|
+| Inflammatory | 24-48 hours | Coagulation forms a clot; surface dehydration forms a scab; neutrophils clear debris with proteolytic enzymes |
+| Proliferative | 3-7 days | Macrophages replace neutrophils; granulation tissue fills the wound; fibroblasts lay down type III collagen; angiogenesis; epithelial proliferation; myofibroblasts contract the wound |
+| Remodeling | 1 week to 6 months | Fibroblasts replace type III collagen with type I, increasing tensile strength |
+
+> Remodeling replaces type III collagen with type I, which strengthens the scar.
+
+Library: Abnormal wound healing
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
+
+## Key findings
+
+| Problem | Key points |
+|---|---|
+| Wound dehiscence | Rupture of a closed wound under mechanical stress or pressure |
+| Ulceration | Surface cells die and slough, leaving an excavation; poor circulation from atherosclerosis can cause it |
+| Keloid | Excess collagen forms a raised scar that grows beyond the original wound |
+| Contracture | Exaggerated wound contraction that deforms tissue and can limit joint movement; common after burns |
+
+> A keloid grows beyond the borders of the original wound.
+
+Library: Lymphocyte development and selection
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / The Adaptive Immune System
+
+## Key findings
+
+- B and T cells both come from bone marrow stem cells and build antigen receptors as they develop
+- B cells develop entirely in the bone marrow; T cells finish in the thymus
+- "Education" is really survival of the fittest: checkpoints test each receptor, and self-reactive cells must be removed by apoptosis or autoimmunity results
+
+## B cells
+
+- Random gene rearrangement builds the receptor, with checkpoints for a usable gene and for self-reactivity
+- The B cell receptor is membrane-bound immunoglobulin; plasma cells secrete free antibody
+- Mature B cells carry IgM and IgD before activation
+
+## T cells in the thymus
+
+| Stage | Surface markers |
+|---|---|
+| Pro-T cell | Double negative (no CD4 or CD8) |
+| Immature T cell | Double positive (CD4 and CD8) |
+| Mature T cell | CD4 or CD8 |
+
+- The thymus displays self antigens to test developing T cells, which must recognize self-MHC with some, but not too much, strength
+- Negative selection removes cells that bind self too strongly
+- Positive selection: cells recognizing MHC class I lose CD4 and become CD8 cells; cells recognizing MHC class II lose CD8 and become CD4 cells
+
+> T cells that recognize MHC class I become CD8 cells; those that recognize class II become CD4 cells.
+
+Library: DiGeorge syndrome and APECED
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / The Adaptive Immune System
+
+## DiGeorge syndrome
+
+- 22q11.2 deletion; failure of the 3rd and 4th pharyngeal pouches affects the thymus, parathyroids, heart, and other midline structures
+- Complete form: no thymus, no functional T cells, hypocalcemia
+- CATCH-22: cardiac defects, abnormal facies, thymic hypoplasia, cleft palate, hypocalcemia, 22q11
+- No thymic shadow on chest X-ray; low T cells, low PTH, low calcium
+- Treatment: thymus transplant
+
+## APECED (APS-1)
+
+- AIRE runs the thymus's library of self antigens
+- AIRE variants cause autoimmune disease, especially endocrine disease, plus chronic mucocutaneous candidiasis; the IL-17 family is involved
+
+> DiGeorge syndrome (22q11) causes absent thymus, hypocalcemia, and heart defects.
+
+Library: Antibody structure
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Key findings
+
+- Five classes: IgG, IgA, IgM, IgE, IgD
+- Each antibody has two identical heavy chains and two identical light chains, from genes on different chromosomes, held together by disulfide bonds
+- The variable region at the N terminus binds antigen; the constant region at the C terminus is nearly the same across antibodies
+
+| Chain | Domains | Types |
+|---|---|---|
+| Heavy | One variable and three or four constant (CH1-CH4) | Gamma, alpha, mu, epsilon, delta, which set the antibody class |
+| Light | One variable and one constant | Kappa and lambda; kappa outnumbers lambda 2:1 |
+
+- Each heavy and light chain has three hypervariable regions (complementarity-determining regions, CDRs) at the tip that bind antigen
+
+> The heavy chain type determines the antibody class.
+
+Library: Papain and pepsin antibody fragments
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Key findings
+
+| Enzyme | Cut | Products |
+|---|---|---|
+| Papain | Flexible hinge, breaking the disulfide link between heavy chains | Two Fab fragments (each a heavy-light chain pair that still binds antigen) and one Fc fragment (the constant stem) |
+| Pepsin | Hinge at a different spot | One F(ab')2 (both antigen-binding arms still linked); the stem is degraded |
+
+> Papain gives two Fab and one Fc; pepsin gives one F(ab')2.
+
+Library: Hybridomas and monoclonal antibodies
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Making monoclonal antibodies
+
+- Immunizing an animal gives polyclonal antibodies with many specificities
+- To make one specificity (monoclonal), B cells from the immunized animal are fused with cancer cells to make immortal hybridomas, which are cloned and screened for the right antibody
+
+## Engineering
+
+| Type | Suffix | Construction |
+|---|---|---|
+| Murine | -omab | Fully mouse; humans react to it as foreign, including severe allergy or anaphylaxis |
+| Chimeric | -ximab | Mouse variable regions on a human constant framework |
+| Humanized | -zumab | Only the mouse hypervariable regions on a human framework |
+| Human | -umab | 100% human |
+
+> Hybridomas fuse B cells with cancer cells to make an immortal source of one antibody.
+
+Library: T cell receptor structure
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Key findings
+
+- The T cell receptor resembles the Fab portion of an antibody
+- It's a dimer of alpha and beta chains (alpha-beta T cells); gamma-delta T cells are another clinically significant population
+- Each chain has one variable and one constant region, and the variable regions have CDRs
+- The alpha chain corresponds to the antibody light chain, and the beta chain to the heavy chain
+
+> The alpha chain is like a light chain, and the beta chain is like a heavy chain.
+
+Library: V(D)J recombination and TRECs
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Key findings
+
+| Chain | Segments | Assembly |
+|---|---|---|
+| Antibody light chain and TCR alpha | Many V, a few J | One V joins one J (VJ); DNA between them is looped out |
+| Antibody heavy chain and TCR beta | V, D, J | D joins J, then DJ joins V (VDJ) |
+
+## Junctional diversity
+
+Imprecise joining adds diversity. RAG-1/2 cut the DNA, and the hairpin ends are opened with added palindromic (P) nucleotides, plus random N nucleotides.
+
+## Excision circles
+
+- The looped-out DNA forms B cell and T cell receptor excision circles (BRECs and TRECs)
+- Newborn screening counts TRECs; a low count signals a T cell development problem such as SCID
+
+> A low TREC count on newborn screening points to SCID.
+
+Library: Recombination disorders: Omenn syndrome, ataxia telangiectasia, and CD3 deficiency
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Key findings
+
+| Disorder | Defect | Key findings |
+|---|---|---|
+| RAG1/2 deficiency | No V(D)J recombination | SCID with no B or T cells (T-B-NK+); autosomal recessive; HSCT |
+| Omenn syndrome | Partial RAG function ("leaky SCID") | No B cells, abnormal T cells; erythroderma, eosinophilia, lymphadenopathy, alopecia, hepatosplenomegaly |
+| Ataxia telangiectasia | ATM DNA repair defect | Immunodeficiency because receptor assembly needs DNA repair; radiation sensitivity and malignancy; high AFP; ataxia appears before telangiectasias; autosomal recessive |
+| CD3 deficiency | CD3 signaling part of the TCR complex | SCID with absent T cells and present B and NK cells (T-B+NK+); autosomal recessive |
+| Burkitt lymphoma | t(8;14) moves MYC to the immunoglobulin heavy chain locus | Unregulated MYC expression |
+
+> Omenn syndrome is leaky SCID from partial RAG function, with erythroderma and eosinophilia.
+
+Library: Class switching
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Key findings
+
+- A mature naive B cell carries IgM and IgD
+- Under direction from cytokines in its environment, the B cell pairs its VDJ with a different heavy chain gene
+- The intervening DNA is looped out so the new constant region sits next to the VDJ
+- The antigen specificity stays the same; only the class changes
+- Class switching happens in germinal centers and needs CD40-CD40L interaction with helper T cells
+
+## Memory hook for heavy chain gene order
+
+"My Dear Great-Grandfather And Great-Grandmother Eat Apples"
+
+> Class switching changes the heavy chain constant region but keeps the same VDJ and specificity.
+
+Library: Antigens, epitopes, and haptens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Key findings
+
+| Term | Meaning |
+|---|---|
+| Antigen | Anything that can induce an adaptive response: proteins, glycoproteins, carbohydrates, nucleic acids |
+| Hapten | Small molecule that becomes antigenic only when attached to a carrier protein |
+| Epitope | The part of an antigen the immune system recognizes; linear (consecutive amino acids) or conformational (distant amino acids brought together by folding) |
+| Affinity | Total attractive and repulsive force between one epitope and one antibody |
+| Avidity | The same idea across multiple epitopes or antibodies |
+
+## B cell vs. T cell recognition
+
+B cell receptors bind parts of large intact proteins or carbohydrates. T cell receptors need antigen-presenting cells to process proteins into peptides and display them on MHC.
+
+> B cells see intact antigen; T cells only see processed peptides on MHC.
+
+Library: Molecular mimicry and rheumatic fever
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
+
+## Key findings
+
+- An antibody made against a pathogen epitope can recognize an identical or similar sequence on a self protein
+- Rheumatic fever follows Streptococcus pyogenes pharyngitis: anti-strep antibodies cross-react with heart, joint, and other antigens
+- This is a type II hypersensitivity reaction that can destroy heart valves
+- Sydenham chorea is another manifestation; the M protein is the major virulence factor of group A strep
+
+> Rheumatic fever is type II hypersensitivity from anti-strep antibodies cross-reacting with heart tissue.
+
+Library: Antibody neutralization
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Antibody Function
+
+## Blocking entry
+
+- Some viruses and bacteria must attach to specific host receptors or adhesion molecules to get in, and antibodies can block this
+- IgA blocks entry at mucosal surfaces; IgG and IgA both neutralize
+- The COVID-19 vaccine induces neutralizing antibodies that stop the viral S protein from binding its receptor
+
+## Toxin neutralization
+
+- In diseases such as tetanus and diphtheria, the toxin rather than the organism does the damage
+- High-affinity antibodies bind the toxin and block it from its receptor: IgG in body tissues, IgA on mucosal surfaces
+- The tetanus shot induces IgG against tetanospasmin, the Clostridium tetani neurotoxin that causes lockjaw
+
+> The tetanus vaccine works by inducing IgG that neutralizes tetanospasmin.
+
+Library: Opsonization, Fc receptors, and FcRn
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Antibody Function
+
+## Opsonization
+
+- Antibody binding alone doesn't eliminate a pathogen; it tags it for other cells
+- Neutrophils, monocytes, and macrophages have Fc receptors that bind the antibody and trigger phagocytosis
+- Fc receptors are class-specific and named for the heavy chain they bind; some are inhibitory
+- FcεRI on mast cells triggers activation and allergic reactions when antigen cross-links bound IgE
+
+## FcRn (Brambell receptor)
+
+- Protects IgG from endosomal degradation, extending its time in circulation
+- Actively transports maternal IgG across the placenta, so a newborn can have higher IgG levels than the mother
+- It can't screen out harmful maternal autoantibodies
+
+## Transient hypogammaglobulinemia of infancy
+
+As maternal IgG naturally declines, a delay in the baby's own antibody production leaves total IgG low (for more than 6 months). It causes more infections and resolves with time.
+
+> FcRn carries maternal IgG across the placenta and protects IgG from degradation.
+
+Library: ADCC and immune complex clearance
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Antibody Function
+
+## ADCC
+
+NK cells have Fc receptors. When they bind antibody on a target cell, the Fc receptors cross-link and activate the NK cell, and the target dies by apoptosis rather than phagocytosis. This is antibody-dependent cellular cytotoxicity (ADCC), carried out with IgG1 and IgG3.
+
+## Complement and immune complexes
+
+- Antibodies activate the classical complement pathway, leading to opsonization, inflammation, and lysis
+- Antigen-antibody immune complexes are tagged with C4b and C3b
+- Red blood cells carry complement receptor 1 (CR1), bind tagged complexes, and are cleaned of them in the spleen and liver
+- Without this, complexes would deposit in small vessel basement membranes
+
+## Systemic lupus erythematosus
+
+Widespread immune complex deposition plus autoantibodies. Kidney deposition damages glomeruli and can cause renal failure. Some people develop lupus-like disease because they can't tag immune complexes with C4b or C3b.
+
+> Red cells use CR1 to carry immune complexes to the spleen and liver for clearance.
+
+Library: Antibody classes and functions
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Antibody Function
+
+## Classes
+
+| Class | Key points |
+|---|---|
+| IgM | Secreted as a pentamer; first antibody in a response; potent complement activator |
+| IgD | Function in serum unknown; B cell co-receptor |
+| IgG | Most abundant in serum; neutralizes, opsonizes, fixes complement; crosses the placenta |
+| IgA | Monomer when made in lymph nodes and spleen; dimer (joined by the J chain, like IgM) when made in mucosal lymphoid tissue; dimeric IgA protects mucosal surfaces |
+| IgE | Defense against parasites; allergic sensitization and reactions |
+
+## Functions
+
+| Function | Antibody |
+|---|---|
+| Neutralization | IgG, IgA |
+| Opsonization | IgG |
+| ADCC | IgG1, IgG3 |
+| Sensitizing mast cells | IgE |
+| Complement activation | IgM, IgG |
+| Epithelial transport | Dimeric IgA |
+| Placental transport | IgG |
+| Diffusion into tissue | IgG, monomeric IgA |
+
+> IgG is the only antibody that crosses the placenta.
+
+Library: MHC class I and class II
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / T Cell Receptors and the MHC
+
+## Antigen presentation
+
+T cells need antigens pre-digested. Antigen-presenting cells (macrophages, dendritic cells, B cells) process antigens into peptides and load them onto MHC. MHC binds peptides non-specifically, and a T cell receptor must recognize both the peptide and the MHC.
+
+## Key findings
+
+| Feature | MHC class I | MHC class II |
+|---|---|---|
+| Structure | One alpha chain plus beta-2-microglobulin | Alpha and beta chains |
+| Genes | HLA-A, HLA-B, HLA-C | HLA-DP, HLA-DQ, HLA-DR |
+| Expressed on | All nucleated cells | Professional antigen-presenting cells |
+| Presents to | CD8 cytotoxic T cells | CD4 helper T cells |
+| Antigen source | Inside the cell (such as viruses) | Outside the cell |
+
+## Genetics
+
+- MHC genes (HLA) sit close together on chromosome 6 and are inherited as a haplotype
+- Each gene is highly polymorphic, and both parental alleles are expressed
+- MHC polymorphisms determine which peptides a person's MHC can bind
+
+> CD8 T cells see peptides on MHC class I; CD4 T cells see peptides on MHC class II.
+
+Library: HLA typing and disease associations
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / T Cell Receptors and the MHC
+
+## Key findings
+
+- HLA typing is used for transplant matching, paternity testing, and forensics
+- Some forms of arthritis are associated with HLA-B27
+- HLA typing can predict drug reactions: patients with HLA-B*57:01 are at high risk of severe hypersensitivity to abacavir (an HIV drug), and the FDA recommends screening before starting it
+
+> Screen for HLA-B*57:01 before starting abacavir.
+
+Library: Antigen processing pathways
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / T Cell Receptors and the MHC
+
+## Key findings
+
+| Pathway | Antigen source | Processing | Loaded onto |
+|---|---|---|---|
+| Endogenous | Intracellular (such as viral proteins) | Proteasomes cut proteins into peptides; TAP (transporter associated with antigen processing) moves them into the ER | MHC class I |
+| Exogenous | Extracellular, taken in by endocytosis, phagocytosis, or receptor-mediated endocytosis | Peptides are made in the phagolysosome | MHC class II |
+
+- Infected cells can modify their proteasomes to make peptides that fit MHC class I better
+
+## Bare lymphocyte syndromes
+
+| Disorder | Defect | Key findings |
+|---|---|---|
+| TAP1/TAP2 deficiency | Peptides can't reach MHC class I | Poor CD8 T cell responses; frequent viral, bacterial, fungal, and protozoal infections; autosomal recessive |
+| MHC class II deficiency | Defective HLA synthesis (affects class I and class II despite the name) | Bare lymphocyte syndrome; autosomal recessive |
+
+> TAP moves proteasome peptides into the ER for loading onto MHC class I.
+
+Library: Transplant matching and rejection
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / T Cell Receptors and the MHC
+
+## Matching
+
+- Matching donor and recipient for MHC class I (HLA-A, -B, -C) delays rejection
+- ABO antigens are on red cells and the vascular endothelium of solid organs
+- People with type O, A, or B blood make IgM (isohemagglutinins) against the ABO antigens they lack
+
+## Rejection
+
+| Type | Timing | Mechanism |
+|---|---|---|
+| Hyperacute | Immediate | Pre-formed antibody (ABO mismatch or other anti-donor antibodies); massive thrombosis; hard to stop |
+| Acute | Days to months | T cell or antibody mediated; treated with immunosuppressants |
+| Chronic | Months to years | Arteriosclerosis of the graft |
+| Graft-versus-host | | Donor T cells attack an immunocompromised host |
+
+> Hyperacute rejection is caused by pre-formed antibodies, most often from an ABO mismatch.
+
+Library: Allergy, atopy, and TSLP
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
+
+## Allergy
+
+- Allergy is a specific mechanism (IgE-dependent type I hypersensitivity), not a diagnosis
+- Some reactions called allergies, such as certain food aversions, don't follow a type I mechanism
+- Allergic diseases can be triggered by type I mechanisms, other immune mechanisms, or non-immunologic mechanisms
+- Symptomatic allergic disease needs both an allergic disease and allergen-specific IgE that can activate mast cells and basophils
+- Allergic sensitization is the development of IgE to inhaled, ingested, or absorbed allergens
+
+## Atopy
+
+- Asthma, rhinitis, and atopic dermatitis
+- Runs in families and tends to progress within a person from atopic dermatitis in infancy to rhinitis to asthma (the atopic march)
+
+## TSLP
+
+Thymic stromal lymphopoietin, made by airway epithelium, activates ILC2 cells that make Th2-type cytokines, a non-IgE route to allergic symptoms that matters in asthma. Tezepelumab is a monoclonal antibody against TSLP for severe asthma.
+
+> The atopic march runs from atopic dermatitis to rhinitis to asthma.
+
+Library: Type I hypersensitivity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
+
+## Mechanism
+
+FcεRI, the high-affinity IgE receptor on mast cells, basophils, and activated eosinophils, holds IgE until allergen arrives. Allergen cross-links the IgE, the receptors aggregate, and the cell releases its mediators.
+
+## Effector cells
+
+| Cell | Key points |
+|---|---|
+| Mast cells | In tissues; activated by IgE or non-IgE mechanisms; release histamine, leukotrienes, and cytokines; tryptase is the marker of mast cell activation |
+| Basophils | In circulation; similar mediators to mast cells but no tryptase |
+| Eosinophils | Chronic eosinophilic inflammation is the hallmark of allergic disease; recruited by IL-5 (from ILC2 cells), cytokines, chemokines, leukotrienes, and PAF; toxic granule proteins (MBP, ECP, EDN) also fight parasites |
+
+## Mediators
+
+- Histamine: H1 and H4 receptors cause most asthma and rhinitis symptoms; antihistamines are H1 inverse agonists
+- Leukotrienes: made on activation; cause inflammation, smooth muscle contraction, and mucus via CysLT1; antileukotrienes block CysLT1
+- Cytokines and chemokines: amplify IgE synthesis and recruit cells
+
+## Receptors
+
+- FcεRI (high affinity): mast cells, basophils, eosinophils; leads to activation
+- FcεRII (low affinity): eosinophils, platelets, dendritic cells; leads to receptor-mediated endocytosis
+
+## Phases
+
+| Phase | Driver |
+|---|---|
+| Early | Histamine from mast cells and basophils |
+| Late | Eosinophilic inflammation with toxic mediators and cytokines |
+
+> Tryptase is specific to mast cells, not basophils.
+
+Library: Allergic diseases and anaphylaxis
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
+
+## Key findings
+
+| Disease | Mechanism |
+|---|---|
+| Rhinitis and asthma | Mostly IgE-dependent, usually from inhaled allergens; the TSLP-ILC2 pathway also contributes |
+| Atopic dermatitis | IgE-dependent; one cause of eczema |
+| Food allergy | IgE-dependent; can trigger asthma, rhinitis, atopic dermatitis, or anaphylaxis |
+| Urticaria and angioedema | Rarely IgE-dependent in adults, where an autoantibody to FcεRI is the most frequent cause; IgE-dependent is more common in children |
+
+- Anaphylactic reactions are IgE-dependent; anaphylactoid reactions come from other mechanisms
+
+> Chronic urticaria in adults is most often caused by an autoantibody to FcεRI, not IgE.
+
+Library: Biologics for allergic and eosinophilic disease
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
+
+## Key findings
+
+| Drug | Target | Use |
+|---|---|---|
+| Omalizumab | IgE (blocks binding to FcεRI) | Allergic asthma, chronic urticaria |
+| Mepolizumab | IL-5 (blocks eosinophil differentiation, maturation, activation) | Eosinophilic asthma, chronic rhinosinusitis, hypereosinophilic syndrome, eosinophilic granulomatosis |
+| Benralizumab | IL-5 receptor alpha chain on eosinophils; recruits NK cells that kill eosinophils by apoptosis | Eosinophilic disease |
+| Tezepelumab | TSLP | Severe asthma |
+
+> Omalizumab binds IgE; mepolizumab binds IL-5.
+
+Library: Type II hypersensitivity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
+
+## Mechanism
+
+IgG or IgM binds antigens on cells or extracellular matrix, causing cell destruction, loss of function, or tissue damage; it can activate complement.
+
+## Key findings
+
+| Subtype | Examples |
+|---|---|
+| Cytotoxic | Penicillin-induced hemolytic anemia, hemolytic disease of the newborn, autoimmune hemolytic anemia, transfusion reactions, hyperacute transplant rejection, rheumatic fever |
+| Stimulatory or blocking | Antibody to TSH receptor that stimulates it (hyperthyroidism) or blocks it (hypothyroidism); antibody to FcεRI that activates mast cells (autoimmune chronic urticaria) |
+
+> Type II hypersensitivity is antibody against a fixed antigen on a cell or matrix.
+
+Library: Type III hypersensitivity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
+
+## Mechanism
+
+Circulating antigen and antibody form immune complexes, whose size depends on the relative amounts of each.
+
+| Complex size | Fate |
+|---|---|
+| Large | Activate complement well and are usually cleared without trouble |
+| Medium | Trapped in small vessels; activate complement, causing vasculitis |
+| Small | Pass into tissues and are degraded |
+
+## Examples
+
+| Reaction | Key points |
+|---|---|
+| Arthus reaction | Localized: complement activation in skin or tissue after injecting antigen into a sensitized person |
+| Serum sickness | Systemic: rash, arthritis, fever; symptoms fade as antigen is cleared and antibody is in excess; some infections cause it |
+| Hypersensitivity pneumonitis | Localized: inhaled antigen provokes IgG, and complexes deposit in the alveoli |
+| Others from the course | Lupus, hepatitis B, post-streptococcal glomerulonephritis |
+
+> Medium-sized immune complexes get trapped in small vessels and cause vasculitis.
+
+Library: Type IV hypersensitivity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
+
+## Key findings
+
+- Cell-mediated, delayed hypersensitivity driven by T cells
+- Direct cytotoxicity: CD8 cytotoxic T cells in a Th1 response
+- Indirect cytotoxicity: MHC II → CD4 T cells → CD8 T cells and macrophages
+- Examples: contact dermatitis (poison ivy), tuberculin skin test, tuberculosis, measles, mumps, graft-versus-host disease
+- Delayed hypersensitivity skin testing uses recall antigens to check T cell function
+
+> Type IV hypersensitivity is T cell mediated and delayed, as in the tuberculin skin test.
+
+Library: B cell trafficking and activation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
+
+## Trafficking
+
+B cells leave the marrow and circulate through secondary lymphoid organs, entering lymph nodes from the blood and leaving through efferent lymphatics. They live a few days, and those that don't meet antigen die and are replaced.
+
+## Activation
+
+1. The B cell binds antigen and takes it in by receptor-mediated endocytosis
+2. It digests the antigen into peptides and loads them onto MHC class II
+3. In the T cell zone it presents them to CD4 helper T cells; MHC II-CD4 binding comes with CD40-CD40L binding
+
+## Outcomes
+
+| Response | What happens |
+|---|---|
+| Primary | Activated B cells move to the medulla and become plasma cells secreting IgM |
+| Germinal center | Other B cells form a secondary follicle with a germinal center for class switching and affinity maturation |
+| Memory | Memory B cells persist and rapidly become plasma cells on re-exposure (secondary response) |
+
+> CD40-CD40L binding between B cells and helper T cells is needed for class switching.
+
+Library: T-independent antigens and conjugate vaccines
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
+
+## T-independent activation
+
+- Polyvalent antigens such as polysaccharides can activate B cells without T cells by aggregating receptors
+- The result is IgM only, with no class switching
+
+## Conjugate vaccines
+
+Many important bacterial antigens are polysaccharides, but MHC class II only presents peptides. Attaching a small immunogenic protein to the polysaccharide solves this: B cells bind the polysaccharide, take in the conjugate, and present the protein peptides on MHC class II to helper T cells, which then drive a class-switched antibody response to the polysaccharide.
+
+> Conjugating a protein to a polysaccharide recruits T cell help and gets a class-switched response.
+
+Library: Cytotoxic T cell activation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
+
+## Activation
+
+- Dendritic cells present peptide on MHC class I to the T cell receptor, stabilized by CD8
+- A second signal, B7 on the antigen-presenting cell binding CD28 on the T cell, prevents unwanted activation
+- Dendritic cells express B7 naturally; macrophages need adjuvants to induce it
+- Calcineurin, a phosphatase, relays the activation signal to the nucleus; tacrolimus inhibits it
+
+## Killing
+
+- Activated cytotoxic T cells leave the lymph node and find cells with the matching peptide-MHC I
+- Lytic granules deliver perforin and granzyme B, or the T cell triggers classic apoptosis
+- They release IFN-gamma, which inhibits viral replication, boosts antigen processing, and activates macrophages to clear dying cells
+
+> T cell activation needs both peptide-MHC and costimulation (B7 binding CD28).
+
+Library: Helper T cell subsets and innate lymphoid cells
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
+
+## Helper T cells
+
+| Subset | Trigger | Output |
+|---|---|---|
+| Th1 | MHC II on virally infected APCs, which release IL-12 and IFN-gamma | Cytokines that activate cytotoxic T cells |
+| Th2 | MHC II on B cells | IL-4 |
+| Th17 | | IL-17; works with neutrophils; important in autoimmune disease |
+| Treg | TGF-beta | Regulates CD4 and CD8 cells |
+
+## Innate lymphoid cells
+
+ILCs have no antigen receptors but produce lymphocyte-like cytokine profiles.
+
+| ILC | Matching Th | Role and cytokines |
+|---|---|---|
+| ILC1 | Th1 | Antiviral; IFN-gamma |
+| ILC2 | Th2 | Parasites and allergic inflammation; IL-5, IL-13 |
+| ILC3 | Th17 | IL-17, IL-22 |
+
+> Th17 cells make IL-17 and recruit neutrophils; Tregs are activated by TGF-beta.
+
+Library: Cytokine receptors and JAK-STAT
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
+
+## Key findings
+
+- Cytokines bind receptor subunits, and subunit aggregation activates receptor-associated tyrosine kinases
+- JAK (Janus kinase) is the tyrosine kinase, and it phosphorylates STAT (signal transducer and activator of transcription), which carries the signal to the nucleus
+- Jakinibs are anti-inflammatory drugs that inhibit this pathway
+- The receptors for IL-2, 4, 7, 9, and 15 share a common gamma chain, so defects in it cause SCID
+
+> JAK phosphorylates STAT, which carries cytokine signals to the nucleus.
+
+Library: Glucocorticoids
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunosuppressants
+
+## Classes of immunosuppressants
+
+Glucocorticoids, calcineurin inhibitors, antiproliferative (antimetabolic) agents, and polyclonal and monoclonal antibodies.
+
+## Mechanism
+
+Interfere with the cell cycle of activated lymphoid cells and inhibit production of inflammatory mediators.
+
+## Uses
+
+First-line immunosuppression: organ rejection, graft-versus-host disease, rheumatoid arthritis, inflammatory bowel disease, warm autoimmune hemolytic anemia. Examples include prednisone, prednisolone, hydrocortisone, and dexamethasone.
+
+## Side effects
+
+- Protein breakdown, with amino acids diverted to glucose production
+- Hyperglycemia leading to diabetes
+- Avascular (aseptic) necrosis of bone
+- Iatrogenic Cushing syndrome (moon facies, buffalo hump)
+- Myopathy
+- Hypertension
+
+> Glucocorticoids are first-line immunosuppressants, with Cushing syndrome and avascular necrosis as classic side effects.
+
+Library: Calcineurin inhibitors and antiproliferative drugs
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunosuppressants
+
+## Calcineurin inhibitors
+
+| Drug | Mechanism | Uses | Side effects |
+|---|---|---|---|
+| Cyclosporine, tacrolimus | Inhibit calcineurin, blocking IL-2 transcription and T cell activation | Transplants, graft-versus-host disease, autoimmune disease | Nephrotoxicity, neurotoxicity, hypertension, hyperlipidemia, hyperglycemia |
+
+## Antiproliferative drugs
+
+Affect lymphocyte proliferation; used to prevent transplant rejection and treat autoimmune disease. Many resemble drugs for leukemia and lymphoma, so they cause bone marrow suppression and GI upset (nausea, vomiting, diarrhea).
+
+| Drug | Mechanism |
+|---|---|
+| Sirolimus | Inhibits mTOR, blocking the cell's response to IL-2 |
+| Mycophenolate mofetil | Inhibits IMP dehydrogenase, blocking purine synthesis in B and T cells |
+| Azathioprine | Prodrug of 6-mercaptopurine |
+| Methotrexate | Inhibits dihydrofolate reductase |
+| Cyclophosphamide | Alkylating agent |
+
+> Calcineurin inhibitors block IL-2 transcription and are nephrotoxic.
+
+Library: Antibody and fusion protein immunosuppressants
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunosuppressants
+
+## Polyclonal antibodies
+
+Antithymocyte globulin (ATG) and antilymphocyte globulin (ALG), made in horses or rabbits, recognize many T cell antigens including HLA class I and II, block lymphocyte function, and kill lymphocytes. Side effects: fever and chills, and patients can make antibodies against the host animal's globulin.
+
+## Monoclonal antibodies
+
+| Drug | Target | Key points |
+|---|---|---|
+| Muromonab-CD3 (OKT3) | CD3 on T cells | Rapid T cell deletion; used for acute and steroid-resistant rejection; human anti-mouse antibody (HAMA) reaction and cytokine release syndrome |
+| Adalimumab, golimumab | TNF-alpha | Suppress inflammatory cytokines and adhesion molecules |
+| Infliximab, certolizumab | TNF-alpha | Same mechanism; used in rheumatoid arthritis (infliximab also Crohn disease) |
+
+## Fusion proteins
+
+| Drug | Construction | Mechanism |
+|---|---|---|
+| Alefacept | IgG Fc fused to the CD2-binding part of LFA-3 | Binds CD2 on T cells and blocks activation; used for plaque psoriasis |
+| Etanercept | IgG fused to the TNF receptor | Binds TNF-alpha and beta so they can't reach their receptors |
+
+- Latent TB can reactivate on TNF inhibitors, so screen with PPD or IGRA first
+
+> Screen for latent TB before starting a TNF inhibitor.
+
+Library: Immunodeficiency workup
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
+
+## First-line tests
+
+| Test | Purpose |
+|---|---|
+| CBC with differential | Counts of each white cell type |
+| Immunoglobulin levels (IgG, IgM, IgA, IgE) | All low in SCID; two or more low suggests CVID; very high in HIV and CGD |
+| Delayed hypersensitivity skin testing | Screens T cell function with recall antigens (type IV response) |
+| HIV-1 PCR | Rules out HIV in suspected immunodeficiency |
+| TREC results from newborn screening | Detects congenital lymphopenia |
+| CH50 and AH50 | Screen the classical and alternative complement pathways |
+
+## Second-line tests
+
+| Test | Purpose |
+|---|---|
+| Functional antibody studies | IgM isohemagglutinin titers, IgG responses to childhood vaccines, IgE allergy testing |
+| Lymphocyte flow cytometry (T-B-NK panel) | Separates SCID types; shows absent B cells in XLA even when total lymphocytes look normal |
+| DHR (dihydrorhodamine) test | Flow test of neutrophil respiratory burst; no response in CGD |
+| Mitogen and antigen stimulation | Nonspecific and specific lymphocyte activation |
+| Genotyping | Definitive diagnosis and genetic counseling |
+
+> The DHR flow test detects the absent respiratory burst of CGD.
+
+Library: Immunodeficiency phenotypes
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
+
+## Key findings
+
+| Phenotype | Typical infections and clues | Examples |
+|---|---|---|
+| Combined (SCID) | "Walking agar plate": bacterial, viral, fungal, and protozoal infections in an older infant; low lymphocyte count | SCID types |
+| T cell dysfunction | Viral, fungal, and protozoal infections | DiGeorge syndrome |
+| Hyper-IgM | Normal or high IgM with low other classes (class switching defect); features of antibody and T cell deficiency | CD40L or CD40 deficiency |
+| Antibody deficiency | Variable, but usually handle infections that need T cells | XLA, selective IgA deficiency, CVID |
+| Complement deficiency | Depends on the missing component | |
+| Phagocyte deficiency | Deep boils and abscesses, pneumonia, osteomyelitis | CGD |
+
+> SCID presents as a "walking agar plate" with low lymphocytes.
+
+Library: SCID types
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
+
+## Key findings
+
+| Type | Defect | Flow pattern | Inheritance |
+|---|---|---|---|
+| Common gamma chain ("bubble boy") | Shared gamma chain of IL-2, 4, 7, 9, 15 receptors | T-B+NK- (T and NK cells need these receptors; B cells don't) | X-linked recessive; most common |
+| ADA or PNP deficiency | Toxic purine metabolites block lymphocyte and ILC development | T-B-NK- | Autosomal recessive |
+| RAG1/2 deficiency | No V(D)J recombination | T-B-NK+ | Autosomal recessive |
+| CD3 deficiency | TCR signaling | T-B+NK+ | Autosomal recessive |
+| Reticular dysgenesis | AK2 (stem cell differentiation) | T cells plus another lineage; agranulocytosis and lymphopenia | Autosomal recessive; most severe SCID |
+
+- Treatment for all: hematopoietic stem cell transplant (HSCT)
+- No live vaccines
+
+> Common gamma chain SCID is X-linked and shows T-B+NK-.
+
+Library: Antibody deficiencies: XLA, CVID, and selective IgA deficiency
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
+
+## Key findings
+
+| Disorder | Defect | Key findings | Treatment |
+|---|---|---|---|
+| X-linked agammaglobulinemia (Bruton) | BTK (Bruton tyrosine kinase) signaling at a B cell checkpoint | B cells fail to develop and all antibodies are low; no germinal centers, scant lymph nodes; bronchitis, ear infections, sinusitis, pneumonia, GI and enteroviral infections after 6 months; X-linked recessive | Antibody replacement; no live vaccines |
+| Common variable immunodeficiency (CVID) | Heterogeneous B cell differentiation defects (BAFF, TACI, APRIL) | Two or more immunoglobulin classes low without another explanation; usually presents after puberty; bronchiectasis, lymphoma, sinopulmonary infections | |
+| Selective IgA deficiency | Unknown | Most common primary immunodeficiency; low IgA with normal IgG and IgM; 4 A's: atopy, airway and gut infections, anaphylaxis, asymptomatic; giardiasis | |
+| Transient hypogammaglobulinemia of infancy | Delayed antibody production | Low IgG for more than 6 months after maternal IgG wanes | Resolves with time |
+
+> XLA (BTK) presents after 6 months, once maternal IgG runs out.
+
+Library: Wiskott-Aldrich, hyper-IgM, and hyper-IgE syndromes
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
+
+## Key findings
+
+| Syndrome | Defect | Key findings | Treatment |
+|---|---|---|---|
+| Wiskott-Aldrich | WAS protein (actin polymerization in platelets and lymphocytes); X-linked recessive | WATER: Wiskott-Aldrich, thrombocytopenia with small platelets, eczema, recurrent infections (poor T cell function); higher risk of autoimmunity and malignancy; low-normal IgG and IgM, high IgE and IgA | HSCT |
+| Hyper-IgM | CD40L on T cells (X-linked recessive) or CD40 (autosomal recessive) | No class switching: normal or high IgM, low IgG, IgA, IgE; no germinal centers; severe pyogenic and opportunistic infections (PCP, Cryptosporidium, CMV) | Daily antibiotic prophylaxis |
+| Hyper-IgE (Job) | STAT3; autosomal dominant | No Th17 (IL-17) cells, so neutrophils aren't recruited; FATED: abnormal facies and fractures, staph abscesses, retained baby teeth, high IgE, eczema; candida and lung abscesses; eosinophilia | Antibiotics, skin care, lung monitoring |
+
+> Wiskott-Aldrich is small platelets, eczema, and infections in a boy.
