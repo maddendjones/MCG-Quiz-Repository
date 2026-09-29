@@ -1,11 +1,10 @@
-Foundations of Medicine, Week 4
-Sources: Week 4 Review, and FOM Diseases & Drugs (DNA, Cancer, and Drugs sections, plus cross-links noted on each page).
-The Week 4 Review has no week subtitle, so folders use "Week 4" until the course title is confirmed.
+Foundations of Medicine, Week 4: Foundations of Genetics
+Sources: Week 4: Foundations of Genetics Review, and FOM Diseases & Drugs (DNA, Cancer, and Drugs sections, plus cross-links noted on each page).
 The review's vocabulary table (Lectures 1-3) is filed under the lecture each term fits best.
 Last checked: September 29, 2026.
 
 Library: DNA hybridization and repeat sequences
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Key terms
 
@@ -26,7 +25,7 @@ Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
 > VNTRs (minisatellites) are used for paternity testing; microsatellites are hotspots for replication errors.
 
 Library: DNA polymerases, topoisomerases, and telomerase
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Polymerases
 
@@ -53,7 +52,7 @@ Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
 > Type I topoisomerases cut one strand without ATP; type II cut both strands and need ATP.
 
 Library: Sources of DNA damage and the Ames test
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Endogenous sources
 
@@ -80,7 +79,7 @@ Salmonella is modified so it can't grow without histidine. A mutagen causes muta
 > Deaminated methylcytosine becomes thymine, which repair enzymes don't recognize as foreign.
 
 Library: Trinucleotide repeat disorders and anticipation
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Anticipation
 
@@ -98,7 +97,7 @@ With each generation, symptoms appear at an earlier age. It usually results from
 > Anticipation (earlier onset each generation) points to a trinucleotide repeat disorder.
 
 Library: DNA repair pathways
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Key findings
 
@@ -118,7 +117,7 @@ Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
 > UV thymine dimers are repaired by nucleotide excision repair.
 
 Library: DNA repair disorders
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Key findings
 
@@ -138,7 +137,7 @@ Aspirin, endoscopy surveillance, and immunotherapy.
 > Lynch syndrome is a mismatch repair defect that causes microsatellite instability.
 
 Library: Homologous recombination
-Folder: Foundations of Medicine / Week 4 / DNA Recombination
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Recombination
 
 ## Functions of recombination
 
@@ -176,7 +175,7 @@ If the two alleles differ, the paired strands contain mismatches. Mismatch repai
 > Reduced meiotic recombination can lead to nondisjunction and trisomy.
 
 Library: Non-homologous end joining and BRCA1
-Folder: Foundations of Medicine / Week 4 / DNA Recombination
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Recombination
 
 ## Key findings
 
@@ -192,7 +191,7 @@ BRCA1 promotes the error-free pathways (error-free NHEJ or homologous recombinat
 > NHEJ joins ends without a template, which can cause deletions and translocations.
 
 Library: Transposons
-Folder: Foundations of Medicine / Week 4 / DNA Recombination
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Recombination
 
 ## Key findings
 
@@ -218,7 +217,7 @@ Transposons move sections of DNA to random new positions. Many came from past vi
 > Retrotransposons copy and paste through an RNA intermediate and are the main source of repetitive DNA.
 
 Library: Bacterial transformation and conjugation
-Folder: Foundations of Medicine / Week 4 / Bacterial Genetics and Virulence Determinants
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Bacterial Genetics and Virulence Determinants
 
 ## Transformation
 
@@ -237,7 +236,7 @@ Folder: Foundations of Medicine / Week 4 / Bacterial Genetics and Virulence Dete
 > Transformation is blocked by DNase because the DNA is taken up naked.
 
 Library: Transduction and lysogeny
-Folder: Foundations of Medicine / Week 4 / Bacterial Genetics and Virulence Determinants
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Bacterial Genetics and Virulence Determinants
 
 ## Phage types
 
@@ -260,7 +259,7 @@ Induction excises the phage genome from the bacterial chromosome, usually after 
 > Antibiotics can worsen EHEC by inducing the prophage.
 
 Library: RNA polymerase basics
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Why transcribe
 
@@ -281,7 +280,7 @@ Initiation (DNA unwinds), elongation, termination, and in eukaryotes only, proce
 > RNA polymerase needs no primer and doesn't proofread.
 
 Library: Prokaryotic transcription
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Key findings
 
@@ -308,7 +307,7 @@ Rifampin (rifampicin) binds the beta subunit of bacterial RNA polymerase and slo
 > Rifampin blocks the beta subunit of bacterial RNA polymerase.
 
 Library: Eukaryotic transcription and RNA polymerase II
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Key findings
 
@@ -330,7 +329,7 @@ Alpha-amanitin from the Amanita phalloides (death cap) mushroom inhibits RNA pol
 > Phosphorylation of the CTD by TFIIH activates RNA polymerase II.
 
 Library: mRNA capping and polyadenylation
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## 5' cap
 
@@ -353,7 +352,7 @@ Some viruses, such as influenza, "snatch" caps from host mRNA. Cap-binding inhib
 > The poly(A) signal is AAUAAA, and tail length controls how long an mRNA lasts.
 
 Library: mRNA splicing and the spliceosome
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Key findings
 
@@ -369,7 +368,7 @@ Certain exons can be included or left out, so one gene can make several differen
 > Introns start with GU and end with AG.
 
 Library: Retinitis pigmentosa and lupus: splicing disorders
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Key findings
 
@@ -381,7 +380,7 @@ Folder: Foundations of Medicine / Week 4 / Transcription
 > Anti-snRNP (anti-Sm) antibodies are the splicing link to lupus.
 
 Library: Genetic code and mutation types
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## Features of the code
 
@@ -414,7 +413,7 @@ Universal, degenerate (redundant, which softens the effect of mutations), unambi
 > Frameshifts come from insertions or deletions that aren't multiples of three.
 
 Library: tRNA charging and wobble pairing
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## Key findings
 
@@ -427,7 +426,7 @@ Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
 > Wobble at the third codon position explains why synonymous codons usually differ in the last base.
 
 Library: Ribosome sites, elongation, and termination
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## Ribosome
 
@@ -458,7 +457,7 @@ Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
 > The A site takes the incoming aminoacyl-tRNA; the P site holds the growing chain.
 
 Library: Translation initiation: prokaryotes vs. eukaryotes
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## Key findings
 
@@ -479,7 +478,7 @@ Beta-thalassemia minor can come from Kozak sequence mutations in the beta-globin
 > Kozak sequence mutations in beta-globin reduce translation and can cause beta-thalassemia minor.
 
 Library: Regulation of translation
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## eIF2
 
@@ -507,7 +506,7 @@ Only capped mRNA is translated efficiently. Viral proteases can destroy cap-depe
 > Phosphorylated eIF2 alpha shuts down global translation during stress.
 
 Library: Protein sorting and signal sequences
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Key findings
 
@@ -527,7 +526,7 @@ Most mitochondrial proteins are encoded in the nucleus and imported unfolded, us
 > Proteins without a signal sequence stay in the cytosol.
 
 Library: Nuclear pores and nuclear localization signals
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Key findings
 
@@ -541,7 +540,7 @@ Folder: Foundations of Medicine / Week 4 / Endomembranes
 > Proteins over 40 kD need a nuclear localization signal; Ran-GTP releases them from importin.
 
 Library: Nuclear lamina, nuclear matrix, and nucleolus
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Key findings
 
@@ -563,7 +562,7 @@ Folder: Foundations of Medicine / Week 4 / Endomembranes
 > Lamin A mutations cause progeria and Emery-Dreifuss muscular dystrophy.
 
 Library: ER import and the unfolded protein response
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Key findings
 
@@ -580,7 +579,7 @@ Folder: Foundations of Medicine / Week 4 / Endomembranes
 > Misfolded ER proteins are ubiquitinated and degraded; too many trigger the unfolded protein response.
 
 Library: Vesicle coats and docking: COPI, COPII, Rab, and SNAREs
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Coats
 
@@ -604,7 +603,7 @@ Botulinum toxin enters by endocytosis, escapes the endosome, and cleaves SNARE p
 > COPII moves cargo forward from the ER; COPI brings it back.
 
 Library: Lysosomal targeting and storage diseases
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Targeting
 
@@ -621,7 +620,7 @@ Lysosomal enzymes are tagged with mannose-6-phosphate (M6P) in the Golgi, which 
 > I-cell disease is a Golgi tagging defect: without M6P, enzymes never reach the lysosome.
 
 Library: Cystic fibrosis
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Mechanism
 
@@ -642,7 +641,7 @@ Trikafta helps CFTR fold so it can reach the membrane. A second compound is stil
 > ΔF508 CFTR misfolds and is degraded in the ER before reaching the membrane.
 
 Library: Exocytosis, endocytosis, and autophagy
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Exocytosis
 
@@ -668,7 +667,7 @@ The cell digests its own components during stress or nutrient shortage, and clea
 > Falling endosome pH releases cargo from receptors so the receptors can be recycled.
 
 Library: Cyclins, CDKs, and CDK inhibitors
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -686,7 +685,7 @@ The balance between proliferation and death depends on growth factor availabilit
 > CDKs need a bound cyclin and removal of inhibitory phosphates to be active.
 
 Library: Rb and the restriction point
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -704,7 +703,7 @@ Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Ho
 > Cyclin D/CDK4/6 phosphorylates Rb, releasing E2F and pushing the cell past the G1/S restriction point.
 
 Library: p53 checkpoint
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -723,7 +722,7 @@ p53 blocks the G1 to S transition when DNA is damaged and chooses one of two out
 > p53 arrests the cell through p21 or kills it through Bax.
 
 Library: Flow cytometry of the cell cycle
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -743,7 +742,7 @@ Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Ho
 > A sub-G1 peak means cells with fragmented DNA are dying by apoptosis.
 
 Library: Intrinsic apoptosis and caspases
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Pathway
 
@@ -771,7 +770,7 @@ p53 → Bax → mitochondria release cytochrome c → caspase-9 activation
 > Cytochrome c released from mitochondria activates caspase-9 in the intrinsic pathway.
 
 Library: Bcl-2 family proteins
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -790,7 +789,7 @@ Follicular lymphoma: t(14;18) puts BCL2 under the IgH promoter, and BCL2 overexp
 > Bcl-2 overexpression, as in follicular lymphoma t(14;18), blocks apoptosis and causes drug resistance.
 
 Library: Extrinsic apoptosis and necrosis
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Extrinsic pathway
 
@@ -809,7 +808,7 @@ Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Ho
 > Necrosis breaks the membrane early and causes inflammation; apoptosis doesn't.
 
 Library: Promoters, enhancers, and transcription factors
-Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Regulation of Gene Expression
 
 ## Key findings
 
@@ -836,7 +835,7 @@ Tamoxifen is a synthetic estrogen antagonist that competes with estrogen for the
 > Zinc finger motifs are typical of steroid hormone receptors.
 
 Library: DNA methylation and histone modification
-Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Regulation of Gene Expression
 
 ## DNA methylation
 
@@ -858,7 +857,7 @@ Hypermethylation of tumor suppressor genes can cause cancer, so drugs that inhib
 > Histone acetylation opens chromatin; DNA methylation silences it.
 
 Library: Genomic imprinting: Prader-Willi and Angelman syndromes
-Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Regulation of Gene Expression
 
 ## Imprinting
 
@@ -875,7 +874,7 @@ Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
 > Prader-Willi is a paternal deletion; Angelman is a maternal deletion.
 
 Library: miRNA, siRNA, and lncRNA
-Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Regulation of Gene Expression
 
 ## Key findings
 
