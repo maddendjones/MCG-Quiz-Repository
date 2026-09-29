@@ -23,7 +23,11 @@
       --uw-primary: #0284c7;
       --uw-primary-hover: #0369a1;
       --uw-accent: #38bdf8;
-      
+      --primary-soft: #f0f9ff;
+      --primary-soft-strong: #e0f2fe;
+      --primary-ink: #0369a1;
+      --row-hover: #f1f5f9;
+
       --correct: #16a34a;
       --correct-bg: #f0fdf4;
       --correct-border: #86efac;
@@ -50,6 +54,10 @@
       --uw-nav-bg: #070b12;
       --uw-nav-hover: #111827;
       --uw-nav-active: #172554;
+      --primary-soft: #0c2238;
+      --primary-soft-strong: #0f3354;
+      --primary-ink: #7dd3fc;
+      --row-hover: #1a2440;
       --correct-bg: #052e16;
       --correct-border: #15803d;
       --wrong-bg: #450a0a;
@@ -64,6 +72,7 @@
       color: var(--text);
       display: flex;
       height: 100vh;
+      height: 100dvh;
       width: 100vw;
       overflow: hidden;
     }
@@ -140,7 +149,7 @@
       font-size: 0.75rem;
       border-radius: 4px;
     }
-    .uw-nav-footer button:hover {
+    .uw-nav-footer button:hover:not(:disabled) {
       background: rgba(255, 255, 255, 0.12);
       color: #fff;
     }
@@ -149,7 +158,8 @@
       flex: 1;
       display: flex;
       flex-direction: column;
-      height: 100vh;
+      height: 100%;
+      min-width: 0;
       overflow-y: auto;
       overflow-x: hidden;
       position: relative;
@@ -178,8 +188,8 @@
       text-transform: uppercase;
       padding: 2px 8px;
       border-radius: 999px;
-      background: #e0f2fe;
-      color: var(--uw-primary);
+      background: var(--primary-soft-strong);
+      color: var(--primary-ink);
     }
 
     button {
@@ -272,8 +282,8 @@
     }
     .segmented-btn.active {
       border-color: var(--uw-primary);
-      background: #f0f9ff;
-      color: var(--uw-primary);
+      background: var(--primary-soft);
+      color: var(--primary-ink);
     }
     .segmented-btn:hover {
       border-color: var(--uw-primary);
@@ -317,7 +327,7 @@
     }
     .status-tile.active {
       border-color: var(--uw-primary);
-      background: #f0f9ff;
+      background: var(--primary-soft);
     }
     .status-tile .status-lbl {
       display: flex;
@@ -412,7 +422,7 @@
       user-select: none;
       cursor: pointer;
     }
-    .uw-table-header:hover { background: #f1f5f9; }
+    .uw-table-header:hover { background: var(--row-hover); }
     .uw-table-scroll-body {
       display: flex;
       flex-direction: column;
@@ -442,7 +452,7 @@
       user-select: none;
       border-bottom: 1px solid rgba(0,0,0,0.03);
     }
-    .uw-sub-header:hover { background: #f8fafc; }
+    .uw-sub-header:hover { background: var(--row-hover); }
     .uw-subsub-container {
       background: var(--surface-sub);
       display: flex;
@@ -460,7 +470,7 @@
       border-bottom: 1px solid rgba(0,0,0,0.03);
     }
     .uw-subsub-row:last-child { border-bottom: none; }
-    .uw-subsub-row:hover { background: #f1f5f9; }
+    .uw-subsub-row:hover { background: var(--row-hover); }
 
     .btn-quick-play {
       padding: 3px 8px;
@@ -468,11 +478,11 @@
       border-radius: 4px;
       background: var(--surface);
       border: 1px solid var(--border);
-      color: var(--uw-primary);
+      color: var(--primary-ink);
       font-weight: 700;
     }
-    .btn-quick-play:hover {
-      background: #e0f2fe;
+    .btn-quick-play:hover:not(:disabled) {
+      background: var(--primary-soft-strong);
       border-color: var(--uw-primary);
     }
 
@@ -533,83 +543,10 @@
       gap: 6px;
     }
 
-    .ai-view {
-      display: none;
-      flex: 1;
-      height: 100vh;
-      overflow-y: auto;
-      padding: 24px 32px 60px;
-      flex-direction: column;
-      gap: 18px;
-      max-width: 1000px;
-      margin: 0 auto;
-      width: 100%;
-    }
-
-    .ai-chat-box {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      background: var(--surface);
-      display: flex;
-      flex-direction: column;
-      height: 480px;
-      overflow: hidden;
-      box-shadow: var(--shadow);
-    }
-
-    .ai-messages-list {
-      flex: 1;
-      overflow-y: auto;
-      padding: 16px;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .ai-msg {
-      max-width: 80%;
-      padding: 10px 14px;
-      border-radius: 8px;
-      font-size: 0.85rem;
-      line-height: 1.5;
-    }
-    .ai-msg.user {
-      align-self: flex-end;
-      background: var(--uw-primary);
-      color: #fff;
-    }
-    .ai-msg.bot {
-      align-self: flex-start;
-      background: var(--surface-sub);
-      border: 1px solid var(--border);
-      color: var(--text);
-      white-space: pre-wrap;
-    }
-
-    .ai-input-bar {
-      display: flex;
-      gap: 8px;
-      padding: 12px;
-      background: var(--surface-sub);
-      border-top: 1px solid var(--border);
-    }
-    .ai-input-bar textarea {
-      flex: 1;
-      resize: none;
-      height: 40px;
-      padding: 8px 12px;
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      background: var(--surface);
-      color: var(--text);
-      font-family: inherit;
-      font-size: 0.85rem;
-    }
-
     .app-workspace {
       display: none;
       flex: 1;
-      height: 100vh;
+      height: 100%;
       width: 100%;
       flex-direction: column;
       overflow: hidden;
@@ -619,7 +556,7 @@
     .exam-split-body {
       display: flex;
       flex: 1;
-      height: calc(100vh - 52px);
+      min-height: 0;
       overflow: hidden;
       position: relative;
     }
@@ -637,6 +574,7 @@
     .resizer-bar {
       width: 6px;
       cursor: col-resize;
+      touch-action: none;
       background: var(--border);
       transition: background 0.15s ease;
       z-index: 10;
@@ -656,9 +594,8 @@
       flex-direction: column;
       flex-shrink: 0;
       overflow: hidden;
-      transition: width 0.05s ease;
     }
-    .sidebar-pane.collapsed { display: none; }
+    .sidebar-pane.collapsed, .resizer-bar.collapsed { display: none; }
 
     .sidebar-header {
       padding: 10px;
@@ -830,11 +767,11 @@
     }
     .choice-card:hover:not(.locked) {
       border-color: var(--uw-primary);
-      background: #f0f9ff;
+      background: var(--primary-soft);
     }
     .choice-card.staged {
       border-color: var(--uw-primary);
-      background: #e0f2fe;
+      background: var(--primary-soft-strong);
       outline: 2px solid var(--uw-primary);
     }
     .choice-card.correct {
@@ -1013,9 +950,248 @@
       opacity: 1;
       transform: translateY(0);
     }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .q-actions button.active {
+      background: var(--flagged-bg);
+      border-color: var(--flagged);
+      color: var(--flagged);
+    }
+    .filter-grid button.active {
+      background: var(--uw-primary);
+      border-color: var(--uw-primary);
+      color: #fff;
+    }
+    .timer-pill {
+      font-variant-numeric: tabular-nums;
+      font-weight: 800;
+      font-size: 0.85rem;
+      padding: 4px 10px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--surface-sub);
+    }
+
+    .tree-name {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+    }
+    .tree-name span:last-child { overflow-wrap: anywhere; }
+    label.tree-name { cursor: pointer; }
+    .tree-spacer { display: inline-block; width: 14px; flex-shrink: 0; }
+    .tree-count, .tree-action { text-align: center; }
+
+    .empty-note {
+      padding: 18px;
+      border: 1px dashed var(--border);
+      border-radius: var(--radius);
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      text-align: center;
+      background: var(--surface);
+    }
+    .palette-empty {
+      grid-column: 1 / -1;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-align: center;
+      padding: 12px 4px;
+    }
+    .btn-soft {
+      background: var(--primary-soft-strong);
+      color: var(--primary-ink);
+      border-color: var(--uw-primary);
+    }
+    .section-meta {
+      font-size: 0.75rem;
+      text-transform: none;
+      letter-spacing: 0;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+    .format-hint {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    .results-view {
+      display: none;
+      padding: 24px 32px 80px;
+      flex-direction: column;
+      gap: 18px;
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+    .results-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+    .results-list { display: flex; flex-direction: column; gap: 6px; }
+    .result-row {
+      display: grid;
+      grid-template-columns: 36px 100px minmax(0, 1fr) auto;
+      grid-template-areas: "num pill subject answers";
+      align-items: center;
+      gap: 12px;
+      width: 100%;
+      text-align: left;
+      padding: 10px 14px;
+      font-weight: 600;
+    }
+    .result-row:hover:not(:disabled) { background: var(--row-hover); border-color: var(--uw-primary); }
+    .result-num { grid-area: num; font-weight: 800; color: var(--text-muted); }
+    .result-pill {
+      grid-area: pill;
+      justify-self: start;
+      font-size: 0.7rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      padding: 2px 8px;
+      border-radius: 999px;
+      border: 1px solid transparent;
+    }
+    .result-pill.correct { color: var(--correct); background: var(--correct-bg); border-color: var(--correct-border); }
+    .result-pill.incorrect { color: var(--wrong); background: var(--wrong-bg); border-color: var(--wrong-border); }
+    .result-pill.omitted { color: var(--text-sub); background: var(--border-sub); }
+    .result-subject { grid-area: subject; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--text-sub); }
+    .result-flag { color: var(--flagged); margin-right: 6px; }
+    .result-answers { grid-area: answers; font-size: 0.78rem; color: var(--text-muted); white-space: nowrap; }
+
+    .history-list { display: flex; flex-direction: column; gap: 8px; }
+    .history-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 14px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+    }
+    .history-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; font-size: 0.85rem; }
+    .history-main strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .history-main span { font-size: 0.75rem; color: var(--text-muted); }
+    .history-score {
+      font-size: 0.8rem;
+      font-weight: 800;
+      padding: 3px 10px;
+      border-radius: 12px;
+      background: var(--border-sub);
+      color: var(--text-sub);
+      white-space: nowrap;
+    }
+
+    .export-section { display: flex; flex-direction: column; gap: 8px; }
+    .export-section + .export-section { border-top: 1px solid var(--border); padding-top: 16px; }
+    .export-section p { color: var(--text-sub); font-size: 0.8rem; line-height: 1.5; }
+    .export-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+
+    .mobile-topbar, .nav-scrim, .palette-close { display: none; }
+    body.in-exam aside.uw-sidebar { display: none; }
+
+    @media (hover: none) {
+      .strike-btn { opacity: 0.55; }
+    }
+
+    @media (max-width: 768px) {
+      body { flex-direction: column; }
+      .mobile-topbar {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        height: 52px;
+        padding: 0 12px;
+        flex-shrink: 0;
+        background: var(--uw-nav-bg);
+        color: #fff;
+        font-weight: 800;
+        font-size: 1.05rem;
+      }
+      .mobile-topbar button {
+        background: transparent;
+        border-color: rgba(255, 255, 255, 0.2);
+        color: #fff;
+        padding: 6px 8px;
+      }
+      .mobile-topbar button:hover:not(:disabled) { background: rgba(255, 255, 255, 0.12); }
+      body.in-exam .mobile-topbar { display: none; }
+      aside.uw-sidebar {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 260px;
+        overflow-y: auto;
+        transform: translateX(-100%);
+        transition: transform 0.2s ease;
+        z-index: 60;
+      }
+      body.nav-open aside.uw-sidebar { transform: none; box-shadow: 8px 0 24px rgba(0, 0, 0, 0.35); }
+      body.nav-open .nav-scrim {
+        display: block;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.45);
+        z-index: 55;
+      }
+      .app-main { height: auto; flex: 1; min-height: 0; }
+
+      .create-test-view, .performance-view, .results-view { padding: 16px 14px 200px; }
+      .performance-view, .results-view { padding-bottom: 60px; }
+      .uw-section-box { padding: 14px; }
+      .uw-table-header, .uw-sub-header, .uw-subsub-row { grid-template-columns: minmax(0, 1fr) 34px 34px 84px; }
+      .uw-table-header { padding: 10px 12px; }
+      .uw-sub-header { padding: 9px 12px 9px 22px; }
+      .uw-subsub-row { padding: 8px 12px 8px 40px; }
+      .btn-quick-play { padding: 3px 6px; }
+
+      .uw-action-bar { left: 0; padding: 10px 14px; flex-wrap: wrap; gap: 8px; }
+      .uw-action-stats { gap: 14px; font-size: 0.78rem; }
+      .uw-action-controls { width: 100%; justify-content: space-between; gap: 8px; }
+
+      header.exam-header { height: auto; min-height: 52px; flex-wrap: wrap; padding: 8px 12px; row-gap: 8px; }
+      #examBlockBadge { display: none; }
+      .exam-pane { padding: 16px 14px 40px; }
+      .vignette-box { padding: 14px 16px; font-size: 1rem; }
+      .resizer-bar { display: none !important; }
+      .sidebar-pane, .sidebar-pane.collapsed { display: none; }
+      .sidebar-pane.mobile-open {
+        display: flex;
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        width: min(300px, 85vw) !important;
+        max-width: none;
+        z-index: 70;
+        box-shadow: -8px 0 24px rgba(0, 0, 0, 0.3);
+      }
+      .palette-close { display: inline-flex; padding: 2px 8px; font-size: 0.7rem; }
+      .hotkey-hint { display: none; }
+
+      .result-row {
+        grid-template-columns: 28px minmax(0, 1fr) auto;
+        grid-template-areas: "num subject pill" "num answers answers";
+        row-gap: 4px;
+      }
+      .result-answers { white-space: normal; }
+      .history-row { flex-wrap: wrap; }
+      .app-toast { left: 16px; right: 16px; bottom: 16px; text-align: center; }
+    }
   </style>
 </head>
 <body>
+  <script>
+    try { if (localStorage.getItem("wps_theme") === "dark") document.body.classList.add("dark-mode"); } catch (e) {}
+  </script>
+
+  <!-- Phone Top Bar -->
+  <header class="mobile-topbar">
+    <button type="button" id="btnMobileMenu" aria-label="Open menu">
+      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"></path></svg>
+    </button>
+    <span>WPS-Archive</span>
+  </header>
+  <div class="nav-scrim" id="navScrim"></div>
 
   <!-- Left Sidebar -->
   <aside class="uw-sidebar" id="uwSidebar">
@@ -1024,32 +1200,28 @@
         <span>WPS-Archive</span>
       </div>
       <ul class="uw-nav-list" id="uwNavList">
-        <li class="uw-nav-item active" id="navItemCreateTest" onclick="showView('create-test')">
+        <li class="uw-nav-item active" id="navItemCreateTest" data-view="create-test">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 4v16m8-8H4"></path></svg>
           <span>Create Test</span>
         </li>
-        <li class="uw-nav-item" id="navItemPerformance" onclick="showView('performance')">
+        <li class="uw-nav-item" id="navItemPerformance" data-view="performance">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 3v18h18M9 9l3 3 5-5 4 4"></path></svg>
           <span>Performance</span>
         </li>
-        <li class="uw-nav-item" id="navItemAITutor" onclick="showView('ai-tutor')">
-          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
-          <span>AI Tutor & Builder</span>
-        </li>
-        <li class="uw-nav-item" id="navItemImport" onclick="openModal('loadModal')">
+        <li class="uw-nav-item" id="navItemImport" data-modal="loadModal">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
           <span>Import Text</span>
         </li>
-        <li class="uw-nav-item" id="navItemExport" onclick="openModal('exportModal')">
+        <li class="uw-nav-item" id="navItemExport" data-modal="exportModal">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
-          <span>Export Bank</span>
+          <span>Backup & Export</span>
         </li>
       </ul>
     </div>
 
     <div class="uw-nav-footer">
-      <button id="btnThemeToggle" onclick="document.body.classList.toggle('dark-mode')">Toggle Dark Mode</button>
-      <button id="btnOpenClearModal" onclick="openManageModal()" style="color:#ef4444;border-color:rgba(239,68,68,0.3);">Manage & Reset Bank</button>
+      <button id="btnThemeToggle">Toggle Dark Mode</button>
+      <button id="btnOpenClearModal" style="color:#ef4444;border-color:rgba(239,68,68,0.3);">Manage & Reset Bank</button>
     </div>
   </aside>
 
@@ -1075,7 +1247,7 @@
           </label>
           <label class="segmented-btn">
             <input type="checkbox" id="chkRandomizeChoices" checked />
-            <span>Shuffle Choices (A–E)</span>
+            <span>Shuffle Answer Choices</span>
           </label>
         </div>
       </div>
@@ -1182,41 +1354,54 @@
         <div class="uw-section-title">Performance by System / Week</div>
         <div id="performanceFolderList" style="display:flex; flex-direction:column; gap:10px;"></div>
       </div>
-    </div>
 
-    <!-- View 3: Gemini AI Tutor & Question Generator View -->
-    <div class="ai-view" id="aiView">
       <div class="uw-section-box">
         <div class="uw-section-title">
-          <span>Gemini AI Tutor Configuration</span>
-          <span style="font-size:0.75rem; text-transform:none; font-weight:600; color:var(--text-muted);">Stored securely in browser localStorage</span>
+          <span>Previous Tests</span>
+          <span class="section-meta">Your last 50 tests</span>
         </div>
-        <div style="display:flex; gap:10px; align-items:center;">
-          <input type="password" id="geminiApiKeyInput" placeholder="Enter Google AI Studio Gemini API Key..." style="flex:1; padding:8px 12px; border:1px solid var(--border); border-radius:6px; font-size:0.85rem; background:var(--surface); color:var(--text);" />
-          <button class="btn-primary" id="btnSaveApiKey">Save Key</button>
+        <div class="history-list" id="testHistoryList"></div>
+      </div>
+    </div>
+
+    <!-- View 3: Test Results & Review -->
+    <div class="results-view" id="resultsView">
+      <div class="uw-section-box">
+        <div class="uw-section-title">
+          <span id="resultsTitle">Test Results</span>
+          <span class="section-meta" id="resultsMeta"></span>
+        </div>
+        <div class="perf-matrix-grid">
+          <div class="perf-tile">
+            <span class="perf-lbl">Score</span>
+            <strong class="perf-val" id="resScore">0%</strong>
+          </div>
+          <div class="perf-tile">
+            <span class="perf-lbl">Correct</span>
+            <strong class="perf-val" id="resCorrect" style="color:var(--correct);">0</strong>
+          </div>
+          <div class="perf-tile">
+            <span class="perf-lbl">Incorrect</span>
+            <strong class="perf-val" id="resIncorrect" style="color:var(--wrong);">0</strong>
+          </div>
+          <div class="perf-tile">
+            <span class="perf-lbl">Unanswered</span>
+            <strong class="perf-val" id="resOmitted">0</strong>
+          </div>
+        </div>
+        <div class="results-actions">
+          <button class="btn-primary" id="btnReviewAll">Review All Questions</button>
+          <button id="btnReviewIncorrect">Review Incorrect Only</button>
+          <button id="btnResultsDone">Back to Create Test</button>
         </div>
       </div>
 
       <div class="uw-section-box">
-        <div class="uw-section-title">Adaptive Diagnostic Tools</div>
-        <div style="display:flex; gap:10px; flex-wrap:wrap;">
-          <button id="btnAiAnalyzeWeakness" class="btn-primary" style="background:#059669; border-color:#059669;">
-            Analyze My Missed Questions & Generate 3 Weak-Spot Items
-          </button>
-          <button id="btnAiExplainStruggles">
-            Explain My Top Misconceptions
-          </button>
+        <div class="uw-section-title">
+          <span>Questions</span>
+          <span class="section-meta">Click a question to review it</span>
         </div>
-      </div>
-
-      <div class="ai-chat-box">
-        <div class="ai-messages-list" id="aiMessagesList">
-          <div class="ai-msg bot">Hello! I am your NBME Board Tutor. Ask me to clarify medical mechanisms, explain why a distractor is wrong, or click above to automatically generate new practice questions targeting your weakest subjects.</div>
-        </div>
-        <div class="ai-input-bar">
-          <textarea id="aiChatInput" placeholder="Ask a medical question, or say 'Generate 2 questions on HIV Opportunistic Infections'..." onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();handleSendAiChat();}"></textarea>
-          <button class="btn-primary" id="btnSendAiChat">Send</button>
-        </div>
+        <div class="results-list" id="resultsList"></div>
       </div>
     </div>
 
@@ -1283,7 +1468,7 @@
 
           <div class="bottom-nav">
             <button id="btnPrev">Previous</button>
-            <span style="font-size:0.75rem;color:var(--text-muted);">Hotkeys: <kbd>A</kbd>-<kbd>E</kbd> | <kbd>Enter</kbd> confirm | <kbd>N</kbd> next | <kbd>P</kbd> prev</span>
+            <span class="hotkey-hint" style="font-size:0.75rem;color:var(--text-muted);">Hotkeys: <kbd>A</kbd>-<kbd>Z</kbd> choose | <kbd>Enter</kbd> confirm | <kbd>N</kbd>/<kbd>&rarr;</kbd> next | <kbd>P</kbd>/<kbd>&larr;</kbd> prev</span>
             <button class="btn-primary" id="btnNext">Next</button>
           </div>
         </main>
@@ -1295,12 +1480,13 @@
             <div class="sidebar-title">
               <span>Question Palette</span>
               <span id="navCounter">1 / 1</span>
+              <button type="button" class="palette-close" id="btnClosePalette">Close</button>
             </div>
             <div class="filter-grid">
-              <button class="active" data-navfilter="all">All</button>
-              <button data-navfilter="unanswered">Un</button>
-              <button data-navfilter="flagged">Fl</button>
-              <button data-navfilter="missed">Ms</button>
+              <button class="active" data-navfilter="all" title="All questions">All</button>
+              <button data-navfilter="unanswered" title="Unanswered">Un</button>
+              <button data-navfilter="flagged" title="Flagged">Fl</button>
+              <button data-navfilter="missed" title="Missed (hidden during timed tests)">Ms</button>
             </div>
           </div>
           <div class="sidebar-grid-wrap">
@@ -1320,37 +1506,55 @@
       </div>
       <div class="modal-body">
         <p style="color:var(--text-sub);">Paste formatted questions below. Headings formatted as <code>Folder / Subfolder / Sub-subfolder</code> will be parsed and nested automatically.</p>
+        <p class="format-hint">Each question needs a <code>Question N</code> line, lettered choices (<code>A.</code>, <code>B.</code>, &hellip; as many as you need), and an <code>Answer: X</code> line. Explanations can run over several lines. Questions you've already imported are updated rather than duplicated.</p>
         <div style="display:flex; gap:10px;">
-          <button type="button" id="btnInsertSampleData" style="font-size:0.75rem; background:#e0f2fe; color:var(--uw-primary); border-color:var(--uw-primary);">Load Built-In Sample Test Questions</button>
+          <button type="button" class="btn-soft" id="btnInsertSampleData" style="font-size:0.75rem;">Load Built-In Sample Test Questions</button>
         </div>
         <textarea id="txtDocInput" placeholder="Paste questions here..." style="width:100%;height:180px;padding:10px;border:1px solid var(--border);border-radius:6px;font-family:monospace;font-size:0.75rem;background:var(--bg);color:var(--text);"></textarea>
       </div>
       <div class="modal-footer">
         <button type="button" onclick="closeModal('loadModal')">Cancel</button>
-        <button type="button" class="btn-primary" id="btnParseDoc" onclick="handleDirectImport()">Import Questions</button>
+        <button type="button" class="btn-primary" id="btnParseDoc">Import Questions</button>
       </div>
     </div>
   </div>
 
   <div class="modal-backdrop" id="exportModal">
-    <div class="modal-dialog" style="max-width:480px;">
+    <div class="modal-dialog" style="max-width:520px;">
       <div class="modal-header">
-        <h3>Export Question Bank</h3>
+        <h3>Backup & Export</h3>
         <button onclick="closeModal('exportModal')" style="border:none;font-weight:700;">Close</button>
       </div>
       <div class="modal-body">
-        <div class="form-group">
-          <label>Scope</label>
-          <select id="exportScope" style="padding:6px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text);">
-            <option value="all">Entire Question Bank</option>
-            <option value="missed">Incorrect Only</option>
-            <option value="flagged">Marked Only</option>
-          </select>
+        <div class="export-section">
+          <div class="form-group">
+            <label>Full Backup (.json)</label>
+          </div>
+          <p>Saves every question plus your answers, flags and test history in one file. Restore it on any browser or computer to pick up where you left off.</p>
+          <div class="export-actions">
+            <button type="button" class="btn-primary" id="btnDownloadBackup">Download Backup</button>
+            <button type="button" id="btnRestoreBackup">Restore From Backup&hellip;</button>
+            <input type="file" id="inputRestoreFile" accept=".json,application/json" hidden />
+          </div>
+        </div>
+
+        <div class="export-section">
+          <div class="form-group">
+            <label>Question Text (.txt)</label>
+            <select id="exportScope" style="padding:6px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text);">
+              <option value="all">Entire Question Bank</option>
+              <option value="missed">Incorrect Only</option>
+              <option value="flagged">Marked Only</option>
+            </select>
+          </div>
+          <p>Plain text in the same format as Import Text, including all explanations. Questions only, no progress.</p>
+          <div class="export-actions">
+            <button type="button" id="btnRunExport">Download .txt</button>
+          </div>
         </div>
       </div>
       <div class="modal-footer">
-        <button type="button" onclick="closeModal('exportModal')">Cancel</button>
-        <button type="button" class="btn-primary" id="btnRunExport">Download .txt</button>
+        <button type="button" onclick="closeModal('exportModal')">Close</button>
       </div>
     </div>
   </div>
@@ -1374,7 +1578,7 @@
 
         <div style="border-top:1px solid var(--border);margin-top:10px;padding-top:14px;" class="form-group">
           <label style="color:var(--wrong);">Full Bank Factory Reset</label>
-          <p style="color:var(--text-sub);font-size:0.8rem;">Wipe the entire question bank and all history from local storage.</p>
+          <p style="color:var(--text-sub);font-size:0.8rem;">Permanently deletes every question, answer, flag and saved test in this browser. Download a backup first if you might want them back.</p>
           <button type="button" class="btn-primary" id="btnConfirmClear" style="background:var(--wrong);border-color:var(--wrong-border);margin-top:6px;width:100%;justify-content:center;">Reset Entire Question Bank</button>
         </div>
       </div>
@@ -1389,387 +1593,47 @@
   <script id="default-questions-data" type="text/plain"></script>
 
   <script>
-    function showToast(msg) {
-      const toast = document.getElementById("appToast");
-      if (!toast) return;
-      toast.textContent = msg;
-      toast.classList.add("visible");
-      setTimeout(() => toast.classList.remove("visible"), 3200);
-    }
-
-    function openModal(id) {
-      const modal = document.getElementById(id);
-      if (modal) modal.classList.add("open");
-    }
-
-    function closeModal(id) {
-      const modal = document.getElementById(id);
-      if (modal) modal.classList.remove("open");
-    }
-
-    function openManageModal() {
-      populateTargetDeleteDropdown();
-      openModal("clearModal");
-    }
-
-    function populateTargetDeleteDropdown() {
-      const select = document.getElementById("selectTargetDelete");
-      if (!select) return;
-
-      select.innerHTML = '<option value="">-- Select a Category to Delete --</option>';
-
-      if (!ALL_QUESTIONS.length) {
-        const opt = document.createElement("option");
-        opt.value = "";
-        opt.textContent = "(Question bank is empty)";
-        opt.disabled = true;
-        select.appendChild(opt);
-        return;
-      }
-
-      const paths = new Map();
-
-      ALL_QUESTIONS.forEach(q => {
-        const f = q.folder || "General";
-        const sf = q.subfolder && q.subfolder !== "General" ? q.subfolder : "";
-        const ssf = q.subSubfolder || "";
-
-        const fPath = f;
-        paths.set(`folder:::${fPath}`, `[Folder] ${fPath}`);
-
-        if (sf) {
-          const sfPath = `${f} / ${sf}`;
-          paths.set(`subfolder:::${sfPath}`, `  ↳ [Subfolder] ${sfPath}`);
-        }
-
-        if (sf && ssf) {
-          const ssfPath = `${f} / ${sf} / ${ssf}`;
-          paths.set(`subsub:::${ssfPath}`, `      ↳ [Sub-subfolder] ${ssfPath}`);
-        }
-      });
-
-      Array.from(paths.entries()).forEach(([val, label]) => {
-        const opt = document.createElement("option");
-        opt.value = val;
-        opt.textContent = label;
-        select.appendChild(opt);
-      });
-    }
-
-    function deleteTargetedCategory() {
-      const select = document.getElementById("selectTargetDelete");
-      if (!select || !select.value) {
-        showToast("Please choose a category to delete.");
-        return;
-      }
-
-      const [type, path] = select.value.split(":::");
-      let initialCount = ALL_QUESTIONS.length;
-
-      if (type === "folder") {
-        ALL_QUESTIONS = ALL_QUESTIONS.filter(q => (q.folder || "General") !== path);
-      } else if (type === "subfolder") {
-        ALL_QUESTIONS = ALL_QUESTIONS.filter(q => {
-          const curPath = `${q.folder || "General"} / ${q.subfolder || "General"}`;
-          return curPath !== path;
-        });
-      } else if (type === "subsub") {
-        ALL_QUESTIONS = ALL_QUESTIONS.filter(q => q.subject !== path);
-      }
-
-      const deletedCount = initialCount - ALL_QUESTIONS.length;
-
-      if (deletedCount > 0) {
-        localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
-        showToast(`Deleted ${deletedCount} questions from ${path}.`);
-        populateTargetDeleteDropdown();
-        renderUWSurface();
-      } else {
-        showToast("No matching questions found.");
-      }
-    }
-
-    function handleDirectImport() {
-      const txtArea = document.getElementById("txtDocInput");
-      if (!txtArea) return;
-      const text = txtArea.value.trim();
-      if (!text) {
-        showToast("Please paste text or load sample questions first.");
-        return;
-      }
-
-      const count = syncAndMergeQuestions(text);
-      if (count > 0) {
-        showToast(`Imported ${count} questions successfully!`);
-        txtArea.value = "";
-        closeModal("loadModal");
-        renderUWSurface();
-      } else {
-        showToast("No valid questions parsed. Check Question, choices, and Answer lines.");
-      }
-    }
-
-    function parseDocumentText(rawText) {
-      const cleanLine = (l) => l.replace(/[\u00A0\u1680\u180e\u2000-\u200b\u202f\u205f\u3000\ufeff]/g, " ")
-                                .replace(/^[#*\-•\s]+/, "")
-                                .replace(/[#*:\-\s]+$/, "")
-                                .trim();
-
-      const rawLines = rawText.split(/\r?\n/);
-      const lines = [];
-
-      for (let raw of rawLines) {
-        let l = cleanLine(raw);
-        if (l.length > 0) lines.push(l);
-      }
-
-      const parsed = [];
-      let currentFolder = "General";
-      let currentSubfolder = "General";
-      let currentSubSubfolder = "";
-      let currentQ = null;
-      let state = "IDLE";
-      let globalQuestionCounter = 0;
-
-      const ignorePatterns = [
-        /^FOM Practice Questions/i,
-        /^NBME-style questions/i,
-        /^Each question lists/i,
-        /^Table of Contents/i,
-        /^Page \d+/i
-      ];
-
-      function commitCurrentQuestion() {
-        if (currentQ && currentQ.stem && currentQ.choices.length && currentQ.answer) {
-          let pathParts = [currentQ.folder];
-          if (currentQ.subfolder && currentQ.subfolder !== "General") pathParts.push(currentQ.subfolder);
-          if (currentQ.subSubfolder) pathParts.push(currentQ.subSubfolder);
-          currentQ.subject = pathParts.join(" / ");
-          parsed.push(currentQ);
-        }
-        currentQ = null;
-      }
-
-      for (let i = 0; i < lines.length; i++) {
-        let line = lines[i];
-
-        if (ignorePatterns.some(p => line.match(p))) continue;
-
-        const subGroupMatch = line.match(/^(?:Subgroup|Subfolder|Topic|Subtopic|Section):\s*(.*)$/i);
-        if (subGroupMatch) {
-          const rawSub = subGroupMatch[1].trim();
-          if (rawSub.includes("/") || rawSub.includes(">") || rawSub.includes("->")) {
-            const parts = rawSub.split(/\/|>|->/).map(p => p.trim()).filter(p => p.length > 0);
-            currentSubfolder = parts[0] || "General";
-            currentSubSubfolder = parts[1] || "";
-          } else {
-            currentSubfolder = rawSub;
-            currentSubSubfolder = "";
-          }
-          continue;
-        }
-
-        const isFollowedByQuestion = (i + 1 < lines.length) && lines[i + 1].match(/^Question\s+\d+/i);
-        const isKeyword = line.match(/^Question\s+\d+/i) ||
-                          line.match(/^[A-E]\.\s+/i) ||
-                          line.match(/^(Answer|Why this is correct|Why the other answers are wrong|Objective)/i);
-
-        if (!isKeyword && isFollowedByQuestion) {
-          if (line.includes("/") || line.includes(">") || line.includes("->")) {
-            const parts = line.split(/\/|>|->/).map(p => p.trim()).filter(p => p.length > 0);
-            currentFolder = parts[0] || "General";
-            currentSubfolder = parts[1] || "General";
-            currentSubSubfolder = parts[2] || "";
-          } else {
-            currentFolder = line;
-            currentSubfolder = "General";
-            currentSubSubfolder = "";
-          }
-          continue;
-        }
-
-        const qMatch = line.match(/^Question\s+(\d+)/i);
-        if (qMatch) {
-          commitCurrentQuestion();
-          globalQuestionCounter++;
-          const rawNum = parseInt(qMatch[1], 10);
-          const uniqueId = `${currentFolder}__${currentSubfolder}__${currentSubSubfolder}__q${rawNum}__${globalQuestionCounter}`;
-
-          currentQ = {
-            id: uniqueId,
-            rawNumber: rawNum,
-            folder: currentFolder,
-            subfolder: currentSubfolder,
-            subSubfolder: currentSubSubfolder,
-            stem: "",
-            stemLines: [],
-            choices: [],
-            answer: "",
-            whyCorrect: "",
-            whyWrong: {},
-            objective: ""
-          };
-          state = "STEM";
-          continue;
-        }
-
-        if (!currentQ) continue;
-
-        const ansMatch = line.match(/^Answer:\s*([A-E])/i);
-        if (ansMatch) {
-          currentQ.answer = ansMatch[1].toUpperCase();
-          state = "IDLE";
-          continue;
-        }
-
-        if (line.match(/^Why this is correct/i)) {
-          const textAfterLabel = line.replace(/^Why this is correct:?\s*/i, "").trim();
-          currentQ.whyCorrect = textAfterLabel;
-          state = "IDLE";
-          continue;
-        }
-
-        if (line.match(/^Why (?:the )?other answers (?:are )?wrong/i)) {
-          state = "WHY_WRONG";
-          continue;
-        }
-
-        if (line.match(/^Objective/i)) {
-          const textAfterLabel = line.replace(/^Objective:?\s*/i, "").trim();
-          currentQ.objective = textAfterLabel;
-          state = "IDLE";
-          continue;
-        }
-
-        if (state === "STEM" || state === "CHOICES") {
-          const chMatch = line.match(/^([A-E])\.\s+(.*)$/);
-          if (chMatch) {
-            state = "CHOICES";
-            currentQ.choices.push({ letter: chMatch[1].toUpperCase(), text: chMatch[2].trim() });
-            continue;
-          }
-        }
-
-        if (state === "STEM") {
-          currentQ.stemLines.push(line);
-          currentQ.stem = currentQ.stemLines.join(" ")
-            .replace(/^\s*\[NBME Practice Vignette\s*\d+\]\s*:?\s*/i, "").trim()
-            .replace(/!\[([^\]]*)\]\((https?:\/\/[^\s\)]+)\)/gi, '<img src="$2" alt="$1">');
-          continue;
-        }
-
-        if (state === "WHY_WRONG") {
-          const wrongMatch = line.match(/^([A-E])(?:\.|\:)\s*(.*)$/);
-          if (wrongMatch) {
-            const optLetter = wrongMatch[1].toUpperCase();
-            let text = wrongMatch[2].trim();
-            const firstColon = text.indexOf(":");
-            if (firstColon !== -1 && firstColon < 35) {
-              text = text.substring(firstColon + 1).trim();
-            }
-            currentQ.whyWrong[optLetter] = text;
-          } else {
-            const wrongKeys = Object.keys(currentQ.whyWrong);
-            if (wrongKeys.length > 0) {
-              const lastKey = wrongKeys[wrongKeys.length - 1];
-              currentQ.whyWrong[lastKey] += " " + line;
-            }
-          }
-          continue;
-        }
-      }
-
-      commitCurrentQuestion();
-      return parsed;
-    }
-
-    function normalizeQuestionFolders(q, index) {
-      if (!q.folder) {
-        if (q.subject && q.subject.includes("/")) {
-          const parts = q.subject.split("/").map(s => s.trim());
-          q.folder = parts[0];
-          q.subfolder = parts[1] || "General";
-          q.subSubfolder = parts[2] || "";
-        } else {
-          q.folder = q.subject || "General";
-          q.subfolder = "General";
-          q.subSubfolder = "";
-        }
-      } else {
-        if (!q.subSubfolder) q.subSubfolder = "";
-      }
-
-      if (typeof q.id === "number" || !q.id || !q.id.includes("__")) {
-        q.id = `${q.folder}__${q.subfolder}__${q.subSubfolder}__q${q.rawNumber || index}__${index}`;
-      }
-      return q;
-    }
-
-    function getStableQuestionKey(folder, subfolder, subSubfolder, rawNum) {
-      return `${folder}__${subfolder}__${subSubfolder || ""}__q${rawNum}`;
-    }
-
-    function syncAndMergeQuestions(rawText) {
-      const incomingQuestions = parseDocumentText(rawText);
-      if (!incomingQuestions.length) return 0;
-
-      const currentMap = new Map();
-      ALL_QUESTIONS.forEach(q => {
-        const key = getStableQuestionKey(q.folder, q.subfolder, q.subSubfolder, q.rawNumber);
-        currentMap.set(key, q);
-      });
-
-      let addedCount = 0;
-      let updatedCount = 0;
-
-      incomingQuestions.forEach((incomingQ) => {
-        const key = getStableQuestionKey(incomingQ.folder, incomingQ.subfolder, incomingQ.subSubfolder, incomingQ.rawNumber);
-
-        if (currentMap.has(key)) {
-          const existingQ = currentMap.get(key);
-          existingQ.stem = incomingQ.stem;
-          existingQ.choices = incomingQ.choices;
-          existingQ.answer = incomingQ.answer;
-          existingQ.whyCorrect = incomingQ.whyCorrect;
-          existingQ.whyWrong = incomingQ.whyWrong;
-          existingQ.objective = incomingQ.objective;
-          existingQ.subject = incomingQ.subject;
-          existingQ.subSubfolder = incomingQ.subSubfolder;
-          updatedCount++;
-        } else {
-          incomingQ.id = `${incomingQ.folder}__${incomingQ.subfolder}__${incomingQ.subSubfolder}__q${incomingQ.rawNumber}__${ALL_QUESTIONS.length + 1}`;
-          ALL_QUESTIONS.push(incomingQ);
-          currentMap.set(key, incomingQ);
-          addedCount++;
-        }
-      });
-
-      if (addedCount > 0 || updatedCount > 0) {
-        localStorage.setItem("nbme_all_questions", JSON.stringify(ALL_QUESTIONS));
-      }
-      return incomingQuestions.length;
-    }
+    const STORAGE = {
+      bank: "nbme_all_questions",
+      answers: "nbme_user_answers",
+      confirmed: "nbme_confirmed_answers",
+      flags: "nbme_flagged_questions",
+      history: "wps_test_history",
+      theme: "wps_theme",
+      paletteWidth: "wps_palette_width"
+    };
+    const BANK_DATA_KEYS = [STORAGE.bank, STORAGE.answers, STORAGE.confirmed, STORAGE.flags, STORAGE.history];
+    const BUNDLED_FILES = ["FOM_Practice_Question_Bank_1.txt", "Week_8_Practice_Questions.txt", "questions.txt"];
+    const HISTORY_LIMIT = 50;
+    const SECONDS_PER_QUESTION = 90;
+    const STATUS_LABELS = { all: "All Questions", unanswered: "Unused", missed: "Incorrect", flagged: "Marked", correct: "Correct" };
+    const QUESTION_FIELDS = ["folder", "subfolder", "subSubfolder", "subject", "rawNumber", "stem", "choices", "answer", "whyCorrect", "whyWrong", "objective"];
 
     let ALL_QUESTIONS = [];
-    let currentQuestions = [];
-    let currentIndex = 0;
-    let testMode = "tutor";
-    let timerSeconds = 0;
-    let timerRunning = true;
-    let timerInterval = null;
-    let activeView = "create-test";
-
     let userAnswers = {};
-    let stagedAnswers = {};
     let confirmedAnswers = {};
     let flaggedQuestions = {};
-    let struckChoices = {};
-    let highlights = {};
-    let navFilter = "all";
+    let testHistory = [];
 
+    let activeView = "create-test";
+    let session = null;
+    let currentQuestions = [];
+    let currentIndex = 0;
+    let navFilter = "all";
+    let timerRunning = true;
+    let timerInterval = null;
+    let activeResultId = null;
+    let savedRange = null;
+    let toastTimer = null;
+    let selectionTimer = null;
+
+    const checkedSubjects = new Set();
+    const openTreeKeys = new Set();
+
+    const appMain = document.getElementById("appMain");
     const createTestView = document.getElementById("createTestView");
     const performanceView = document.getElementById("performanceView");
-    const aiView = document.getElementById("aiView");
+    const resultsView = document.getElementById("resultsView");
     const quizWorkspace = document.getElementById("quizWorkspace");
     const subjectsTablesStack = document.getElementById("subjectsTablesStack");
     const btnLaunchExam = document.getElementById("btnLaunchExam");
@@ -1783,6 +1647,14 @@
     const countStatusCorrect = document.getElementById("countStatusCorrect");
     const totalAvailablePool = document.getElementById("totalAvailablePool");
     const totalSelectedInTree = document.getElementById("totalSelectedInTree");
+    const testHistoryList = document.getElementById("testHistoryList");
+
+    const resultsTitle = document.getElementById("resultsTitle");
+    const resultsMeta = document.getElementById("resultsMeta");
+    const resultsList = document.getElementById("resultsList");
+    const btnReviewAll = document.getElementById("btnReviewAll");
+    const btnReviewIncorrect = document.getElementById("btnReviewIncorrect");
+    const btnResultsDone = document.getElementById("btnResultsDone");
 
     const examPane = document.getElementById("examPane");
     const qDisplayIndex = document.getElementById("qDisplayIndex");
@@ -1813,126 +1685,651 @@
     const btnFinishBlock = document.getElementById("btnFinishBlock");
     const hlToolbar = document.getElementById("hlToolbar");
 
-    const geminiApiKeyInput = document.getElementById("geminiApiKeyInput");
-    const btnSaveApiKey = document.getElementById("btnSaveApiKey");
-    const btnAiAnalyzeWeakness = document.getElementById("btnAiAnalyzeWeakness");
-    const btnAiExplainStruggles = document.getElementById("btnAiExplainStruggles");
-    const aiMessagesList = document.getElementById("aiMessagesList");
-    const aiChatInput = document.getElementById("aiChatInput");
-    const btnSendAiChat = document.getElementById("btnSendAiChat");
-
     const btnInsertSampleData = document.getElementById("btnInsertSampleData");
     const btnParseDoc = document.getElementById("btnParseDoc");
     const txtDocInput = document.getElementById("txtDocInput");
     const exportScope = document.getElementById("exportScope");
     const btnRunExport = document.getElementById("btnRunExport");
+    const btnDownloadBackup = document.getElementById("btnDownloadBackup");
+    const btnRestoreBackup = document.getElementById("btnRestoreBackup");
+    const inputRestoreFile = document.getElementById("inputRestoreFile");
     const btnConfirmClear = document.getElementById("btnConfirmClear");
     const btnDeleteSelectedTarget = document.getElementById("btnDeleteSelectedTarget");
 
-    async function callGemini(promptText, systemInstruction = "") {
-      const apiKey = localStorage.getItem("wps_gemini_api_key");
-      if (!apiKey) {
-        showToast("Please enter and save your Gemini API Key in the AI Tutor tab first.");
-        return null;
+    function showToast(msg) {
+      const toast = document.getElementById("appToast");
+      if (!toast) return;
+      toast.textContent = msg;
+      toast.classList.add("visible");
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toast.classList.remove("visible"), 3600);
+    }
+
+    function openModal(id) {
+      const modal = document.getElementById(id);
+      if (modal) modal.classList.add("open");
+    }
+
+    function closeModal(id) {
+      const modal = document.getElementById(id);
+      if (modal) modal.classList.remove("open");
+    }
+
+    function esc(value) {
+      return String(value == null ? "" : value).replace(/[&<>"']/g, ch => (
+        { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]
+      ));
+    }
+
+    function shuffle(list) {
+      const arr = list.slice();
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
       }
+      return arr;
+    }
 
-      const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+    function letterAt(index) {
+      return String.fromCharCode(65 + index);
+    }
 
-      const payload = {
-        contents: [{ role: "user", parts: [{ text: promptText }] }]
-      };
+    function formatTime(totalSeconds) {
+      const s = Math.max(0, Math.floor(totalSeconds));
+      const h = Math.floor(s / 3600);
+      const m = String(Math.floor((s % 3600) / 60)).padStart(2, "0");
+      const sec = String(s % 60).padStart(2, "0");
+      return h > 0 ? `${h}:${m}:${sec}` : `${m}:${sec}`;
+    }
 
-      if (systemInstruction) {
-        payload.systemInstruction = { parts: [{ text: systemInstruction }] };
-      }
+    function formatDate(ts) {
+      return new Date(ts).toLocaleString(undefined, { month: "short", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit" });
+    }
 
+    function todayStamp() {
+      return new Date().toISOString().slice(0, 10);
+    }
+
+    function isMobile() {
+      return window.matchMedia("(max-width: 768px)").matches;
+    }
+
+    function asObject(value) {
+      return value && typeof value === "object" && !Array.isArray(value) ? value : {};
+    }
+
+    function readJSON(key, fallback) {
       try {
-        const res = await fetch(endpoint, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(payload)
-        });
+        const raw = localStorage.getItem(key);
+        return raw ? JSON.parse(raw) : fallback;
+      } catch (e) {
+        return fallback;
+      }
+    }
 
-        if (!res.ok) {
-          const errData = await res.json();
-          throw new Error(errData.error?.message || "Gemini API request failed.");
+    function writeJSON(key, value) {
+      try {
+        localStorage.setItem(key, JSON.stringify(value));
+        return true;
+      } catch (e) {
+        showToast("Couldn't save: browser storage is full. Download a backup, then delete some questions.");
+        return false;
+      }
+    }
+
+    function saveBank() {
+      writeJSON(STORAGE.bank, ALL_QUESTIONS);
+    }
+
+    function saveProgress() {
+      writeJSON(STORAGE.answers, userAnswers);
+      writeJSON(STORAGE.confirmed, confirmedAnswers);
+      writeJSON(STORAGE.flags, flaggedQuestions);
+    }
+
+    function saveHistory() {
+      writeJSON(STORAGE.history, testHistory);
+    }
+
+    function questionMap() {
+      return new Map(ALL_QUESTIONS.map(q => [q.id, q]));
+    }
+
+    function downloadFile(filename, content, type) {
+      const blob = new Blob([content], { type });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+    }
+
+    function subjectPath(q) {
+      const parts = [q.folder || "General"];
+      if (q.subfolder && q.subfolder !== "General") parts.push(q.subfolder);
+      if (q.subSubfolder) parts.push(q.subSubfolder);
+      return parts.join(" / ");
+    }
+
+    function parseDocumentText(rawText) {
+      const cleanLine = (l) => l.replace(/[  ᠎ -​  　﻿]/g, " ")
+                                .replace(/\*\*/g, "")
+                                .replace(/^[#*\-•\s]+/, "")
+                                .replace(/[#*:\-\s]+$/, "")
+                                .trim();
+
+      const lines = rawText.split(/\r?\n/).map(cleanLine).filter(l => l.length > 0);
+      const parsed = [];
+      let skipped = 0;
+      let currentFolder = "General";
+      let currentSubfolder = "General";
+      let currentSubSubfolder = "";
+      let currentQ = null;
+      let lastWrongLetter = "";
+      let state = "IDLE";
+
+      const ignorePatterns = [
+        /^FOM Practice Questions/i,
+        /^NBME-style questions/i,
+        /^Each question lists/i,
+        /^Table of Contents/i,
+        /^Page \d+/i
+      ];
+
+      const RE_QUESTION = /^Question\s+(\d+)/i;
+      const RE_CHOICE = /^\(?([A-Z])[.)]\s+(.*)$/;
+      const RE_ANSWER = /^(?:Correct\s+)?Answer\s*[:\-–—]\s*\(?([A-Z])(?![A-Za-z])/i;
+      const RE_WHY_CORRECT = /^(?:Why this is correct\b|Explanation\s*(?::|$))\s*:?\s*/i;
+      const RE_WHY_WRONG = /^Why (?:the )?other answers (?:are )?wrong/i;
+      const RE_OBJECTIVE = /^(?:(?:Learning|Educational)\s+)?Objective\s*(?::\s*|$)/i;
+
+      // Inside an explanation, only treat a line as a new heading if it looks like one,
+      // so the last line of a multi-line explanation isn't mistaken for a folder name.
+      const looksLikeHeading = (l) => !/[.!?;,)"'”]$/.test(l) && (/\s[\/>]\s|->/.test(l) || l.length <= 80);
+
+      function applyHeading(text) {
+        if (text.includes("/") || text.includes(">") || text.includes("->")) {
+          const parts = text.split(/->|\/|>/).map(p => p.trim()).filter(p => p.length > 0);
+          currentFolder = parts[0] || "General";
+          currentSubfolder = parts[1] || "General";
+          currentSubSubfolder = parts[2] || "";
+        } else {
+          currentFolder = text;
+          currentSubfolder = "General";
+          currentSubSubfolder = "";
+        }
+      }
+
+      function commitCurrentQuestion() {
+        if (!currentQ) return;
+        currentQ.stem = currentQ.stemLines.join(" ")
+          .replace(/^\s*\[NBME Practice Vignette\s*\d+\]\s*:?\s*/i, "").trim()
+          .replace(/!\[([^\]]*)\]\((https?:\/\/[^\s\)]+)\)/gi, '<img src="$2" alt="$1">');
+        delete currentQ.stemLines;
+        if (currentQ.stem && currentQ.choices.length && currentQ.choices.some(c => c.letter === currentQ.answer)) {
+          currentQ.subject = subjectPath(currentQ);
+          parsed.push(currentQ);
+        } else {
+          skipped++;
+        }
+        currentQ = null;
+      }
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+
+        if (ignorePatterns.some(p => p.test(line))) continue;
+
+        const subGroupMatch = line.match(/^(?:Subgroup|Subfolder|Topic|Subtopic|Section):\s*(.*)$/i);
+        if (subGroupMatch) {
+          const rawSub = subGroupMatch[1].trim();
+          if (rawSub.includes("/") || rawSub.includes(">") || rawSub.includes("->")) {
+            const parts = rawSub.split(/->|\/|>/).map(p => p.trim()).filter(p => p.length > 0);
+            currentSubfolder = parts[0] || "General";
+            currentSubSubfolder = parts[1] || "";
+          } else {
+            currentSubfolder = rawSub;
+            currentSubSubfolder = "";
+          }
+          continue;
         }
 
-        const data = await res.json();
-        return data.candidates?.[0]?.content?.parts?.[0]?.text || "No response received.";
-      } catch (err) {
-        showToast("Gemini Error: " + err.message);
-        return null;
+        const isKeyword = RE_QUESTION.test(line) || RE_CHOICE.test(line) || RE_ANSWER.test(line) ||
+                          RE_WHY_CORRECT.test(line) || RE_WHY_WRONG.test(line) || RE_OBJECTIVE.test(line);
+        const isFollowedByQuestion = (i + 1 < lines.length) && RE_QUESTION.test(lines[i + 1]);
+        const inExplanation = state === "WHY_CORRECT" || state === "WHY_WRONG" || state === "OBJECTIVE";
+
+        if (!isKeyword && isFollowedByQuestion && (!inExplanation || looksLikeHeading(line))) {
+          applyHeading(line);
+          continue;
+        }
+
+        const qMatch = line.match(RE_QUESTION);
+        if (qMatch) {
+          commitCurrentQuestion();
+          currentQ = {
+            id: "",
+            rawNumber: parseInt(qMatch[1], 10),
+            folder: currentFolder,
+            subfolder: currentSubfolder,
+            subSubfolder: currentSubSubfolder,
+            stem: "",
+            stemLines: [],
+            choices: [],
+            answer: "",
+            whyCorrect: "",
+            whyWrong: {},
+            objective: ""
+          };
+          lastWrongLetter = "";
+          state = "STEM";
+          const rest = line.replace(/^Question\s+\d+\s*(?:of\s+\d+)?\s*[:.)\-–—]?\s*/i, "");
+          if (rest.length > 25) currentQ.stemLines.push(rest);
+          continue;
+        }
+
+        if (!currentQ) continue;
+
+        const ansMatch = line.match(RE_ANSWER);
+        if (ansMatch) {
+          currentQ.answer = ansMatch[1].toUpperCase();
+          state = "IDLE";
+          continue;
+        }
+
+        if (RE_WHY_CORRECT.test(line)) {
+          currentQ.whyCorrect = line.replace(RE_WHY_CORRECT, "").trim();
+          state = "WHY_CORRECT";
+          continue;
+        }
+
+        if (RE_WHY_WRONG.test(line)) {
+          state = "WHY_WRONG";
+          continue;
+        }
+
+        if (RE_OBJECTIVE.test(line)) {
+          currentQ.objective = line.replace(RE_OBJECTIVE, "").trim();
+          state = "OBJECTIVE";
+          continue;
+        }
+
+        if (state === "STEM" || state === "CHOICES") {
+          const chMatch = line.match(RE_CHOICE);
+          const expected = letterAt(currentQ.choices.length);
+          if (chMatch && chMatch[1] === expected) {
+            currentQ.choices.push({ letter: expected, text: chMatch[2].trim() });
+            state = "CHOICES";
+          } else if (state === "STEM") {
+            currentQ.stemLines.push(line);
+          } else {
+            currentQ.choices[currentQ.choices.length - 1].text += " " + line;
+          }
+          continue;
+        }
+
+        if (state === "WHY_CORRECT") {
+          currentQ.whyCorrect = `${currentQ.whyCorrect} ${line}`.trim();
+          continue;
+        }
+
+        if (state === "OBJECTIVE") {
+          currentQ.objective = `${currentQ.objective} ${line}`.trim();
+          continue;
+        }
+
+        if (state === "WHY_WRONG") {
+          const wrongMatch = line.match(/^\(?([A-Z])[.):]\s+(.*)$/);
+          if (wrongMatch && currentQ.choices.some(c => c.letter === wrongMatch[1])) {
+            let text = wrongMatch[2].trim();
+            const firstColon = text.indexOf(":");
+            if (firstColon !== -1 && firstColon < 35) {
+              text = text.substring(firstColon + 1).trim();
+            }
+            currentQ.whyWrong[wrongMatch[1]] = text;
+            lastWrongLetter = wrongMatch[1];
+          } else if (lastWrongLetter) {
+            currentQ.whyWrong[lastWrongLetter] += " " + line;
+          }
+          continue;
+        }
       }
+
+      commitCurrentQuestion();
+      return { questions: parsed, skipped };
     }
 
-    function addChatMessage(role, text) {
-      const div = document.createElement("div");
-      div.className = `ai-msg ${role}`;
-      div.textContent = text;
-
-      if (role === "bot" && text.includes("Why this is correct:") && text.includes("Answer:")) {
-        const addBtn = document.createElement("button");
-        addBtn.className = "btn-primary";
-        addBtn.style.marginTop = "8px";
-        addBtn.style.fontSize = "0.75rem";
-        addBtn.textContent = "Import Question(s) Directly Into Bank";
-        addBtn.onclick = () => {
-          syncAndMergeQuestions(text);
-          showToast("Imported new AI-generated question(s) into your bank!");
-          renderUWSurface();
-        };
-        div.appendChild(document.createElement("br"));
-        div.appendChild(addBtn);
+    function normalizeQuestionFolders(q, index) {
+      if (!q.folder) {
+        if (q.subject && q.subject.includes("/")) {
+          const parts = q.subject.split("/").map(s => s.trim());
+          q.folder = parts[0];
+          q.subfolder = parts[1] || "General";
+          q.subSubfolder = parts[2] || "";
+        } else {
+          q.folder = q.subject || "General";
+          q.subfolder = "General";
+          q.subSubfolder = "";
+        }
       }
+      if (!q.subfolder) q.subfolder = "General";
+      if (!q.subSubfolder) q.subSubfolder = "";
+      if (!Array.isArray(q.choices)) q.choices = [];
+      q.whyWrong = asObject(q.whyWrong);
+      delete q.stemLines;
+      q.subject = subjectPath(q);
 
-      aiMessagesList.appendChild(div);
-      aiMessagesList.scrollTop = aiMessagesList.scrollHeight;
+      if (typeof q.id === "number" || !q.id || !String(q.id).includes("__")) {
+        q.id = `${q.folder}__${q.subfolder}__${q.subSubfolder}__q${q.rawNumber || index}__${index}`;
+      }
+      return q;
     }
 
-    async function handleSendAiChat() {
-      const text = aiChatInput.value.trim();
-      if (!text) return;
-      aiChatInput.value = "";
-      addChatMessage("user", text);
-
-      const sys = "You are an expert USMLE/NBME board exam medical tutor and clinical instructor. When asked to generate questions, strictly format them using the exact format: 'Folder / Subfolder\\n\\nQuestion 1\\n[vignette]\\nA. [choice]\\nB. [choice]\\nAnswer: [letter]. [choice]\\nWhy this is correct: [reason]\\nWhy the other answers are wrong:\\n[letter]. [reason]\\nObjective: [goal]'";
-
-      const reply = await callGemini(text, sys);
-      if (reply) addChatMessage("bot", reply);
+    function stableKey(q) {
+      return `${q.folder}__${q.subfolder}__${q.subSubfolder || ""}__q${q.rawNumber}`;
     }
 
-    async function handleAnalyzeWeakness() {
-      const missed = ALL_QUESTIONS.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-      if (!missed.length) {
-        showToast("You have no missed questions recorded! Complete some questions first.");
+    function stemWords(stem) {
+      return String(stem || "").replace(/<[^>]*>/g, " ").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+    }
+
+    function stemSimilarity(a, b) {
+      const wa = new Set(stemWords(a).split(" ").filter(Boolean));
+      const wb = new Set(stemWords(b).split(" ").filter(Boolean));
+      if (!wa.size || !wb.size) return 0;
+      let shared = 0;
+      wa.forEach(w => { if (wb.has(w)) shared++; });
+      return shared / Math.max(wa.size, wb.size);
+    }
+
+    function makeQuestionId(q, takenIds) {
+      let id;
+      do {
+        id = `${q.folder}__${q.subfolder}__${q.subSubfolder}__q${q.rawNumber}__${Date.now().toString(36)}${Math.random().toString(36).slice(2, 7)}`;
+      } while (takenIds.has(id));
+      return id;
+    }
+
+    function syncAndMergeQuestions(rawTexts) {
+      const texts = Array.isArray(rawTexts) ? rawTexts : [rawTexts];
+      const result = { added: 0, updated: 0, unchanged: 0, skipped: 0 };
+      const incomingQuestions = [];
+      texts.forEach(text => {
+        const { questions, skipped } = parseDocumentText(text);
+        incomingQuestions.push(...questions);
+        result.skipped += skipped;
+      });
+      if (!incomingQuestions.length) return result;
+
+      const byStem = new Map();
+      const byKey = new Map();
+      const takenIds = new Set();
+      ALL_QUESTIONS.forEach(q => {
+        takenIds.add(q.id);
+        const words = stemWords(q.stem);
+        if (words && !byStem.has(words)) byStem.set(words, q);
+        const key = stableKey(q);
+        if (!byKey.has(key)) byKey.set(key, []);
+        byKey.get(key).push(q);
+      });
+
+      const claimed = new Set();
+      incomingQuestions.forEach(incomingQ => {
+        // Same stem means same question. Same heading + number only counts as a match when the
+        // stem is still mostly the same (an edit), so a new batch numbered 1, 2, 3 is added, not overwritten.
+        let match = byStem.get(stemWords(incomingQ.stem)) || null;
+        if (match && claimed.has(match.id)) match = null;
+        if (!match) {
+          match = (byKey.get(stableKey(incomingQ)) || [])
+            .find(q => !claimed.has(q.id) && stemSimilarity(q.stem, incomingQ.stem) >= 0.6) || null;
+        }
+
+        if (match) {
+          const before = JSON.stringify(QUESTION_FIELDS.map(f => match[f]));
+          QUESTION_FIELDS.forEach(f => { match[f] = incomingQ[f]; });
+          if (JSON.stringify(QUESTION_FIELDS.map(f => match[f])) === before) result.unchanged++;
+          else result.updated++;
+          claimed.add(match.id);
+        } else {
+          incomingQ.id = makeQuestionId(incomingQ, takenIds);
+          takenIds.add(incomingQ.id);
+          ALL_QUESTIONS.push(incomingQ);
+          claimed.add(incomingQ.id);
+          result.added++;
+        }
+      });
+
+      if (result.added || result.updated) saveBank();
+      return result;
+    }
+
+    function importSummary(r) {
+      const parts = [];
+      if (r.added) parts.push(`${r.added} new`);
+      if (r.updated) parts.push(`${r.updated} updated`);
+      let msg = parts.length
+        ? `Imported ${parts.join(", ")} question${r.added + r.updated === 1 ? "" : "s"}.`
+        : `All ${r.unchanged} question${r.unchanged === 1 ? " was" : "s were"} already in your bank.`;
+      if (parts.length && r.unchanged) msg += ` ${r.unchanged} already up to date.`;
+      if (r.skipped) msg += ` Skipped ${r.skipped} missing choices or a valid answer.`;
+      return msg;
+    }
+
+    function handleDirectImport() {
+      const text = txtDocInput.value.trim();
+      if (!text) {
+        showToast("Please paste text or load sample questions first.");
         return;
       }
 
-      const sampleMissed = missed.slice(0, 5).map(q => `Folder: ${q.folder} / ${q.subfolder}\nQuestion: ${q.stem}\nStudent Chose: ${userAnswers[q.id]}\nCorrect Answer: ${q.answer}`).join("\n---\n");
-
-      addChatMessage("user", "Analyze my missed questions and generate 3 targeted clinical vignettes targeting these exact concepts.");
-      addChatMessage("bot", "Analyzing your missed questions and drafting targeted board-style practice items...");
-
-      const prompt = `Here are concepts and questions the medical student answered incorrectly on their board review:\n\n${sampleMissed}\n\nBased on these weaknesses:\n1. Identify the high-yield physiological or microbiological patterns they are confusing.\n2. Generate 3 brand new, board-style multiple-choice questions targeting these exact weaknesses.\n\nFormat each question strictly as:\n[Folder] / [Subfolder]\n\nQuestion [number]\n[Vignette]\nA. ...\nB. ...\nC. ...\nD. ...\nE. ...\nAnswer: [letter]. [choice]\nWhy this is correct: [explanation]\nWhy the other answers are wrong:\n[letter]. [explanation]\nObjective: [learning objective]`;
-
-      const reply = await callGemini(prompt, "You are a master NBME board exam writer.");
-      if (reply) addChatMessage("bot", reply);
+      const result = syncAndMergeQuestions(text);
+      if (result.added || result.updated || result.unchanged) {
+        showToast(importSummary(result));
+        txtDocInput.value = "";
+        closeModal("loadModal");
+        renderUWSurface();
+      } else if (result.skipped) {
+        showToast(`No questions imported. ${result.skipped} were missing choices or a valid Answer line.`);
+      } else {
+        showToast("No questions found. Each needs a 'Question N' line, lettered choices, and an 'Answer:' line.");
+      }
     }
 
-    async function handleExplainStruggles() {
-      const missed = ALL_QUESTIONS.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-      if (!missed.length) {
-        showToast("No missed questions on record to analyze.");
+    function stemToPlainText(stem) {
+      return String(stem || "").replace(/<img\s+src="([^"]*)"\s+alt="([^"]*)"\s*\/?>/gi, "![$2]($1)");
+    }
+
+    function buildTextExport(list) {
+      let content = "";
+      let lastHeading = null;
+      list.forEach((q, i) => {
+        const parts = [q.folder || "General"];
+        if (q.subSubfolder) parts.push(q.subfolder || "General", q.subSubfolder);
+        else if (q.subfolder && q.subfolder !== "General") parts.push(q.subfolder);
+        const heading = parts.join(" / ");
+        if (heading !== lastHeading) {
+          content += `${heading}\n\n`;
+          lastHeading = heading;
+        }
+
+        content += `Question ${q.rawNumber || i + 1}\n${stemToPlainText(q.stem)}\n`;
+        q.choices.forEach(c => { content += `${c.letter}. ${c.text}\n`; });
+        const key = q.choices.find(c => c.letter === q.answer);
+        content += `Answer: ${q.answer}${key ? `. ${key.text}` : ""}\n`;
+        if (q.whyCorrect) content += `Why this is correct: ${q.whyCorrect}\n`;
+        const wrong = q.choices.filter(c => q.whyWrong && q.whyWrong[c.letter]);
+        if (wrong.length) {
+          content += "Why the other answers are wrong:\n";
+          wrong.forEach(c => { content += `${c.letter}. ${q.whyWrong[c.letter]}\n`; });
+        }
+        if (q.objective) content += `Objective: ${q.objective}\n`;
+        content += "\n";
+      });
+      return content;
+    }
+
+    function runTextExport() {
+      const scope = exportScope.value;
+      let exportList = ALL_QUESTIONS;
+      if (scope === "missed") exportList = ALL_QUESTIONS.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
+      if (scope === "flagged") exportList = ALL_QUESTIONS.filter(q => flaggedQuestions[q.id]);
+      if (!exportList.length) {
+        showToast("No questions match that scope.");
+        return;
+      }
+      downloadFile(`QBank_Export_${scope}_${todayStamp()}.txt`, buildTextExport(exportList), "text/plain;charset=utf-8");
+      closeModal("exportModal");
+    }
+
+    function downloadBackup() {
+      const data = {
+        app: "WPS-Archive",
+        version: 2,
+        exportedAt: new Date().toISOString(),
+        questions: ALL_QUESTIONS,
+        userAnswers,
+        confirmedAnswers,
+        flaggedQuestions,
+        testHistory
+      };
+      downloadFile(`WPS-Archive-backup-${todayStamp()}.json`, JSON.stringify(data), "application/json");
+      showToast(`Backup downloaded (${ALL_QUESTIONS.length} questions).`);
+    }
+
+    function restoreBackup(file) {
+      const reader = new FileReader();
+      reader.onload = () => {
+        let data;
+        try {
+          data = JSON.parse(reader.result);
+        } catch (e) {
+          showToast("That file isn't a valid backup.");
+          return;
+        }
+        if (!data || !Array.isArray(data.questions)) {
+          showToast("That file isn't a WPS-Archive backup.");
+          return;
+        }
+        const questions = data.questions.filter(q => q && typeof q.stem === "string" && Array.isArray(q.choices) && q.answer);
+        const message = `Restore this backup from ${data.exportedAt ? formatDate(data.exportedAt) : "an unknown date"}?\n\n` +
+          `It replaces the ${ALL_QUESTIONS.length} questions and all progress in this browser with the backup's ${questions.length} questions and progress.`;
+        if (!confirm(message)) return;
+
+        ALL_QUESTIONS = questions.map((q, i) => normalizeQuestionFolders(q, i));
+        userAnswers = asObject(data.userAnswers);
+        confirmedAnswers = asObject(data.confirmedAnswers);
+        flaggedQuestions = asObject(data.flaggedQuestions);
+        testHistory = Array.isArray(data.testHistory) ? data.testHistory : [];
+        saveBank();
+        saveProgress();
+        saveHistory();
+        closeModal("exportModal");
+        renderUWSurface();
+        showToast(`Restored ${ALL_QUESTIONS.length} questions and your progress.`);
+      };
+      reader.readAsText(file);
+    }
+
+    function openManageModal() {
+      populateTargetDeleteDropdown();
+      openModal("clearModal");
+    }
+
+    function populateTargetDeleteDropdown() {
+      const select = document.getElementById("selectTargetDelete");
+      if (!select) return;
+
+      select.innerHTML = '<option value="">-- Select a Category to Delete --</option>';
+
+      if (!ALL_QUESTIONS.length) {
+        const opt = document.createElement("option");
+        opt.value = "";
+        opt.textContent = "(Question bank is empty)";
+        opt.disabled = true;
+        select.appendChild(opt);
         return;
       }
 
-      const topics = missed.map(q => `${q.folder} - ${q.subfolder}: ${q.objective || q.stem.slice(0, 80)}`).join("\n");
-      addChatMessage("user", "Explain my top misconceptions based on my performance.");
+      const paths = new Map();
+      const bump = (val, label) => {
+        const entry = paths.get(val) || { label, count: 0 };
+        entry.count++;
+        paths.set(val, entry);
+      };
 
-      const prompt = `A student missed questions covering these topics:\n${topics}\n\nProvide a high-yield, succinct bulleted breakdown explaining the clinical and mechanistic differences they need to remember.`;
-      const reply = await callGemini(prompt, "You are an encouraging USMLE medical tutor.");
-      if (reply) addChatMessage("bot", reply);
+      ALL_QUESTIONS.forEach(q => {
+        const f = q.folder || "General";
+        const sf = q.subfolder && q.subfolder !== "General" ? q.subfolder : "";
+        const ssf = q.subSubfolder || "";
+
+        bump(`folder:::${f}`, `[Folder] ${f}`);
+        if (sf) bump(`subfolder:::${f} / ${sf}`, `  ↳ [Subfolder] ${f} / ${sf}`);
+        if (sf && ssf) bump(`subsub:::${f} / ${sf} / ${ssf}`, `      ↳ [Sub-subfolder] ${f} / ${sf} / ${ssf}`);
+      });
+
+      paths.forEach((entry, val) => {
+        const opt = document.createElement("option");
+        opt.value = val;
+        opt.textContent = `${entry.label} (${entry.count})`;
+        select.appendChild(opt);
+      });
+    }
+
+    function deleteTargetedCategory() {
+      const select = document.getElementById("selectTargetDelete");
+      if (!select || !select.value) {
+        showToast("Please choose a category to delete.");
+        return;
+      }
+
+      const [type, path] = select.value.split(":::");
+      const inTarget = (q) => {
+        if (type === "folder") return (q.folder || "General") === path;
+        if (type === "subfolder") return `${q.folder || "General"} / ${q.subfolder || "General"}` === path;
+        return q.subject === path;
+      };
+
+      const doomed = ALL_QUESTIONS.filter(inTarget);
+      if (!doomed.length) {
+        showToast("No matching questions found.");
+        return;
+      }
+      if (!confirm(`Delete ${doomed.length} question${doomed.length === 1 ? "" : "s"} in "${path}"?\n\nThis can't be undone.`)) return;
+
+      const ids = new Set(doomed.map(q => q.id));
+      ALL_QUESTIONS = ALL_QUESTIONS.filter(q => !ids.has(q.id));
+      ids.forEach(id => {
+        delete userAnswers[id];
+        delete confirmedAnswers[id];
+        delete flaggedQuestions[id];
+      });
+      saveBank();
+      saveProgress();
+      showToast(`Deleted ${doomed.length} questions from ${path}.`);
+      populateTargetDeleteDropdown();
+      renderUWSurface();
+    }
+
+    function resetEntireBank() {
+      if (!confirm("Reset the entire question bank?\n\nThis permanently deletes every question, answer, flag and saved test in this browser.")) return;
+
+      BANK_DATA_KEYS.forEach(key => {
+        try { localStorage.removeItem(key); } catch (e) {}
+      });
+      ALL_QUESTIONS = [];
+      userAnswers = {};
+      confirmedAnswers = {};
+      flaggedQuestions = {};
+      testHistory = [];
+      checkedSubjects.clear();
+      openTreeKeys.clear();
+      closeModal("clearModal");
+      renderUWSurface();
+      showToast("Bank wiped successfully.");
+      loadBundledQuestions();
     }
 
     function renderUWSurface() {
@@ -1966,218 +2363,229 @@
 
       renderMultiTableSubjects();
       renderPerformanceBreakdown();
+      renderHistoryList();
       updateAvailableCount();
+    }
+
+    function leafCheckbox(className, path) {
+      return `<input type="checkbox" class="${className}" name="uwSubjectCheck" value="${esc(path)}"${checkedSubjects.has(path) ? " checked" : ""} />`;
+    }
+
+    function subSubRow(path, label, count) {
+      return `
+        <div class="uw-subsub-row">
+          <label class="tree-name">${leafCheckbox("chk-subsub-item", path)}<span>${esc(label)}</span></label>
+          <span class="tree-count">${count}</span>
+          <span class="tree-count sel-count">0</span>
+          <div class="tree-action">
+            <button class="btn-quick-play" data-practice="path" data-path="${esc(path)}">Practice</button>
+          </div>
+        </div>`;
     }
 
     function renderMultiTableSubjects() {
       const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
-      subjectsTablesStack.innerHTML = "";
-
-      folders.forEach(fName => {
-        const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
-
-        const tableCard = document.createElement("div");
-        tableCard.className = "uw-table-container";
-
-        const headerDiv = document.createElement("div");
-        headerDiv.className = "uw-table-header";
-        headerDiv.innerHTML = `
-          <div style="display:flex; align-items:center; gap:8px;">
-            <span class="folder-toggle-icon">&#9656;</span>
-            <input type="checkbox" class="chk-folder-master" data-folder="${fName}" />
-            <span>${fName}</span>
-          </div>
-          <span style="text-align:center;">${folderQs.length}</span>
-          <span style="text-align:center;" class="folder-sel-count">0</span>
-          <div style="text-align:center;">
-            <button class="btn-quick-play" data-action="all-folder" data-folder="${fName}">Practice All</button>
-          </div>
-        `;
-
-        const tbody = document.createElement("div");
-        tbody.className = "uw-table-scroll-body collapsed";
-
-        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
-
-        subfolders.forEach(sName => {
-          const subQs = folderQs.filter(q => (q.subfolder || "General") === sName);
-          const subSubfolders = [...new Set(subQs.map(q => q.subSubfolder).filter(Boolean))];
-
-          const subfolderBlock = document.createElement("div");
-          subfolderBlock.className = "uw-subfolder-block";
-
-          const hasSubSubs = subSubfolders.length > 0;
-          const subSubjectBase = sName !== "General" ? `${fName} / ${sName}` : fName;
-          const subLabel = sName === "General" ? "General / Overview" : sName;
-
-          const subHeader = document.createElement("div");
-          subHeader.className = "uw-sub-header";
-          subHeader.innerHTML = `
-            <div style="display:flex; align-items:center; gap:8px;">
-              ${hasSubSubs ? '<span class="folder-toggle-icon">&#9656;</span>' : '<span style="display:inline-block;width:14px;"></span>'}
-              <input type="checkbox" class="chk-sub-item" data-parent-folder="${fName}" data-subfolder="${sName}" ${!hasSubSubs ? `value="${subSubjectBase}" name="uwSubjectCheck"` : ''} />
-              <span>${subLabel}</span>
-            </div>
-            <span style="text-align:center;">${subQs.length}</span>
-            <span style="text-align:center;" class="sub-sel-count">0</span>
-            <div style="text-align:center;">
-              <button class="btn-quick-play" data-action="sub-practice" data-folder="${fName}" data-subfolder="${sName}">Practice</button>
-            </div>
-          `;
-
-          subfolderBlock.appendChild(subHeader);
-
-          if (hasSubSubs) {
-            const subSubContainer = document.createElement("div");
-            subSubContainer.className = "uw-subsub-container collapsed";
-
-            subSubfolders.forEach(ssName => {
-              const ssQs = subQs.filter(q => q.subSubfolder === ssName);
-              const fullSSPath = `${subSubjectBase} / ${ssName}`;
-
-              const ssRow = document.createElement("div");
-              ssRow.className = "uw-subsub-row";
-              ssRow.innerHTML = `
-                <div style="display:flex; align-items:center; gap:8px;">
-                  <input type="checkbox" class="chk-subsub-item" name="uwSubjectCheck" data-parent-folder="${fName}" data-parent-sub="${sName}" value="${fullSSPath}" />
-                  <span>${ssName}</span>
-                </div>
-                <span style="text-align:center;">${ssQs.length}</span>
-                <span style="text-align:center;" class="subsub-sel-count">0</span>
-                <div style="text-align:center;">
-                  <button class="btn-quick-play" data-action="subsub-practice" data-path="${fullSSPath}">Practice</button>
-                </div>
-              `;
-              subSubContainer.appendChild(ssRow);
-            });
-
-            subfolderBlock.appendChild(subSubContainer);
-
-            subHeader.addEventListener("click", (e) => {
-              if (e.target.tagName.toLowerCase() === "input" || e.target.classList.contains("btn-quick-play")) return;
-              const icon = subHeader.querySelector(".folder-toggle-icon");
-              subSubContainer.classList.toggle("collapsed");
-              if (icon) icon.classList.toggle("expanded");
-            });
-
-            const subChk = subHeader.querySelector(".chk-sub-item");
-            subChk.addEventListener("change", (e) => {
-              const isChecked = e.target.checked;
-              subSubContainer.querySelectorAll(".chk-subsub-item").forEach(cb => {
-                cb.checked = isChecked;
-              });
-              updateAvailableCount();
-            });
-
-            subSubContainer.querySelectorAll(".chk-subsub-item").forEach(cb => {
-              cb.addEventListener("change", () => {
-                const allSubs = Array.from(subSubContainer.querySelectorAll(".chk-subsub-item"));
-                subChk.checked = allSubs.every(c => c.checked);
-                subChk.indeterminate = allSubs.some(c => c.checked) && !subChk.checked;
-                updateAvailableCount();
-              });
-            });
-          }
-
-          tbody.appendChild(subfolderBlock);
-        });
-
-        headerDiv.addEventListener("click", (e) => {
-          if (e.target.tagName.toLowerCase() === "input" || e.target.classList.contains("btn-quick-play")) return;
-          const icon = headerDiv.querySelector(".folder-toggle-icon");
-          tbody.classList.toggle("collapsed");
-          icon.classList.toggle("expanded");
-        });
-
-        const masterChk = headerDiv.querySelector(".chk-folder-master");
-        masterChk.addEventListener("change", (e) => {
-          const isChecked = e.target.checked;
-          tbody.querySelectorAll('input[type="checkbox"]').forEach(cb => {
-            cb.checked = isChecked;
-          });
-          updateAvailableCount();
-        });
-
-        tbody.querySelectorAll('input[type="checkbox"]').forEach(cb => {
-          cb.addEventListener("change", () => {
-            const allCheckboxes = Array.from(tbody.querySelectorAll('input[name="uwSubjectCheck"]'));
-            masterChk.checked = allCheckboxes.every(c => c.checked);
-            masterChk.indeterminate = allCheckboxes.some(c => c.checked) && !masterChk.checked;
-            updateAvailableCount();
-          });
-        });
-
-        headerDiv.querySelector('[data-action="all-folder"]').addEventListener("click", (e) => {
-          e.stopPropagation();
-          startDirectPractice(q => (q.folder || "General") === fName, fName);
-        });
-
-        tbody.querySelectorAll('[data-action="sub-practice"]').forEach(btn => {
-          btn.addEventListener("click", (e) => {
-            e.stopPropagation();
-            const f = btn.dataset.folder;
-            const sf = btn.dataset.subfolder;
-            startDirectPractice(q => (q.folder || "General") === f && (q.subfolder || "General") === sf, `${f} / ${sf}`);
-          });
-        });
-
-        tbody.querySelectorAll('[data-action="subsub-practice"]').forEach(btn => {
-          btn.addEventListener("click", (e) => {
-            e.stopPropagation();
-            const path = btn.dataset.path;
-            startDirectPractice(q => q.subject === path, path);
-          });
-        });
-
-        tableCard.appendChild(headerDiv);
-        tableCard.appendChild(tbody);
-        subjectsTablesStack.appendChild(tableCard);
-      });
-    }
-
-    function startDirectPractice(filterFn, title) {
-      let pool = ALL_QUESTIONS.filter(filterFn);
-      if (!pool.length) {
-        showToast(`No questions found in ${title}.`);
+      if (!folders.length) {
+        subjectsTablesStack.innerHTML = `<div class="empty-note">No questions yet. Use <strong>Import Text</strong> to add some, or restore a backup.</div>`;
         return;
       }
 
-      const isTimed = document.querySelector('input[name="uwTestMode"]:checked').value === "timed";
-      const doShuffleQ = document.getElementById("chkRandomizeQ").checked;
-      const doShuffleChoices = document.getElementById("chkRandomizeChoices").checked;
+      subjectsTablesStack.innerHTML = folders.map(fName => {
+        const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
+        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
+        const folderKey = `folder:${fName}`;
+        const folderOpen = openTreeKeys.has(folderKey);
 
-      if (doShuffleQ) pool = pool.sort(() => Math.random() - 0.5);
+        const subBlocks = subfolders.map(sName => {
+          const subQs = folderQs.filter(q => (q.subfolder || "General") === sName);
+          const subSubfolders = [...new Set(subQs.map(q => q.subSubfolder).filter(Boolean))];
+          const subSubjectBase = sName !== "General" ? `${fName} / ${sName}` : fName;
+          const subLabel = sName === "General" ? "General / Overview" : sName;
+          const practiceBtn = `<button class="btn-quick-play" data-practice="sub" data-folder="${esc(fName)}" data-subfolder="${esc(sName)}">Practice</button>`;
 
-      if (doShuffleChoices) {
-        pool = pool.map(q => {
-          const clone = JSON.parse(JSON.stringify(q));
-          clone.choices = clone.choices.sort(() => Math.random() - 0.5);
-          return clone;
+          if (!subSubfolders.length) {
+            return `
+              <div class="uw-subfolder-block">
+                <div class="uw-sub-header">
+                  <label class="tree-name"><span class="tree-spacer"></span>${leafCheckbox("chk-sub-item", subSubjectBase)}<span>${esc(subLabel)}</span></label>
+                  <span class="tree-count">${subQs.length}</span>
+                  <span class="tree-count sel-count">0</span>
+                  <div class="tree-action">${practiceBtn}</div>
+                </div>
+              </div>`;
+          }
+
+          const subKey = `sub:${fName}/${sName}`;
+          const subOpen = openTreeKeys.has(subKey);
+          const directCount = subQs.filter(q => !q.subSubfolder).length;
+          const rows = [];
+          if (directCount) rows.push(subSubRow(subSubjectBase, "General / Overview", directCount));
+          subSubfolders.forEach(ssName => {
+            rows.push(subSubRow(`${subSubjectBase} / ${ssName}`, ssName, subQs.filter(q => q.subSubfolder === ssName).length));
+          });
+
+          return `
+            <div class="uw-subfolder-block">
+              <div class="uw-sub-header" data-toggle="${esc(subKey)}">
+                <div class="tree-name">
+                  <span class="folder-toggle-icon${subOpen ? " expanded" : ""}">&#9656;</span>
+                  <input type="checkbox" class="chk-sub-item" />
+                  <span>${esc(subLabel)}</span>
+                </div>
+                <span class="tree-count">${subQs.length}</span>
+                <span class="tree-count sub-sel-count">0</span>
+                <div class="tree-action">${practiceBtn}</div>
+              </div>
+              <div class="uw-subsub-container${subOpen ? "" : " collapsed"}">${rows.join("")}</div>
+            </div>`;
+        }).join("");
+
+        return `
+          <div class="uw-table-container">
+            <div class="uw-table-header" data-toggle="${esc(folderKey)}">
+              <div class="tree-name">
+                <span class="folder-toggle-icon${folderOpen ? " expanded" : ""}">&#9656;</span>
+                <input type="checkbox" class="chk-folder-master" />
+                <span>${esc(fName)}</span>
+              </div>
+              <span class="tree-count">${folderQs.length}</span>
+              <span class="tree-count folder-sel-count">0</span>
+              <div class="tree-action">
+                <button class="btn-quick-play" data-practice="folder" data-folder="${esc(fName)}">Practice All</button>
+              </div>
+            </div>
+            <div class="uw-table-scroll-body${folderOpen ? "" : " collapsed"}">${subBlocks}</div>
+          </div>`;
+      }).join("");
+
+      syncParentCheckboxes();
+    }
+
+    function setTriState(cb, leaves) {
+      const checkedCount = leaves.filter(l => l.checked).length;
+      cb.checked = leaves.length > 0 && checkedCount === leaves.length;
+      cb.indeterminate = checkedCount > 0 && checkedCount < leaves.length;
+    }
+
+    function syncParentCheckboxes() {
+      subjectsTablesStack.querySelectorAll(".uw-subfolder-block").forEach(block => {
+        const subChk = block.querySelector(".chk-sub-item");
+        if (subChk && !subChk.name) setTriState(subChk, [...block.querySelectorAll(".chk-subsub-item")]);
+      });
+      subjectsTablesStack.querySelectorAll(".uw-table-container").forEach(card => {
+        const master = card.querySelector(".chk-folder-master");
+        if (master) setTriState(master, [...card.querySelectorAll('input[name="uwSubjectCheck"]')]);
+      });
+    }
+
+    function readCheckedSubjects() {
+      subjectsTablesStack.querySelectorAll('input[name="uwSubjectCheck"]').forEach(cb => {
+        if (cb.checked) checkedSubjects.add(cb.value);
+        else checkedSubjects.delete(cb.value);
+      });
+    }
+
+    function setAllSubjects(checked) {
+      subjectsTablesStack.querySelectorAll('input[name="uwSubjectCheck"]').forEach(cb => { cb.checked = checked; });
+      readCheckedSubjects();
+      syncParentCheckboxes();
+      updateAvailableCount();
+    }
+
+    function handleTreeClick(e) {
+      const practiceBtn = e.target.closest("[data-practice]");
+      if (practiceBtn) {
+        e.preventDefault();
+        startPracticeFromButton(practiceBtn);
+        return;
+      }
+      if (e.target.closest("input, label")) return;
+
+      const toggleRow = e.target.closest("[data-toggle]");
+      if (!toggleRow) return;
+      const body = toggleRow.nextElementSibling;
+      const isOpen = !body.classList.toggle("collapsed");
+      const icon = toggleRow.querySelector(".folder-toggle-icon");
+      if (icon) icon.classList.toggle("expanded", isOpen);
+      if (isOpen) openTreeKeys.add(toggleRow.dataset.toggle);
+      else openTreeKeys.delete(toggleRow.dataset.toggle);
+    }
+
+    function handleTreeChange(e) {
+      const cb = e.target;
+      if (!cb.matches('input[type="checkbox"]')) return;
+      if (cb.classList.contains("chk-folder-master")) {
+        cb.closest(".uw-table-container").querySelectorAll('input[name="uwSubjectCheck"]').forEach(leaf => { leaf.checked = cb.checked; });
+      } else if (cb.classList.contains("chk-sub-item") && !cb.name) {
+        cb.closest(".uw-subfolder-block").querySelectorAll('input[name="uwSubjectCheck"]').forEach(leaf => { leaf.checked = cb.checked; });
+      }
+      readCheckedSubjects();
+      syncParentCheckboxes();
+      updateAvailableCount();
+    }
+
+    function currentPoolStatus() {
+      const checked = document.querySelector('input[name="qPoolStatus"]:checked');
+      return checked ? checked.value : "all";
+    }
+
+    function matchesStatus(q, status) {
+      const done = !!confirmedAnswers[q.id];
+      if (status === "unanswered") return !done;
+      if (status === "missed") return done && userAnswers[q.id] !== q.answer;
+      if (status === "flagged") return !!flaggedQuestions[q.id];
+      if (status === "correct") return done && userAnswers[q.id] === q.answer;
+      return true;
+    }
+
+    function updateAvailableCount() {
+      const poolStatus = currentPoolStatus();
+      const eligible = ALL_QUESTIONS.filter(q => matchesStatus(q, poolStatus));
+      const perSubject = new Map();
+      let selectedTotal = 0;
+      eligible.forEach(q => {
+        if (!checkedSubjects.has(q.subject)) return;
+        perSubject.set(q.subject, (perSubject.get(q.subject) || 0) + 1);
+        selectedTotal++;
+      });
+
+      totalAvailablePool.textContent = eligible.length;
+      totalSelectedInTree.textContent = selectedTotal;
+
+      subjectsTablesStack.querySelectorAll(".uw-table-container").forEach(tableCard => {
+        let tableTotalSelected = 0;
+
+        tableCard.querySelectorAll(".uw-subfolder-block").forEach(subBlock => {
+          let subBlockTotal = 0;
+          subBlock.querySelectorAll('input[name="uwSubjectCheck"]').forEach(leaf => {
+            const n = leaf.checked ? (perSubject.get(leaf.value) || 0) : 0;
+            const cell = leaf.closest(".uw-sub-header, .uw-subsub-row").querySelector(".sel-count");
+            if (cell) cell.textContent = n;
+            subBlockTotal += n;
+          });
+          const subSelSpan = subBlock.querySelector(".sub-sel-count");
+          if (subSelSpan) subSelSpan.textContent = subBlockTotal;
+          tableTotalSelected += subBlockTotal;
         });
+
+        const folderCountSpan = tableCard.querySelector(".folder-sel-count");
+        if (folderCountSpan) folderCountSpan.textContent = tableTotalSelected;
+      });
+
+      inputBlockSize.max = Math.max(1, selectedTotal);
+      if (selectedTotal > 0 && parseInt(inputBlockSize.value, 10) > selectedTotal) {
+        inputBlockSize.value = Math.min(40, selectedTotal);
       }
-
-      currentQuestions = pool;
-      currentIndex = 0;
-      testMode = isTimed ? "timed" : "tutor";
-
-      if (testMode === "timed") {
-        timerSeconds = currentQuestions.length * 90;
-      } else {
-        timerSeconds = 0;
-      }
-
-      timerRunning = true;
-      btnToggleTimer.textContent = "Pause";
-      examModeBadge.textContent = isTimed ? "Timed Exam" : "Tutor Mode";
-      examBlockBadge.textContent = `${title} (${currentQuestions.length} Qs)`;
-
-      showView("exam");
     }
 
     function renderPerformanceBreakdown() {
       const container = document.getElementById("performanceFolderList");
       container.innerHTML = "";
       const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
+      if (!folders.length) {
+        container.innerHTML = `<div class="empty-note">Import questions to see performance by folder.</div>`;
+        return;
+      }
 
       folders.forEach(fName => {
         const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
@@ -2194,9 +2602,9 @@
         const card = document.createElement("div");
         card.className = "perf-folder-card";
         card.innerHTML = `
-          <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.85rem; font-weight:700;">
-            <span>${fName} <small style="color:var(--text-muted); font-weight:600;">(${done}/${folderQs.length} completed)</small></span>
-            <span style="background:var(--border-sub); padding:2px 8px; border-radius:12px; font-size:0.75rem;">Accuracy: ${pct}%</span>
+          <div style="display:flex; justify-content:space-between; align-items:center; gap:10px; font-size:0.85rem; font-weight:700;">
+            <span>${esc(fName)} <small style="color:var(--text-muted); font-weight:600;">(${done}/${folderQs.length} completed)</small></span>
+            <span style="background:var(--border-sub); padding:2px 8px; border-radius:12px; font-size:0.75rem; white-space:nowrap;">Accuracy: ${pct}%</span>
           </div>
           <div style="width:100%;height:6px;background:var(--border-sub);border-radius:4px;overflow:hidden;margin-top:2px;">
             <div style="width:${pct}%;height:100%;background:var(--uw-primary);transition:width 0.3s ease;"></div>
@@ -2206,263 +2614,276 @@
       });
     }
 
-    function updateAvailableCount() {
-      const poolStatus = document.querySelector('input[name="qPoolStatus"]:checked').value;
-      const selectedSubs = Array.from(document.querySelectorAll('input[name="uwSubjectCheck"]:checked')).map(cb => cb.value);
+    function blockRows(record, qMap) {
+      const map = qMap || questionMap();
+      return record.items.map(item => {
+        const q = map.get(item.id);
+        if (!q) return null;
+        const status = !item.answer ? "omitted" : item.answer === q.answer ? "correct" : "incorrect";
+        return {
+          q,
+          item,
+          status,
+          yours: item.answer ? displayLetter(q, item.answer, item.order) : "—",
+          key: displayLetter(q, q.answer, item.order)
+        };
+      }).filter(Boolean);
+    }
 
-      let eligible = ALL_QUESTIONS.filter(q => selectedSubs.includes(q.subject));
-
-      if (poolStatus === "unanswered") {
-        eligible = eligible.filter(q => !confirmedAnswers[q.id]);
-      } else if (poolStatus === "missed") {
-        eligible = eligible.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-      } else if (poolStatus === "flagged") {
-        eligible = eligible.filter(q => flaggedQuestions[q.id]);
-      } else if (poolStatus === "correct") {
-        eligible = eligible.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
+    function renderHistoryList() {
+      if (!testHistory.length) {
+        testHistoryList.innerHTML = `<div class="empty-note">No finished tests yet. Tests you end, or leave partway through, show up here.</div>`;
+        return;
       }
-
-      totalAvailablePool.textContent = eligible.length;
-      totalSelectedInTree.textContent = eligible.length;
-
-      document.querySelectorAll(".uw-table-container").forEach(tableCard => {
-        let tableTotalSelected = 0;
-
-        tableCard.querySelectorAll(".uw-subfolder-block").forEach(subBlock => {
-          let subBlockTotal = 0;
-          const subChk = subBlock.querySelector('.chk-sub-item');
-          const subSelSpan = subBlock.querySelector('.sub-sel-count');
-
-          if (subChk.hasAttribute("name") && subChk.checked) {
-            let directQs = ALL_QUESTIONS.filter(q => q.subject === subChk.value);
-            if (poolStatus === "unanswered") directQs = directQs.filter(q => !confirmedAnswers[q.id]);
-            else if (poolStatus === "missed") directQs = directQs.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-            else if (poolStatus === "flagged") directQs = directQs.filter(q => flaggedQuestions[q.id]);
-            else if (poolStatus === "correct") directQs = directQs.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
-            subBlockTotal += directQs.length;
-          }
-
-          subBlock.querySelectorAll(".uw-subsub-row").forEach(ssRow => {
-            const ssCb = ssRow.querySelector(".chk-subsub-item");
-            const ssSpan = ssRow.querySelector(".subsub-sel-count");
-            if (ssCb && ssCb.checked) {
-              let ssQs = ALL_QUESTIONS.filter(q => q.subject === ssCb.value);
-              if (poolStatus === "unanswered") ssQs = ssQs.filter(q => !confirmedAnswers[q.id]);
-              else if (poolStatus === "missed") ssQs = ssQs.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-              else if (poolStatus === "flagged") ssQs = ssQs.filter(q => flaggedQuestions[q.id]);
-              else if (poolStatus === "correct") ssQs = ssQs.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
-              ssSpan.textContent = ssQs.length;
-              subBlockTotal += ssQs.length;
-            } else if (ssSpan) {
-              ssSpan.textContent = "0";
-            }
-          });
-
-          if (subSelSpan) subSelSpan.textContent = subBlockTotal;
-          tableTotalSelected += subBlockTotal;
-        });
-
-        const folderCountSpan = tableCard.querySelector(".folder-sel-count");
-        if (folderCountSpan) folderCountSpan.textContent = tableTotalSelected;
-      });
-
-      inputBlockSize.max = Math.max(1, eligible.length);
-      if (parseInt(inputBlockSize.value, 10) > eligible.length && eligible.length > 0) {
-        inputBlockSize.value = Math.min(40, eligible.length);
-      }
+      const qMap = questionMap();
+      testHistoryList.innerHTML = testHistory.map(record => {
+        const rows = blockRows(record, qMap);
+        const correct = rows.filter(r => r.status === "correct").length;
+        const pct = rows.length ? Math.round((correct / rows.length) * 100) : 0;
+        return `
+          <div class="history-row">
+            <div class="history-main">
+              <strong>${esc(record.title)}</strong>
+              <span>${formatDate(record.endedAt || record.startedAt)} · ${record.mode === "timed" ? "Timed" : "Tutor"} · ${rows.length} Qs</span>
+            </div>
+            <span class="history-score">${correct}/${rows.length} · ${pct}%</span>
+            <button type="button" data-open-result="${esc(record.id)}">Results</button>
+          </div>`;
+      }).join("");
     }
 
     function launchCustomExam() {
-      const poolStatus = document.querySelector('input[name="qPoolStatus"]:checked').value;
-      const selectedSubs = Array.from(document.querySelectorAll('input[name="uwSubjectCheck"]:checked')).map(cb => cb.value);
-      const isTimed = document.querySelector('input[name="uwTestMode"]:checked').value === "timed";
-      const doShuffleQ = document.getElementById("chkRandomizeQ").checked;
-      const doShuffleChoices = document.getElementById("chkRandomizeChoices").checked;
-      const requestedCount = parseInt(inputBlockSize.value, 10) || 10;
-
-      if (!selectedSubs.length) {
+      if (!checkedSubjects.size) {
         showToast("Please select at least one system, subject, or subfolder.");
         return;
       }
 
-      let pool = ALL_QUESTIONS.filter(q => selectedSubs.includes(q.subject));
-
-      if (poolStatus === "unanswered") {
-        pool = pool.filter(q => !confirmedAnswers[q.id]);
-      } else if (poolStatus === "missed") {
-        pool = pool.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-        pool.forEach(q => {
-          delete confirmedAnswers[q.id];
-          delete userAnswers[q.id];
-          delete stagedAnswers[q.id];
-          delete struckChoices[q.id];
-        });
-        saveProgress();
-      } else if (poolStatus === "flagged") {
-        pool = pool.filter(q => flaggedQuestions[q.id]);
-      } else if (poolStatus === "correct") {
-        pool = pool.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] === q.answer);
-      }
-
+      const poolStatus = currentPoolStatus();
+      let pool = ALL_QUESTIONS.filter(q => checkedSubjects.has(q.subject) && matchesStatus(q, poolStatus));
       if (!pool.length) {
         showToast("No questions available for this criteria.");
         return;
       }
 
-      if (doShuffleQ) pool = pool.sort(() => Math.random() - 0.5);
+      const requestedCount = Math.max(1, parseInt(inputBlockSize.value, 10) || 10);
+      if (document.getElementById("chkRandomizeQ").checked) pool = shuffle(pool);
       pool = pool.slice(0, requestedCount);
+      startBlock(pool, `Custom Test · ${STATUS_LABELS[poolStatus] || "All Questions"}`);
+    }
 
-      if (doShuffleChoices) {
-        pool = pool.map(q => {
-          const clone = JSON.parse(JSON.stringify(q));
-          clone.choices = clone.choices.sort(() => Math.random() - 0.5);
-          return clone;
-        });
-      }
-
-      currentQuestions = pool;
-      currentIndex = 0;
-      testMode = isTimed ? "timed" : "tutor";
-      
-      if (testMode === "timed") {
-        timerSeconds = currentQuestions.length * 90;
+    function startPracticeFromButton(btn) {
+      const kind = btn.dataset.practice;
+      let filterFn;
+      let title;
+      if (kind === "folder") {
+        const f = btn.dataset.folder;
+        filterFn = q => (q.folder || "General") === f;
+        title = f;
+      } else if (kind === "sub") {
+        const f = btn.dataset.folder;
+        const sf = btn.dataset.subfolder;
+        filterFn = q => (q.folder || "General") === f && (q.subfolder || "General") === sf;
+        title = sf === "General" ? f : `${f} / ${sf}`;
       } else {
-        timerSeconds = 0;
+        const path = btn.dataset.path;
+        filterFn = q => q.subject === path;
+        title = path;
       }
 
-      timerRunning = true;
-      btnToggleTimer.textContent = "Pause";
-      examModeBadge.textContent = isTimed ? "Timed Exam" : "Tutor Mode";
-      examBlockBadge.textContent = `${currentQuestions.length} Questions`;
+      let pool = ALL_QUESTIONS.filter(filterFn);
+      if (!pool.length) {
+        showToast(`No questions found in ${title}.`);
+        return;
+      }
+      if (document.getElementById("chkRandomizeQ").checked) pool = shuffle(pool);
+      startBlock(pool, title);
+    }
 
+    function startBlock(questions, title) {
+      const mode = document.querySelector('input[name="uwTestMode"]:checked').value === "timed" ? "timed" : "tutor";
+      session = {
+        id: `t${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`,
+        title,
+        mode,
+        review: false,
+        startedAt: Date.now(),
+        endedAt: null,
+        elapsed: 0,
+        limit: mode === "timed" ? questions.length * SECONDS_PER_QUESTION : 0,
+        ids: questions.map(q => q.id),
+        order: {},
+        answers: {},
+        staged: {},
+        prior: {},
+        struck: {},
+        highlights: {}
+      };
+      if (document.getElementById("chkRandomizeChoices").checked) {
+        questions.forEach(q => { session.order[q.id] = shuffle(q.choices.map(c => c.letter)); });
+      }
+
+      currentQuestions = questions.slice();
+      currentIndex = 0;
+      navFilter = "all";
+      timerRunning = true;
       showView("exam");
+    }
+
+    function choiceOrder(q, order) {
+      const letters = q.choices.map(c => c.letter);
+      if (!order) return letters;
+      const known = order.filter(l => letters.includes(l));
+      return known.concat(letters.filter(l => !known.includes(l)));
+    }
+
+    function orderedChoices(q) {
+      const byLetter = new Map(q.choices.map(c => [c.letter, c]));
+      return choiceOrder(q, session && session.order[q.id]).map(l => byLetter.get(l));
+    }
+
+    function displayLetter(q, canonical, order) {
+      const idx = choiceOrder(q, order).indexOf(canonical);
+      return idx === -1 ? canonical : letterAt(idx);
     }
 
     function showView(viewName) {
       activeView = viewName;
+      document.body.classList.toggle("in-exam", viewName === "exam");
+      document.body.classList.remove("nav-open");
 
-      const uwSidebar = document.getElementById("uwSidebar");
-      if (uwSidebar) uwSidebar.style.display = viewName === "exam" ? "none" : "flex";
       quizWorkspace.style.display = viewName === "exam" ? "flex" : "none";
       createTestView.style.display = viewName === "create-test" ? "flex" : "none";
       performanceView.style.display = viewName === "performance" ? "flex" : "none";
-      aiView.style.display = viewName === "ai-tutor" ? "flex" : "none";
+      resultsView.style.display = viewName === "results" ? "flex" : "none";
 
-      document.querySelectorAll(".uw-nav-item").forEach(item => item.classList.remove("active"));
-      const activeNav = document.querySelector(`.uw-nav-item[onclick*="${viewName}"]`);
-      if (activeNav) activeNav.classList.add("active");
+      const navView = viewName === "results" ? "performance" : viewName;
+      document.querySelectorAll(".uw-nav-item[data-view]").forEach(item => {
+        item.classList.toggle("active", item.dataset.view === navView);
+      });
+      appMain.scrollTop = 0;
 
       if (viewName === "exam") {
+        renderExamChrome();
         renderQuestion();
         renderNavPalette();
+        examPane.scrollTop = 0;
+      } else if (viewName === "results") {
+        renderResults();
       } else {
         renderUWSurface();
       }
     }
 
+    function renderExamChrome() {
+      const review = session.review;
+      examModeBadge.textContent = review ? "Review" : session.mode === "timed" ? "Timed Exam" : "Tutor Mode";
+      examBlockBadge.textContent = `${session.title} (${currentQuestions.length} Qs)`;
+      btnToggleTimer.style.display = review ? "none" : "";
+      btnToggleTimer.textContent = timerRunning ? "Pause" : "Resume";
+      btnFinishBlock.textContent = review ? "Back to Results" : "End Block";
+      btnResetCurrentQ.style.display = review ? "none" : "";
+      sidebarPane.classList.remove("mobile-open");
+
+      const missedBtn = document.querySelector('[data-navfilter="missed"]');
+      missedBtn.disabled = !review && session.mode === "timed";
+      if (missedBtn.disabled && navFilter === "missed") navFilter = "all";
+      document.querySelectorAll("[data-navfilter]").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.navfilter === navFilter);
+      });
+      updateTimerText();
+    }
+
+    function updateTimerText() {
+      if (!session) return;
+      if (session.review) {
+        timerText.textContent = formatTime(session.elapsed);
+        timerPill.title = "Time used";
+      } else if (session.mode === "timed") {
+        timerText.textContent = formatTime(session.limit - session.elapsed);
+        timerPill.title = "Time remaining";
+      } else {
+        timerText.textContent = formatTime(session.elapsed);
+        timerPill.title = "Time elapsed";
+      }
+    }
+
     function renderQuestion() {
-      if (!currentQuestions.length) return;
+      if (!session || !currentQuestions.length) return;
+      hideHlToolbar();
 
       const q = currentQuestions[currentIndex];
-      qDisplayIndex.textContent = `Question ${currentIndex + 1} of ${currentQuestions.length}`;
-      vignetteText.innerHTML = q.stem;
-      applySavedHighlights(q.id);
+      const review = session.review;
+      const tutor = session.mode === "tutor";
+      const chosen = session.answers[q.id] || "";
+      const staged = session.staged[q.id] || "";
+      const reveal = review || (tutor && !!chosen);
+      const order = session.order[q.id];
+      const struck = session.struck[q.id] || new Set();
 
-      if (flaggedQuestions[q.id]) {
-        btnFlag.classList.add("active");
-        btnFlag.textContent = "Marked";
-      } else {
-        btnFlag.classList.remove("active");
-        btnFlag.textContent = "Flag";
-      }
+      qDisplayIndex.textContent = `Question ${currentIndex + 1} of ${currentQuestions.length}`;
+      vignetteText.innerHTML = session.highlights[q.id] || q.stem;
+
+      const isFlagged = !!flaggedQuestions[q.id];
+      btnFlag.classList.toggle("active", isFlagged);
+      btnFlag.textContent = isFlagged ? "Marked" : "Flag";
 
       choicesList.innerHTML = "";
-      const isConfirmed = !!confirmedAnswers[q.id];
-      const stagedChoice = stagedAnswers[q.id];
-      const selectedChoice = userAnswers[q.id];
-      const currentStruck = struckChoices[q.id] || new Set();
-
-      q.choices.forEach(ch => {
+      orderedChoices(q).forEach((ch, i) => {
         const card = document.createElement("div");
         card.className = "choice-card";
         card.dataset.letter = ch.letter;
 
-        if (currentStruck.has(ch.letter)) card.classList.add("struck");
-
-        if (isConfirmed || testMode === "timed") {
-          if (selectedChoice === ch.letter) card.classList.add("staged");
-          if (isConfirmed && testMode === "tutor") {
-            card.classList.add("locked");
-            if (ch.letter === q.answer) card.classList.add("correct");
-            else if (selectedChoice === ch.letter) card.classList.add("wrong");
-          }
-        } else {
-          if (stagedChoice === ch.letter) card.classList.add("staged");
+        if (struck.has(ch.letter)) card.classList.add("struck");
+        if (reveal) {
+          card.classList.add("locked");
+          if (ch.letter === q.answer) card.classList.add("correct");
+          else if (ch.letter === chosen) card.classList.add("wrong");
+        } else if ((tutor ? staged : chosen) === ch.letter) {
+          card.classList.add("staged");
         }
 
         card.innerHTML = `
-          <div class="choice-letter">${ch.letter}</div>
+          <div class="choice-letter">${letterAt(i)}</div>
           <div class="choice-text">${ch.text}</div>
           <button class="strike-btn" title="Eliminate option">Eliminate</button>
         `;
-
-        card.addEventListener("click", (e) => {
-          if (e.target.classList.contains("strike-btn")) {
-            toggleStrikethrough(q.id, ch.letter);
-            return;
-          }
-          if (isConfirmed && testMode === "tutor") return;
-
-          if (testMode === "timed") {
-            userAnswers[q.id] = ch.letter;
-            confirmedAnswers[q.id] = true;
-            saveProgress();
-          } else {
-            stagedAnswers[q.id] = ch.letter;
-          }
-          renderQuestion();
-          renderNavPalette();
-        });
-
-        card.addEventListener("contextmenu", (e) => {
-          e.preventDefault();
-          toggleStrikethrough(q.id, ch.letter);
-        });
-
         choicesList.appendChild(card);
       });
 
-      if (testMode === "timed") {
+      if (review) {
         btnConfirmAnswer.style.display = "none";
-        confirmHint.textContent = "Timed exam: selection saved.";
+        confirmHint.textContent = chosen
+          ? `You answered ${displayLetter(q, chosen, order)}: ${chosen === q.answer ? "correct" : "incorrect"}.`
+          : "You didn't answer this question.";
+      } else if (!tutor) {
+        btnConfirmAnswer.style.display = "none";
+        confirmHint.textContent = chosen
+          ? `Answer ${displayLetter(q, chosen, order)} saved. You can change it until the block ends.`
+          : "Select an answer. It saves automatically.";
       } else {
         btnConfirmAnswer.style.display = "inline-flex";
-        if (isConfirmed) {
+        if (chosen) {
           btnConfirmAnswer.disabled = true;
           btnConfirmAnswer.textContent = "Locked";
           confirmHint.textContent = "Answer evaluated. See rationales below.";
         } else {
-          btnConfirmAnswer.disabled = !stagedChoice;
+          btnConfirmAnswer.disabled = !staged;
           btnConfirmAnswer.textContent = "Confirm Answer";
-          confirmHint.textContent = stagedChoice ? `Press Enter to confirm ${stagedChoice}.` : "Select an answer choice.";
+          confirmHint.textContent = staged ? `Press Enter to confirm ${displayLetter(q, staged, order)}.` : "Select an answer choice.";
         }
       }
 
-      if (isConfirmed && testMode === "tutor") {
+      if (reveal) {
         explanationBox.classList.add("visible");
-        expCorrectTag.textContent = `Correct Answer: ${q.answer}`;
+        expCorrectTag.textContent = `Correct Answer: ${displayLetter(q, q.answer, order)}`;
         expWhyCorrect.textContent = q.whyCorrect || "No explanation provided.";
 
-        let wrongHtml = "";
-        const wrongKeys = Object.keys(q.whyWrong || {});
-        if (wrongKeys.length > 0) {
-          wrongKeys.sort().forEach(letter => {
-            wrongHtml += `<p style="margin-bottom:8px;"><strong>Option ${letter}:</strong> ${q.whyWrong[letter]}</p>`;
-          });
-        } else {
-          wrongHtml = `<p style="color:var(--text-muted);font-style:italic;">No distractor rationales available.</p>`;
-        }
-        expWhyWrong.innerHTML = wrongHtml;
+        const wrongHtml = orderedChoices(q)
+          .map((c, i) => (q.whyWrong && q.whyWrong[c.letter])
+            ? `<p style="margin-bottom:8px;"><strong>Option ${letterAt(i)}:</strong> ${esc(q.whyWrong[c.letter])}</p>`
+            : "")
+          .join("");
+        expWhyWrong.innerHTML = wrongHtml || `<p style="color:var(--text-muted);font-style:italic;">No distractor rationales available.</p>`;
         expObjective.textContent = q.objective ? `Learning Objective: ${q.objective}` : "";
       } else {
         explanationBox.classList.remove("visible");
@@ -2473,275 +2894,336 @@
       navCounter.textContent = `${currentIndex + 1} / ${currentQuestions.length}`;
     }
 
-    function toggleStrikethrough(qId, letter) {
-      if (!struckChoices[qId]) struckChoices[qId] = new Set();
-      if (struckChoices[qId].has(letter)) struckChoices[qId].delete(letter);
-      else struckChoices[qId].add(letter);
+    // Answers count toward your stats as soon as they're submitted. The previous result is kept
+    // so "Reset Question" can put the question back exactly how it was before this test.
+    function recordAnswer(qId, letter) {
+      if (!(qId in session.prior)) {
+        session.prior[qId] = { answer: userAnswers[qId], confirmed: !!confirmedAnswers[qId] };
+      }
+      userAnswers[qId] = letter;
+      confirmedAnswers[qId] = true;
+      saveProgress();
+    }
+
+    function clearRecordedAnswer(qId) {
+      const prior = session.prior[qId];
+      if (!prior) return;
+      if (prior.confirmed) {
+        userAnswers[qId] = prior.answer;
+        confirmedAnswers[qId] = true;
+      } else {
+        delete userAnswers[qId];
+        delete confirmedAnswers[qId];
+      }
+      delete session.prior[qId];
+      saveProgress();
+    }
+
+    function selectChoice(q, letter) {
+      if (!session || session.review) return;
+      if (session.mode === "timed") {
+        session.answers[q.id] = letter;
+        recordAnswer(q.id, letter);
+      } else {
+        if (session.answers[q.id]) return;
+        session.staged[q.id] = letter;
+      }
       renderQuestion();
+      renderNavPalette();
     }
 
     function confirmCurrentAnswer() {
-      if (!currentQuestions.length) return;
+      if (!session || session.review || session.mode !== "tutor" || !currentQuestions.length) return;
       const q = currentQuestions[currentIndex];
-      const staged = stagedAnswers[q.id];
-      if (!staged || confirmedAnswers[q.id]) return;
+      const staged = session.staged[q.id];
+      if (!staged || session.answers[q.id]) return;
 
-      userAnswers[q.id] = staged;
-      confirmedAnswers[q.id] = true;
+      session.answers[q.id] = staged;
+      recordAnswer(q.id, staged);
+      renderQuestion();
+      renderNavPalette();
+    }
+
+    function resetCurrentQuestion() {
+      if (!session || session.review || !currentQuestions.length) return;
+      const q = currentQuestions[currentIndex];
+      clearRecordedAnswer(q.id);
+      delete session.answers[q.id];
+      delete session.staged[q.id];
+      delete session.struck[q.id];
+      delete session.highlights[q.id];
+      renderQuestion();
+      renderNavPalette();
+    }
+
+    function toggleFlag() {
+      if (!session || !currentQuestions.length) return;
+      const q = currentQuestions[currentIndex];
+      if (flaggedQuestions[q.id]) delete flaggedQuestions[q.id];
+      else flaggedQuestions[q.id] = true;
       saveProgress();
       renderQuestion();
       renderNavPalette();
     }
 
+    function toggleStrikethrough(qId, letter) {
+      if (!session.struck[qId]) session.struck[qId] = new Set();
+      const set = session.struck[qId];
+      if (set.has(letter)) set.delete(letter);
+      else set.add(letter);
+      renderQuestion();
+    }
+
+    function clearMarkings() {
+      if (!session || !currentQuestions.length) return;
+      const q = currentQuestions[currentIndex];
+      delete session.highlights[q.id];
+      delete session.struck[q.id];
+      renderQuestion();
+    }
+
     function renderNavPalette() {
+      if (!session) return;
       qNavGrid.innerHTML = "";
+      const reveal = session.review || session.mode === "tutor";
+      let shown = 0;
+
       currentQuestions.forEach((q, idx) => {
-        const isAnswered = !!confirmedAnswers[q.id];
+        const answer = session.answers[q.id];
+        const isAnswered = !!answer;
         const isFlagged = !!flaggedQuestions[q.id];
-        const isCorrect = isAnswered && userAnswers[q.id] === q.answer;
-        const isWrong = isAnswered && userAnswers[q.id] !== q.answer;
+        const isCorrect = isAnswered && answer === q.answer;
 
         if (navFilter === "unanswered" && isAnswered) return;
         if (navFilter === "flagged" && !isFlagged) return;
-        if (navFilter === "missed" && (!isAnswered || isCorrect)) return;
+        if (navFilter === "missed" && !(reveal && isAnswered && !isCorrect)) return;
 
         const chip = document.createElement("div");
         chip.className = "q-chip";
         chip.textContent = idx + 1;
-
+        chip.dataset.index = idx;
         if (idx === currentIndex) chip.classList.add("active");
         if (isFlagged) chip.classList.add("flagged");
-
-        if (testMode === "tutor") {
-          if (isCorrect) chip.classList.add("correct");
-          else if (isWrong) chip.classList.add("wrong");
-          else if (isAnswered) chip.classList.add("answered");
-        } else {
-          if (isAnswered) chip.classList.add("answered");
-        }
-
-        chip.addEventListener("click", () => {
-          currentIndex = idx;
-          renderQuestion();
-          renderNavPalette();
-        });
+        if (isAnswered) chip.classList.add(reveal ? (isCorrect ? "correct" : "wrong") : "answered");
 
         qNavGrid.appendChild(chip);
+        shown++;
+      });
+
+      if (!shown) qNavGrid.innerHTML = `<div class="palette-empty">No questions match this filter.</div>`;
+    }
+
+    function goToQuestion(index) {
+      if (!session || index < 0 || index >= currentQuestions.length) return;
+      currentIndex = index;
+      renderQuestion();
+      renderNavPalette();
+      examPane.scrollTop = 0;
+    }
+
+    function hideHlToolbar() {
+      hlToolbar.style.display = "none";
+      savedRange = null;
+    }
+
+    function maybeShowHlToolbar() {
+      if (activeView !== "exam" || !session) return;
+      const selection = window.getSelection();
+      if (!selection || selection.isCollapsed || !selection.rangeCount || !selection.toString().trim()) {
+        hideHlToolbar();
+        return;
+      }
+      const range = selection.getRangeAt(0);
+      if (!vignetteText.contains(range.commonAncestorContainer)) {
+        hideHlToolbar();
+        return;
+      }
+      savedRange = range.cloneRange();
+
+      const rect = range.getBoundingClientRect();
+      const paneRect = examPane.getBoundingClientRect();
+      hlToolbar.style.display = "flex";
+      let top = rect.top - paneRect.top + examPane.scrollTop - hlToolbar.offsetHeight - 8;
+      if (top < examPane.scrollTop) top = rect.bottom - paneRect.top + examPane.scrollTop + 8;
+      const left = Math.max(8, Math.min(rect.left - paneRect.left, examPane.clientWidth - hlToolbar.offsetWidth - 8));
+      hlToolbar.style.top = `${top}px`;
+      hlToolbar.style.left = `${left}px`;
+    }
+
+    function unwrapElement(el) {
+      const parent = el.parentNode;
+      while (el.firstChild) parent.insertBefore(el.firstChild, el);
+      parent.removeChild(el);
+    }
+
+    function applyHighlight(range, color) {
+      const span = document.createElement("span");
+      span.className = `hl-${color}`;
+      const fragment = range.extractContents();
+      fragment.querySelectorAll(".hl-yellow, .hl-blue, .hl-pink").forEach(unwrapElement);
+      span.appendChild(fragment);
+      range.insertNode(span);
+    }
+
+    function clearHighlightsIn(range) {
+      vignetteText.querySelectorAll(".hl-yellow, .hl-blue, .hl-pink").forEach(el => {
+        if (range.intersectsNode(el)) unwrapElement(el);
       });
     }
 
-    function applySavedHighlights(qId) {
-      if (highlights[qId]) vignetteText.innerHTML = highlights[qId];
+    function handleHighlightClick(e) {
+      const btn = e.target.closest("button[data-color]");
+      if (!btn || !savedRange || !session) return;
+      const q = currentQuestions[currentIndex];
+
+      if (btn.dataset.color === "clear") clearHighlightsIn(savedRange);
+      else applyHighlight(savedRange, btn.dataset.color);
+
+      vignetteText.querySelectorAll(".hl-yellow, .hl-blue, .hl-pink").forEach(el => {
+        if (!el.textContent && !el.querySelector("img")) el.remove();
+      });
+      vignetteText.normalize();
+      session.highlights[q.id] = vignetteText.innerHTML;
+
+      const selection = window.getSelection();
+      if (selection) selection.removeAllRanges();
+      hideHlToolbar();
     }
 
     function setupTimer() {
       if (timerInterval) clearInterval(timerInterval);
       timerInterval = setInterval(() => {
-        if (!timerRunning || activeView !== "exam") return;
-
-        if (testMode === "timed") {
-          if (timerSeconds > 0) {
-            timerSeconds--;
-          } else {
-            timerRunning = false;
-            showToast("Time has expired! Closing block...");
-            showView("performance");
-            return;
-          }
-        } else {
-          timerSeconds++;
+        if (!session || session.review || !timerRunning || activeView !== "exam") return;
+        session.elapsed++;
+        updateTimerText();
+        if (session.mode === "timed" && session.elapsed >= session.limit) {
+          showToast("Time has expired! Here are your results.");
+          endBlock(true);
         }
-
-        const mins = String(Math.floor(timerSeconds / 60)).padStart(2, "0");
-        const secs = String(timerSeconds % 60).padStart(2, "0");
-        timerText.textContent = `${mins}:${secs}`;
       }, 1000);
     }
 
-    function saveProgress() {
-      localStorage.setItem("nbme_user_answers", JSON.stringify(userAnswers));
-      localStorage.setItem("nbme_confirmed_answers", JSON.stringify(confirmedAnswers));
-      localStorage.setItem("nbme_flagged_questions", JSON.stringify(flaggedQuestions));
+    function saveBlockToHistory(s) {
+      const record = {
+        id: s.id,
+        title: s.title,
+        mode: s.mode,
+        startedAt: s.startedAt,
+        endedAt: s.endedAt || Date.now(),
+        elapsed: s.elapsed,
+        items: s.ids.map(id => ({ id, order: s.order[id] || null, answer: s.answers[id] || null }))
+      };
+      testHistory = [record].concat(testHistory.filter(h => h.id !== record.id)).slice(0, HISTORY_LIMIT);
+      saveHistory();
     }
 
-    function setupEventListeners() {
-      btnExamExit.addEventListener("click", () => showView("create-test"));
+    function endBlock(force) {
+      if (!session || session.review) return;
+      const unanswered = currentQuestions.filter(q => !session.answers[q.id]).length;
+      if (!force && unanswered > 0 &&
+          !confirm(`End this test? ${unanswered} of ${currentQuestions.length} questions are unanswered.`)) return;
 
-      btnSaveApiKey.addEventListener("click", () => {
-        const k = geminiApiKeyInput.value.trim();
-        if (k) {
-          localStorage.setItem("wps_gemini_api_key", k);
-          showToast("Gemini API Key saved!");
-        }
-      });
+      session.endedAt = Date.now();
+      saveBlockToHistory(session);
+      const id = session.id;
+      session = null;
+      showResults(id);
+    }
 
-      btnSendAiChat.addEventListener("click", handleSendAiChat);
-      btnAiAnalyzeWeakness.addEventListener("click", handleAnalyzeWeakness);
-      btnAiExplainStruggles.addEventListener("click", handleExplainStruggles);
+    function leaveExam() {
+      if (session && !session.review && Object.keys(session.answers).length) {
+        if (!confirm("Leave this test? Your answers are kept, and the test is saved under Performance → Previous Tests.")) return;
+        session.endedAt = Date.now();
+        saveBlockToHistory(session);
+      }
+      session = null;
+      showView("create-test");
+    }
 
-      document.querySelectorAll('input[name="uwTestMode"]').forEach(radio => {
-        radio.addEventListener("change", (e) => {
-          document.querySelectorAll('#btnModeTutor, #btnModeTimed').forEach(btn => btn.classList.remove("active"));
-          e.target.closest(".segmented-btn").classList.add("active");
-        });
-      });
+    function activeRecord() {
+      return testHistory.find(h => h.id === activeResultId) || null;
+    }
 
-      document.querySelectorAll(".status-tile").forEach(tile => {
-        tile.addEventListener("click", () => {
-          document.querySelectorAll(".status-tile").forEach(t => t.classList.remove("active"));
-          tile.classList.add("active");
-          tile.querySelector('input[type="radio"]').checked = true;
-          updateAvailableCount();
-        });
-      });
+    function showResults(id) {
+      activeResultId = id;
+      showView("results");
+    }
 
-      document.getElementById("btnTableSelectAll").addEventListener("click", () => {
-        document.querySelectorAll('input[name="uwSubjectCheck"]').forEach(cb => cb.checked = true);
-        document.querySelectorAll('.chk-folder-master, .chk-sub-item').forEach(cb => { cb.checked = true; cb.indeterminate = false; });
-        updateAvailableCount();
-      });
-      document.getElementById("btnTableDeselectAll").addEventListener("click", () => {
-        document.querySelectorAll('input[name="uwSubjectCheck"]').forEach(cb => cb.checked = false);
-        document.querySelectorAll('.chk-folder-master, .chk-sub-item').forEach(cb => { cb.checked = false; cb.indeterminate = false; });
-        updateAvailableCount();
-      });
-
-      btnLaunchExam.addEventListener("click", launchCustomExam);
-      btnConfirmAnswer.addEventListener("click", confirmCurrentAnswer);
-
-      btnResetCurrentQ.addEventListener("click", () => {
-        if (!currentQuestions.length) return;
-        const q = currentQuestions[currentIndex];
-        delete confirmedAnswers[q.id];
-        delete userAnswers[q.id];
-        delete stagedAnswers[q.id];
-        delete struckChoices[q.id];
-        saveProgress();
-        renderQuestion();
-        renderNavPalette();
-      });
-
-      btnFlag.addEventListener("click", () => {
-        if (!currentQuestions.length) return;
-        const q = currentQuestions[currentIndex];
-        flaggedQuestions[q.id] = !flaggedQuestions[q.id];
-        saveProgress();
-        renderQuestion();
-        renderNavPalette();
-      });
-
-      btnClearHighlights.addEventListener("click", () => {
-        if (!currentQuestions.length) return;
-        const q = currentQuestions[currentIndex];
-        delete highlights[q.id];
-        vignetteText.innerHTML = q.stem;
-      });
-
-      vignetteText.addEventListener("mouseup", () => {
-        const selection = window.getSelection();
-        if (!selection || selection.isCollapsed || !selection.toString().trim()) {
-          hlToolbar.style.display = "none";
-          return;
-        }
-        const range = selection.getRangeAt(0);
-        const rect = range.getBoundingClientRect();
-        const parentRect = examPane.getBoundingClientRect();
-
-        hlToolbar.style.top = `${rect.top - parentRect.top - 38 + examPane.scrollTop}px`;
-        hlToolbar.style.left = `${rect.left - parentRect.left}px`;
-        hlToolbar.style.display = "flex";
-      });
-
-      hlToolbar.addEventListener("click", (e) => {
-        const btn = e.target.closest("button");
-        if (!btn || !currentQuestions.length) return;
-        const color = btn.dataset.color;
-        const q = currentQuestions[currentIndex];
-
-        if (color === "clear") {
-          document.execCommand("removeFormat", false, null);
-        } else {
-          const span = document.createElement("span");
-          span.className = `hl-${color}`;
-          const selection = window.getSelection();
-          if (selection && selection.rangeCount > 0) {
-            const range = selection.getRangeAt(0);
-            span.textContent = range.toString();
-            range.deleteContents();
-            range.insertNode(span);
-          }
-        }
-
-        highlights[q.id] = vignetteText.innerHTML;
-        hlToolbar.style.display = "none";
-        window.getSelection().removeAllRanges();
-      });
-
-      btnPrev.addEventListener("click", () => {
-        if (currentIndex > 0) { currentIndex--; renderQuestion(); renderNavPalette(); }
-      });
-      btnNext.addEventListener("click", () => {
-        if (currentIndex < currentQuestions.length - 1) { currentIndex++; renderQuestion(); renderNavPalette(); }
-      });
-
-      btnFinishBlock.addEventListener("click", () => {
-        showView("performance");
-      });
-
-      btnToggleTimer.addEventListener("click", () => {
-        timerRunning = !timerRunning;
-        btnToggleTimer.textContent = timerRunning ? "Pause" : "Resume";
-      });
-
-      btnToggleNav.addEventListener("click", () => sidebarPane.classList.toggle("collapsed"));
-
-      window.addEventListener("keydown", (e) => {
-        if (activeView !== "exam") return;
-        if (document.getElementById("loadModal").classList.contains("open") ||
-            document.getElementById("exportModal").classList.contains("open") ||
-            document.getElementById("clearModal").classList.contains("open")) return;
-        const key = e.key.toUpperCase();
-
-        if (["A", "B", "C", "D", "E"].includes(key)) {
-          if (!currentQuestions.length) return;
-          const q = currentQuestions[currentIndex];
-          if (confirmedAnswers[q.id] && testMode === "tutor") return;
-          if (testMode === "timed") {
-            userAnswers[q.id] = key;
-            confirmedAnswers[q.id] = true;
-            saveProgress();
-          } else {
-            stagedAnswers[q.id] = key;
-          }
-          renderQuestion();
-          renderNavPalette();
-        } else if (e.key === "Enter") {
-          confirmCurrentAnswer();
-        } else if (key === "N" && currentIndex < currentQuestions.length - 1) {
-          currentIndex++; renderQuestion(); renderNavPalette();
-        } else if (key === "P" && currentIndex > 0) {
-          currentIndex--; renderQuestion(); renderNavPalette();
-        }
-      });
-
-      if (btnDeleteSelectedTarget) {
-        btnDeleteSelectedTarget.addEventListener("click", deleteTargetedCategory);
+    function renderResults() {
+      const record = activeRecord();
+      const setTile = (id, text) => { document.getElementById(id).textContent = text; };
+      if (!record) {
+        resultsTitle.textContent = "Test Results";
+        resultsMeta.textContent = "";
+        ["resScore", "resCorrect", "resIncorrect", "resOmitted"].forEach(id => setTile(id, "–"));
+        btnReviewAll.disabled = true;
+        btnReviewIncorrect.disabled = true;
+        resultsList.innerHTML = `<div class="empty-note">This test is no longer available.</div>`;
+        return;
       }
 
-      btnConfirmClear.addEventListener("click", () => {
-        localStorage.clear();
-        ALL_QUESTIONS = [];
-        userAnswers = {};
-        confirmedAnswers = {};
-        flaggedQuestions = {};
-        closeModal("clearModal");
-        showToast("Bank wiped successfully.");
-        init();
+      const rows = blockRows(record);
+      const correct = rows.filter(r => r.status === "correct").length;
+      const incorrect = rows.filter(r => r.status === "incorrect").length;
+      const omitted = rows.length - correct - incorrect;
+
+      resultsTitle.textContent = record.title;
+      resultsMeta.textContent = `${record.mode === "timed" ? "Timed" : "Tutor"} · ${formatTime(record.elapsed || 0)} used · ${formatDate(record.endedAt || record.startedAt)}`;
+      setTile("resScore", rows.length ? `${Math.round((correct / rows.length) * 100)}%` : "0%");
+      setTile("resCorrect", `${correct} / ${rows.length}`);
+      setTile("resIncorrect", incorrect);
+      setTile("resOmitted", omitted);
+      btnReviewAll.disabled = !rows.length;
+      btnReviewIncorrect.disabled = !incorrect;
+
+      const labels = { correct: "Correct", incorrect: "Incorrect", omitted: "Unanswered" };
+      resultsList.innerHTML = rows.length ? rows.map((r, i) => `
+        <button type="button" class="result-row" data-qid="${esc(r.q.id)}">
+          <span class="result-num">${i + 1}</span>
+          <span class="result-pill ${r.status}">${labels[r.status]}</span>
+          <span class="result-subject">${flaggedQuestions[r.q.id] ? '<span class="result-flag" title="Marked">&#9873;</span>' : ""}${esc(r.q.subject)}</span>
+          <span class="result-answers">You: ${r.yours} · Answer: ${r.key}</span>
+        </button>`).join("")
+        : `<div class="empty-note">None of this test's questions are still in your bank.</div>`;
+    }
+
+    function openReview(record, onlyIncorrect, startId) {
+      let rows = blockRows(record);
+      if (onlyIncorrect) rows = rows.filter(r => r.status === "incorrect");
+      if (!rows.length) {
+        showToast(onlyIncorrect ? "No incorrect questions in this test." : "These questions are no longer in your bank.");
+        return;
+      }
+
+      session = {
+        id: record.id,
+        title: record.title,
+        mode: record.mode,
+        review: true,
+        startedAt: record.startedAt,
+        endedAt: record.endedAt,
+        elapsed: record.elapsed || 0,
+        limit: 0,
+        ids: rows.map(r => r.q.id),
+        order: {},
+        answers: {},
+        staged: {},
+        prior: {},
+        struck: {},
+        highlights: {}
+      };
+      rows.forEach(r => {
+        if (r.item.order) session.order[r.q.id] = r.item.order;
+        if (r.item.answer) session.answers[r.q.id] = r.item.answer;
       });
 
-      if (btnInsertSampleData) {
-        btnInsertSampleData.addEventListener("click", () => {
-          txtDocInput.value = `Week 8: Host Defense & Infection / Viral Pathogenesis / Enveloped DNA Viruses
+      currentQuestions = rows.map(r => r.q);
+      currentIndex = Math.max(0, currentQuestions.findIndex(q => q.id === startId));
+      navFilter = "all";
+      showView("exam");
+    }
+
+    const SAMPLE_QUESTIONS = `Week 8: Host Defense & Infection / Viral Pathogenesis / Enveloped DNA Viruses
 
 Question 1
 A 19-year-old college student presents with a 5-day history of fatigue, sore throat, and low-grade fever. Physical examination reveals posterior cervical lymphadenopathy and mild splenomegaly. A peripheral blood smear shows atypical lymphocytes with abundant cytoplasm indenting surrounding red blood cells. A heterophile antibody agglutination assay is positive. Which of the following viral agents is the most likely cause of this patient's condition?
@@ -2776,74 +3258,264 @@ C. Rotavirus remains localized to the villus enterocytes of the small intestine.
 D. Heat-labile enterotoxin is produced by enterotoxigenic E. coli (ETEC), not rotavirus.
 E. Rotavirus targets the small intestine rather than the colonic mucosa.
 Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral enterotoxin.`;
-          showToast("Sample questions loaded into textbox!");
-        });
-      }
 
-      btnRunExport.addEventListener("click", () => {
-        const scope = exportScope.value;
-        let exportList = ALL_QUESTIONS;
-        if (scope === "missed") exportList = ALL_QUESTIONS.filter(q => confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer);
-        if (scope === "flagged") exportList = ALL_QUESTIONS.filter(q => flaggedQuestions[q.id]);
-
-        let content = "";
-        exportList.forEach((q, i) => {
-          content += `${q.subject}\nQuestion ${i + 1}\n${q.stem}\n`;
-          q.choices.forEach(c => content += `${c.letter}. ${c.text}\n`);
-          content += `Answer: ${q.answer}\nWhy this is correct: ${q.whyCorrect}\n\n`;
-        });
-
-        const blob = new Blob([content], { type: "text/plain;charset=utf-8" });
-        const a = document.createElement("a");
-        a.href = URL.createObjectURL(blob);
-        a.download = `QBank_Export_${scope}.txt`;
-        a.click();
-        closeModal("exportModal");
+    function setupEventListeners() {
+      document.querySelectorAll(".uw-nav-item[data-view]").forEach(item => {
+        item.addEventListener("click", () => showView(item.dataset.view));
       });
+      document.querySelectorAll(".uw-nav-item[data-modal]").forEach(item => {
+        item.addEventListener("click", () => {
+          document.body.classList.remove("nav-open");
+          openModal(item.dataset.modal);
+        });
+      });
+      document.getElementById("btnMobileMenu").addEventListener("click", () => document.body.classList.add("nav-open"));
+      document.getElementById("navScrim").addEventListener("click", () => document.body.classList.remove("nav-open"));
+
+      document.getElementById("btnThemeToggle").addEventListener("click", () => {
+        const dark = document.body.classList.toggle("dark-mode");
+        try { localStorage.setItem(STORAGE.theme, dark ? "dark" : "light"); } catch (e) {}
+      });
+      document.getElementById("btnOpenClearModal").addEventListener("click", () => {
+        document.body.classList.remove("nav-open");
+        openManageModal();
+      });
+
+      document.querySelectorAll(".modal-backdrop").forEach(modal => {
+        modal.addEventListener("click", (e) => {
+          if (e.target === modal) modal.classList.remove("open");
+        });
+      });
+
+      document.querySelectorAll('input[name="uwTestMode"]').forEach(radio => {
+        radio.addEventListener("change", (e) => {
+          document.querySelectorAll('#btnModeTutor, #btnModeTimed').forEach(btn => btn.classList.remove("active"));
+          e.target.closest(".segmented-btn").classList.add("active");
+        });
+      });
+
+      document.querySelectorAll(".status-tile").forEach(tile => {
+        tile.addEventListener("click", () => {
+          document.querySelectorAll(".status-tile").forEach(t => t.classList.remove("active"));
+          tile.classList.add("active");
+          tile.querySelector('input[type="radio"]').checked = true;
+          updateAvailableCount();
+        });
+      });
+
+      document.getElementById("btnTableSelectAll").addEventListener("click", () => setAllSubjects(true));
+      document.getElementById("btnTableDeselectAll").addEventListener("click", () => setAllSubjects(false));
+      subjectsTablesStack.addEventListener("click", handleTreeClick);
+      subjectsTablesStack.addEventListener("change", handleTreeChange);
+      btnLaunchExam.addEventListener("click", launchCustomExam);
+
+      testHistoryList.addEventListener("click", (e) => {
+        const btn = e.target.closest("[data-open-result]");
+        if (btn) showResults(btn.dataset.openResult);
+      });
+      btnReviewAll.addEventListener("click", () => {
+        const record = activeRecord();
+        if (record) openReview(record, false);
+      });
+      btnReviewIncorrect.addEventListener("click", () => {
+        const record = activeRecord();
+        if (record) openReview(record, true);
+      });
+      btnResultsDone.addEventListener("click", () => showView("create-test"));
+      resultsList.addEventListener("click", (e) => {
+        const row = e.target.closest("[data-qid]");
+        const record = activeRecord();
+        if (row && record) openReview(record, false, row.dataset.qid);
+      });
+
+      btnExamExit.addEventListener("click", leaveExam);
+      btnFinishBlock.addEventListener("click", () => {
+        if (!session) return;
+        if (session.review) {
+          const id = session.id;
+          session = null;
+          showResults(id);
+        } else {
+          endBlock(false);
+        }
+      });
+      btnToggleTimer.addEventListener("click", () => {
+        timerRunning = !timerRunning;
+        btnToggleTimer.textContent = timerRunning ? "Pause" : "Resume";
+      });
+      btnToggleNav.addEventListener("click", () => {
+        if (isMobile()) {
+          sidebarPane.classList.toggle("mobile-open");
+        } else {
+          const collapsed = sidebarPane.classList.toggle("collapsed");
+          resizerBar.classList.toggle("collapsed", collapsed);
+        }
+      });
+      document.getElementById("btnClosePalette").addEventListener("click", () => sidebarPane.classList.remove("mobile-open"));
+
+      document.querySelectorAll("[data-navfilter]").forEach(btn => {
+        btn.addEventListener("click", () => {
+          navFilter = btn.dataset.navfilter;
+          document.querySelectorAll("[data-navfilter]").forEach(b => b.classList.toggle("active", b === btn));
+          renderNavPalette();
+        });
+      });
+
+      qNavGrid.addEventListener("click", (e) => {
+        const chip = e.target.closest(".q-chip");
+        if (!chip) return;
+        goToQuestion(parseInt(chip.dataset.index, 10));
+        if (isMobile()) sidebarPane.classList.remove("mobile-open");
+      });
+
+      resizerBar.addEventListener("pointerdown", (e) => {
+        e.preventDefault();
+        resizerBar.classList.add("dragging");
+        const onMove = (ev) => {
+          const bounds = resizerBar.parentElement.getBoundingClientRect();
+          const width = Math.min(440, Math.max(180, bounds.right - ev.clientX));
+          sidebarPane.style.width = `${width}px`;
+        };
+        const onUp = () => {
+          resizerBar.classList.remove("dragging");
+          window.removeEventListener("pointermove", onMove);
+          window.removeEventListener("pointerup", onUp);
+          window.removeEventListener("pointercancel", onUp);
+          try { localStorage.setItem(STORAGE.paletteWidth, parseInt(sidebarPane.style.width, 10)); } catch (err) {}
+        };
+        window.addEventListener("pointermove", onMove);
+        window.addEventListener("pointerup", onUp);
+        window.addEventListener("pointercancel", onUp);
+      });
+
+      btnConfirmAnswer.addEventListener("click", confirmCurrentAnswer);
+      btnResetCurrentQ.addEventListener("click", resetCurrentQuestion);
+      btnFlag.addEventListener("click", toggleFlag);
+      btnClearHighlights.addEventListener("click", clearMarkings);
+      btnPrev.addEventListener("click", () => goToQuestion(currentIndex - 1));
+      btnNext.addEventListener("click", () => goToQuestion(currentIndex + 1));
+
+      choicesList.addEventListener("click", (e) => {
+        const card = e.target.closest(".choice-card");
+        if (!card || !session) return;
+        const q = currentQuestions[currentIndex];
+        if (e.target.closest(".strike-btn")) {
+          toggleStrikethrough(q.id, card.dataset.letter);
+          return;
+        }
+        selectChoice(q, card.dataset.letter);
+      });
+      choicesList.addEventListener("contextmenu", (e) => {
+        const card = e.target.closest(".choice-card");
+        if (!card || !session) return;
+        e.preventDefault();
+        toggleStrikethrough(currentQuestions[currentIndex].id, card.dataset.letter);
+      });
+
+      vignetteText.addEventListener("mouseup", () => setTimeout(maybeShowHlToolbar, 0));
+      document.addEventListener("selectionchange", () => {
+        if (activeView !== "exam") return;
+        clearTimeout(selectionTimer);
+        selectionTimer = setTimeout(maybeShowHlToolbar, 250);
+      });
+      hlToolbar.addEventListener("mousedown", (e) => e.preventDefault());
+      hlToolbar.addEventListener("click", handleHighlightClick);
+
+      window.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+          document.querySelectorAll(".modal-backdrop.open").forEach(m => m.classList.remove("open"));
+          document.body.classList.remove("nav-open");
+          sidebarPane.classList.remove("mobile-open");
+          hideHlToolbar();
+          return;
+        }
+        if (activeView !== "exam" || !session) return;
+        if (e.metaKey || e.ctrlKey || e.altKey) return;
+        if (document.querySelector(".modal-backdrop.open")) return;
+        const tag = (e.target.tagName || "").toLowerCase();
+        if (tag === "input" || tag === "textarea" || tag === "select" || e.target.isContentEditable) return;
+
+        const key = e.key.length === 1 ? e.key.toUpperCase() : e.key;
+        if (key === "N" || key === "ArrowRight") {
+          goToQuestion(currentIndex + 1);
+        } else if (key === "P" || key === "ArrowLeft") {
+          goToQuestion(currentIndex - 1);
+        } else if (key === "Enter") {
+          const q = currentQuestions[currentIndex];
+          if (session.mode === "tutor" && !session.review && session.staged[q.id] && !session.answers[q.id]) {
+            e.preventDefault();
+            confirmCurrentAnswer();
+          }
+        } else if (/^[A-Z]$/.test(key)) {
+          const q = currentQuestions[currentIndex];
+          const choice = orderedChoices(q)[key.charCodeAt(0) - 65];
+          if (choice) selectChoice(q, choice.letter);
+        }
+      });
+
+      btnParseDoc.addEventListener("click", handleDirectImport);
+      btnInsertSampleData.addEventListener("click", () => {
+        txtDocInput.value = SAMPLE_QUESTIONS;
+        showToast("Sample questions loaded into textbox!");
+      });
+      btnRunExport.addEventListener("click", runTextExport);
+      btnDownloadBackup.addEventListener("click", downloadBackup);
+      btnRestoreBackup.addEventListener("click", () => inputRestoreFile.click());
+      inputRestoreFile.addEventListener("change", () => {
+        const file = inputRestoreFile.files && inputRestoreFile.files[0];
+        if (file) restoreBackup(file);
+        inputRestoreFile.value = "";
+      });
+      btnDeleteSelectedTarget.addEventListener("click", deleteTargetedCategory);
+      btnConfirmClear.addEventListener("click", resetEntireBank);
+    }
+
+    async function loadBundledQuestions() {
+      const hadQuestions = ALL_QUESTIONS.length > 0;
+      const texts = [];
+      const defaultDataEl = document.getElementById("default-questions-data");
+      const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
+      if (rawEmbeddedText.length > 0) texts.push(rawEmbeddedText);
+
+      if (/^https?:$/.test(location.protocol)) {
+        const cacheBuster = `?t=${new Date().getTime()}`;
+        const fetched = await Promise.all(BUNDLED_FILES.map(fileUrl =>
+          fetch(fileUrl + cacheBuster)
+            .then(res => (res.ok && !/text\/html/i.test(res.headers.get("content-type") || "") ? res.text() : ""))
+            .catch(() => "")
+        ));
+        fetched.forEach(text => { if (text && text.trim().length > 0) texts.push(text); });
+      }
+      if (!texts.length) return;
+
+      const result = syncAndMergeQuestions(texts);
+      if (!result.added && !result.updated) return;
+      if (activeView === "create-test" || activeView === "performance") renderUWSurface();
+      if (hadQuestions && result.added) {
+        showToast(`${result.added} new question${result.added === 1 ? "" : "s"} added to your bank.`);
+      }
     }
 
     function init() {
       setupEventListeners();
 
-      const savedAnswers = localStorage.getItem("nbme_user_answers");
-      if (savedAnswers) userAnswers = JSON.parse(savedAnswers);
-      const savedConfirmed = localStorage.getItem("nbme_confirmed_answers");
-      if (savedConfirmed) confirmedAnswers = JSON.parse(savedConfirmed);
-      const savedFlags = localStorage.getItem("nbme_flagged_questions");
-      if (savedFlags) flaggedQuestions = JSON.parse(savedFlags);
+      // The AI Tutor has been removed; clear the Gemini API key it used to keep in this browser.
+      try { localStorage.removeItem("wps_gemini_api_key"); } catch (e) {}
 
-      const savedApiKey = localStorage.getItem("wps_gemini_api_key");
-      if (savedApiKey) geminiApiKeyInput.value = savedApiKey;
+      userAnswers = asObject(readJSON(STORAGE.answers, {}));
+      confirmedAnswers = asObject(readJSON(STORAGE.confirmed, {}));
+      flaggedQuestions = asObject(readJSON(STORAGE.flags, {}));
+      const savedHistory = readJSON(STORAGE.history, []);
+      testHistory = Array.isArray(savedHistory) ? savedHistory : [];
+      const savedBank = readJSON(STORAGE.bank, []);
+      ALL_QUESTIONS = Array.isArray(savedBank) ? savedBank.map((q, i) => normalizeQuestionFolders(q, i)) : [];
 
-      const savedBank = localStorage.getItem("nbme_all_questions");
-      if (savedBank) {
-        try {
-          ALL_QUESTIONS = JSON.parse(savedBank).map((q, i) => normalizeQuestionFolders(q, i));
-        } catch (e) {
-          ALL_QUESTIONS = [];
-        }
-      }
+      const savedWidth = parseInt(readJSON(STORAGE.paletteWidth, 0), 10);
+      if (savedWidth >= 180 && savedWidth <= 440) sidebarPane.style.width = `${savedWidth}px`;
 
       setupTimer();
       showView("create-test");
-
-      const defaultDataEl = document.getElementById("default-questions-data");
-      const rawEmbeddedText = defaultDataEl ? defaultDataEl.textContent.trim() : "";
-      if (rawEmbeddedText.length > 0) syncAndMergeQuestions(rawEmbeddedText);
-
-      const cacheBuster = `?t=${new Date().getTime()}`;
-      const remoteFiles = [
-        'FOM_Practice_Question_Bank_1.txt' + cacheBuster,
-        'Week_8_Practice_Questions.txt' + cacheBuster,
-        'questions.txt' + cacheBuster
-      ];
-
-      remoteFiles.forEach(fileUrl => {
-        fetch(fileUrl)
-          .then(res => { if (!res.ok) throw new Error(); return res.text(); })
-          .then(text => { if (text && text.trim().length > 0) syncAndMergeQuestions(text); })
-          .catch(() => {});
-      });
+      loadBundledQuestions();
     }
 
     if (document.readyState === "loading") {
