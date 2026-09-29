@@ -1,0 +1,892 @@
+Foundations of Medicine, Week 4
+Sources: Week 4 Review, and FOM Diseases & Drugs (DNA, Cancer, and Drugs sections, plus cross-links noted on each page).
+The Week 4 Review has no week subtitle, so folders use "Week 4" until the course title is confirmed.
+The review's vocabulary table (Lectures 1-3) is filed under the lecture each term fits best.
+Last checked: September 29, 2026.
+
+Library: DNA hybridization and repeat sequences
+Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Denaturation | Separation of the two strands, with loss of helical structure |
+| Renaturation (annealing) | Complementary strands pair back into a double helix |
+| Hybridization | Lab technique based on complementary strands pairing; low-stringency conditions let closely related sequences hybridize, so it can't tell apart disease-causing point mutations |
+| 3' overhang | The 3' end of eukaryotic DNA is longer than the 5' end |
+
+## Repeat sequences
+
+| Type | Repeat length | Significance |
+|---|---|---|
+| Minisatellites | 1-100 bp | Repeat number varies between people (VNTR polymorphism); used in paternity testing and criminal investigations |
+| Microsatellites | 2-6 bp | Hotspots for replication errors; involved in disease-causing mutations |
+
+> VNTRs (minisatellites) are used for paternity testing; microsatellites are hotspots for replication errors.
+
+Library: DNA polymerases, topoisomerases, and telomerase
+Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+
+## Polymerases
+
+- DNA-dependent DNA polymerases synthesize DNA from a template in the 5' → 3' direction and have 3' → 5' exonuclease activity for proofreading
+- Pol gamma is the mitochondrial polymerase
+- Telomerase is a reverse transcriptase (an RNA-dependent DNA polymerase)
+
+## Topoisomerases
+
+| Type | Cut | Supercoils relaxed | ATP |
+|---|---|---|---|
+| Type I | Single-strand nick | One | Not needed |
+| Type II | Double-strand break | Two | Needed |
+
+## Drugs that target topoisomerases
+
+| Drug | Target | Use |
+|---|---|---|
+| Irinotecan, topotecan, camptothecin | Topoisomerase I | Colon and ovarian cancer (irinotecan) |
+| Etoposide, teniposide | Topoisomerase II | Testicular cancer, leukemia, lymphoma |
+| Doxorubicin, daunorubicin | Topoisomerase II (also intercalate and make free radicals) | Solid tumors, leukemias, lymphomas |
+| Fluoroquinolones (ciprofloxacin, levofloxacin) | DNA gyrase (bacterial topoisomerase II) | Mainly gram-negative infections |
+
+> Type I topoisomerases cut one strand without ATP; type II cut both strands and need ATP.
+
+Library: Sources of DNA damage and the Ames test
+Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+
+## Endogenous sources
+
+- Microsatellites are hotspots for mismatches; stable loops can form during replication and change the repeat number with each cycle
+- Spontaneous deamination or loss of bases
+- Deamination of cytosine makes uracil, which is recognized as foreign and excised
+- Deamination of methylated cytosine makes thymine, which isn't recognized as foreign, so the code changes
+- Insertion of transposons
+
+## Exogenous sources
+
+| Source | Damage |
+|---|---|
+| Ionizing radiation (X-rays, gamma rays, cosmic rays) | ROS cause single- and double-strand breaks and base loss |
+| UV radiation | Dimerization of adjacent pyrimidines, especially thymine |
+| Chemicals | Alkylating agents, crosslinking agents, base analogs, intercalators, chemotherapy |
+
+- Mutations can occur anywhere: coding regions, regulatory regions, or introns
+
+## Ames test
+
+Salmonella is modified so it can't grow without histidine. A mutagen causes mutations that restore its ability to make histidine, so more colonies grow.
+
+> Deaminated methylcytosine becomes thymine, which repair enzymes don't recognize as foreign.
+
+Library: Trinucleotide repeat disorders and anticipation
+Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+
+## Anticipation
+
+With each generation, symptoms appear at an earlier age. It usually results from trinucleotide repeats that expand during replication.
+
+## Key findings
+
+| Disorder | Repeat, gene | Inheritance | Key findings |
+|---|---|---|---|
+| Fragile X syndrome | CGG, FMR1 | X-linked dominant | Enlarged jaw, ears, and testes |
+| Friedreich ataxia | GAA, frataxin (chromosome 9) | Autosomal recessive | Cerebellar and spinal cord degeneration, kyphoscoliosis, pes cavus; hypertrophic cardiomyopathy is a common cause of death |
+| Huntington disease | CAG, huntingtin (chromosome 4) | Autosomal dominant | Atrophy of the caudate and putamen; chorea progressing to depression, dementia, aggression; onset between 20 and 50 |
+| Myotonic dystrophy | CTG, DMPK | Autosomal dominant | Cataracts, toupee (early balding), gonadal atrophy, myotonia, muscle wasting, arrhythmias |
+
+> Anticipation (earlier onset each generation) points to a trinucleotide repeat disorder.
+
+Library: DNA repair pathways
+Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+
+## Key findings
+
+| Pathway | What it fixes | How |
+|---|---|---|
+| Direct reversal | O6-alkylguanine, the main lesion from alkylating agents | Methylguanine methyltransferase (MGMT) removes the adduct |
+| Mismatch repair (MMR) | Replication errors, small insertions and deletions | Mut proteins recognize the mismatch and nick the new strand |
+| Base excision repair (BER) | Damaged bases (such as oxidative damage) and single-strand breaks | Glycosylases remove the base; polymerase and ligase fill the gap |
+| Nucleotide excision repair (NER) | Helix-distorting lesions: thymine dimers, bulky adducts, backbone changes | An exonuclease and helicase remove a short segment; polymerase fills it; the global NER pathway scans the whole genome |
+| Homologous recombination (HR) | Double-strand breaks | Uses the duplicate copy as a template |
+| Non-homologous end joining (NHEJ) | Double-strand breaks | Joins ends directly with no template; much more error prone |
+
+- Overexpression of MGMT can make tumors resistant to alkylating drugs
+- In prokaryotes, mismatch repair tells the parent strand from the daughter strand by DNA methylation
+- Double-strand break repair is the only kind that can't use the complementary strand as a template
+
+> UV thymine dimers are repaired by nucleotide excision repair.
+
+Library: DNA repair disorders
+Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+
+## Key findings
+
+| Disorder | Defect | Key findings |
+|---|---|---|
+| Lynch syndrome | Mismatch repair (MLH1, MSH2, MSH6, PMS2) | Microsatellite instability; familial colorectal and endometrial cancer |
+| Xeroderma pigmentosum | Nucleotide excision repair | Thymine dimers aren't fixed; severe, long-lasting sunburn; high rate of fatal skin cancer; avoid UV light |
+| BRCA1 mutation | Double-strand break repair | The error-prone pathway takes over and the genome becomes unstable |
+| Fanconi anemia | Double-strand break repair | Aplastic anemia, bone marrow failure, absent thumb, café-au-lait spots |
+| Ataxia telangiectasia | ATM | DNA damage isn't detected, so the cell cycle isn't halted; radiation sensitivity; ataxia, telangiectasias, IgA deficiency, high AFP; lymphoma or leukemia |
+| Spo11 defect | Meiotic double-strand breaks | Recombination can't start; sterility in men |
+
+## Management of Lynch syndrome
+
+Aspirin, endoscopy surveillance, and immunotherapy.
+
+> Lynch syndrome is a mismatch repair defect that causes microsatellite instability.
+
+Library: Homologous recombination
+Folder: Foundations of Medicine / Week 4 / DNA Recombination
+
+## Functions of recombination
+
+- Repairs damaged DNA and restarts stalled replication forks
+- Segregates chromosomes in meiosis
+- Creates new alleles and genetic variation
+
+## Key findings
+
+- Needs a long stretch of sequence similarity, so it only happens between homologous DNA molecules
+- Most important in G2
+- Makes permanent, heritable changes in a relatively conservative way
+
+## Steps
+
+1. A DNA break allows strand invasion into the homologous chromosome
+2. Strand invasion forms a Holliday junction
+3. Branch migration moves the junction along
+4. Resolution produces recombinant or non-recombinant products
+
+## Gene conversion
+
+If the two alleles differ, the paired strands contain mismatches. Mismatch repair can then convert one allele into the other, lose an allele, or create a new one.
+
+## Sources of breaks
+
+- Mitotic cells: ionizing radiation, DNA-damaging agents, replication errors, failed topoisomerase reactions, transposon movement
+- Meiotic cells: Spo11, an endonuclease expressed in prophase I, makes double-strand breaks to start recombination
+
+## Disease
+
+- Decreased recombination can cause nondisjunction and trisomy, such as Down syndrome
+- Repetitive DNA is a hotspot for recombination errors (ectopic recombination)
+
+> Reduced meiotic recombination can lead to nondisjunction and trisomy.
+
+Library: Non-homologous end joining and BRCA1
+Folder: Foundations of Medicine / Week 4 / DNA Recombination
+
+## Key findings
+
+- Also called illegitimate recombination
+- Most important in G1
+- The primary double-strand break repair pathway
+- Modifies and ligates broken ends with little or no homology, so it can cause insertions, deletions, and translocations
+
+## BRCA1
+
+BRCA1 promotes the error-free pathways (error-free NHEJ or homologous recombination). It binds DNA and prevents excessive nuclease activity that could cause more errors. When BRCA1 is lost, error-prone repair takes over and the genome becomes unstable.
+
+> NHEJ joins ends without a template, which can cause deletions and translocations.
+
+Library: Transposons
+Folder: Foundations of Medicine / Week 4 / DNA Recombination
+
+## Key findings
+
+Transposons move sections of DNA to random new positions. Many came from past viruses that lost the env gene they needed to reinfect cells.
+
+| Type | Mechanism | Share of genome | Notes |
+|---|---|---|---|
+| DNA transposons | Cut and paste ("jumping genes") | 3% | Stay as DNA; no reverse transcription; leave a double-strand break |
+| LTR (viral-like) retrotransposons | Copy and paste | 11% | Human endogenous retroviruses |
+| Poly-A retrotransposons | Copy and paste | 31% | Can create pseudogenes |
+
+- Retrotransposons (42% overall) keep the original copy in place and are the major source of repetitive DNA
+- Autonomous transposons code for their own enzymes; nonautonomous ones depend on enzymes from autonomous transposons
+- Processed pseudogenes form when reverse transcriptase copies a cellular mRNA, making a non-functional copy
+
+## Effects
+
+- Insertion into the middle of a gene
+- Double-strand breaks when DNA transposons move, which may not be repaired well
+- Multiple copies of a sequence raise the chance of unequal crossover during recombination
+- A common source of new mutations and gene rearrangements
+
+> Retrotransposons copy and paste through an RNA intermediate and are the main source of repetitive DNA.
+
+Library: Bacterial transformation and conjugation
+Folder: Foundations of Medicine / Week 4 / Bacterial Genetics and Virulence Determinants
+
+## Transformation
+
+- Uptake of free DNA; sensitive to external DNase
+- Gram-positive bacteria need a competence factor to take up single-stranded donor DNA
+- Gram-negative bacteria have no competence factors and need an uptake sequence on double-stranded DNA
+- Homologous recombination between the new DNA and the chromosome produces the transformant
+
+## Conjugation
+
+- F+ cells are donors; the F plasmid encodes the conjugation pilus and other genes needed for transfer
+- Hfr (high frequency of recombination) cells form when the plasmid integrates into the chromosome, so large segments of chromosome can be transferred
+- Adhesins connect the two bacteria for exchange
+- Homologous recombination is needed only when transferred DNA joins the main chromosome
+
+> Transformation is blocked by DNase because the DNA is taken up naked.
+
+Library: Transduction and lysogeny
+Folder: Foundations of Medicine / Week 4 / Bacterial Genetics and Virulence Determinants
+
+## Phage types
+
+| Phage | Behavior |
+|---|---|
+| Virulent (lytic) | Replicates inside the bacterium, then lyses it |
+| Temperate (lysogenic) | Can become a quiescent prophage without lysing the cell |
+
+## Transduction
+
+| Type | How | What moves |
+|---|---|---|
+| Generalized | A defective phage packages bacterial DNA and delivers it; homologous recombination produces the transductant | Any segment of chromosomal DNA |
+| Specialized | Rare incorrect excision of an integrated prophage carries neighboring bacterial DNA | Only DNA next to the prophage attachment site |
+
+## Induction
+
+Induction excises the phage genome from the bacterial chromosome, usually after DNA damage. Treating EHEC with antibiotics can worsen disease, because antibiotic-induced DNA damage triggers induction.
+
+> Antibiotics can worsen EHEC by inducing the prophage.
+
+Library: RNA polymerase basics
+Folder: Foundations of Medicine / Week 4 / Transcription
+
+## Why transcribe
+
+- It protects fragile DNA by sending out an expendable copy
+- It amplifies output, since each mRNA can be translated many times
+
+## RNA polymerase
+
+- DNA-dependent RNA polymerase, found in all organisms and many viruses
+- Builds a complementary, antiparallel RNA strand in the 5' → 3' direction
+- Needs no primer (de novo synthesis)
+- Has no proofreading, so the error rate is high, which is tolerable because many copies are made
+
+## Steps
+
+Initiation (DNA unwinds), elongation, termination, and in eukaryotes only, processing (5' cap, splicing, poly(A) tail).
+
+> RNA polymerase needs no primer and doesn't proofread.
+
+Library: Prokaryotic transcription
+Folder: Foundations of Medicine / Week 4 / Transcription
+
+## Key findings
+
+- Transcription and translation are coupled in space and time, and one RNA polymerase does all transcription
+- The sigma factor binds specific promoters; core enzyme plus sigma factor makes the holoenzyme
+- Bacterial promoters have two essential elements: the -10 Pribnow box and the -35 sequence
+- Bacterial mRNA is polycistronic (one transcript can encode several proteins); eukaryotic mRNA is monocistronic
+
+## Stages
+
+1. Initiation: sigma factor recognizes the -10 and -35 sequences and forms the holoenzyme with the core enzyme
+2. Elongation: RNA polymerase escapes the promoter by scrunching, and NusA replaces sigma factor
+3. Termination: NusA dissociates and the polymerase is recycled
+
+| Termination | Mechanism |
+|---|---|
+| Rho-dependent | Rho helicase moves 5' → 3' and separates the mRNA from the template |
+| Rho-independent (intrinsic) | A G-C rich hairpin loop pulls the mRNA out of the polymerase |
+
+## Drug link
+
+Rifampin (rifampicin) binds the beta subunit of bacterial RNA polymerase and slows transcription. It's used for mycobacterial infections and meningococcal prophylaxis, turns body fluids red, induces CYP enzymes, and isn't used as monotherapy.
+
+> Rifampin blocks the beta subunit of bacterial RNA polymerase.
+
+Library: Eukaryotic transcription and RNA polymerase II
+Folder: Foundations of Medicine / Week 4 / Transcription
+
+## Key findings
+
+- Transcription (nucleus) and translation (cytoplasm) are separated
+- Eukaryotes have several RNA polymerases, each for a distinct set of RNAs
+- RNA polymerase II core promoter elements sit -25, -80, and -100 bp upstream of the start site
+- Transcription factors bind specific DNA sequences and direct the polymerase
+
+## Steps
+
+1. Initiation: TATA-binding protein (TBP) starts RNA polymerase II assembly at the promoter. TFIIH helicase unwinds DNA to form the transcription bubble, and TFIIH kinase phosphorylates the carboxy-terminal domain (CTD), activating the polymerase
+2. Elongation: after TFIIE and TFIIH leave, elongation factors bind to boost processivity and coordinate processing
+3. Termination: elongation factors dissociate, termination factors act, and the CTD is dephosphorylated
+
+## Alpha-amanitin
+
+Alpha-amanitin from the Amanita phalloides (death cap) mushroom inhibits RNA polymerase II and shuts down transcription. Eating more than 3 grams can be fatal.
+
+> Phosphorylation of the CTD by TFIIH activates RNA polymerase II.
+
+Library: mRNA capping and polyadenylation
+Folder: Foundations of Medicine / Week 4 / Transcription
+
+## 5' cap
+
+- A capping enzyme complex bound to RNA polymerase II adds 7-methylguanosine to the 5' end
+- Only nuclear RNAs are capped; mitochondrial and prokaryotic mRNAs aren't
+- Functions: regulates nuclear export, prevents degradation, promotes translation
+
+## Poly(A) tail
+
+- Cleavage signal: AAUAAA
+- An endonuclease cuts the RNA, and poly(A) polymerase adds the tail
+- Functions: helps terminate transcription, regulates nuclear export, prevents degradation, promotes translation
+- The tail shortens in the cytoplasm, so shorter tails are translated less and degraded sooner
+- Polyadenylation defects are linked to some cancers and muscular dystrophy
+
+## Antiviral targets
+
+Some viruses, such as influenza, "snatch" caps from host mRNA. Cap-binding inhibitors and endonuclease inhibitors target this step.
+
+> The poly(A) signal is AAUAAA, and tail length controls how long an mRNA lasts.
+
+Library: mRNA splicing and the spliceosome
+Folder: Foundations of Medicine / Week 4 / Transcription
+
+## Key findings
+
+- Splicing removes non-coding introns and joins coding exons
+- The spliceosome is made of small nuclear ribonucleoproteins (snRNPs) built on five uridine-rich snRNAs: U1, U2, U4, U5, and U6
+- snRNPs recognize intron-exon borders using three sites: the 5' splice (donor) site, the branch site near the 3' end, and the 3' splice (acceptor) site
+- Introns typically begin with GU at the 5' end and end with AG at the 3' end
+
+## Alternative splicing
+
+Certain exons can be included or left out, so one gene can make several different proteins.
+
+> Introns start with GU and end with AG.
+
+Library: Retinitis pigmentosa and lupus: splicing disorders
+Folder: Foundations of Medicine / Week 4 / Transcription
+
+## Key findings
+
+| Disorder | Link to splicing | Key findings |
+|---|---|---|
+| Retinitis pigmentosa | 4 of the associated genes encode pre-mRNA processing factors (PRPFs) | Progressive loss of peripheral and night vision; rhodopsin malfunction; dark pigment deposits streaking the retina |
+| Systemic lupus erythematosus | Autoantibodies against snRNPs (anti-Sm) | Chronic autoimmune inflammation; butterfly rash, arthritis, muscle aches, nephritis; positive ANA test |
+
+> Anti-snRNP (anti-Sm) antibodies are the splicing link to lupus.
+
+Library: Genetic code and mutation types
+Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+
+## Features of the code
+
+Universal, degenerate (redundant, which softens the effect of mutations), unambiguous, and nonoverlapping.
+
+## Mutation types
+
+| Type | Change |
+|---|---|
+| Silent | New codon, same amino acid |
+| Conservative missense | Amino acid replaced by a similar one |
+| Non-conservative missense | Amino acid replaced by a dissimilar one |
+| Nonsense | Codon becomes a stop codon; premature termination |
+| Frameshift | Insertion or deletion not in a multiple of three, which changes the reading frame |
+
+## Examples from the course
+
+- Sickle cell disease: missense mutation (Glu → Val at position 6 of beta-globin)
+- Duchenne muscular dystrophy: frameshift or nonsense mutations in dystrophin
+- Tay-Sachs disease: frameshift in hexosaminidase A
+- Cystic fibrosis: deletion (ΔF508 in CFTR)
+
+## Exons and reading frame
+
+- There's always one more exon than intron
+- Codons can span exon junctions, so skipping an exon can shift the reading frame
+- After an exon deletion that shifts the frame, the N-terminal sequence stays normal up to the point where the frame is lost
+- Exon-skipping gene therapy blocks a chosen exon to restore the reading frame and make a functional protein; it's used in muscular dystrophy
+
+> Frameshifts come from insertions or deletions that aren't multiples of three.
+
+Library: tRNA charging and wobble pairing
+Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+
+## Key findings
+
+- tRNAs recognize codons by antiparallel complementary base pairing
+- Wobble pairing: non-Watson-Crick pairing is tolerated at the third position of the codon (first of the anticodon), which is why synonymous codons often differ in the third base
+- Amino acids are attached to tRNA using ATP, making an aminoacyl-tRNA
+- There are 20 aminoacyl-tRNA synthetases, one per amino acid; they're highly specific and proofread
+- A wrong amino acid on a tRNA puts the wrong amino acid in the protein (a missense change)
+
+> Wobble at the third codon position explains why synonymous codons usually differ in the last base.
+
+Library: Ribosome sites, elongation, and termination
+Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+
+## Ribosome
+
+- Prokaryotic 70S (30S + 50S) and eukaryotic 80S (40S + 60S)
+- Eukaryotic rRNAs: 28S, 18S, 5.8S, 5S
+- A polysome is several ribosomes translating the same mRNA
+- Four RNA binding sites: one for mRNA and three for tRNA
+
+| Site | Holds |
+|---|---|
+| A (aminoacyl) | The incoming tRNA carrying an amino acid |
+| P (peptidyl) | The tRNA attached to the growing chain |
+| E (exit) | The empty tRNA leaving |
+
+## Elongation and termination
+
+- The chain grows from the N terminus to the C terminus
+- The growing chain moves from the P-site tRNA to the A-site tRNA; the ribosome then translocates, moving the empty tRNA to E and the new peptidyl-tRNA to P
+- At a stop codon, a release factor and GTP end translation
+
+## Drugs that target bacterial ribosomes
+
+| Subunit | Drugs |
+|---|---|
+| 30S | Aminoglycosides (mRNA misreading), tetracyclines (block tRNA binding) |
+| 50S | Macrolides (block translocation), clindamycin, linezolid |
+
+> The A site takes the incoming aminoacyl-tRNA; the P site holds the growing chain.
+
+Library: Translation initiation: prokaryotes vs. eukaryotes
+Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+
+## Key findings
+
+| Feature | Prokaryotes | Eukaryotes |
+|---|---|---|
+| First amino acid | N-formylmethionine (tRNA fMet) | Methionine (AUG) |
+| Start-site signal | Shine-Dalgarno sequence pairs with the 3' end of 16S rRNA and puts the start codon in the P site | Kozak sequence (gccRccAUGG, R = A or G) |
+
+- The initiator Met-tRNA is different from the Met-tRNAs used later in the chain
+- N-formyl peptides are cleavage products of bacterial and mitochondrial proteins, and they attract phagocytes
+- Peptide deformylase is a bacterial enzyme and a target of newer drugs
+- Losing the Kozak sequence lowers initiation efficiency
+
+## Clinical link
+
+Beta-thalassemia minor can come from Kozak sequence mutations in the beta-globin gene, which reduce translation efficiency.
+
+> Kozak sequence mutations in beta-globin reduce translation and can cause beta-thalassemia minor.
+
+Library: Regulation of translation
+Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+
+## eIF2
+
+- A trimer (alpha, beta, gamma) that binds GTP on its alpha subunit, like a G protein
+- After use, eIF2-GDP needs eIF2B to exchange GDP for GTP
+- Phosphorylating a serine on the alpha subunit blocks that exchange and slows global translation
+- Triggers: heme deficiency, dsRNA, ER stress, amino acid starvation
+
+## eIF4E
+
+- Inhibited by hypophosphorylated 4E-BP
+- Insulin triggers hyperphosphorylation of 4E-BP, which releases eIF4E and promotes translation
+
+## Iron response elements (IREs)
+
+| IRE location | Effect |
+|---|---|
+| 5' end | Iron response protein (IRP) bound to the IRE blocks translation; iron releases the block |
+| 3' end | An unbound IRE leads to mRNA degradation; IRP binding stabilizes the mRNA |
+
+## Viruses
+
+Only capped mRNA is translated efficiently. Viral proteases can destroy cap-dependent initiation factors, and internal ribosome entry sites (IRES) let ribosomes assemble on uncapped viral mRNA.
+
+> Phosphorylated eIF2 alpha shuts down global translation during stress.
+
+Library: Protein sorting and signal sequences
+Folder: Foundations of Medicine / Week 4 / Endomembranes
+
+## Key findings
+
+- A signal sequence is usually a stretch of amino acids that tells the cell where a protein belongs; the cytosol is the default
+- Apart from proteins bound for the nucleus, mitochondria, and peroxisomes, proteins go through the ER
+
+| Transport type | Destination |
+|---|---|
+| Gated | Nucleus |
+| Transmembrane | Mitochondria and ER |
+| Vesicular | ER → Golgi → endosome, lysosome, or cell exterior |
+
+## Mitochondrial import
+
+Most mitochondrial proteins are encoded in the nucleus and imported unfolded, using a signal sequence and an import receptor.
+
+> Proteins without a signal sequence stay in the cytosol.
+
+Library: Nuclear pores and nuclear localization signals
+Folder: Foundations of Medicine / Week 4 / Endomembranes
+
+## Key findings
+
+- Nuclear pores let larger proteins in and out; proteins are made in the cytoplasm
+- More pores per nucleus means a more proliferative cell
+- Molecules under 40 kD pass by passive diffusion
+- Molecules over 40 kD need a nuclear localization signal (NLS) and energy (ATP/GTP)
+- An NLS is a short stretch of basic amino acids recognized by nuclear transport receptors (importins and exportins, also called karyopherins)
+- Ran-GTP releases the cargo from importin inside the nucleus, and the importin is exported
+
+> Proteins over 40 kD need a nuclear localization signal; Ran-GTP releases them from importin.
+
+Library: Nuclear lamina, nuclear matrix, and nucleolus
+Folder: Foundations of Medicine / Week 4 / Endomembranes
+
+## Key findings
+
+| Structure | Key points |
+|---|---|
+| Nuclear lamina | Thin fibrillar layer under the inner membrane that reinforces the envelope and shape; a meshwork of lamins A, B, and C (intermediate filaments); peripheral chromatin attaches to it |
+| Nuclear matrix | Scaffold of lamins and nucleoproteins; DNA attaches transiently at AT-rich scaffold-associated regions; organizes chromosome domains and helps regulate transcription, replication, and repair |
+| Nucleolus | rRNA transcription and processing and ribosomal subunit assembly; rRNA genes on 10 chromosomes cluster here; depends on the nuclear matrix |
+
+## Laminopathies
+
+| Disorder | Defect | Key findings |
+|---|---|---|
+| Laminopathies (general) | Lamin A/C | Cardiomyopathy, progeria, short stature, osteoporosis |
+| Hutchinson-Gilford progeria | Lamin A | Premature aging; treated with farnesylation inhibitors |
+| Emery-Dreifuss muscular dystrophy | Lamin A | Progressive weakness, joint contractures |
+| Congenital muscular dystrophy | Lamin A | Skeletal muscle wasting |
+
+> Lamin A mutations cause progeria and Emery-Dreifuss muscular dystrophy.
+
+Library: ER import and the unfolded protein response
+Folder: Foundations of Medicine / Week 4 / Endomembranes
+
+## Key findings
+
+- ER import happens co-translationally
+- The signal recognition particle (SRP), a ribonucleoprotein of 6 proteins and one RNA, recognizes the N-terminal signal sequence
+- GTP-bound SRP binds the SRP receptor; GTP hydrolysis releases it
+- The translocator next to the SRP receptor is normally closed; binding of the signal peptide opens it
+
+## Folding and quality control
+
+- Proteins in the rough ER must fold within a limited time; if they don't, they're exported, ubiquitinated, and degraded
+- The unfolded protein response (UPR) starts when too many unfolded proteins build up. It lowers general transcription and translation, raises production of chaperones, and can trigger apoptosis
+
+> Misfolded ER proteins are ubiquitinated and degraded; too many trigger the unfolded protein response.
+
+Library: Vesicle coats and docking: COPI, COPII, Rab, and SNAREs
+Folder: Foundations of Medicine / Week 4 / Endomembranes
+
+## Coats
+
+Vesicle formation isn't thermodynamically favorable, so protein coats with high affinity for each other drive budding.
+
+| Coat | Direction | Notes |
+|---|---|---|
+| COPII | ER → Golgi | |
+| COPI | Golgi → ER | Recognizes retrieval signals such as KDEL |
+| Clathrin | Plasma membrane → endosome | Triskelions; dynamin pinches the vesicle off |
+
+## Docking
+
+- Rab-GTP on the vesicle gives docking specificity by binding tethering proteins
+- v-SNAREs (vesicle) and t-SNAREs (target membrane) pull the vesicle to the membrane
+
+## Botulinum toxin
+
+Botulinum toxin enters by endocytosis, escapes the endosome, and cleaves SNARE proteins. Acetylcholine release is blocked, causing flaccid paralysis.
+
+> COPII moves cargo forward from the ER; COPI brings it back.
+
+Library: Lysosomal targeting and storage diseases
+Folder: Foundations of Medicine / Week 4 / Endomembranes
+
+## Targeting
+
+Lysosomal enzymes are tagged with mannose-6-phosphate (M6P) in the Golgi, which sends them to the lysosome.
+
+## Key findings
+
+| Disorder | Defect | Inheritance | Key findings |
+|---|---|---|---|
+| Hurler disease | Alpha-L-iduronidase (GAG breakdown) | Autosomal recessive | Skeletal abnormalities, heart disease, cognitive deficits, corneal clouding; death usually by age 10 |
+| Hunter disease | Iduronate sulfatase | X-linked recessive | Very similar to Hurler |
+| I-cell disease | NAG-1 phosphotransferase | Autosomal recessive | No M6P tag, so hydrolases never reach the lysosome; empty lysosomes and inclusions; children rarely live past 6 |
+
+> I-cell disease is a Golgi tagging defect: without M6P, enzymes never reach the lysosome.
+
+Library: Cystic fibrosis
+Folder: Foundations of Medicine / Week 4 / Endomembranes
+
+## Mechanism
+
+CFTR is a plasma membrane channel for chloride and bicarbonate. It has to travel from the ER to the plasma membrane. The ΔF508 deletion keeps CFTR from folding correctly, so it's degraded in the ER. Without it, water can't follow the ions, and mucus becomes thick, dehydrated, and hard to clear.
+
+## Key findings
+
+- Autosomal recessive
+- Recurrent respiratory infections
+- Greasy, foul-smelling diarrhea
+- Infertility (more than 95% of men with CF) and thicker cervical mucus
+- Allelic heterogeneity
+
+## Treatment
+
+Trikafta helps CFTR fold so it can reach the membrane. A second compound is still needed to make the channel work better once it's there.
+
+> ΔF508 CFTR misfolds and is degraded in the ER before reaching the membrane.
+
+Library: Exocytosis, endocytosis, and autophagy
+Folder: Foundations of Medicine / Week 4 / Endomembranes
+
+## Exocytosis
+
+| Type | Example |
+|---|---|
+| Constitutive (always on) | Collagen from fibroblasts |
+| Regulated | Synaptic vesicles, mast cell granules |
+
+## Endocytosis
+
+- Cargo moves from early to intermediate to late endosome, then to the lysosome
+- The pH drops at each stage, releasing cargo from its receptor so the receptor can be recycled
+- Clathrin triskelions form the coat, and dynamin (a GTPase) wraps the neck of the pit and cuts it off with GTP hydrolysis
+
+## Phagocytosis
+
+A specialized endocytosis done mostly by neutrophils and macrophages, using an actin-based pseudopod that wraps the target.
+
+## Autophagy
+
+The cell digests its own components during stress or nutrient shortage, and clears old or nonfunctional organelles.
+
+> Falling endosome pH releases cargo from receptors so the receptors can be recycled.
+
+Library: Cyclins, CDKs, and CDK inhibitors
+Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+
+## Key findings
+
+- Cyclin-dependent kinases (CDKs) must bind cyclins to be active
+- CDKs have both activating and inhibitory phosphorylation sites, and the inhibitory phosphate must be removed for activity
+- Specific cyclins and CDKs rise and fall in each phase of the cell cycle
+- Cyclins are regulated by proteasomal degradation
+- CDK inhibitors (CKIs), such as p21cip1, add another layer of control
+- G0 is the quiescent phase
+
+## Tissue homeostasis
+
+The balance between proliferation and death depends on growth factor availability and on signaling that controls cyclins and CDKs. Growth factors are secreted proteins and cell-surface receptors that drive renewal, death, and differentiation.
+
+> CDKs need a bound cyclin and removal of inhibitory phosphates to be active.
+
+Library: Rb and the restriction point
+Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+
+## Key findings
+
+- Unphosphorylated Rb holds the E2F transcription factor and blocks transcription of S-phase genes
+- Growth factors activate cyclin D/CDK4/6, which phosphorylates Rb and releases E2F
+- This is the restriction point between G1 and S
+- Rb is a tumor suppressor
+
+## Clinical links
+
+- CDK4/6 inhibitors such as ribociclib treat cancers with upregulated cyclin D or CDKs
+- Cyclin D amplification inactivates Rb and releases E2F
+- Retinoblastoma (loss of Rb) causes a retinal tumor and vision loss
+
+> Cyclin D/CDK4/6 phosphorylates Rb, releasing E2F and pushing the cell past the G1/S restriction point.
+
+Library: p53 checkpoint
+Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+
+## Key findings
+
+p53 blocks the G1 to S transition when DNA is damaged and chooses one of two outcomes.
+
+| Outcome | Mechanism |
+|---|---|
+| Growth arrest (cytostasis) | p53 upregulates p21, a CDK inhibitor that binds and inactivates CDKs |
+| Cell death (cytotoxicity) | p53 upregulates Bax, starting the intrinsic apoptosis pathway |
+
+## Clinical links
+
+- Li-Fraumeni syndrome: germline p53 mutation; sarcomas, breast cancer, leukemia, adrenal tumors (SBLA)
+- MDM2 amplification: MDM2 is a ubiquitin ligase that marks p53 for degradation; seen in sarcoma
+
+> p53 arrests the cell through p21 or kills it through Bax.
+
+Library: Flow cytometry of the cell cycle
+Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+
+## Key findings
+
+- Flow cytometry measures laser light from fluorescent dyes to analyze many cells quickly
+- Propidium iodide binds DNA, so DNA content shows each cell's phase
+
+| Phase | DNA content |
+|---|---|
+| G1 | 2n |
+| S | Between 2n and 4n |
+| G2 | 4n |
+| Sub-G1 | Less than 2n: cells dying by apoptosis |
+
+- Annexin V binds phosphatidylserine (calcium-dependent); tagged with FITC, it detects apoptotic cells by flow cytometry
+- Taxol-type drugs disrupt the mitotic spindle, and the effect shows up in flow cytometry results
+
+> A sub-G1 peak means cells with fragmented DNA are dying by apoptosis.
+
+Library: Intrinsic apoptosis and caspases
+Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+
+## Pathway
+
+p53 → Bax → mitochondria release cytochrome c → caspase-9 activation
+
+## Caspases
+
+| Group | Caspases |
+|---|---|
+| Initiator | 8, 9, 10 |
+| Executioner | 3, 6, 7 |
+
+| Caspase | Action |
+|---|---|
+| 3 | Activates endonucleases |
+| 6 | Cleaves lamin A |
+| 7 | Cleaves PARP (poly ADP-ribose polymerase), a DNA repair enzyme |
+
+## Detecting apoptosis
+
+- Endonuclease activity fragments DNA into a DNA ladder
+- Antibodies to cleaved lamin A or activated caspases
+- Annexin V binding to phosphatidylserine
+
+> Cytochrome c released from mitochondria activates caspase-9 in the intrinsic pathway.
+
+Library: Bcl-2 family proteins
+Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+
+## Key findings
+
+| Group | Members | Role |
+|---|---|---|
+| Pro-apoptotic | Bax, Bad, Bim, Bak | Promote cell death |
+| Anti-apoptotic | Bcl-2, Bcl-xL, Mcl-1 | Block cell death |
+
+- Cells overexpressing Bcl-2 won't undergo apoptosis, which makes those cancers hard to treat and multidrug resistant
+- Bcl-2 inhibitors are a cancer therapy target
+
+## Clinical link
+
+Follicular lymphoma: t(14;18) puts BCL2 under the IgH promoter, and BCL2 overexpression blocks apoptosis in germinal center B cells.
+
+> Bcl-2 overexpression, as in follicular lymphoma t(14;18), blocks apoptosis and causes drug resistance.
+
+Library: Extrinsic apoptosis and necrosis
+Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+
+## Extrinsic pathway
+
+- Death receptors are often in the TNF receptor superfamily
+- TNF inhibitors (such as etanercept, adalimumab, and infliximab) treat inflammatory and autoimmune disease
+- Autoimmune lymphoproliferative syndrome comes from defective Fas/Fas-ligand interaction
+
+## Apoptosis vs. necrosis
+
+| Feature | Apoptosis | Necrosis |
+|---|---|---|
+| Membrane | Stays intact early | Compromised early |
+| DNA | Fragmented in a ladder | Spills out of the cell |
+| Clearance | Engulfed by neighboring cells | Triggers inflammation |
+
+> Necrosis breaks the membrane early and causes inflammation; apoptosis doesn't.
+
+Library: Promoters, enhancers, and transcription factors
+Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+
+## Key findings
+
+- The promoter is 5' to the transcription start site. Prokaryotes use sigma factor recognition; eukaryotes use basal transcription factors at the core promoter and can have more than one promoter
+- Enhancers and silencers are sequences that raise or lower transcription when transcription factors bind them; in eukaryotes they can be anywhere
+- Coactivators and corepressors lack DNA-binding domains. In prokaryotes, they're often metabolites or nutrients that change a repressor's function; in eukaryotes, they link basal and accessory transcription factors
+- Response elements are cis-acting sequences that can act as enhancers or silencers
+- Eukaryotic genes are regulated at many levels: transcription, processing, translation, and protein modification
+
+## Transcription factor structure
+
+- Nuclear localization signals and modular architecture; many have a ligand (hormone) binding domain
+- Usually recognize palindromic sequences, with alpha helices in the major groove
+
+| Motif | Key feature |
+|---|---|
+| Leucine zipper | Hydrophobic leucine interactions |
+| Zinc finger | Cysteine and histidine coordinate zinc; common in steroid hormone receptors |
+
+## Drug link
+
+Tamoxifen is a synthetic estrogen antagonist that competes with estrogen for the receptor's ligand-binding site, used to prevent and treat ER-positive breast cancer.
+
+> Zinc finger motifs are typical of steroid hormone receptors.
+
+Library: DNA methylation and histone modification
+Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+
+## DNA methylation
+
+- CpG islands sit in regulatory regions (promoters and first exons) and are methylated by DNMTs
+- Methylation is often cell-specific: inactive CpG islands and enhancers are methylated, and active ones aren't
+- Heterochromatin is methylated; euchromatin isn't
+
+## Histone modification
+
+| Modification of histone tails | Result |
+|---|---|
+| Lysine acetylation | Euchromatin (open) |
+| Lysine or arginine methylation | Heterochromatin (closed) |
+
+## Clinical link
+
+Hypermethylation of tumor suppressor genes can cause cancer, so drugs that inhibit hypermethylation have been developed.
+
+> Histone acetylation opens chromatin; DNA methylation silences it.
+
+Library: Genomic imprinting: Prader-Willi and Angelman syndromes
+Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+
+## Imprinting
+
+- An imprinted gene is silenced, and only one parent's copy is expressed
+- Imprinting is set by methylation during sperm and egg development, so it matters which parent the gene came from
+
+## Key findings
+
+| Syndrome | Region | What's missing | Key findings |
+|---|---|---|---|
+| Prader-Willi | 15q11-13 | Father's copy is deleted; mother's copy is silenced | Hyperphagia, obsession with food, hypotonia, motor delay, intellectual disability, hypogonadism |
+| Angelman | 15q11-13 | Mother's copy is deleted; father's copy is silenced | Happy, laughing demeanor ("happy puppet"), jerky gait, ataxia, seizures |
+
+> Prader-Willi is a paternal deletion; Angelman is a maternal deletion.
+
+Library: miRNA, siRNA, and lncRNA
+Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+
+## Key findings
+
+| RNA | Source | Pairing | Action |
+|---|---|---|---|
+| miRNA (19-25 nt) | Its own genes | Full or partial complementarity | Represses translation, speeds mRNA degradation, sequesters mRNAs |
+| siRNA | dsRNA or synthetic RNA | Full complementarity | Degrades target mRNA |
+| lncRNA (over 200 nt) | Its own genes | Not applicable | Marks regions for epigenetic silencing and regulates many processes |
+
+## X inactivation
+
+Xist (X-inactive specific transcript) is an lncRNA made by the X chromosome that coats and silences the same X. This lyonization is random, so X-linked genes are expressed in a mosaic pattern.
+
+> siRNA needs full complementarity; miRNA can work with partial complementarity.
