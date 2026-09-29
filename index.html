@@ -297,7 +297,7 @@
     }
     .status-row-top {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(3, 1fr);
       gap: 12px;
       width: 100%;
     }
@@ -533,15 +533,73 @@
       width: 100%;
     }
 
-    .perf-folder-card {
+    .perf-title-actions { display: flex; gap: 8px; }
+    .perf-title-actions button {
+      text-transform: none;
+      letter-spacing: 0;
+      white-space: nowrap;
+      font-size: 0.75rem;
+      padding: 4px 10px;
+    }
+    .perf-node.level-1 {
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 12px 16px;
       background: var(--surface);
+      overflow: hidden;
+    }
+    .perf-row {
+      padding: 12px 16px;
       display: flex;
       flex-direction: column;
       gap: 6px;
     }
+    .perf-row[data-perf-toggle] { cursor: pointer; user-select: none; }
+    .perf-row[data-perf-toggle]:hover { background: var(--row-hover); }
+    .perf-row-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 6px 12px;
+      flex-wrap: wrap;
+      font-size: 0.85rem;
+      font-weight: 700;
+    }
+    .perf-name { display: flex; align-items: center; gap: 8px; min-width: 0; }
+    .perf-name small { color: var(--text-muted); font-weight: 600; white-space: nowrap; }
+    .perf-detail {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .perf-detail .n-correct { color: var(--correct); }
+    .perf-detail .n-wrong { color: var(--wrong); }
+    .perf-pill {
+      background: var(--border-sub);
+      padding: 2px 8px;
+      border-radius: 12px;
+      min-width: 108px;
+      text-align: center;
+    }
+    .perf-bar {
+      width: 100%;
+      height: 6px;
+      background: var(--border-sub);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .perf-bar > div { height: 100%; background: var(--uw-primary); transition: width 0.3s ease; }
+    .perf-children { border-top: 1px solid var(--border-sub); }
+    .perf-children.collapsed { display: none; }
+    .perf-node.level-2 + .perf-node.level-2,
+    .perf-node.level-3 + .perf-node.level-3 { border-top: 1px solid var(--border-sub); }
+    .perf-node.level-2 > .perf-row { padding: 10px 16px 10px 36px; }
+    .perf-node.level-3 > .perf-row { padding: 8px 16px 8px 60px; background: var(--surface-sub); }
+    .perf-node.level-2 .perf-row-top { font-size: 0.82rem; }
+    .perf-node.level-3 .perf-row-top { font-size: 0.78rem; font-weight: 600; }
+    .perf-node.level-2 .perf-bar, .perf-node.level-3 .perf-bar { height: 4px; }
 
     .app-workspace {
       display: none;
@@ -1029,8 +1087,8 @@
     .results-list { display: flex; flex-direction: column; gap: 6px; }
     .result-row {
       display: grid;
-      grid-template-columns: 36px 100px minmax(0, 1fr) auto;
-      grid-template-areas: "num pill subject answers";
+      grid-template-columns: 36px 100px minmax(0, 1fr) auto 52px;
+      grid-template-areas: "num pill subject answers time";
       align-items: center;
       gap: 12px;
       width: 100%;
@@ -1170,12 +1228,265 @@
 
       .result-row {
         grid-template-columns: 28px minmax(0, 1fr) auto;
-        grid-template-areas: "num subject pill" "num answers answers";
+        grid-template-areas: "num subject pill" "num answers time";
         row-gap: 4px;
       }
       .result-answers { white-space: normal; }
       .history-row { flex-wrap: wrap; }
+      .perf-node.level-2 > .perf-row { padding-left: 26px; }
+      .perf-node.level-3 > .perf-row { padding-left: 40px; }
+      .perf-detail { flex-wrap: wrap; gap: 8px; }
+      .perf-pill { min-width: 0; }
       .app-toast { left: 16px; right: 16px; bottom: 16px; text-align: center; }
+    }
+    [hidden] { display: none !important; }
+
+    .due-banner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 16px;
+      border: 1.5px solid var(--uw-primary);
+      border-radius: var(--radius);
+      background: var(--primary-soft);
+      color: var(--primary-ink);
+      font-weight: 700;
+      font-size: 0.9rem;
+    }
+
+    .section-header { display: flex; align-items: center; gap: 10px; }
+    .section-toggle {
+      flex: 1;
+      min-width: 0;
+      justify-content: flex-start;
+      gap: 10px;
+      padding: 2px 0;
+      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      text-align: left;
+    }
+    .section-toggle:hover:not(:disabled) { background: transparent; color: var(--text); }
+    .section-summary {
+      margin-left: auto;
+      max-width: 60%;
+      padding: 3px 10px;
+      border-radius: 999px;
+      background: var(--border-sub);
+      color: var(--text-sub);
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: none;
+      letter-spacing: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .section-summary.adjusted { background: var(--primary-soft-strong); color: var(--primary-ink); }
+    .section-reset { flex-shrink: 0; font-size: 0.75rem; padding: 4px 10px; }
+    .collapsible.collapsed .section-body { display: none; }
+    .tag-chip-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+    .tag-chip {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+      min-height: 42px;
+      padding: 9px 12px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      font-size: 0.8rem;
+      font-weight: 700;
+      cursor: pointer;
+      user-select: none;
+      transition: all 0.15s ease;
+    }
+    .tag-chip input { margin: 0; flex-shrink: 0; }
+    .tag-chip .tag-chip-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .tag-chip:hover { border-color: var(--uw-primary); }
+    .tag-chip.active { border-color: var(--uw-primary); background: var(--primary-soft); }
+
+    #qTagBadges { display: inline-flex; gap: 6px; flex-wrap: wrap; }
+    .tag-badge {
+      font-size: 0.7rem;
+      font-weight: 800;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: var(--primary-soft-strong);
+      color: var(--primary-ink);
+    }
+    .tag-badge.diff-easy { background: var(--correct-bg); color: var(--correct); }
+    .tag-badge.diff-medium { background: var(--flagged-bg); color: var(--flagged); }
+    .tag-badge.diff-hard { background: var(--wrong-bg); color: var(--wrong); }
+
+    .perf-matrix-grid.overall-tiles { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .perf-matrix-grid.results-tiles { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+    .perf-detail .n-time { color: var(--text-muted); }
+    .perf-detail .n-time.slow { color: var(--flagged); }
+
+    .weak-list { display: flex; flex-direction: column; gap: 8px; }
+    .weak-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 14px;
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--wrong);
+      border-radius: var(--radius);
+      background: var(--surface);
+    }
+    .weak-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; font-size: 0.85rem; }
+    .weak-main span { font-size: 0.75rem; color: var(--text-muted); }
+
+    .type-breakdown { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+    .type-group { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+    .type-group-title {
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-sub);
+    }
+
+    .results-types { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+    .type-stat-label { font-size: 0.75rem; font-weight: 700; color: var(--text-muted); }
+    .type-stat {
+      font-size: 0.75rem;
+      padding: 3px 10px;
+      border-radius: 999px;
+      background: var(--border-sub);
+      color: var(--text-sub);
+    }
+    .type-stat strong { color: var(--text); margin-right: 4px; }
+    .result-tags { color: var(--text-muted); font-weight: 600; font-size: 0.75rem; }
+    .result-time {
+      grid-area: time;
+      font-size: 0.78rem;
+      font-variant-numeric: tabular-nums;
+      color: var(--text-muted);
+      text-align: right;
+    }
+    .result-time.slow { color: var(--flagged); font-weight: 800; }
+
+    .lab-panel {
+      display: none;
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 360px;
+      max-width: 100vw;
+      z-index: 80;
+      flex-direction: column;
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      box-shadow: -8px 0 24px rgba(0, 0, 0, 0.2);
+    }
+    .lab-panel.open { display: flex; }
+    @media (min-width: 769px) {
+      body.labs-open .app-workspace { padding-right: 360px; }
+    }
+    .lab-panel-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    .lab-panel input[type="search"] {
+      margin: 10px 14px 6px;
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg);
+      color: var(--text);
+      font: inherit;
+      font-size: 0.85rem;
+    }
+    .lab-note {
+      padding: 0 14px 10px;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      border-bottom: 1px solid var(--border);
+    }
+    .lab-panel-body { flex: 1; overflow-y: auto; padding: 4px 14px 24px; }
+    .lab-group-title {
+      margin: 14px 0 6px;
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-muted);
+    }
+    .lab-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 5px 0;
+      border-bottom: 1px dashed var(--border-sub);
+      font-size: 0.8rem;
+    }
+    .lab-row span:last-child { text-align: right; font-weight: 700; font-variant-numeric: tabular-nums; }
+
+    @media (max-width: 900px) {
+      .perf-matrix-grid.overall-tiles, .perf-matrix-grid.results-tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .tag-chip-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .type-breakdown { grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 768px) {
+      .due-banner { flex-direction: column; align-items: stretch; text-align: center; }
+      .weak-row { flex-wrap: wrap; }
+      .lab-panel { width: 100vw; }
+    }
+
+    .setting-row {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      cursor: pointer;
+    }
+    .setting-text { display: flex; flex-direction: column; gap: 4px; font-size: 0.9rem; }
+    .setting-text span { color: var(--text-sub); font-size: 0.8rem; line-height: 1.5; }
+    input.switch {
+      appearance: none;
+      -webkit-appearance: none;
+      position: relative;
+      flex-shrink: 0;
+      width: 42px;
+      height: 24px;
+      margin: 2px 0 0;
+      border-radius: 999px;
+      background: var(--border);
+      cursor: pointer;
+      transition: background 0.15s ease;
+    }
+    input.switch::after {
+      content: "";
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #fff;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+      transition: transform 0.15s ease;
+    }
+    input.switch:checked { background: var(--uw-primary); }
+    input.switch:checked::after { transform: translateX(18px); }
+    input.switch:focus-visible { outline: 2px solid var(--uw-primary); outline-offset: 2px; }
+
+    body.no-spaced-review .sr-feature { display: none !important; }
+    @media (min-width: 901px) {
+      body.no-spaced-review .status-row-top { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
 </head>
@@ -1216,6 +1527,10 @@
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
           <span>Backup & Export</span>
         </li>
+        <li class="uw-nav-item" id="navItemSettings" data-modal="settingsModal">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06A1.65 1.65 0 004.6 15a1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06A1.65 1.65 0 009 4.6a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06A1.65 1.65 0 0019.4 9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"></path></svg>
+          <span>Settings</span>
+        </li>
       </ul>
     </div>
 
@@ -1230,6 +1545,19 @@
     
     <!-- View 1: Central "Create Test" Page -->
     <div class="create-test-view" id="createTestView">
+      <div class="uw-section-box" id="suspendedBox" hidden>
+        <div class="uw-section-title">
+          <span>Suspended Tests</span>
+          <span class="section-meta">Pick up where you left off</span>
+        </div>
+        <div class="history-list" id="suspendedList"></div>
+      </div>
+
+      <div class="due-banner sr-feature" id="dueBanner" hidden>
+        <span id="dueBannerText">0 questions are due for review today.</span>
+        <button type="button" class="btn-primary" id="btnStartDueReview">Start Review</button>
+      </div>
+
       <div class="uw-section-box">
         <div class="uw-section-title">Test Mode & Options</div>
         <div class="segmented-group">
@@ -1252,9 +1580,16 @@
         </div>
       </div>
 
-      <div class="uw-section-box">
-        <div class="uw-section-title">Question Status</div>
-        <div class="status-matrix-container">
+      <div class="uw-section-box collapsible collapsed" data-section="status">
+        <div class="section-header">
+          <button type="button" class="section-toggle" aria-expanded="false">
+            <span class="folder-toggle-icon">&#9656;</span>
+            <span>Question Status</span>
+            <span class="section-summary">All Questions</span>
+          </button>
+          <button type="button" class="section-reset" data-reset="status" hidden>Reset to All</button>
+        </div>
+        <div class="section-body status-matrix-container">
           <div class="status-row-top">
             <div class="status-tile active" data-status="all">
               <div class="status-lbl">
@@ -1270,6 +1605,14 @@
                 <span>Unused Questions</span>
               </div>
               <span class="status-count" id="countStatusUnused">0</span>
+            </div>
+
+            <div class="status-tile sr-feature" data-status="due">
+              <div class="status-lbl">
+                <input type="radio" name="qPoolStatus" value="due" />
+                <span>Due for Review</span>
+              </div>
+              <span class="status-count" id="countStatusDue" style="color:var(--primary-ink);">0</span>
             </div>
           </div>
 
@@ -1301,6 +1644,30 @@
         </div>
       </div>
 
+      <div class="uw-section-box collapsible collapsed" data-section="order">
+        <div class="section-header">
+          <button type="button" class="section-toggle" aria-expanded="false">
+            <span class="folder-toggle-icon">&#9656;</span>
+            <span>Reasoning Order</span>
+            <span class="section-summary">All</span>
+          </button>
+          <button type="button" class="section-reset" data-reset="order" hidden>Reset to All</button>
+        </div>
+        <div class="section-body tag-chip-grid" id="orderFilterChips"></div>
+      </div>
+
+      <div class="uw-section-box collapsible collapsed" data-section="difficulty">
+        <div class="section-header">
+          <button type="button" class="section-toggle" aria-expanded="false">
+            <span class="folder-toggle-icon">&#9656;</span>
+            <span>Difficulty</span>
+            <span class="section-summary">All</span>
+          </button>
+          <button type="button" class="section-reset" data-reset="difficulty" hidden>Reset to All</button>
+        </div>
+        <div class="section-body tag-chip-grid" id="difficultyFilterChips"></div>
+      </div>
+
       <div class="uw-section-box" style="background:transparent; border:none; padding:0; box-shadow:none;">
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
           <div class="uw-section-title" style="margin:0;">Subjects & Systems</div>
@@ -1330,7 +1697,7 @@
     <div class="performance-view" id="performanceView">
       <div class="uw-section-box">
         <div class="uw-section-title">Overall Performance</div>
-        <div class="perf-matrix-grid">
+        <div class="perf-matrix-grid overall-tiles">
           <div class="perf-tile">
             <span class="perf-lbl">Completed</span>
             <strong class="perf-val" id="repCompleted">0 / 0</strong>
@@ -1344,15 +1711,42 @@
             <strong class="perf-val" id="repIncorrect" style="color:var(--wrong);">0</strong>
           </div>
           <div class="perf-tile">
-            <span class="perf-lbl">Marked for Review</span>
+            <span class="perf-lbl">Marked</span>
             <strong class="perf-val" id="repMarked" style="color:var(--flagged);">0</strong>
+          </div>
+          <div class="perf-tile sr-feature">
+            <span class="perf-lbl">Due for Review</span>
+            <strong class="perf-val" id="repDue" style="color:var(--primary-ink);">0</strong>
+          </div>
+          <div class="perf-tile">
+            <span class="perf-lbl">Avg Time / Question</span>
+            <strong class="perf-val" id="repAvgTime">—</strong>
           </div>
         </div>
       </div>
 
       <div class="uw-section-box">
-        <div class="uw-section-title">Performance by System / Week</div>
+        <div class="uw-section-title">
+          <span>Weakest Areas</span>
+          <span class="section-meta">Lowest accuracy among sections with 3+ answers</span>
+        </div>
+        <div class="weak-list" id="weakestAreasList"></div>
+      </div>
+
+      <div class="uw-section-box">
+        <div class="uw-section-title">
+          <span>Performance by System / Week</span>
+          <span class="perf-title-actions">
+            <button type="button" id="btnPerfExpandAll">Expand All</button>
+            <button type="button" id="btnPerfCollapseAll">Collapse All</button>
+          </span>
+        </div>
         <div id="performanceFolderList" style="display:flex; flex-direction:column; gap:10px;"></div>
+      </div>
+
+      <div class="uw-section-box">
+        <div class="uw-section-title">Performance by Question Type</div>
+        <div class="type-breakdown" id="typeBreakdownList"></div>
       </div>
 
       <div class="uw-section-box">
@@ -1371,7 +1765,7 @@
           <span id="resultsTitle">Test Results</span>
           <span class="section-meta" id="resultsMeta"></span>
         </div>
-        <div class="perf-matrix-grid">
+        <div class="perf-matrix-grid results-tiles">
           <div class="perf-tile">
             <span class="perf-lbl">Score</span>
             <strong class="perf-val" id="resScore">0%</strong>
@@ -1388,7 +1782,12 @@
             <span class="perf-lbl">Unanswered</span>
             <strong class="perf-val" id="resOmitted">0</strong>
           </div>
+          <div class="perf-tile">
+            <span class="perf-lbl">Avg Time / Q</span>
+            <strong class="perf-val" id="resAvgTime">—</strong>
+          </div>
         </div>
+        <div class="results-types" id="resultsTypes" hidden></div>
         <div class="results-actions">
           <button class="btn-primary" id="btnReviewAll">Review All Questions</button>
           <button id="btnReviewIncorrect">Review Incorrect Only</button>
@@ -1399,7 +1798,7 @@
       <div class="uw-section-box">
         <div class="uw-section-title">
           <span>Questions</span>
-          <span class="section-meta">Click a question to review it</span>
+          <span class="section-meta">Click a question to review it · times over 1:30 in amber</span>
         </div>
         <div class="results-list" id="resultsList"></div>
       </div>
@@ -1409,12 +1808,13 @@
     <div class="app-workspace" id="quizWorkspace">
       <header class="exam-header">
         <div class="exam-header-left">
-          <button id="btnExamExit" style="padding:4px 10px;">&larr; Exit to Dashboard</button>
+          <button id="btnExamExit" style="padding:4px 10px;">&larr; Save &amp; Exit</button>
           <span class="badge" id="examModeBadge">Tutor Mode</span>
           <span class="badge" style="background:var(--border-sub);color:var(--text-sub);" id="examBlockBadge">Test Block</span>
         </div>
         <div style="display:flex; align-items:center; gap:8px;">
           <div class="timer-pill" id="timerPill"><span id="timerText">00:00</span></div>
+          <button id="btnLabValues">Lab Values</button>
           <button id="btnToggleTimer" style="padding:4px 8px;">Pause</button>
           <button id="btnFinishBlock">End Block</button>
           <button id="btnToggleNav">Sidebar</button>
@@ -1426,6 +1826,7 @@
           <div class="q-meta-banner">
             <div class="q-id-pill">
               <span id="qDisplayIndex">Question 1</span>
+              <span id="qTagBadges"></span>
             </div>
             <div class="q-actions">
               <button id="btnResetCurrentQ">Reset Question</button>
@@ -1506,9 +1907,10 @@
       </div>
       <div class="modal-body">
         <p style="color:var(--text-sub);">Paste formatted questions below. Headings formatted as <code>Folder / Subfolder / Sub-subfolder</code> will be parsed and nested automatically.</p>
-        <p class="format-hint">Each question needs a <code>Question N</code> line, lettered choices (<code>A.</code>, <code>B.</code>, &hellip; as many as you need), and an <code>Answer: X</code> line. Explanations can run over several lines. Questions you've already imported are updated rather than duplicated.</p>
-        <div style="display:flex; gap:10px;">
+        <p class="format-hint">Each question needs a <code>Question N</code> line, lettered choices (<code>A.</code>, <code>B.</code>, &hellip; as many as you need), and an <code>Answer: X</code> line. Optional: <code>Order: First / Second / Third</code>, <code>Difficulty: Easy / Medium / Hard</code>, explanations (any length) and an objective. Load or download the sample to see every part. Re-importing a question updates it instead of duplicating it.</p>
+        <div style="display:flex; gap:10px; flex-wrap:wrap;">
           <button type="button" class="btn-soft" id="btnInsertSampleData" style="font-size:0.75rem;">Load Built-In Sample Test Questions</button>
+          <button type="button" id="btnDownloadSample" style="font-size:0.75rem;">Download Sample .txt</button>
         </div>
         <textarea id="txtDocInput" placeholder="Paste questions here..." style="width:100%;height:180px;padding:10px;border:1px solid var(--border);border-radius:6px;font-family:monospace;font-size:0.75rem;background:var(--bg);color:var(--text);"></textarea>
       </div>
@@ -1559,6 +1961,29 @@
     </div>
   </div>
 
+  <!-- Settings Modal -->
+  <div class="modal-backdrop" id="settingsModal">
+    <div class="modal-dialog" style="max-width:480px;">
+      <div class="modal-header">
+        <h3>Settings</h3>
+        <button onclick="closeModal('settingsModal')" style="border:none;font-weight:700;">Close</button>
+      </div>
+      <div class="modal-body">
+        <label class="setting-row" for="chkSpacedReview">
+          <span class="setting-text">
+            <strong>Spaced review</strong>
+            <span>Missed questions come back the next day, then again after 3, 7 and 14 days each time you get them right. They show up in a "Due for Review" pool on Create Test. Turn this off to hide the review queue and stop scheduling reviews; your current schedule is kept in case you turn it back on.</span>
+          </span>
+          <input type="checkbox" class="switch" id="chkSpacedReview" checked />
+        </label>
+        <p class="format-hint">Settings are saved in this browser.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn-primary" onclick="closeModal('settingsModal')">Done</button>
+      </div>
+    </div>
+  </div>
+
   <!-- Manage & Targeted Delete Modal -->
   <div class="modal-backdrop" id="clearModal">
     <div class="modal-dialog" style="max-width:540px;">
@@ -1588,6 +2013,17 @@
     </div>
   </div>
 
+  <!-- Lab Values Reference Panel -->
+  <aside class="lab-panel" id="labPanel" aria-label="Lab values">
+    <div class="lab-panel-header">
+      <strong>Lab Values</strong>
+      <button type="button" id="btnCloseLabs">Close</button>
+    </div>
+    <input type="search" id="labSearch" placeholder="Search, e.g. ferritin or PTT" />
+    <p class="lab-note">Typical adult reference ranges for practice. Ranges vary between labs and exams.</p>
+    <div class="lab-panel-body" id="labPanelBody"></div>
+  </aside>
+
   <div class="app-toast" id="appToast">Notification</div>
 
   <script id="default-questions-data" type="text/plain"></script>
@@ -1599,21 +2035,36 @@
       confirmed: "nbme_confirmed_answers",
       flags: "nbme_flagged_questions",
       history: "wps_test_history",
+      review: "wps_review_schedule",
+      times: "wps_answer_times",
+      suspended: "wps_suspended_tests",
       theme: "wps_theme",
+      spacedReview: "wps_spaced_review",
       paletteWidth: "wps_palette_width"
     };
-    const BANK_DATA_KEYS = [STORAGE.bank, STORAGE.answers, STORAGE.confirmed, STORAGE.flags, STORAGE.history];
+    const BANK_DATA_KEYS = [STORAGE.bank, STORAGE.answers, STORAGE.confirmed, STORAGE.flags, STORAGE.history, STORAGE.review, STORAGE.times, STORAGE.suspended];
     const BUNDLED_FILES = ["FOM_Practice_Question_Bank_1.txt", "Week_8_Practice_Questions.txt", "questions.txt"];
     const HISTORY_LIMIT = 50;
     const SECONDS_PER_QUESTION = 90;
-    const STATUS_LABELS = { all: "All Questions", unanswered: "Unused", missed: "Incorrect", flagged: "Marked", correct: "Correct" };
-    const QUESTION_FIELDS = ["folder", "subfolder", "subSubfolder", "subject", "rawNumber", "stem", "choices", "answer", "whyCorrect", "whyWrong", "objective"];
+    const STATUS_LABELS = { all: "All Questions", unanswered: "Unused", due: "Due for Review", missed: "Incorrect", flagged: "Marked", correct: "Correct" };
+    const QUESTION_FIELDS = ["folder", "subfolder", "subSubfolder", "subject", "rawNumber", "stem", "choices", "answer", "whyCorrect", "whyWrong", "objective", "order", "difficulty"];
+    const ORDER_LABELS = { 1: "First-Order", 2: "Second-Order", 3: "Third-Order" };
+    const DIFFICULTIES = ["Easy", "Medium", "Hard"];
+    const REVIEW_INTERVALS = [1, 3, 7, 14];
+    const SLOW_SECONDS = 90;
+    const WEAK_MIN_ANSWERED = 3;
+    const SUSPENDED_LIMIT = 10;
+    const ORDER_FILTER_OPTIONS = [["1", "First-Order"], ["2", "Second-Order"], ["3", "Third-Order"], ["none", "Untagged"]];
+    const DIFFICULTY_FILTER_OPTIONS = [["Easy", "Easy"], ["Medium", "Medium"], ["Hard", "Hard"], ["none", "Untagged"]];
 
     let ALL_QUESTIONS = [];
     let userAnswers = {};
     let confirmedAnswers = {};
     let flaggedQuestions = {};
     let testHistory = [];
+    let reviewSchedule = {};
+    let answerTimes = {};
+    let suspendedTests = [];
 
     let activeView = "create-test";
     let session = null;
@@ -1623,12 +2074,17 @@
     let timerRunning = true;
     let timerInterval = null;
     let activeResultId = null;
+    let desiredBlockSize = 40;
+    let spacedReviewOn = true;
     let savedRange = null;
     let toastTimer = null;
     let selectionTimer = null;
 
     const checkedSubjects = new Set();
     const openTreeKeys = new Set();
+    const openPerfKeys = new Set();
+    const orderFilter = new Set(["1", "2", "3", "none"]);
+    const difficultyFilter = new Set([...DIFFICULTIES, "none"]);
 
     const appMain = document.getElementById("appMain");
     const createTestView = document.getElementById("createTestView");
@@ -1648,6 +2104,17 @@
     const totalAvailablePool = document.getElementById("totalAvailablePool");
     const totalSelectedInTree = document.getElementById("totalSelectedInTree");
     const testHistoryList = document.getElementById("testHistoryList");
+    const orderFilterChips = document.getElementById("orderFilterChips");
+    const difficultyFilterChips = document.getElementById("difficultyFilterChips");
+    const suspendedBox = document.getElementById("suspendedBox");
+    const suspendedList = document.getElementById("suspendedList");
+    const dueBanner = document.getElementById("dueBanner");
+    const dueBannerText = document.getElementById("dueBannerText");
+    const labPanel = document.getElementById("labPanel");
+    const labSearch = document.getElementById("labSearch");
+    const labPanelBody = document.getElementById("labPanelBody");
+    const qTagBadges = document.getElementById("qTagBadges");
+    const resultsTypes = document.getElementById("resultsTypes");
 
     const resultsTitle = document.getElementById("resultsTitle");
     const resultsMeta = document.getElementById("resultsMeta");
@@ -1750,6 +2217,13 @@
       return new Date().toISOString().slice(0, 10);
     }
 
+    function dateKey(offsetDays) {
+      const d = new Date();
+      d.setHours(0, 0, 0, 0);
+      d.setDate(d.getDate() + (offsetDays || 0));
+      return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+    }
+
     function isMobile() {
       return window.matchMedia("(max-width: 768px)").matches;
     }
@@ -1785,10 +2259,16 @@
       writeJSON(STORAGE.answers, userAnswers);
       writeJSON(STORAGE.confirmed, confirmedAnswers);
       writeJSON(STORAGE.flags, flaggedQuestions);
+      writeJSON(STORAGE.review, reviewSchedule);
+      writeJSON(STORAGE.times, answerTimes);
     }
 
     function saveHistory() {
       writeJSON(STORAGE.history, testHistory);
+    }
+
+    function saveSuspended() {
+      writeJSON(STORAGE.suspended, suspendedTests);
     }
 
     function questionMap() {
@@ -1814,14 +2294,37 @@
       return parts.join(" / ");
     }
 
+    function parseOrderValue(value) {
+      const v = String(value).toLowerCase();
+      if (/\b(?:1|1st|first|one)\b/.test(v)) return 1;
+      if (/\b(?:2|2nd|second|two)\b/.test(v)) return 2;
+      if (/\b(?:3|3rd|third|three)\b/.test(v)) return 3;
+      return null;
+    }
+
+    function parseDifficultyValue(value) {
+      const v = String(value).toLowerCase().trim();
+      if (/^(?:easy|e|low)\b/.test(v)) return "Easy";
+      if (/^(?:medium|med|moderate|intermediate|m)\b/.test(v)) return "Medium";
+      if (/^(?:hard|difficult|high|h)\b/.test(v)) return "Hard";
+      return null;
+    }
+
     function parseDocumentText(rawText) {
-      const cleanLine = (l) => l.replace(/[  ᠎ -​  　﻿]/g, " ")
+      // `text` keeps punctuation such as a trailing colon for display; `line` is trimmed further for matching labels.
+      const softClean = (l) => l.replace(/[  ᠎ -​  　﻿]/g, " ")
                                 .replace(/\*\*/g, "")
                                 .replace(/^[#*\-•\s]+/, "")
-                                .replace(/[#*:\-\s]+$/, "")
-                                .trim();
+                                .replace(/[#*\s]+$/, "");
+      const cleanLine = (l) => l.replace(/[:\-\s]+$/, "").trim();
 
-      const lines = rawText.split(/\r?\n/).map(cleanLine).filter(l => l.length > 0);
+      const lines = [];
+      rawText.split(/\r?\n/).forEach(raw => {
+        const text = softClean(raw);
+        const line = cleanLine(text);
+        if (line.length > 0) lines.push({ line, text });
+      });
+
       const parsed = [];
       let skipped = 0;
       let currentFolder = "General";
@@ -1845,10 +2348,19 @@
       const RE_WHY_CORRECT = /^(?:Why this is correct\b|Explanation\s*(?::|$))\s*:?\s*/i;
       const RE_WHY_WRONG = /^Why (?:the )?other answers (?:are )?wrong/i;
       const RE_OBJECTIVE = /^(?:(?:Learning|Educational)\s+)?Objective\s*(?::\s*|$)/i;
+      const RE_ORDER = /^(?:(?:Question|Reasoning)\s+)?Order\s*[:\-–—]\s*(.+)$/i;
+      const RE_DIFFICULTY = /^(?:Difficulty|Level)\s*[:\-–—]\s*(.+)$/i;
+      const RE_TAGS = /^Tags?\s*[:\-–—]\s*(.+)$/i;
+      const LAB_UNIT = /(?:%|\/mm3|\/[µμ]L|\/hpf|\/min|[mµμnp]?g\/(?:dL|L|mL)|m?Eq\/L|[mµμn]?mol\/(?:L|kg)|[mµμ]?I?U\/m?L|[µμ]m3|fL|mm\s?Hg|mOsm(?:ol)?\/kg|sec(?:onds)?\b|mL\/min|°[CF]|kg\/m2|\/24\s?h)/;
 
       // Inside an explanation, only treat a line as a new heading if it looks like one,
       // so the last line of a multi-line explanation isn't mistaken for a folder name.
       const looksLikeHeading = (l) => !/[.!?;,)"'”]$/.test(l) && (/\s[\/>]\s|->/.test(l) || l.length <= 80);
+
+      // Short "Name value unit" lines (e.g. "Hemoglobin 9.1 g/dL") stay on their own line in the stem.
+      const isLabLine = (l) => l.length <= 70 && !/[.!?]$/.test(l) && !/year-old/i.test(l) &&
+        /^(?:pH|[A-Z])[^.!?:]{0,40}?(?::\s*|\s)[<>≤≥]?\s*-?\d/.test(l) &&
+        (/^pH\b/.test(l) || l.includes(":") || LAB_UNIT.test(l));
 
       function applyHeading(text) {
         if (text.includes("/") || text.includes(">") || text.includes("->")) {
@@ -1863,9 +2375,29 @@
         }
       }
 
+      function applyTagText(part) {
+        const value = part.replace(/^\s*(?:(?:question|reasoning)\s+)?(?:order|difficulty|level)\s*[:\-–—]\s*/i, "").trim();
+        if (/order/i.test(part) || /^(?:1|2|3|1st|2nd|3rd|first|second|third)$/i.test(value)) {
+          const order = parseOrderValue(value);
+          if (order) currentQ.order = order;
+        } else {
+          const difficulty = parseDifficultyValue(value);
+          if (difficulty) currentQ.difficulty = difficulty;
+        }
+      }
+
+      function joinStem(parts) {
+        let stem = "";
+        parts.forEach((l, idx) => {
+          if (idx > 0) stem += (isLabLine(l) || isLabLine(parts[idx - 1])) ? "<br>" : " ";
+          stem += l;
+        });
+        return stem;
+      }
+
       function commitCurrentQuestion() {
         if (!currentQ) return;
-        currentQ.stem = currentQ.stemLines.join(" ")
+        currentQ.stem = joinStem(currentQ.stemLines)
           .replace(/^\s*\[NBME Practice Vignette\s*\d+\]\s*:?\s*/i, "").trim()
           .replace(/!\[([^\]]*)\]\((https?:\/\/[^\s\)]+)\)/gi, '<img src="$2" alt="$1">');
         delete currentQ.stemLines;
@@ -1879,7 +2411,7 @@
       }
 
       for (let i = 0; i < lines.length; i++) {
-        const line = lines[i];
+        const { line, text } = lines[i];
 
         if (ignorePatterns.some(p => p.test(line))) continue;
 
@@ -1898,8 +2430,9 @@
         }
 
         const isKeyword = RE_QUESTION.test(line) || RE_CHOICE.test(line) || RE_ANSWER.test(line) ||
-                          RE_WHY_CORRECT.test(line) || RE_WHY_WRONG.test(line) || RE_OBJECTIVE.test(line);
-        const isFollowedByQuestion = (i + 1 < lines.length) && RE_QUESTION.test(lines[i + 1]);
+                          RE_WHY_CORRECT.test(line) || RE_WHY_WRONG.test(line) || RE_OBJECTIVE.test(line) ||
+                          RE_ORDER.test(line) || RE_DIFFICULTY.test(line) || RE_TAGS.test(line);
+        const isFollowedByQuestion = (i + 1 < lines.length) && RE_QUESTION.test(lines[i + 1].line);
         const inExplanation = state === "WHY_CORRECT" || state === "WHY_WRONG" || state === "OBJECTIVE";
 
         if (!isKeyword && isFollowedByQuestion && (!inExplanation || looksLikeHeading(line))) {
@@ -1922,16 +2455,38 @@
             answer: "",
             whyCorrect: "",
             whyWrong: {},
-            objective: ""
+            objective: "",
+            order: null,
+            difficulty: null
           };
           lastWrongLetter = "";
           state = "STEM";
-          const rest = line.replace(/^Question\s+\d+\s*(?:of\s+\d+)?\s*[:.)\-–—]?\s*/i, "");
+          const rest = text.replace(/^Question\s+\d+\s*(?:of\s+\d+)?\s*[:.)\-–—]?\s*/i, "");
           if (rest.length > 25) currentQ.stemLines.push(rest);
           continue;
         }
 
         if (!currentQ) continue;
+
+        const orderMatch = line.match(RE_ORDER);
+        if (orderMatch) {
+          const order = parseOrderValue(orderMatch[1]);
+          if (order) currentQ.order = order;
+          continue;
+        }
+
+        const difficultyMatch = line.match(RE_DIFFICULTY);
+        if (difficultyMatch) {
+          const difficulty = parseDifficultyValue(difficultyMatch[1]);
+          if (difficulty) currentQ.difficulty = difficulty;
+          continue;
+        }
+
+        const tagsMatch = line.match(RE_TAGS);
+        if (tagsMatch) {
+          tagsMatch[1].split(/[,;|]/).forEach(applyTagText);
+          continue;
+        }
 
         const ansMatch = line.match(RE_ANSWER);
         if (ansMatch) {
@@ -1941,7 +2496,7 @@
         }
 
         if (RE_WHY_CORRECT.test(line)) {
-          currentQ.whyCorrect = line.replace(RE_WHY_CORRECT, "").trim();
+          currentQ.whyCorrect = text.replace(RE_WHY_CORRECT, "").trim();
           state = "WHY_CORRECT";
           continue;
         }
@@ -1952,47 +2507,47 @@
         }
 
         if (RE_OBJECTIVE.test(line)) {
-          currentQ.objective = line.replace(RE_OBJECTIVE, "").trim();
+          currentQ.objective = text.replace(RE_OBJECTIVE, "").trim();
           state = "OBJECTIVE";
           continue;
         }
 
         if (state === "STEM" || state === "CHOICES") {
-          const chMatch = line.match(RE_CHOICE);
+          const chMatch = text.match(RE_CHOICE);
           const expected = letterAt(currentQ.choices.length);
           if (chMatch && chMatch[1] === expected) {
             currentQ.choices.push({ letter: expected, text: chMatch[2].trim() });
             state = "CHOICES";
           } else if (state === "STEM") {
-            currentQ.stemLines.push(line);
+            currentQ.stemLines.push(text);
           } else {
-            currentQ.choices[currentQ.choices.length - 1].text += " " + line;
+            currentQ.choices[currentQ.choices.length - 1].text += " " + text;
           }
           continue;
         }
 
         if (state === "WHY_CORRECT") {
-          currentQ.whyCorrect = `${currentQ.whyCorrect} ${line}`.trim();
+          currentQ.whyCorrect = `${currentQ.whyCorrect} ${text}`.trim();
           continue;
         }
 
         if (state === "OBJECTIVE") {
-          currentQ.objective = `${currentQ.objective} ${line}`.trim();
+          currentQ.objective = `${currentQ.objective} ${text}`.trim();
           continue;
         }
 
         if (state === "WHY_WRONG") {
-          const wrongMatch = line.match(/^\(?([A-Z])[.):]\s+(.*)$/);
+          const wrongMatch = text.match(/^\(?([A-Z])[.):]\s+(.*)$/);
           if (wrongMatch && currentQ.choices.some(c => c.letter === wrongMatch[1])) {
-            let text = wrongMatch[2].trim();
-            const firstColon = text.indexOf(":");
+            let wrongText = wrongMatch[2].trim();
+            const firstColon = wrongText.indexOf(":");
             if (firstColon !== -1 && firstColon < 35) {
-              text = text.substring(firstColon + 1).trim();
+              wrongText = wrongText.substring(firstColon + 1).trim();
             }
-            currentQ.whyWrong[wrongMatch[1]] = text;
+            currentQ.whyWrong[wrongMatch[1]] = wrongText;
             lastWrongLetter = wrongMatch[1];
           } else if (lastWrongLetter) {
-            currentQ.whyWrong[lastWrongLetter] += " " + line;
+            currentQ.whyWrong[lastWrongLetter] += " " + text;
           }
           continue;
         }
@@ -2019,6 +2574,9 @@
       if (!q.subSubfolder) q.subSubfolder = "";
       if (!Array.isArray(q.choices)) q.choices = [];
       q.whyWrong = asObject(q.whyWrong);
+      const order = Number(q.order);
+      q.order = order === 1 || order === 2 || order === 3 ? order : null;
+      q.difficulty = DIFFICULTIES.includes(q.difficulty) ? q.difficulty : null;
       delete q.stemLines;
       q.subject = subjectPath(q);
 
@@ -2139,7 +2697,9 @@
     }
 
     function stemToPlainText(stem) {
-      return String(stem || "").replace(/<img\s+src="([^"]*)"\s+alt="([^"]*)"\s*\/?>/gi, "![$2]($1)");
+      return String(stem || "")
+        .replace(/<br\s*\/?>/gi, "\n")
+        .replace(/<img\s+src="([^"]*)"\s+alt="([^"]*)"\s*\/?>/gi, "![$2]($1)");
     }
 
     function buildTextExport(list) {
@@ -2159,6 +2719,8 @@
         q.choices.forEach(c => { content += `${c.letter}. ${c.text}\n`; });
         const key = q.choices.find(c => c.letter === q.answer);
         content += `Answer: ${q.answer}${key ? `. ${key.text}` : ""}\n`;
+        if (q.order) content += `Order: ${["", "First", "Second", "Third"][q.order]}\n`;
+        if (q.difficulty) content += `Difficulty: ${q.difficulty}\n`;
         if (q.whyCorrect) content += `Why this is correct: ${q.whyCorrect}\n`;
         const wrong = q.choices.filter(c => q.whyWrong && q.whyWrong[c.letter]);
         if (wrong.length) {
@@ -2187,13 +2749,16 @@
     function downloadBackup() {
       const data = {
         app: "WPS-Archive",
-        version: 2,
+        version: 3,
         exportedAt: new Date().toISOString(),
         questions: ALL_QUESTIONS,
         userAnswers,
         confirmedAnswers,
         flaggedQuestions,
-        testHistory
+        testHistory,
+        reviewSchedule,
+        answerTimes,
+        suspendedTests
       };
       downloadFile(`WPS-Archive-backup-${todayStamp()}.json`, JSON.stringify(data), "application/json");
       showToast(`Backup downloaded (${ALL_QUESTIONS.length} questions).`);
@@ -2223,9 +2788,14 @@
         confirmedAnswers = asObject(data.confirmedAnswers);
         flaggedQuestions = asObject(data.flaggedQuestions);
         testHistory = Array.isArray(data.testHistory) ? data.testHistory : [];
+        reviewSchedule = asObject(data.reviewSchedule);
+        answerTimes = asObject(data.answerTimes);
+        suspendedTests = Array.isArray(data.suspendedTests) ? data.suspendedTests : [];
+        if (!data.reviewSchedule) seedReviewSchedule();
         saveBank();
         saveProgress();
         saveHistory();
+        saveSuspended();
         closeModal("exportModal");
         renderUWSurface();
         showToast(`Restored ${ALL_QUESTIONS.length} questions and your progress.`);
@@ -2305,6 +2875,8 @@
         delete userAnswers[id];
         delete confirmedAnswers[id];
         delete flaggedQuestions[id];
+        delete reviewSchedule[id];
+        delete answerTimes[id];
       });
       saveBank();
       saveProgress();
@@ -2324,8 +2896,12 @@
       confirmedAnswers = {};
       flaggedQuestions = {};
       testHistory = [];
+      reviewSchedule = {};
+      answerTimes = {};
+      suspendedTests = [];
       checkedSubjects.clear();
       openTreeKeys.clear();
+      openPerfKeys.clear();
       closeModal("clearModal");
       renderUWSurface();
       showToast("Bank wiped successfully.");
@@ -2338,14 +2914,22 @@
       let incorrectCount = 0;
       let correctCount = 0;
       let markedCount = 0;
+      let dueCount = 0;
+      let timedCount = 0;
+      let timeTotal = 0;
 
       ALL_QUESTIONS.forEach(q => {
         if (confirmedAnswers[q.id]) {
           usedCount++;
           if (userAnswers[q.id] === q.answer) correctCount++;
           else incorrectCount++;
+          if (answerTimes[q.id]) {
+            timedCount++;
+            timeTotal += answerTimes[q.id];
+          }
         }
         if (flaggedQuestions[q.id]) markedCount++;
+        if (isDue(q.id)) dueCount++;
       });
 
       let unusedCount = totalQ - usedCount;
@@ -2355,14 +2939,22 @@
       countStatusIncorrect.textContent = incorrectCount;
       countStatusMarked.textContent = markedCount;
       countStatusCorrect.textContent = correctCount;
+      document.getElementById("countStatusDue").textContent = dueCount;
 
       document.getElementById("repCompleted").textContent = `${usedCount} / ${totalQ}`;
       document.getElementById("repAccuracy").textContent = usedCount > 0 ? `${Math.round((correctCount / usedCount) * 100)}%` : "0%";
       document.getElementById("repIncorrect").textContent = incorrectCount;
       document.getElementById("repMarked").textContent = markedCount;
+      document.getElementById("repDue").textContent = dueCount;
+      document.getElementById("repAvgTime").textContent = timedCount ? formatTime(timeTotal / timedCount) : "—";
 
+      renderSuspendedTests();
+      renderDueBanner(dueCount);
+      renderTagFilters();
       renderMultiTableSubjects();
+      renderWeakestAreas();
       renderPerformanceBreakdown();
+      renderTypeBreakdown();
       renderHistoryList();
       updateAvailableCount();
     }
@@ -2532,15 +3124,88 @@
     function matchesStatus(q, status) {
       const done = !!confirmedAnswers[q.id];
       if (status === "unanswered") return !done;
+      if (status === "due") return isDue(q.id);
       if (status === "missed") return done && userAnswers[q.id] !== q.answer;
       if (status === "flagged") return !!flaggedQuestions[q.id];
       if (status === "correct") return done && userAnswers[q.id] === q.answer;
       return true;
     }
 
+    function passesTagFilter(q) {
+      return orderFilter.has(q.order ? String(q.order) : "none") && difficultyFilter.has(q.difficulty || "none");
+    }
+
+    function tagOptionMatches(group, value, q) {
+      if (group === "order") return value === "none" ? !q.order : String(q.order) === value;
+      return value === "none" ? !q.difficulty : q.difficulty === value;
+    }
+
+    function renderTagFilters() {
+      const chips = (group, options, set) => options.map(([value, label]) => `
+        <label class="tag-chip${set.has(value) ? " active" : ""}">
+          <input type="checkbox" data-tag-group="${group}" value="${value}"${set.has(value) ? " checked" : ""} />
+          <span class="tag-chip-name">${label}</span>
+          <span class="status-count">${ALL_QUESTIONS.filter(q => tagOptionMatches(group, value, q)).length}</span>
+        </label>`).join("");
+      orderFilterChips.innerHTML = chips("order", ORDER_FILTER_OPTIONS, orderFilter);
+      difficultyFilterChips.innerHTML = chips("difficulty", DIFFICULTY_FILTER_OPTIONS, difficultyFilter);
+    }
+
+    function tagFilterSummary(set, options) {
+      const chosen = options.filter(([value]) => set.has(value));
+      if (chosen.length === options.length) return "All";
+      if (!chosen.length) return "None";
+      if (chosen.length === options.length - 1) return `All except ${options.find(([value]) => !set.has(value))[1]}`;
+      return chosen.map(([, label]) => label).join(", ");
+    }
+
+    // Collapsed sections still show their current setting, so a filter you changed is never hidden.
+    function renderFilterSummaries() {
+      const status = currentPoolStatus();
+      const statusCount = ALL_QUESTIONS.filter(q => matchesStatus(q, status)).length;
+      setSectionSummary("status", `${STATUS_LABELS[status]} · ${statusCount}`, status !== "all");
+      setSectionSummary("order", tagFilterSummary(orderFilter, ORDER_FILTER_OPTIONS), orderFilter.size < ORDER_FILTER_OPTIONS.length);
+      setSectionSummary("difficulty", tagFilterSummary(difficultyFilter, DIFFICULTY_FILTER_OPTIONS), difficultyFilter.size < DIFFICULTY_FILTER_OPTIONS.length);
+    }
+
+    function setSectionSummary(name, text, adjusted) {
+      const section = createTestView.querySelector(`[data-section="${name}"]`);
+      const summary = section.querySelector(".section-summary");
+      summary.textContent = text;
+      summary.classList.toggle("adjusted", adjusted);
+      section.querySelector(".section-reset").hidden = !adjusted;
+    }
+
+    function resetFilter(name) {
+      if (name === "status") {
+        createTestView.querySelector('.status-tile[data-status="all"]').click();
+        return;
+      }
+      const [set, options] = name === "order" ? [orderFilter, ORDER_FILTER_OPTIONS] : [difficultyFilter, DIFFICULTY_FILTER_OPTIONS];
+      options.forEach(([value]) => set.add(value));
+      renderTagFilters();
+      updateAvailableCount();
+    }
+
+    function toggleFilterSection(section) {
+      const collapsed = section.classList.toggle("collapsed");
+      section.querySelector(".section-toggle").setAttribute("aria-expanded", String(!collapsed));
+      section.querySelector(".folder-toggle-icon").classList.toggle("expanded", !collapsed);
+    }
+
+    function handleTagFilterChange(e) {
+      const cb = e.target.closest("input[data-tag-group]");
+      if (!cb) return;
+      const set = cb.dataset.tagGroup === "order" ? orderFilter : difficultyFilter;
+      if (cb.checked) set.add(cb.value);
+      else set.delete(cb.value);
+      cb.closest(".tag-chip").classList.toggle("active", cb.checked);
+      updateAvailableCount();
+    }
+
     function updateAvailableCount() {
       const poolStatus = currentPoolStatus();
-      const eligible = ALL_QUESTIONS.filter(q => matchesStatus(q, poolStatus));
+      const eligible = ALL_QUESTIONS.filter(q => matchesStatus(q, poolStatus) && passesTagFilter(q));
       const perSubject = new Map();
       let selectedTotal = 0;
       eligible.forEach(q => {
@@ -2572,46 +3237,106 @@
         if (folderCountSpan) folderCountSpan.textContent = tableTotalSelected;
       });
 
+      // Show the count you asked for, capped at what's available, so it grows back when filters widen again.
       inputBlockSize.max = Math.max(1, selectedTotal);
-      if (selectedTotal > 0 && parseInt(inputBlockSize.value, 10) > selectedTotal) {
-        inputBlockSize.value = Math.min(40, selectedTotal);
-      }
+      if (selectedTotal > 0) inputBlockSize.value = Math.min(desiredBlockSize, selectedTotal);
+      renderFilterSummaries();
+    }
+
+    function perfStats(questions) {
+      let done = 0;
+      let correct = 0;
+      let timed = 0;
+      let timeTotal = 0;
+      questions.forEach(q => {
+        if (confirmedAnswers[q.id]) {
+          done++;
+          if (userAnswers[q.id] === q.answer) correct++;
+          if (answerTimes[q.id]) {
+            timed++;
+            timeTotal += answerTimes[q.id];
+          }
+        }
+      });
+      return { total: questions.length, done, correct, incorrect: done - correct, avgTime: timed ? timeTotal / timed : null };
+    }
+
+    function perfNode(label, questions, level, key, childrenHtml) {
+      const s = perfStats(questions);
+      const pct = s.done > 0 ? Math.round((s.correct / s.done) * 100) : null;
+      const hasChildren = !!childrenHtml;
+      const open = hasChildren && openPerfKeys.has(key);
+      const toggle = hasChildren
+        ? `<span class="folder-toggle-icon${open ? " expanded" : ""}">&#9656;</span>`
+        : `<span class="tree-spacer"></span>`;
+      const time = s.avgTime === null ? ""
+        : `<span class="n-time${s.avgTime > SLOW_SECONDS ? " slow" : ""}" title="Average time per question">${formatTime(s.avgTime)} avg</span>`;
+
+      return `
+        <div class="perf-node level-${level}">
+          <div class="perf-row"${hasChildren ? ` data-perf-toggle="${esc(key)}"` : ""}>
+            <div class="perf-row-top">
+              <span class="perf-name">${toggle}<span>${esc(label)}</span><small>(${s.done}/${s.total} completed)</small></span>
+              <span class="perf-detail">
+                <span class="n-correct">${s.correct} correct</span>
+                <span class="n-wrong">${s.incorrect} incorrect</span>
+                ${time}
+                <span class="perf-pill">Accuracy: ${pct === null ? "—" : `${pct}%`}</span>
+              </span>
+            </div>
+            <div class="perf-bar"><div style="width:${pct || 0}%;"></div></div>
+          </div>
+          ${hasChildren ? `<div class="perf-children${open ? "" : " collapsed"}">${childrenHtml}</div>` : ""}
+        </div>`;
     }
 
     function renderPerformanceBreakdown() {
       const container = document.getElementById("performanceFolderList");
-      container.innerHTML = "";
       const folders = [...new Set(ALL_QUESTIONS.map(q => q.folder || "General"))];
       if (!folders.length) {
         container.innerHTML = `<div class="empty-note">Import questions to see performance by folder.</div>`;
         return;
       }
 
-      folders.forEach(fName => {
+      container.innerHTML = folders.map(fName => {
         const folderQs = ALL_QUESTIONS.filter(q => (q.folder || "General") === fName);
-        let done = 0;
-        let correct = 0;
-        folderQs.forEach(q => {
-          if (confirmedAnswers[q.id]) {
-            done++;
-            if (userAnswers[q.id] === q.answer) correct++;
-          }
-        });
+        const subfolders = [...new Set(folderQs.map(q => q.subfolder || "General"))];
+        const hasSubLevels = subfolders.some(s => s !== "General") || folderQs.some(q => q.subSubfolder);
 
-        const pct = done > 0 ? Math.round((correct / done) * 100) : 0;
-        const card = document.createElement("div");
-        card.className = "perf-folder-card";
-        card.innerHTML = `
-          <div style="display:flex; justify-content:space-between; align-items:center; gap:10px; font-size:0.85rem; font-weight:700;">
-            <span>${esc(fName)} <small style="color:var(--text-muted); font-weight:600;">(${done}/${folderQs.length} completed)</small></span>
-            <span style="background:var(--border-sub); padding:2px 8px; border-radius:12px; font-size:0.75rem; white-space:nowrap;">Accuracy: ${pct}%</span>
-          </div>
-          <div style="width:100%;height:6px;background:var(--border-sub);border-radius:4px;overflow:hidden;margin-top:2px;">
-            <div style="width:${pct}%;height:100%;background:var(--uw-primary);transition:width 0.3s ease;"></div>
-          </div>
-        `;
-        container.appendChild(card);
-      });
+        const subNodes = !hasSubLevels ? "" : subfolders.map(sName => {
+          const subQs = folderQs.filter(q => (q.subfolder || "General") === sName);
+          const subSubfolders = [...new Set(subQs.map(q => q.subSubfolder).filter(Boolean))];
+          let subSubNodes = "";
+          if (subSubfolders.length) {
+            const directQs = subQs.filter(q => !q.subSubfolder);
+            if (directQs.length) subSubNodes += perfNode("General / Overview", directQs, 3, "", "");
+            subSubfolders.forEach(ssName => {
+              subSubNodes += perfNode(ssName, subQs.filter(q => q.subSubfolder === ssName), 3, "", "");
+            });
+          }
+          return perfNode(sName === "General" ? "General / Overview" : sName, subQs, 2, `sub:${fName}/${sName}`, subSubNodes);
+        }).join("");
+
+        return perfNode(fName, folderQs, 1, `folder:${fName}`, subNodes);
+      }).join("");
+    }
+
+    function handlePerfToggle(e) {
+      const row = e.target.closest("[data-perf-toggle]");
+      if (!row) return;
+      const isOpen = !row.nextElementSibling.classList.toggle("collapsed");
+      row.querySelector(".folder-toggle-icon").classList.toggle("expanded", isOpen);
+      if (isOpen) openPerfKeys.add(row.dataset.perfToggle);
+      else openPerfKeys.delete(row.dataset.perfToggle);
+    }
+
+    function setAllPerfSections(open) {
+      if (open) {
+        document.querySelectorAll("#performanceFolderList [data-perf-toggle]").forEach(row => openPerfKeys.add(row.dataset.perfToggle));
+      } else {
+        openPerfKeys.clear();
+      }
+      renderPerformanceBreakdown();
     }
 
     function blockRows(record, qMap) {
@@ -2625,7 +3350,8 @@
           item,
           status,
           yours: item.answer ? displayLetter(q, item.answer, item.order) : "—",
-          key: displayLetter(q, q.answer, item.order)
+          key: displayLetter(q, q.answer, item.order),
+          time: item.time || 0
         };
       }).filter(Boolean);
     }
@@ -2659,7 +3385,7 @@
       }
 
       const poolStatus = currentPoolStatus();
-      let pool = ALL_QUESTIONS.filter(q => checkedSubjects.has(q.subject) && matchesStatus(q, poolStatus));
+      let pool = ALL_QUESTIONS.filter(q => checkedSubjects.has(q.subject) && matchesStatus(q, poolStatus) && passesTagFilter(q));
       if (!pool.length) {
         showToast("No questions available for this criteria.");
         return;
@@ -2716,7 +3442,8 @@
         staged: {},
         prior: {},
         struck: {},
-        highlights: {}
+        highlights: {},
+        time: {}
       };
       if (document.getElementById("chkRandomizeChoices").checked) {
         questions.forEach(q => { session.order[q.id] = shuffle(q.choices.map(c => c.letter)); });
@@ -2750,6 +3477,7 @@
       activeView = viewName;
       document.body.classList.toggle("in-exam", viewName === "exam");
       document.body.classList.remove("nav-open");
+      if (viewName !== "exam") setLabPanel(false);
 
       quizWorkspace.style.display = viewName === "exam" ? "flex" : "none";
       createTestView.style.display = viewName === "create-test" ? "flex" : "none";
@@ -2782,6 +3510,7 @@
       btnToggleTimer.textContent = timerRunning ? "Pause" : "Resume";
       btnFinishBlock.textContent = review ? "Back to Results" : "End Block";
       btnResetCurrentQ.style.display = review ? "none" : "";
+      btnExamExit.textContent = review ? "← Exit Review" : "← Save & Exit";
       sidebarPane.classList.remove("mobile-open");
 
       const missedBtn = document.querySelector('[data-navfilter="missed"]');
@@ -2822,6 +3551,7 @@
 
       qDisplayIndex.textContent = `Question ${currentIndex + 1} of ${currentQuestions.length}`;
       vignetteText.innerHTML = session.highlights[q.id] || q.stem;
+      qTagBadges.innerHTML = reveal ? tagBadgesHtml(q) : "";
 
       const isFlagged = !!flaggedQuestions[q.id];
       btnFlag.classList.toggle("active", isFlagged);
@@ -2852,9 +3582,10 @@
 
       if (review) {
         btnConfirmAnswer.style.display = "none";
-        confirmHint.textContent = chosen
+        const spent = session.time[q.id] ? ` Time on question: ${formatTime(session.time[q.id])}.` : "";
+        confirmHint.textContent = (chosen
           ? `You answered ${displayLetter(q, chosen, order)}: ${chosen === q.answer ? "correct" : "incorrect"}.`
-          : "You didn't answer this question.";
+          : "You didn't answer this question.") + spent;
       } else if (!tutor) {
         btnConfirmAnswer.style.display = "none";
         confirmHint.textContent = chosen
@@ -2865,7 +3596,7 @@
         if (chosen) {
           btnConfirmAnswer.disabled = true;
           btnConfirmAnswer.textContent = "Locked";
-          confirmHint.textContent = "Answer evaluated. See rationales below.";
+          confirmHint.textContent = `Answer evaluated. See rationales below.${reviewNote(q.id)}`;
         } else {
           btnConfirmAnswer.disabled = !staged;
           btnConfirmAnswer.textContent = "Confirm Answer";
@@ -2892,16 +3623,29 @@
       btnPrev.disabled = currentIndex === 0;
       btnNext.disabled = currentIndex === currentQuestions.length - 1;
       navCounter.textContent = `${currentIndex + 1} / ${currentQuestions.length}`;
+      persistActiveSession();
     }
 
     // Answers count toward your stats as soon as they're submitted. The previous result is kept
     // so "Reset Question" can put the question back exactly how it was before this test.
     function recordAnswer(qId, letter) {
       if (!(qId in session.prior)) {
-        session.prior[qId] = { answer: userAnswers[qId], confirmed: !!confirmedAnswers[qId] };
+        session.prior[qId] = {
+          answer: userAnswers[qId],
+          confirmed: !!confirmedAnswers[qId],
+          review: reviewSchedule[qId] || null,
+          time: answerTimes[qId] || null
+        };
       }
+      const q = currentQuestions.find(x => x.id === qId);
       userAnswers[qId] = letter;
       confirmedAnswers[qId] = true;
+      if (spacedReviewOn) {
+        const next = nextReviewState(session.prior[qId].review, !!q && letter === q.answer);
+        if (next) reviewSchedule[qId] = next;
+        else delete reviewSchedule[qId];
+      }
+      if (session.time[qId]) answerTimes[qId] = session.time[qId];
       saveProgress();
     }
 
@@ -2915,8 +3659,23 @@
         delete userAnswers[qId];
         delete confirmedAnswers[qId];
       }
+      if (prior.review) reviewSchedule[qId] = prior.review;
+      else delete reviewSchedule[qId];
+      if (prior.time) answerTimes[qId] = prior.time;
+      else delete answerTimes[qId];
       delete session.prior[qId];
       saveProgress();
+    }
+
+    function reviewNote(qId) {
+      if (!spacedReviewOn) return "";
+      const entry = reviewSchedule[qId];
+      if (entry) {
+        const days = REVIEW_INTERVALS[entry.step];
+        return ` It will come back for review in ${days} day${days === 1 ? "" : "s"}.`;
+      }
+      const prior = session.prior[qId];
+      return prior && prior.review ? " Cleared from your review queue." : "";
     }
 
     function selectChoice(q, letter) {
@@ -3084,6 +3843,7 @@
       });
       vignetteText.normalize();
       session.highlights[q.id] = vignetteText.innerHTML;
+      persistActiveSession();
 
       const selection = window.getSelection();
       if (selection) selection.removeAllRanges();
@@ -3095,11 +3855,18 @@
       timerInterval = setInterval(() => {
         if (!session || session.review || !timerRunning || activeView !== "exam") return;
         session.elapsed++;
+        // Tutor mode stops a question's clock once it's answered, so reading the explanation isn't counted.
+        const current = currentQuestions[currentIndex];
+        if (current && (session.mode === "timed" || !session.answers[current.id])) {
+          session.time[current.id] = (session.time[current.id] || 0) + 1;
+        }
         updateTimerText();
         if (session.mode === "timed" && session.elapsed >= session.limit) {
           showToast("Time has expired! Here are your results.");
           endBlock(true);
+          return;
         }
+        if (session.elapsed % 10 === 0) persistActiveSession();
       }, 1000);
     }
 
@@ -3111,7 +3878,7 @@
         startedAt: s.startedAt,
         endedAt: s.endedAt || Date.now(),
         elapsed: s.elapsed,
-        items: s.ids.map(id => ({ id, order: s.order[id] || null, answer: s.answers[id] || null }))
+        items: s.ids.map(id => ({ id, order: s.order[id] || null, answer: s.answers[id] || null, time: (s.time && s.time[id]) || 0 }))
       };
       testHistory = [record].concat(testHistory.filter(h => h.id !== record.id)).slice(0, HISTORY_LIMIT);
       saveHistory();
@@ -3125,16 +3892,18 @@
 
       session.endedAt = Date.now();
       saveBlockToHistory(session);
+      dropSuspended(session.id);
       const id = session.id;
       session = null;
       showResults(id);
     }
 
     function leaveExam() {
-      if (session && !session.review && Object.keys(session.answers).length) {
-        if (!confirm("Leave this test? Your answers are kept, and the test is saved under Performance → Previous Tests.")) return;
-        session.endedAt = Date.now();
-        saveBlockToHistory(session);
+      if (session && !session.review) {
+        persistActiveSession();
+        if (Object.keys(session.answers).length || Object.keys(session.staged).length) {
+          showToast("Test saved. Resume it anytime from Create Test.");
+        }
       }
       session = null;
       showView("create-test");
@@ -3155,9 +3924,10 @@
       if (!record) {
         resultsTitle.textContent = "Test Results";
         resultsMeta.textContent = "";
-        ["resScore", "resCorrect", "resIncorrect", "resOmitted"].forEach(id => setTile(id, "–"));
+        ["resScore", "resCorrect", "resIncorrect", "resOmitted", "resAvgTime"].forEach(id => setTile(id, "–"));
         btnReviewAll.disabled = true;
         btnReviewIncorrect.disabled = true;
+        resultsTypes.hidden = true;
         resultsList.innerHTML = `<div class="empty-note">This test is no longer available.</div>`;
         return;
       }
@@ -3166,6 +3936,7 @@
       const correct = rows.filter(r => r.status === "correct").length;
       const incorrect = rows.filter(r => r.status === "incorrect").length;
       const omitted = rows.length - correct - incorrect;
+      const timedRows = rows.filter(r => r.time > 0 && r.status !== "omitted");
 
       resultsTitle.textContent = record.title;
       resultsMeta.textContent = `${record.mode === "timed" ? "Timed" : "Tutor"} · ${formatTime(record.elapsed || 0)} used · ${formatDate(record.endedAt || record.startedAt)}`;
@@ -3173,16 +3944,22 @@
       setTile("resCorrect", `${correct} / ${rows.length}`);
       setTile("resIncorrect", incorrect);
       setTile("resOmitted", omitted);
+      setTile("resAvgTime", timedRows.length ? formatTime(timedRows.reduce((sum, r) => sum + r.time, 0) / timedRows.length) : "—");
       btnReviewAll.disabled = !rows.length;
       btnReviewIncorrect.disabled = !incorrect;
+
+      const types = typeSummaryHtml(rows);
+      resultsTypes.innerHTML = types ? `<span class="type-stat-label">By question type:</span>${types}` : "";
+      resultsTypes.hidden = !types;
 
       const labels = { correct: "Correct", incorrect: "Incorrect", omitted: "Unanswered" };
       resultsList.innerHTML = rows.length ? rows.map((r, i) => `
         <button type="button" class="result-row" data-qid="${esc(r.q.id)}">
           <span class="result-num">${i + 1}</span>
           <span class="result-pill ${r.status}">${labels[r.status]}</span>
-          <span class="result-subject">${flaggedQuestions[r.q.id] ? '<span class="result-flag" title="Marked">&#9873;</span>' : ""}${esc(r.q.subject)}</span>
+          <span class="result-subject">${flaggedQuestions[r.q.id] ? '<span class="result-flag" title="Marked">&#9873;</span>' : ""}${esc(r.q.subject)}${tagSuffixHtml(r.q)}</span>
           <span class="result-answers">You: ${r.yours} · Answer: ${r.key}</span>
+          <span class="result-time${r.time > SLOW_SECONDS ? " slow" : ""}" title="Time on question">${r.time ? formatTime(r.time) : "—"}</span>
         </button>`).join("")
         : `<div class="empty-note">None of this test's questions are still in your bank.</div>`;
     }
@@ -3210,17 +3987,377 @@
         staged: {},
         prior: {},
         struck: {},
-        highlights: {}
+        highlights: {},
+        time: {}
       };
       rows.forEach(r => {
         if (r.item.order) session.order[r.q.id] = r.item.order;
         if (r.item.answer) session.answers[r.q.id] = r.item.answer;
+        if (r.item.time) session.time[r.q.id] = r.item.time;
       });
 
       currentQuestions = rows.map(r => r.q);
       currentIndex = Math.max(0, currentQuestions.findIndex(q => q.id === startId));
       navFilter = "all";
       showView("exam");
+    }
+
+    function tagBadgesHtml(q) {
+      let html = "";
+      if (q.order) html += `<span class="tag-badge">${ORDER_LABELS[q.order]}</span>`;
+      if (q.difficulty) html += `<span class="tag-badge diff-${q.difficulty.toLowerCase()}">${q.difficulty}</span>`;
+      return html;
+    }
+
+    function tagSuffixHtml(q) {
+      const tags = [q.order ? ORDER_LABELS[q.order] : "", q.difficulty || ""].filter(Boolean).join(" · ");
+      return tags ? ` <span class="result-tags">· ${tags}</span>` : "";
+    }
+
+    function typeSummaryHtml(rows) {
+      const stat = (label, subset) => {
+        if (!subset.length) return "";
+        const correct = subset.filter(r => r.status === "correct").length;
+        return `<span class="type-stat"><strong>${label}</strong>${correct}/${subset.length}</span>`;
+      };
+      return [1, 2, 3].map(o => stat(ORDER_LABELS[o], rows.filter(r => r.q.order === o))).join("") +
+        DIFFICULTIES.map(d => stat(d, rows.filter(r => r.q.difficulty === d))).join("");
+    }
+
+    function renderTypeBreakdown() {
+      const container = document.getElementById("typeBreakdownList");
+      if (!ALL_QUESTIONS.some(q => q.order || q.difficulty)) {
+        container.innerHTML = `<div class="empty-note">Add <strong>Order:</strong> and <strong>Difficulty:</strong> lines to your questions (see Import Text) to see how you do on each type.</div>`;
+        return;
+      }
+      const group = (title, rows) => `<div class="type-group"><div class="type-group-title">${title}</div>${rows}</div>`;
+      const nodes = (entries) => entries.filter(e => e.qs.length).map(e => perfNode(e.label, e.qs, 1, "", "")).join("");
+      const orderEntries = [1, 2, 3].map(o => ({ label: ORDER_LABELS[o], qs: ALL_QUESTIONS.filter(q => q.order === o) }))
+        .concat([{ label: "Untagged", qs: ALL_QUESTIONS.filter(q => !q.order) }]);
+      const difficultyEntries = DIFFICULTIES.map(d => ({ label: d, qs: ALL_QUESTIONS.filter(q => q.difficulty === d) }))
+        .concat([{ label: "Untagged", qs: ALL_QUESTIONS.filter(q => !q.difficulty) }]);
+      container.innerHTML = group("Reasoning Order", nodes(orderEntries)) + group("Difficulty", nodes(difficultyEntries));
+    }
+
+    function renderWeakestAreas() {
+      const container = document.getElementById("weakestAreasList");
+      const bySubject = new Map();
+      ALL_QUESTIONS.forEach(q => {
+        if (!bySubject.has(q.subject)) bySubject.set(q.subject, []);
+        bySubject.get(q.subject).push(q);
+      });
+      const qualified = [...bySubject.entries()]
+        .map(([subject, qs]) => ({ subject, stats: perfStats(qs) }))
+        .filter(c => c.stats.done >= WEAK_MIN_ANSWERED)
+        .map(c => ({ ...c, pct: Math.round((c.stats.correct / c.stats.done) * 100) }));
+      const weakest = qualified
+        .filter(c => c.pct < 100)
+        .sort((a, b) => a.pct - b.pct || b.stats.done - a.stats.done)
+        .slice(0, 5);
+
+      if (!weakest.length) {
+        container.innerHTML = qualified.length
+          ? `<div class="empty-note">No weak spots right now: every section with ${WEAK_MIN_ANSWERED}+ answers is at 100%.</div>`
+          : `<div class="empty-note">Answer at least ${WEAK_MIN_ANSWERED} questions in a section to see your weakest areas here.</div>`;
+        return;
+      }
+      container.innerHTML = weakest.map(c => `
+        <div class="weak-row">
+          <div class="weak-main">
+            <strong>${esc(c.subject)}</strong>
+            <span>${c.stats.correct}/${c.stats.done} correct · ${c.stats.total} questions${c.stats.avgTime === null ? "" : ` · ${formatTime(c.stats.avgTime)} avg`}</span>
+          </div>
+          <span class="history-score">${c.pct}%</span>
+          <button type="button" class="btn-quick-play" data-practice="path" data-path="${esc(c.subject)}">Practice</button>
+        </div>`).join("");
+    }
+
+    function setSpacedReview(on) {
+      spacedReviewOn = on;
+      writeJSON(STORAGE.spacedReview, on);
+      document.body.classList.toggle("no-spaced-review", !on);
+      if (on) {
+        // Anything missed while it was off joins the queue as due today.
+        seedReviewSchedule();
+        saveProgress();
+      } else if (currentPoolStatus() === "due") {
+        createTestView.querySelector('.status-tile[data-status="all"]').click();
+      }
+      renderUWSurface();
+      showToast(on ? "Spaced review is on." : "Spaced review is off. Missed questions won't be scheduled for review.");
+    }
+
+    function isDue(qId) {
+      if (!spacedReviewOn) return false;
+      const entry = reviewSchedule[qId];
+      return !!entry && entry.due <= dateKey(0);
+    }
+
+    // A miss comes back tomorrow. Each correct answer after that pushes it out to 3, 7, then 14 days,
+    // and one more correct answer takes it out of the queue.
+    function nextReviewState(base, correct) {
+      if (!correct) return { step: 0, due: dateKey(REVIEW_INTERVALS[0]) };
+      if (!base) return null;
+      const step = base.step + 1;
+      return step < REVIEW_INTERVALS.length ? { step, due: dateKey(REVIEW_INTERVALS[step]) } : null;
+    }
+
+    function seedReviewSchedule() {
+      ALL_QUESTIONS.forEach(q => {
+        if (confirmedAnswers[q.id] && userAnswers[q.id] !== q.answer && !reviewSchedule[q.id]) {
+          reviewSchedule[q.id] = { step: 0, due: dateKey(0) };
+        }
+      });
+    }
+
+    function renderDueBanner(dueCount) {
+      dueBanner.hidden = dueCount === 0;
+      dueBannerText.textContent = `${dueCount} question${dueCount === 1 ? " is" : "s are"} due for review today.`;
+    }
+
+    function startDueReview() {
+      let pool = ALL_QUESTIONS.filter(q => isDue(q.id));
+      if (!pool.length) {
+        showToast("Nothing is due for review today.");
+        return;
+      }
+      if (document.getElementById("chkRandomizeQ").checked) pool = shuffle(pool);
+      startBlock(pool, "Spaced Review · Due Today");
+    }
+
+    function serializeSession(s) {
+      const struck = {};
+      Object.keys(s.struck).forEach(id => { struck[id] = [...s.struck[id]]; });
+      return {
+        id: s.id,
+        title: s.title,
+        mode: s.mode,
+        startedAt: s.startedAt,
+        savedAt: Date.now(),
+        elapsed: s.elapsed,
+        limit: s.limit,
+        ids: s.ids,
+        order: s.order,
+        answers: s.answers,
+        staged: s.staged,
+        prior: s.prior,
+        time: s.time,
+        struck,
+        highlights: s.highlights,
+        index: currentIndex
+      };
+    }
+
+    function deserializeSession(saved) {
+      const struck = {};
+      Object.keys(saved.struck || {}).forEach(id => { struck[id] = new Set(saved.struck[id]); });
+      return {
+        id: saved.id,
+        title: saved.title,
+        mode: saved.mode === "timed" ? "timed" : "tutor",
+        review: false,
+        startedAt: saved.startedAt,
+        endedAt: null,
+        elapsed: saved.elapsed || 0,
+        limit: saved.limit || 0,
+        ids: Array.isArray(saved.ids) ? saved.ids : [],
+        order: asObject(saved.order),
+        answers: asObject(saved.answers),
+        staged: asObject(saved.staged),
+        prior: asObject(saved.prior),
+        time: asObject(saved.time),
+        struck,
+        highlights: asObject(saved.highlights)
+      };
+    }
+
+    // The test in progress is saved continuously, so closing the tab never loses it.
+    function persistActiveSession() {
+      if (!session || session.review) return;
+      if (!Object.keys(session.answers).length && !Object.keys(session.staged).length) {
+        dropSuspended(session.id);
+        return;
+      }
+      const saved = serializeSession(session);
+      suspendedTests = [saved].concat(suspendedTests.filter(t => t.id !== saved.id)).slice(0, SUSPENDED_LIMIT);
+      saveSuspended();
+    }
+
+    function dropSuspended(id) {
+      const before = suspendedTests.length;
+      suspendedTests = suspendedTests.filter(t => t.id !== id);
+      if (suspendedTests.length !== before) saveSuspended();
+    }
+
+    function renderSuspendedTests() {
+      suspendedBox.hidden = !suspendedTests.length;
+      suspendedList.innerHTML = suspendedTests.map(t => {
+        const answered = Object.keys(t.answers || {}).length;
+        const total = (t.ids || []).length;
+        const clock = t.mode === "timed"
+          ? `${formatTime(Math.max(0, (t.limit || 0) - (t.elapsed || 0)))} left`
+          : `${formatTime(t.elapsed || 0)} elapsed`;
+        return `
+          <div class="history-row">
+            <div class="history-main">
+              <strong>${esc(t.title)}</strong>
+              <span>${t.mode === "timed" ? "Timed" : "Tutor"} · ${answered}/${total} answered · ${clock} · saved ${formatDate(t.savedAt || t.startedAt)}</span>
+            </div>
+            <button type="button" class="btn-primary" data-resume="${esc(t.id)}">Resume</button>
+            <button type="button" data-end-suspended="${esc(t.id)}">End</button>
+          </div>`;
+      }).join("");
+    }
+
+    function resumeTest(id) {
+      const saved = suspendedTests.find(t => t.id === id);
+      if (!saved) return;
+      const map = questionMap();
+      const questions = (saved.ids || []).map(qid => map.get(qid)).filter(Boolean);
+      if (!questions.length) {
+        dropSuspended(id);
+        renderSuspendedTests();
+        showToast("That test's questions are no longer in your bank.");
+        return;
+      }
+      session = deserializeSession(saved);
+      session.ids = questions.map(q => q.id);
+      currentQuestions = questions;
+      currentIndex = Math.min(Math.max(0, saved.index || 0), questions.length - 1);
+      navFilter = "all";
+      timerRunning = true;
+      showView("exam");
+    }
+
+    function endSuspendedTest(id) {
+      const saved = suspendedTests.find(t => t.id === id);
+      if (!saved) return;
+      if (!confirm(`End "${saved.title}" and see your results?`)) return;
+      const s = deserializeSession(saved);
+      s.endedAt = Date.now();
+      saveBlockToHistory(s);
+      dropSuspended(id);
+      showResults(id);
+    }
+
+    const LAB_VALUES = [
+      { title: "Serum: Electrolytes & Renal", rows: [
+        ["Sodium (Na⁺)", "136–146 mEq/L"],
+        ["Potassium (K⁺)", "3.5–5.0 mEq/L"],
+        ["Chloride (Cl⁻)", "95–105 mEq/L"],
+        ["Bicarbonate (HCO₃⁻)", "22–28 mEq/L"],
+        ["Urea nitrogen (BUN)", "7–18 mg/dL"],
+        ["Creatinine", "0.6–1.2 mg/dL"],
+        ["Glucose, fasting", "70–100 mg/dL"],
+        ["Calcium", "8.4–10.2 mg/dL"],
+        ["Magnesium", "1.5–2.0 mg/dL"],
+        ["Phosphorus (inorganic)", "3.0–4.5 mg/dL"],
+        ["Osmolality", "275–295 mOsmol/kg H₂O"],
+        ["Uric acid", "3.0–8.2 mg/dL"]
+      ] },
+      { title: "Serum: Liver, Pancreas & Muscle", rows: [
+        ["Alanine aminotransferase (ALT)", "10–40 U/L"],
+        ["Aspartate aminotransferase (AST)", "12–38 U/L"],
+        ["Alkaline phosphatase", "25–100 U/L"],
+        ["Bilirubin, total", "0.1–1.0 mg/dL"],
+        ["Bilirubin, direct", "0.0–0.3 mg/dL"],
+        ["Albumin", "3.5–5.5 g/dL"],
+        ["Protein, total", "6.0–7.8 g/dL"],
+        ["Amylase", "25–125 U/L"],
+        ["Lipase", "13–60 U/L"],
+        ["Lactate dehydrogenase (LDH)", "45–200 U/L"],
+        ["Creatine kinase", "M 25–90 U/L · F 10–70 U/L"]
+      ] },
+      { title: "Serum: Lipids", rows: [
+        ["Cholesterol, total", "<200 mg/dL"],
+        ["HDL cholesterol", "40–60 mg/dL"],
+        ["LDL cholesterol", "<160 mg/dL"],
+        ["Triglycerides", "<150 mg/dL"]
+      ] },
+      { title: "Serum: Iron Studies", rows: [
+        ["Iron", "50–170 µg/dL"],
+        ["Total iron-binding capacity (TIBC)", "250–400 µg/dL"],
+        ["Ferritin", "M 20–250 ng/mL · F 10–120 ng/mL"],
+        ["Transferrin saturation", "20%–50%"]
+      ] },
+      { title: "Serum: Endocrine", rows: [
+        ["Thyroid-stimulating hormone (TSH)", "0.4–4.0 µU/mL"],
+        ["Thyroxine (T₄), total", "5–12 µg/dL"],
+        ["Free T₄", "0.9–1.7 ng/dL"],
+        ["Triiodothyronine (T₃), total", "100–200 ng/dL"],
+        ["Cortisol, 8 AM", "5–23 µg/dL"],
+        ["Cortisol, 4 PM", "3–15 µg/dL"],
+        ["Parathyroid hormone (PTH), intact", "10–60 pg/mL"],
+        ["Prolactin", "M <17 ng/mL · F <25 ng/mL"],
+        ["Hemoglobin A1c", "≤6%"]
+      ] },
+      { title: "Hematology", rows: [
+        ["Hemoglobin", "M 13.5–17.5 g/dL · F 12.0–16.0 g/dL"],
+        ["Hematocrit", "M 41%–53% · F 36%–46%"],
+        ["Leukocyte count", "4,500–11,000/mm³"],
+        ["Neutrophils, segmented", "54%–62%"],
+        ["Neutrophils, bands", "3%–5%"],
+        ["Lymphocytes", "25%–33%"],
+        ["Monocytes", "3%–7%"],
+        ["Eosinophils", "1%–3%"],
+        ["Basophils", "0%–0.75%"],
+        ["Platelet count", "150,000–400,000/mm³"],
+        ["Mean corpuscular volume (MCV)", "80–100 µm³"],
+        ["Mean corpuscular hemoglobin (MCH)", "25–35 pg/cell"],
+        ["Mean corpuscular hemoglobin concentration (MCHC)", "31%–36% Hb/cell"],
+        ["Reticulocyte count", "0.5%–1.5%"],
+        ["Erythrocyte sedimentation rate (Westergren)", "M 0–15 mm/h · F 0–20 mm/h"]
+      ] },
+      { title: "Coagulation", rows: [
+        ["Prothrombin time (PT)", "11–15 seconds"],
+        ["Partial thromboplastin time (PTT), activated", "25–40 seconds"],
+        ["INR (not on anticoagulation)", "0.8–1.2"],
+        ["Bleeding time", "2–7 minutes"],
+        ["Fibrinogen", "200–400 mg/dL"],
+        ["D-dimer", "≤250 ng/mL"]
+      ] },
+      { title: "Arterial Blood Gases (room air)", rows: [
+        ["pH", "7.35–7.45"],
+        ["Pco₂", "33–45 mm Hg"],
+        ["Po₂", "75–105 mm Hg"],
+        ["Bicarbonate (HCO₃⁻)", "22–28 mEq/L"]
+      ] },
+      { title: "Cerebrospinal Fluid", rows: [
+        ["Cell count", "0–5/mm³"],
+        ["Glucose", "40–70 mg/dL"],
+        ["Protein, total", "<40 mg/dL"],
+        ["Opening pressure", "70–180 mm H₂O"]
+      ] },
+      { title: "Urine & Other", rows: [
+        ["Urine calcium", "100–300 mg/24 h"],
+        ["Urine protein, total", "<150 mg/24 h"],
+        ["Urine osmolality", "50–1200 mOsmol/kg H₂O"],
+        ["Creatinine clearance", "M 97–137 mL/min · F 88–128 mL/min"],
+        ["Sweat chloride", "0–35 mmol/L"],
+        ["Body mass index (BMI), adult", "19–25 kg/m²"]
+      ] }
+    ];
+
+    function renderLabPanel(filter) {
+      const needle = String(filter || "").trim().toLowerCase();
+      const html = LAB_VALUES.map(group => {
+        const rows = group.rows.filter(([name, value]) => !needle || `${group.title} ${name} ${value}`.toLowerCase().includes(needle));
+        if (!rows.length) return "";
+        return `<div class="lab-group"><div class="lab-group-title">${esc(group.title)}</div>` +
+          rows.map(([name, value]) => `<div class="lab-row"><span>${esc(name)}</span><span>${esc(value)}</span></div>`).join("") +
+          `</div>`;
+      }).join("");
+      labPanelBody.innerHTML = html || `<div class="palette-empty">No lab values match "${esc(filter)}".</div>`;
+    }
+
+    function setLabPanel(open) {
+      labPanel.classList.toggle("open", open);
+      document.body.classList.toggle("labs-open", open);
+      if (open && !isMobile()) labSearch.focus();
+    }
+
+    function toggleLabPanel() {
+      setLabPanel(!labPanel.classList.contains("open"));
     }
 
     const SAMPLE_QUESTIONS = `Week 8: Host Defense & Infection / Viral Pathogenesis / Enveloped DNA Viruses
@@ -3233,6 +4370,8 @@ C. Human herpesvirus 6
 D. Toxoplasma gondii
 E. Acute HIV infection
 Answer: B. Epstein-Barr virus
+Order: Second
+Difficulty: Easy
 Why this is correct: Epstein-Barr virus (EBV), a member of the Herpesviridae family, causes infectious mononucleosis characterized by the triad of fever, pharyngitis, and lymphadenopathy, accompanied by atypical reactive cytotoxic T-cells (CD8+) and a positive heterophile antibody test (Monospot).
 Why the other answers are wrong:
 A. Cytomegalovirus produces a mononucleosis-like illness but characteristically has a negative heterophile antibody test.
@@ -3251,13 +4390,64 @@ C. Enterocyte invasion with systemic bloodstream dissemination
 D. Secretion of heat-labile enterotoxin increasing intracellular cAMP
 E. Direct disruption of colonic tight junctions mediated by protein A
 Answer: A. Toxin-induced stimulation of the enteric nervous system via NSP4
+Tags: Second-Order, Medium
 Why this is correct: Rotavirus encodes the nonstructural protein NSP4, a viral enterotoxin that mobilizes intracellular calcium, stimulates the enteric nervous system, and triggers secretory diarrhea.
 Why the other answers are wrong:
 B. Rotavirus induces blunting of intestinal villi without transmural ulceration.
 C. Rotavirus remains localized to the villus enterocytes of the small intestine.
 D. Heat-labile enterotoxin is produced by enterotoxigenic E. coli (ETEC), not rotavirus.
 E. Rotavirus targets the small intestine rather than the colonic mucosa.
-Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral enterotoxin.`;
+Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral enterotoxin.
+
+Week 9: Hematology & Oncology / Anemias
+
+Question 1
+A 67-year-old man comes to the physician because of a 3-month history of fatigue and shortness of breath with exertion. He has not had melena, hematochezia, or weight loss. He takes no medications and does not drink alcohol. His conjunctivae are pale. Laboratory studies show:
+Hemoglobin 9.1 g/dL
+Mean corpuscular volume 71 μm3
+Red cell distribution width 17% (N=13%–15%)
+Platelet count 450,000/mm3
+Ferritin 8 ng/mL
+A peripheral blood smear shows hypochromic, microcytic erythrocytes. Which of the following is the most appropriate next step in management?
+A. Colonoscopy
+B. Bone marrow biopsy
+C. Hemoglobin electrophoresis
+D. Oral iron supplementation only
+E. Serum vitamin B12 and folate levels
+F. Upper endoscopy only
+Answer: A. Colonoscopy
+Order: Third
+Difficulty: Hard
+Why this is correct:
+A low ferritin confirms iron deficiency anemia. In a man or postmenopausal woman, iron deficiency is presumed to come from gastrointestinal blood loss until proven otherwise.
+Colorectal cancer, especially of the right colon, often bleeds slowly and presents with iron deficiency anemia rather than visible blood, so colonoscopy is the most appropriate next step.
+Why the other answers are wrong:
+B. Bone marrow biopsy is unnecessary because the low ferritin already confirms iron deficiency.
+C. Hemoglobin electrophoresis evaluates thalassemia, which causes microcytosis with a normal or high ferritin.
+D. Iron replacement would treat the anemia but miss a potentially bleeding malignancy.
+E. Vitamin B12 and folate deficiencies cause macrocytic, not microcytic, anemia.
+F. Upper endoscopy alone would miss a colonic source such as a right-sided colon cancer.
+Objective: Recognize iron deficiency anemia in an older adult as a sign of occult gastrointestinal blood loss that warrants colonoscopy.
+
+Pharmacology / Antivirals
+
+Question 1
+Which of the following best describes the mechanism of action of acyclovir?
+A. Chain termination after phosphorylation by viral thymidine kinase
+B. Inhibition of viral neuraminidase
+C. Blockade of the influenza M2 ion channel
+D. Inhibition of HIV reverse transcriptase
+E. Inhibition of viral protease
+Answer: A
+Order: First
+Difficulty: Easy
+Why this is correct: Acyclovir is a guanosine analog that is first phosphorylated by a herpesvirus-encoded thymidine kinase and then by host kinases. Acyclovir triphosphate inhibits viral DNA polymerase and terminates the growing DNA chain.
+Why the other answers are wrong:
+B. Neuraminidase inhibitors such as oseltamivir and zanamivir treat influenza.
+C. Amantadine and rimantadine block the M2 channel of influenza A.
+D. Reverse transcriptase inhibitors such as tenofovir and efavirenz treat HIV.
+E. Protease inhibitors such as ritonavir-boosted darunavir treat HIV.
+Objective: Know how acyclovir is activated and how it inhibits herpesvirus replication.`;
 
     function setupEventListeners() {
       document.querySelectorAll(".uw-nav-item[data-view]").forEach(item => {
@@ -3308,7 +4498,14 @@ Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral e
       subjectsTablesStack.addEventListener("click", handleTreeClick);
       subjectsTablesStack.addEventListener("change", handleTreeChange);
       btnLaunchExam.addEventListener("click", launchCustomExam);
+      inputBlockSize.addEventListener("input", () => {
+        const n = parseInt(inputBlockSize.value, 10);
+        if (n > 0) desiredBlockSize = n;
+      });
 
+      document.getElementById("performanceFolderList").addEventListener("click", handlePerfToggle);
+      document.getElementById("btnPerfExpandAll").addEventListener("click", () => setAllPerfSections(true));
+      document.getElementById("btnPerfCollapseAll").addEventListener("click", () => setAllPerfSections(false));
       testHistoryList.addEventListener("click", (e) => {
         const btn = e.target.closest("[data-open-result]");
         if (btn) showResults(btn.dataset.openResult);
@@ -3426,6 +4623,7 @@ Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral e
           document.querySelectorAll(".modal-backdrop.open").forEach(m => m.classList.remove("open"));
           document.body.classList.remove("nav-open");
           sidebarPane.classList.remove("mobile-open");
+          setLabPanel(false);
           hideHlToolbar();
           return;
         }
@@ -3453,6 +4651,43 @@ Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral e
         }
       });
 
+      orderFilterChips.addEventListener("change", handleTagFilterChange);
+      difficultyFilterChips.addEventListener("change", handleTagFilterChange);
+      createTestView.addEventListener("click", (e) => {
+        const reset = e.target.closest("[data-reset]");
+        if (reset) {
+          resetFilter(reset.dataset.reset);
+          return;
+        }
+        const toggle = e.target.closest(".section-toggle");
+        if (toggle) toggleFilterSection(toggle.closest(".collapsible"));
+      });
+      document.getElementById("btnStartDueReview").addEventListener("click", startDueReview);
+      suspendedList.addEventListener("click", (e) => {
+        const resume = e.target.closest("[data-resume]");
+        if (resume) {
+          resumeTest(resume.dataset.resume);
+          return;
+        }
+        const end = e.target.closest("[data-end-suspended]");
+        if (end) endSuspendedTest(end.dataset.endSuspended);
+      });
+      document.getElementById("weakestAreasList").addEventListener("click", (e) => {
+        const btn = e.target.closest("[data-practice]");
+        if (btn) startPracticeFromButton(btn);
+      });
+      document.getElementById("btnLabValues").addEventListener("click", toggleLabPanel);
+      document.getElementById("btnCloseLabs").addEventListener("click", () => setLabPanel(false));
+      labSearch.addEventListener("input", () => renderLabPanel(labSearch.value));
+      window.addEventListener("pagehide", persistActiveSession);
+      document.addEventListener("visibilitychange", () => {
+        if (document.hidden) persistActiveSession();
+      });
+      document.getElementById("btnDownloadSample").addEventListener("click", () => {
+        downloadFile("WPS-Archive-import-sample.txt", SAMPLE_QUESTIONS, "text/plain;charset=utf-8");
+      });
+
+      document.getElementById("chkSpacedReview").addEventListener("change", (e) => setSpacedReview(e.target.checked));
       btnParseDoc.addEventListener("click", handleDirectImport);
       btnInsertSampleData.addEventListener("click", () => {
         txtDocInput.value = SAMPLE_QUESTIONS;
@@ -3509,6 +4744,23 @@ Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral e
       testHistory = Array.isArray(savedHistory) ? savedHistory : [];
       const savedBank = readJSON(STORAGE.bank, []);
       ALL_QUESTIONS = Array.isArray(savedBank) ? savedBank.map((q, i) => normalizeQuestionFolders(q, i)) : [];
+      answerTimes = asObject(readJSON(STORAGE.times, {}));
+      const savedSuspended = readJSON(STORAGE.suspended, []);
+      suspendedTests = Array.isArray(savedSuspended) ? savedSuspended : [];
+
+      // First run with spaced review: questions you've already missed start out due today.
+      const savedReview = readJSON(STORAGE.review, null);
+      if (savedReview) {
+        reviewSchedule = asObject(savedReview);
+      } else {
+        seedReviewSchedule();
+        writeJSON(STORAGE.review, reviewSchedule);
+      }
+      renderLabPanel("");
+
+      spacedReviewOn = readJSON(STORAGE.spacedReview, true) !== false;
+      document.body.classList.toggle("no-spaced-review", !spacedReviewOn);
+      document.getElementById("chkSpacedReview").checked = spacedReviewOn;
 
       const savedWidth = parseInt(readJSON(STORAGE.paletteWidth, 0), 10);
       if (savedWidth >= 180 && savedWidth <= 440) sidebarPane.style.width = `${savedWidth}px`;
