@@ -1380,7 +1380,7 @@
       top: 0;
       right: 0;
       bottom: 0;
-      width: 360px;
+      width: 400px;
       max-width: 100vw;
       z-index: 80;
       flex-direction: column;
@@ -1390,7 +1390,7 @@
     }
     .lab-panel.open { display: flex; }
     @media (min-width: 769px) {
-      body.labs-open .app-workspace { padding-right: 360px; }
+      body.side-panel-open .app-workspace { padding-right: 400px; }
     }
     .lab-panel-header {
       display: flex;
@@ -1488,6 +1488,104 @@
     @media (min-width: 901px) {
       body.no-spaced-review .status-row-top { grid-template-columns: repeat(2, 1fr); }
     }
+
+    .library-view {
+      display: none;
+      padding: 24px 32px 80px;
+      flex-direction: column;
+      gap: 18px;
+      max-width: 1000px;
+      margin: 0 auto;
+      width: 100%;
+    }
+    .library-search {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg);
+      color: var(--text);
+      font: inherit;
+      font-size: 0.85rem;
+    }
+    .library-notices { display: flex; flex-direction: column; gap: 8px; }
+    .library-notices:empty { display: none; }
+    .library-notice {
+      padding: 8px 12px;
+      border: 1px solid var(--flagged);
+      border-radius: var(--radius);
+      background: var(--flagged-bg);
+      font-size: 0.8rem;
+      line-height: 1.5;
+    }
+    .library-list { display: flex; flex-direction: column; gap: 14px; }
+    .library-group { gap: 0; }
+    .library-group .uw-section-title { margin-bottom: 6px; }
+    .library-page + .library-page { border-top: 1px solid var(--border-sub); }
+    .library-page summary {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 2px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      list-style: none;
+    }
+    .library-page summary::-webkit-details-marker { display: none; }
+    .library-page summary::before {
+      content: "\25B8";
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      transition: transform 0.2s ease;
+    }
+    .library-page[open] summary::before { transform: rotate(90deg); }
+    .library-page > .library-content { padding: 0 4px 14px 22px; }
+
+    .library-content { font-size: 0.9rem; line-height: 1.6; color: var(--text); }
+    .library-content > * + * { margin-top: 10px; }
+    .library-content h2 { font-size: 1.1rem; font-weight: 800; }
+    .library-content h3 { margin-top: 16px; font-size: 0.95rem; font-weight: 800; color: var(--primary-ink); }
+    .library-content h4, .library-content h5 { font-size: 0.88rem; font-weight: 800; }
+    .library-content ul, .library-content ol { padding-left: 22px; }
+    .library-content li + li { margin-top: 4px; }
+    .library-content blockquote {
+      padding: 10px 14px;
+      border-left: 3px solid var(--uw-primary);
+      border-radius: 4px;
+      background: var(--primary-soft);
+    }
+    .library-content img { display: block; max-width: 100%; height: auto; border: 1px solid var(--border); border-radius: 6px; }
+    .library-content a { color: var(--primary-ink); font-weight: 700; }
+    .library-content hr { border: none; border-top: 1px solid var(--border); }
+    .library-content .table-wrap { overflow-x: auto; }
+    .library-content table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+    .library-content th, .library-content td { padding: 6px 8px; border: 1px solid var(--border); text-align: left; vertical-align: top; }
+    .library-content th { background: var(--surface-sub); font-weight: 800; }
+    .library-folder { font-size: 0.75rem; font-weight: 700; color: var(--text-muted); }
+
+    .exp-library {
+      margin-top: 14px;
+      padding: 12px 14px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface-sub);
+    }
+    .exp-library.missed { border-left: 3px solid var(--wrong); }
+    .library-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+    .library-chip { font-size: 0.8rem; color: var(--primary-ink); border-color: var(--uw-primary); background: var(--primary-soft); }
+    .library-chip:hover:not(:disabled) { background: var(--primary-soft-strong); }
+
+    @media (max-width: 768px) {
+      .library-view { padding: 16px 14px 60px; }
+    }
+
+    header.exam-header { flex-wrap: wrap; height: auto; min-height: 52px; row-gap: 8px; }
+    header.exam-header button, header.exam-header .badge { white-space: nowrap; }
+    #examBlockBadge { max-width: 280px; overflow: hidden; text-overflow: ellipsis; }
+    @media (max-width: 1279px) {
+      body.side-panel-open .sidebar-pane, body.side-panel-open .resizer-bar { display: none; }
+    }
   </style>
 </head>
 <body>
@@ -1518,6 +1616,10 @@
         <li class="uw-nav-item" id="navItemPerformance" data-view="performance">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 3v18h18M9 9l3 3 5-5 4 4"></path></svg>
           <span>Performance</span>
+        </li>
+        <li class="uw-nav-item" id="navItemLibrary" data-view="library">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 016.5 17H20M4 19.5A2.5 2.5 0 006.5 22H20V2H6.5A2.5 2.5 0 004 4.5v15z"></path></svg>
+          <span>Library</span>
         </li>
         <li class="uw-nav-item" id="navItemImport" data-modal="loadModal">
           <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
@@ -1758,6 +1860,19 @@
       </div>
     </div>
 
+    <!-- View: Library -->
+    <div class="library-view" id="libraryView">
+      <div class="uw-section-box">
+        <div class="uw-section-title">
+          <span>Library</span>
+          <span class="section-meta" id="librarySourceInfo"></span>
+        </div>
+        <input type="search" class="library-search" id="librarySearch" placeholder="Search library pages" />
+        <div class="library-notices" id="libraryNotices"></div>
+      </div>
+      <div class="library-list" id="libraryList"></div>
+    </div>
+
     <!-- View 3: Test Results & Review -->
     <div class="results-view" id="resultsView">
       <div class="uw-section-box">
@@ -1865,6 +1980,7 @@
               <div id="expWhyWrong"></div>
             </div>
             <div class="exp-objective" id="expObjective"></div>
+            <div class="exp-library" id="expLibrary" hidden></div>
           </div>
 
           <div class="bottom-nav">
@@ -1907,7 +2023,7 @@
       </div>
       <div class="modal-body">
         <p style="color:var(--text-sub);">Paste formatted questions below. Headings formatted as <code>Folder / Subfolder / Sub-subfolder</code> will be parsed and nested automatically.</p>
-        <p class="format-hint">Each question needs a <code>Question N</code> line, lettered choices (<code>A.</code>, <code>B.</code>, &hellip; as many as you need), and an <code>Answer: X</code> line. Optional: <code>Order: First / Second / Third</code>, <code>Difficulty: Easy / Medium / Hard</code>, explanations (any length) and an objective. Load or download the sample to see every part. Re-importing a question updates it instead of duplicating it.</p>
+        <p class="format-hint">Each question needs a <code>Question N</code> line, lettered choices (<code>A.</code>, <code>B.</code>, &hellip; as many as you need), and an <code>Answer: X</code> line. Optional: <code>Order: First / Second / Third</code>, <code>Difficulty: Easy / Medium / Hard</code>, explanations (any length), an objective, and <code>Reference: Page title</code> to link a Library page. Load or download the sample to see every part. Re-importing a question updates it instead of duplicating it.</p>
         <div style="display:flex; gap:10px; flex-wrap:wrap;">
           <button type="button" class="btn-soft" id="btnInsertSampleData" style="font-size:0.75rem;">Load Built-In Sample Test Questions</button>
           <button type="button" id="btnDownloadSample" style="font-size:0.75rem;">Download Sample .txt</button>
@@ -2024,9 +2140,19 @@
     <div class="lab-panel-body" id="labPanelBody"></div>
   </aside>
 
+  <!-- Library Page Panel -->
+  <aside class="lab-panel" id="libraryPanel" aria-label="Library page">
+    <div class="lab-panel-header">
+      <strong id="libraryPanelTitle">Library</strong>
+      <button type="button" id="btnCloseLibraryPanel">Close</button>
+    </div>
+    <div class="lab-panel-body library-content" id="libraryPanelBody"></div>
+  </aside>
+
   <div class="app-toast" id="appToast">Notification</div>
 
   <script id="default-questions-data" type="text/plain"></script>
+  <script id="default-library-data" type="text/plain"></script>
 
   <script>
     const STORAGE = {
@@ -2044,10 +2170,11 @@
     };
     const BANK_DATA_KEYS = [STORAGE.bank, STORAGE.answers, STORAGE.confirmed, STORAGE.flags, STORAGE.history, STORAGE.review, STORAGE.times, STORAGE.suspended];
     const BUNDLED_FILES = ["FOM_Practice_Question_Bank_1.txt", "Week_8_Practice_Questions.txt", "questions.txt"];
+    const LIBRARY_FILE = "library.txt";
     const HISTORY_LIMIT = 50;
     const SECONDS_PER_QUESTION = 90;
     const STATUS_LABELS = { all: "All Questions", unanswered: "Unused", due: "Due for Review", missed: "Incorrect", flagged: "Marked", correct: "Correct" };
-    const QUESTION_FIELDS = ["folder", "subfolder", "subSubfolder", "subject", "rawNumber", "stem", "choices", "answer", "whyCorrect", "whyWrong", "objective", "order", "difficulty"];
+    const QUESTION_FIELDS = ["folder", "subfolder", "subSubfolder", "subject", "rawNumber", "stem", "choices", "answer", "whyCorrect", "whyWrong", "objective", "order", "difficulty", "references"];
     const ORDER_LABELS = { 1: "First-Order", 2: "Second-Order", 3: "Third-Order" };
     const DIFFICULTIES = ["Easy", "Medium", "Hard"];
     const REVIEW_INTERVALS = [1, 3, 7, 14];
@@ -2065,6 +2192,8 @@
     let reviewSchedule = {};
     let answerTimes = {};
     let suspendedTests = [];
+    let LIBRARY_PAGES = [];
+    let libraryStatus = { onWeb: false, embedded: false, files: [] };
 
     let activeView = "create-test";
     let session = null;
@@ -2115,6 +2244,13 @@
     const labPanelBody = document.getElementById("labPanelBody");
     const qTagBadges = document.getElementById("qTagBadges");
     const resultsTypes = document.getElementById("resultsTypes");
+    const libraryView = document.getElementById("libraryView");
+    const libraryList = document.getElementById("libraryList");
+    const librarySearch = document.getElementById("librarySearch");
+    const libraryPanel = document.getElementById("libraryPanel");
+    const libraryPanelTitle = document.getElementById("libraryPanelTitle");
+    const libraryPanelBody = document.getElementById("libraryPanelBody");
+    const expLibrary = document.getElementById("expLibrary");
 
     const resultsTitle = document.getElementById("resultsTitle");
     const resultsMeta = document.getElementById("resultsMeta");
@@ -2339,7 +2475,8 @@
         /^NBME-style questions/i,
         /^Each question lists/i,
         /^Table of Contents/i,
-        /^Page \d+/i
+        /^Page \d+/i,
+        /^Include\s*:/i
       ];
 
       const RE_QUESTION = /^Question\s+(\d+)/i;
@@ -2351,6 +2488,7 @@
       const RE_ORDER = /^(?:(?:Question|Reasoning)\s+)?Order\s*[:\-–—]\s*(.+)$/i;
       const RE_DIFFICULTY = /^(?:Difficulty|Level)\s*[:\-–—]\s*(.+)$/i;
       const RE_TAGS = /^Tags?\s*[:\-–—]\s*(.+)$/i;
+      const RE_REFERENCE = /^References?\s*[:\-–—]\s*(.+)$/i;
       const LAB_UNIT = /(?:%|\/mm3|\/[µμ]L|\/hpf|\/min|[mµμnp]?g\/(?:dL|L|mL)|m?Eq\/L|[mµμn]?mol\/(?:L|kg)|[mµμ]?I?U\/m?L|[µμ]m3|fL|mm\s?Hg|mOsm(?:ol)?\/kg|sec(?:onds)?\b|mL\/min|°[CF]|kg\/m2|\/24\s?h)/;
 
       // Inside an explanation, only treat a line as a new heading if it looks like one,
@@ -2431,7 +2569,7 @@
 
         const isKeyword = RE_QUESTION.test(line) || RE_CHOICE.test(line) || RE_ANSWER.test(line) ||
                           RE_WHY_CORRECT.test(line) || RE_WHY_WRONG.test(line) || RE_OBJECTIVE.test(line) ||
-                          RE_ORDER.test(line) || RE_DIFFICULTY.test(line) || RE_TAGS.test(line);
+                          RE_ORDER.test(line) || RE_DIFFICULTY.test(line) || RE_TAGS.test(line) || RE_REFERENCE.test(line);
         const isFollowedByQuestion = (i + 1 < lines.length) && RE_QUESTION.test(lines[i + 1].line);
         const inExplanation = state === "WHY_CORRECT" || state === "WHY_WRONG" || state === "OBJECTIVE";
 
@@ -2457,7 +2595,8 @@
             whyWrong: {},
             objective: "",
             order: null,
-            difficulty: null
+            difficulty: null,
+            references: []
           };
           lastWrongLetter = "";
           state = "STEM";
@@ -2485,6 +2624,12 @@
         const tagsMatch = line.match(RE_TAGS);
         if (tagsMatch) {
           tagsMatch[1].split(/[,;|]/).forEach(applyTagText);
+          continue;
+        }
+
+        const referenceMatch = line.match(RE_REFERENCE);
+        if (referenceMatch) {
+          referenceMatch[1].split(/[;|]/).map(r => r.trim()).filter(Boolean).forEach(r => currentQ.references.push(r));
           continue;
         }
 
@@ -2577,6 +2722,7 @@
       const order = Number(q.order);
       q.order = order === 1 || order === 2 || order === 3 ? order : null;
       q.difficulty = DIFFICULTIES.includes(q.difficulty) ? q.difficulty : null;
+      q.references = Array.isArray(q.references) ? q.references.filter(r => typeof r === "string" && r.trim()) : [];
       delete q.stemLines;
       q.subject = subjectPath(q);
 
@@ -2721,6 +2867,7 @@
         content += `Answer: ${q.answer}${key ? `. ${key.text}` : ""}\n`;
         if (q.order) content += `Order: ${["", "First", "Second", "Third"][q.order]}\n`;
         if (q.difficulty) content += `Difficulty: ${q.difficulty}\n`;
+        if (q.references && q.references.length) content += `Reference: ${q.references.join("; ")}\n`;
         if (q.whyCorrect) content += `Why this is correct: ${q.whyCorrect}\n`;
         const wrong = q.choices.filter(c => q.whyWrong && q.whyWrong[c.letter]);
         if (wrong.length) {
@@ -3483,6 +3630,7 @@
       createTestView.style.display = viewName === "create-test" ? "flex" : "none";
       performanceView.style.display = viewName === "performance" ? "flex" : "none";
       resultsView.style.display = viewName === "results" ? "flex" : "none";
+      libraryView.style.display = viewName === "library" ? "flex" : "none";
 
       const navView = viewName === "results" ? "performance" : viewName;
       document.querySelectorAll(".uw-nav-item[data-view]").forEach(item => {
@@ -3497,6 +3645,8 @@
         examPane.scrollTop = 0;
       } else if (viewName === "results") {
         renderResults();
+      } else if (viewName === "library") {
+        renderLibraryView();
       } else {
         renderUWSurface();
       }
@@ -3616,6 +3766,15 @@
           .join("");
         expWhyWrong.innerHTML = wrongHtml || `<p style="color:var(--text-muted);font-style:italic;">No distractor rationales available.</p>`;
         expObjective.textContent = q.objective ? `Learning Objective: ${q.objective}` : "";
+
+        const pages = relatedLibraryPages(q);
+        expLibrary.hidden = !pages.length;
+        if (pages.length) {
+          const missed = !!chosen && chosen !== q.answer;
+          expLibrary.classList.toggle("missed", missed);
+          expLibrary.innerHTML = `<div class="exp-section-title">${missed ? "Review this topic" : "Related reading"}</div>
+            <div class="library-chips">${pages.map(p => `<button type="button" class="library-chip" data-library-page="${esc(p.id)}">${esc(p.title)}</button>`).join("")}</div>`;
+        }
       } else {
         explanationBox.classList.remove("visible");
       }
@@ -4350,17 +4509,299 @@
       labPanelBody.innerHTML = html || `<div class="palette-empty">No lab values match "${esc(filter)}".</div>`;
     }
 
+    function setSidePanel(panel) {
+      [labPanel, libraryPanel].forEach(p => p.classList.toggle("open", p === panel));
+      document.body.classList.toggle("side-panel-open", !!panel);
+      if (panel === labPanel && !isMobile()) labSearch.focus();
+    }
+
     function setLabPanel(open) {
-      labPanel.classList.toggle("open", open);
-      document.body.classList.toggle("labs-open", open);
-      if (open && !isMobile()) labSearch.focus();
+      setSidePanel(open ? labPanel : null);
     }
 
     function toggleLabPanel() {
       setLabPanel(!labPanel.classList.contains("open"));
     }
 
-    const SAMPLE_QUESTIONS = `Week 8: Host Defense & Infection / Viral Pathogenesis / Enveloped DNA Viruses
+    function includeLines(text) {
+      return String(text || "").split(/\r?\n/)
+        .map(l => l.match(/^\s*Include\s*:\s*(.+?)\s*$/i))
+        .filter(Boolean)
+        .map(m => m[1]);
+    }
+
+    async function fetchTextFile(path) {
+      try {
+        const res = await fetch(`${path}${path.includes("?") ? "&" : "?"}t=${Date.now()}`);
+        if (!res.ok || /text\/html/i.test(res.headers.get("content-type") || "")) return null;
+        return await res.text();
+      } catch (e) {
+        return null;
+      }
+    }
+
+    // Loads each file, then any files it lists on "Include:" lines (paths are relative to index.html).
+    async function fetchTextTree(startFiles) {
+      const results = [];
+      const seen = new Set();
+      let queue = startFiles.slice();
+      while (queue.length && seen.size < 100) {
+        const batch = [...new Set(queue)].filter(file => !seen.has(file));
+        batch.forEach(file => seen.add(file));
+        queue = [];
+        const texts = await Promise.all(batch.map(fetchTextFile));
+        batch.forEach((file, i) => {
+          results.push({ file, text: texts[i] });
+          if (texts[i]) queue.push(...includeLines(texts[i]));
+        });
+      }
+      return results;
+    }
+
+    // A page starts with "Library: Title", may have a "Folder: A / B / C" line right after it,
+    // and runs until the next "Library:" line.
+    function parseLibraryText(rawText) {
+      const pages = [];
+      let current = null;
+      const finish = () => {
+        if (current) {
+          current.body = current.bodyLines.join("\n").trim();
+          delete current.bodyLines;
+          pages.push(current);
+        }
+        current = null;
+      };
+
+      String(rawText || "").split(/\r?\n/).forEach(raw => {
+        const line = raw.replace(/[  ᠎ -​  　﻿]/g, " ").replace(/\s+$/, "");
+        const trimmed = line.trim();
+        if (/^Include\s*:/i.test(trimmed)) return;
+        const title = trimmed.match(/^Library\s*:\s*(.+)$/i);
+        if (title) {
+          finish();
+          current = { title: title[1].trim(), folder: "", bodyLines: [] };
+          return;
+        }
+        if (!current) return;
+        const folder = trimmed.match(/^Folder\s*:\s*(.+)$/i);
+        if (folder && !current.folder && !current.bodyLines.some(l => l.trim())) {
+          current.folder = folder[1].trim();
+          return;
+        }
+        current.bodyLines.push(line);
+      });
+      finish();
+      return pages;
+    }
+
+    async function loadLibrary() {
+      const pages = [];
+      const embedded = document.getElementById("default-library-data");
+      const embeddedText = embedded ? embedded.textContent.trim() : "";
+      if (embeddedText) pages.push(...parseLibraryText(embeddedText));
+
+      const onWeb = /^https?:$/.test(location.protocol);
+      const files = onWeb ? await fetchTextTree([LIBRARY_FILE]) : [];
+      files.forEach(f => { if (f.text) pages.push(...parseLibraryText(f.text)); });
+
+      LIBRARY_PAGES = pages.map((p, i) => ({
+        ...p,
+        id: `lib${i}`,
+        path: p.folder.split("/").map(s => s.trim().toLowerCase()).filter(Boolean)
+      }));
+      libraryStatus = { onWeb, embedded: !!embeddedText, files };
+      if (activeView === "library") renderLibraryView();
+      if (activeView === "exam" && session && explanationBox.classList.contains("visible")) renderQuestion();
+    }
+
+    function safeLibraryUrl(url) {
+      return !/^[a-z][a-z0-9+.-]*:/i.test(url) || /^https?:\/\//i.test(url);
+    }
+
+    function libraryInline(text) {
+      return esc(text)
+        .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, (m, alt, url) => safeLibraryUrl(url) ? `<img src="${url}" alt="${alt}" loading="lazy">` : m)
+        .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (m, label, url) => safeLibraryUrl(url) ? `<a href="${url}" target="_blank" rel="noopener">${label}</a>` : m)
+        .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+        .replace(/(^|[^*\w])\*([^*\s][^*]*?)\*(?![*\w])/g, "$1<em>$2</em>");
+    }
+
+    function renderLibraryTable(rows) {
+      const cells = (row) => row.replace(/^\|/, "").replace(/\|\s*$/, "").split("|").map(c => c.trim());
+      const isDivider = (row) => cells(row).every(c => /^:?-{2,}:?$/.test(c));
+      let head = null;
+      let body = rows;
+      if (rows.length > 1 && isDivider(rows[1])) {
+        head = cells(rows[0]);
+        body = rows.slice(2);
+      }
+      const headHtml = head ? `<thead><tr>${head.map(c => `<th>${libraryInline(c)}</th>`).join("")}</tr></thead>` : "";
+      const bodyHtml = body.filter(r => !isDivider(r))
+        .map(r => `<tr>${cells(r).map(c => `<td>${libraryInline(c)}</td>`).join("")}</tr>`).join("");
+      return `<div class="table-wrap"><table>${headHtml}<tbody>${bodyHtml}</tbody></table></div>`;
+    }
+
+    // Supports # headings, - and 1. lists, | tables |, > callouts, ---, **bold**, *italic*, links and images.
+    function renderLibraryMarkdown(text) {
+      let html = "";
+      let para = [];
+      let quote = [];
+      let list = null;
+      let table = [];
+      const flushPara = () => { if (para.length) html += `<p>${libraryInline(para.join(" "))}</p>`; para = []; };
+      const flushQuote = () => { if (quote.length) html += `<blockquote>${libraryInline(quote.join(" "))}</blockquote>`; quote = []; };
+      const flushList = () => {
+        if (list) html += `<${list.type}>${list.items.map(item => `<li>${libraryInline(item)}</li>`).join("")}</${list.type}>`;
+        list = null;
+      };
+      const flushTable = () => { if (table.length) html += renderLibraryTable(table); table = []; };
+      const flushAll = () => { flushPara(); flushQuote(); flushList(); flushTable(); };
+
+      String(text || "").split("\n").forEach(raw => {
+        const line = raw.trim();
+        let m;
+        if (!line) {
+          flushAll();
+          return;
+        }
+        if ((m = line.match(/^(#{1,4})\s+(.+)$/))) {
+          flushAll();
+          const level = m[1].length + 1;
+          html += `<h${level}>${libraryInline(m[2])}</h${level}>`;
+          return;
+        }
+        if (/^(?:-{3,}|\*{3,}|_{3,})$/.test(line)) {
+          flushAll();
+          html += "<hr>";
+          return;
+        }
+        if (line.startsWith("|")) {
+          flushPara(); flushQuote(); flushList();
+          table.push(line);
+          return;
+        }
+        if ((m = line.match(/^>\s?(.*)$/))) {
+          flushPara(); flushList(); flushTable();
+          quote.push(m[1]);
+          return;
+        }
+        if ((m = line.match(/^[-*•]\s+(.+)$/)) || (m = line.match(/^\d+[.)]\s+(.+)$/))) {
+          const type = /^\d/.test(line) ? "ol" : "ul";
+          flushPara(); flushQuote(); flushTable();
+          if (!list || list.type !== type) {
+            flushList();
+            list = { type, items: [] };
+          }
+          list.items.push(m[1]);
+          return;
+        }
+        if (list && /^\s{2,}/.test(raw)) {
+          list.items[list.items.length - 1] += " " + line;
+          return;
+        }
+        flushQuote(); flushList(); flushTable();
+        para.push(line);
+      });
+      flushAll();
+      return html;
+    }
+
+    // Pages named on the question's "Reference:" lines come first, then pages filed under the
+    // question's folder (most specific folder first).
+    function relatedLibraryPages(q) {
+      if (!LIBRARY_PAGES.length) return [];
+      const byTitle = new Map();
+      LIBRARY_PAGES.forEach(p => {
+        if (!byTitle.has(p.title.toLowerCase())) byTitle.set(p.title.toLowerCase(), p);
+      });
+      const picked = [];
+      const seen = new Set();
+      const add = (p) => {
+        if (p && !seen.has(p.id)) {
+          seen.add(p.id);
+          picked.push(p);
+        }
+      };
+      (q.references || []).forEach(title => add(byTitle.get(title.toLowerCase())));
+      const qPath = subjectPath(q).split("/").map(s => s.trim().toLowerCase());
+      LIBRARY_PAGES
+        .filter(p => p.path.length && p.path.length <= qPath.length && p.path.every((seg, i) => seg === qPath[i]))
+        .sort((a, b) => b.path.length - a.path.length)
+        .forEach(add);
+      return picked.slice(0, 6);
+    }
+
+    function libraryNotices() {
+      if (!libraryStatus.onWeb) {
+        return ["Library files load when the site is opened from its web address, such as your GitHub Pages link. Opening index.html straight from your computer can't read other files."];
+      }
+      const notes = [];
+      libraryStatus.files
+        .filter(f => f.text === null && f.file !== LIBRARY_FILE)
+        .forEach(f => notes.push(`Couldn't load ${f.file}. Check that the file exists and its name matches exactly, including capital letters.`));
+
+      const counts = new Map();
+      LIBRARY_PAGES.forEach(p => counts.set(p.title.toLowerCase(), (counts.get(p.title.toLowerCase()) || 0) + 1));
+      LIBRARY_PAGES.filter((p, i, all) => counts.get(p.title.toLowerCase()) > 1 && all.findIndex(o => o.title.toLowerCase() === p.title.toLowerCase()) === i)
+        .forEach(p => notes.push(`More than one page is titled "${p.title}". Questions link to the first one.`));
+
+      const missing = new Map();
+      ALL_QUESTIONS.forEach(q => (q.references || []).forEach(title => {
+        if (!counts.has(title.toLowerCase())) missing.set(title, (missing.get(title) || 0) + 1);
+      }));
+      [...missing.entries()].slice(0, 8).forEach(([title, n]) => {
+        notes.push(`${n} question${n === 1 ? " references" : "s reference"} "${title}", but no library page has that title.`);
+      });
+      return notes;
+    }
+
+    function renderLibraryView() {
+      const needle = librarySearch.value.trim().toLowerCase();
+      document.getElementById("libraryNotices").innerHTML = libraryNotices().map(n => `<div class="library-notice">${esc(n)}</div>`).join("");
+      const fileCount = libraryStatus.files.filter(f => f.text !== null).length;
+      document.getElementById("librarySourceInfo").textContent = LIBRARY_PAGES.length
+        ? `${LIBRARY_PAGES.length} page${LIBRARY_PAGES.length === 1 ? "" : "s"}${fileCount ? ` from ${fileCount} file${fileCount === 1 ? "" : "s"}` : ""}`
+        : "";
+
+      if (!LIBRARY_PAGES.length) {
+        libraryList.innerHTML = libraryStatus.onWeb
+          ? `<div class="empty-note">No library pages yet. Upload a <strong>library.txt</strong> file next to index.html. Each page starts with a <code>Library: Page title</code> line, then an optional <code>Folder: Folder / Subfolder</code> line, then the page text.</div>`
+          : "";
+        return;
+      }
+
+      const matches = LIBRARY_PAGES.filter(p => !needle || `${p.title} ${p.folder} ${p.body}`.toLowerCase().includes(needle));
+      if (!matches.length) {
+        libraryList.innerHTML = `<div class="empty-note">No library pages match "${esc(librarySearch.value.trim())}".</div>`;
+        return;
+      }
+      const groups = new Map();
+      matches.forEach(p => {
+        const key = p.folder || "General";
+        if (!groups.has(key)) groups.set(key, []);
+        groups.get(key).push(p);
+      });
+      libraryList.innerHTML = [...groups.entries()].map(([folder, pages]) => `
+        <div class="uw-section-box library-group">
+          <div class="uw-section-title">${esc(folder)}</div>
+          ${pages.map(p => `
+            <details class="library-page">
+              <summary>${esc(p.title)}</summary>
+              <div class="library-content">${renderLibraryMarkdown(p.body)}</div>
+            </details>`).join("")}
+        </div>`).join("");
+    }
+
+    function openLibraryPage(id) {
+      const page = LIBRARY_PAGES.find(p => p.id === id);
+      if (!page) return;
+      libraryPanelTitle.textContent = page.title;
+      libraryPanelBody.innerHTML = `<div class="library-folder">${esc(page.folder || "General")}</div>${renderLibraryMarkdown(page.body)}`;
+      libraryPanelBody.scrollTop = 0;
+      setSidePanel(libraryPanel);
+    }
+
+    const SAMPLE_QUESTIONS = `Foundations of Medicine / Week 8: Host Defense & Infection / DNA Viruses
 
 Question 1
 A 19-year-old college student presents with a 5-day history of fatigue, sore throat, and low-grade fever. Physical examination reveals posterior cervical lymphadenopathy and mild splenomegaly. A peripheral blood smear shows atypical lymphocytes with abundant cytoplasm indenting surrounding red blood cells. A heterophile antibody agglutination assay is positive. Which of the following viral agents is the most likely cause of this patient's condition?
@@ -4380,9 +4821,9 @@ D. Toxoplasmosis can produce lymphadenopathy but is caused by a protozoan parasi
 E. Acute retroviral syndrome presents similarly but is heterophile negative.
 Objective: Recognize the clinical presentation, hematologic findings, and diagnostic serology of Epstein-Barr virus infection.
 
-Week 8: Host Defense & Infection / Viral Pathogenesis / Non-Enveloped RNA Viruses
+Foundations of Medicine / Week 8: Host Defense & Infection / RNA Viruses
 
-Question 2
+Question 1
 A 6-year-old child presents with a 2-day history of watery diarrhea, vomiting, and dehydration during winter. The pathogen is identified as a double-stranded RNA virus with a segmented genome and wheel-like appearance on electron microscopy. Which mechanism explains this virus's diarrhea?
 A. Toxin-induced stimulation of the enteric nervous system via NSP4
 B. Massive transmural mucosal ulceration in the ileum
@@ -4399,7 +4840,7 @@ D. Heat-labile enterotoxin is produced by enterotoxigenic E. coli (ETEC), not ro
 E. Rotavirus targets the small intestine rather than the colonic mucosa.
 Objective: Understand the pathophysiological mechanism of rotavirus NSP4 viral enterotoxin.
 
-Week 9: Hematology & Oncology / Anemias
+Foundations of Medicine / Week 9: Hematology / Microcytic Anemias
 
 Question 1
 A 67-year-old man comes to the physician because of a 3-month history of fatigue and shortness of breath with exertion. He has not had melena, hematochezia, or weight loss. He takes no medications and does not drink alcohol. His conjunctivae are pale. Laboratory studies show:
@@ -4418,6 +4859,7 @@ F. Upper endoscopy only
 Answer: A. Colonoscopy
 Order: Third
 Difficulty: Hard
+Reference: Iron deficiency anemia
 Why this is correct:
 A low ferritin confirms iron deficiency anemia. In a man or postmenopausal woman, iron deficiency is presumed to come from gastrointestinal blood loss until proven otherwise.
 Colorectal cancer, especially of the right colon, often bleeds slowly and presents with iron deficiency anemia rather than visible blood, so colonoscopy is the most appropriate next step.
@@ -4429,7 +4871,7 @@ E. Vitamin B12 and folate deficiencies cause macrocytic, not microcytic, anemia.
 F. Upper endoscopy alone would miss a colonic source such as a right-sided colon cancer.
 Objective: Recognize iron deficiency anemia in an older adult as a sign of occult gastrointestinal blood loss that warrants colonoscopy.
 
-Pharmacology / Antivirals
+Foundations of Medicine / Week 8: Host Defense & Infection / Antiviral Drugs
 
 Question 1
 Which of the following best describes the mechanism of action of acyclovir?
@@ -4688,6 +5130,13 @@ Objective: Know how acyclovir is activated and how it inhibits herpesvirus repli
       });
 
       document.getElementById("chkSpacedReview").addEventListener("change", (e) => setSpacedReview(e.target.checked));
+      librarySearch.addEventListener("input", renderLibraryView);
+      explanationBox.addEventListener("click", (e) => {
+        const chip = e.target.closest("[data-library-page]");
+        if (chip) openLibraryPage(chip.dataset.libraryPage);
+      });
+      document.getElementById("btnCloseLibraryPanel").addEventListener("click", () => setSidePanel(null));
+
       btnParseDoc.addEventListener("click", handleDirectImport);
       btnInsertSampleData.addEventListener("click", () => {
         txtDocInput.value = SAMPLE_QUESTIONS;
@@ -4713,13 +5162,8 @@ Objective: Know how acyclovir is activated and how it inhibits herpesvirus repli
       if (rawEmbeddedText.length > 0) texts.push(rawEmbeddedText);
 
       if (/^https?:$/.test(location.protocol)) {
-        const cacheBuster = `?t=${new Date().getTime()}`;
-        const fetched = await Promise.all(BUNDLED_FILES.map(fileUrl =>
-          fetch(fileUrl + cacheBuster)
-            .then(res => (res.ok && !/text\/html/i.test(res.headers.get("content-type") || "") ? res.text() : ""))
-            .catch(() => "")
-        ));
-        fetched.forEach(text => { if (text && text.trim().length > 0) texts.push(text); });
+        const files = await fetchTextTree(BUNDLED_FILES);
+        files.forEach(f => { if (f.text && f.text.trim().length > 0) texts.push(f.text); });
       }
       if (!texts.length) return;
 
@@ -4768,6 +5212,7 @@ Objective: Know how acyclovir is activated and how it inhibits herpesvirus repli
       setupTimer();
       showView("create-test");
       loadBundledQuestions();
+      loadLibrary();
     }
 
     if (document.readyState === "loading") {
