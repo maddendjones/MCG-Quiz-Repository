@@ -5,3 +5,4 @@ Add one Include: line per week file, in course order.
 Include: library/fom-week-02-cellular-molecular-genetic.txt
 Include: library/fom-week-03-metabolic-foundations.txt
 Include: library/fom-week-04.txt
+Include: library/fom-week-05-cancer-biology-genetics.txt
