@@ -1,0 +1,996 @@
+Foundations of Medicine, Week 5: Foundations of Cancer Biology and Cancer Genetics
+Sources: Week 5 Study Sheet, and FOM Diseases & Drugs (Cancer, DNA, Drugs, and Biostats sections, plus cross-links noted on each page).
+Last checked: September 29, 2026.
+
+Library: Tumor nomenclature
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Introduction to Neoplasia
+
+## Parts of a tumor
+
+- Neoplasia means new growth
+- A tumor has proliferating tumor cells and stroma (extracellular matrix and vessels)
+- The stroma sets the consistency: scant stroma makes a soft, fleshy tumor, and desmoplasia (sclerosis) makes a firm, hard one
+
+## Benign tumors
+
+- Named with the tissue type plus "-oma"
+- Adenomas are gland-forming or arise from a gland (for example, an adrenal adenoma or a tubular adenoma of the colon)
+- Papillomas are named for their papillary architecture, whatever their size or lining epithelium
+
+## Malignant tumors
+
+| Cell of origin | Name | Examples |
+|---|---|---|
+| Epithelial | Carcinoma (most common in adults) | Adenocarcinoma, squamous cell carcinoma |
+| Mesenchymal | Sarcoma (tissue + "sarcoma") | Osteosarcoma, chondrosarcoma |
+| Hematopoietic | Lymphoma or leukemia | Named for the cell of origin |
+| Melanocytic | Melanoma | |
+
+> Carcinomas come from epithelium and are the most common malignancies in adults; sarcomas come from mesenchyme.
+
+Library: Teratoma, choristoma, and hamartoma
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Introduction to Neoplasia
+
+## Key findings
+
+| Term | Meaning | Example |
+|---|---|---|
+| Teratoma | Arises from germ cell rests and forms elements of all three germ layers | Ovary or testis tumor containing thyroid, glands, fat, hair, or teeth |
+| Choristoma | Normal tissue in an abnormal location | Adrenal rest under the kidney capsule; normal pancreas in the stomach or small intestine |
+| Hamartoma | Disorganized but mature tissue native to that site; mostly benign | Lung lesion made of cartilage, vessels, and bronchial epithelium |
+| Pleomorphic adenoma of the salivary gland | Divergent differentiation from a single cell line | Epithelial and myoepithelial cells in one tumor |
+
+> A choristoma is normal tissue in the wrong place; a hamartoma is disorganized tissue in the right place.
+
+Library: Benign vs. malignant tumors
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Introduction to Neoplasia
+
+## Key findings
+
+| Feature | Benign | Malignant |
+|---|---|---|
+| Differentiation | Resembles the tissue of origin | Ranges from well differentiated to anaplastic; poorly differentiated tumors make the site of origin hard to identify |
+| Nuclear-to-cytoplasmic ratio | Near normal | Increased (nuclei stain dark) |
+| Mitoses | Few | Increased, often atypical |
+| Growth rate | Slow | Faster |
+| Local invasion | Usually none | Often |
+| Metastasis | None | Defines malignancy; markedly lowers the chance of cure |
+
+## Terms
+
+- Anaplasia: complete lack of differentiation
+- Hyperchromasia: darkly staining nuclei
+- Pleomorphism: variation in cell size and shape
+- Dysplasia: disordered growth, mostly in epithelium, with all changes confined above an intact basement membrane. Dysplasia isn't cancer, but it can become cancer
+
+> Metastasis is the feature that marks a tumor as malignant.
+
+Library: Clonality and tumor cell kinetics
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Introduction to Neoplasia
+
+## Clonality
+
+- Tumors arise from a single precursor cell (monoclonal)
+- Non-neoplastic proliferations usually arise from several precursor cells (polyclonal)
+- Clonality testing is most often used for lymphoid proliferations
+
+## Cell kinetics
+
+- Growth rate tracks the degree of differentiation, and more dividing cells means faster growth
+- Chemotherapy acts on dividing cells
+- Slow-growing tumors resist chemotherapy
+- Fast-growing tumors are aggressive but respond best to chemotherapy, though they can also mutate and develop resistance faster
+
+> Fast-growing tumors are aggressive but respond best to chemotherapy.
+
+Library: Clinical presentation of tumors
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Introduction to Neoplasia
+
+## How tumors come to attention
+
+| Route | Examples |
+|---|---|
+| Screening | Lab work, imaging, pathology, or exam (breast exam, prostate exam, skin check) |
+| B symptoms | Fever, night sweats |
+| Obstructive or local symptoms | Painless jaundice (pancreatic cancer), pneumonia (lung cancer), bleeding, weight loss |
+| Incidental finding | Found on a scan done for another reason |
+
+## When screening makes sense
+
+- It causes little harm to the patient (radiation from CT is controversial)
+- Finding the disease early leads to beneficial treatment
+
+> Painless jaundice is the classic obstructive presentation of pancreatic cancer.
+
+Library: Tumor staging and grading
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Introduction to Neoplasia
+
+## Staging (TNM, from the AJCC)
+
+| Letter | Meaning |
+|---|---|
+| T | Tumor size, usually pT1 to pT4, with criteria specific to each cancer and site |
+| N | Nodes, usually based on the number of involved lymph nodes |
+| M | Metastasis, yes or no |
+
+## Grading
+
+Grading describes how the tumor cells look under the microscope. Many tumors lack a good grading standard, but some have well-defined systems.
+
+| System | Cancer |
+|---|---|
+| FIGO | Endometrial |
+| Nottingham | Breast |
+| Fuhrman | Kidney |
+
+> Staging (TNM) describes spread; grading describes microscopic appearance.
+
+Library: Sporadic vs. hereditary cancer and genetic testing
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Genetic Testing and Familial Cancer Syndromes
+
+## Key findings
+
+- The hallmarks of cancer (sustained proliferative signaling, evading growth suppression, tumor-promoting inflammation, genomic instability, and others) are all secondary to genetic alterations
+
+| Type | Key points |
+|---|---|
+| Sporadic | Most cancers; usually environmental (smoking, UV); not in the germline, so not heritable, and germline testing is negative |
+| Familial (hereditary) | Mutation is in the germline and shows up in white blood cells; usually one normal and one abnormal copy, so a 50% chance of passing it on |
+| Epigenetic | Mostly not heritable |
+| Monogenic | Caused by a mutation in a single gene |
+
+## Oncogenes vs. tumor suppressors in inherited cancer
+
+- Activated oncogenes don't contribute to hereditary cancer and are often lethal to the developing fetus
+- Inactivated tumor suppressor genes are the ones that are inherited; one normal copy prevents developmental effects
+
+## Where genetic testing is used
+
+- Cancer treatment (99% of cancer care)
+- Early detection and risk reduction (germline testing)
+- Surveillance, survivorship, and hospice (cell-free DNA)
+
+> Hereditary cancer syndromes come from germline tumor suppressor mutations, passed on with a 50% chance.
+
+Library: Familial cancer syndromes
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Genetic Testing and Familial Cancer Syndromes
+
+## DNA repair genes and cancer
+
+| Repair defect | Genes | Cancers |
+|---|---|---|
+| Mismatch repair (Lynch syndrome) | MLH1, MSH2, MSH6, PMS2, EPCAM | Colon, endometrial, upper GI, ovarian |
+| Polymerase editing | POLE, POLD1 | Ultra-hypermutated tumors with millions of mutations |
+| Homologous recombination (HBOC) | BRCA1, BRCA2, ATM, CHEK2 | Breast, ovary, pancreas, prostate |
+
+- UV damage is repaired by nucleotide excision repair, oxidative damage by base excision repair, and mispaired bases by mismatch repair
+- Non-homologous end joining is low fidelity
+
+## Hereditary breast and ovarian cancer (HBOC)
+
+- Pathogenic BRCA1 or BRCA2 variants disrupt double-strand break repair by homologous recombination
+- Autosomal dominant
+- Management: risk-reducing surgery, PARP inhibitors, surveillance
+
+## Li-Fraumeni syndrome
+
+A germline p53 mutation causes sarcomas, breast cancer, leukemia, and adrenal gland tumors (SBLA).
+
+> BRCA1, BRCA2, ATM, and CHEK2 are all double-strand break repair genes.
+
+Library: Oncogenes and proto-oncogenes
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Carcinogenesis and Epidemiology
+
+## Key findings
+
+- A proto-oncogene is the normal gene that helps drive cell division
+- An oncogene is the mutated version that tells the cell to divide continuously
+- Only one mutated copy is needed (activation)
+
+| Oncogene | Example |
+|---|---|
+| HER2/neu | Amplified in breast cancer |
+| MYC | Amplified in many cancers, including Burkitt lymphoma |
+| ABL | BCR-ABL fusion in CML (Philadelphia chromosome) |
+| RAF | BRAF mutation |
+| MYCN | Amplified in neuroblastoma |
+| BCL2 | Overexpressed in follicular lymphoma |
+
+> An oncogene is a gain-of-function version of a normal growth gene; one mutated copy is enough.
+
+Library: Tumor suppressor genes and the two-hit model
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Carcinogenesis and Epidemiology
+
+## Key findings
+
+- Tumor suppressor genes keep cell growth in check
+- Two-hit model: both copies must be lost before function is gone
+- In inherited syndromes, one defective copy is inherited, so only one more hit is needed
+
+| Gene | Cancer |
+|---|---|
+| BRCA1, BRCA2 | Breast |
+| p53 | Li-Fraumeni syndrome |
+| CDKN2A | Melanoma |
+| APC | Not specified in the sources |
+| RB1 | Retinoblastoma |
+
+## Apoptosis and DNA repair genes
+
+- Anti-apoptotic genes such as BCL2 cause cancer when overactive; in follicular lymphoma, t(14;18) places BCL2 next to the IGH promoter and makes it constitutively active
+- Pro-apoptotic genes cause cancer when knocked out
+- DNA repair gene mutations leave damage unrepaired; loss of nucleotide excision repair causes xeroderma pigmentosum
+
+> Inheriting one bad copy of a tumor suppressor means only one more hit is needed.
+
+Library: Radiation as a carcinogen
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Carcinogenesis and Epidemiology
+
+## Ultraviolet radiation
+
+| Type | Effect |
+|---|---|
+| UVA | Minor; damage mostly through free radicals |
+| UVB | Major cause of skin cancer; directly dimerizes adjacent thymines |
+| UVC | Most harmful but usually blocked by the ozone layer; welders are exposed, which is why they wear masks and should see a dermatologist yearly |
+
+## Ionizing radiation
+
+- Electromagnetic and particulate radiation all damage DNA; the cell repairs it or, failing that, undergoes apoptosis
+- Iatrogenic radiation from medical imaging and treatment can cause secondary tumors
+
+> UVB is the major cause of skin cancer through thymine dimers.
+
+Library: Microbial and chemical carcinogens
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Carcinogenesis and Epidemiology
+
+## Viruses
+
+| Virus | Associated cancer |
+|---|---|
+| HPV | Cervical, vaginal, and anogenital cancers (mostly types 16 and 18) |
+| HBV, HCV | Hepatocellular carcinoma |
+| EBV | Burkitt, Hodgkin, and non-Hodgkin lymphoma |
+| HTLV-1 | Adult T-cell leukemia |
+| HHV-8 | Kaposi sarcoma |
+| Merkel cell polyomavirus | Not specified in the sources |
+
+## HPV mechanism
+
+HPV integrates into the host DNA, and its proteins inhibit tumor suppressors: E6 inhibits p53, and E7 inhibits p21 and the Rb-E2F complex.
+
+## Other carcinogens
+
+- Bacteria: H. pylori, one of the few cancer causes treated with antibiotics when caught early (gastric MALT lymphoma)
+- Fungus: Aspergillus flavus produces liver toxins
+- Direct alkylating agents change DNA directly; they're used in cancer treatment and can cause therapy-related cancers
+- Polycyclic hydrocarbons: cigarettes, smoked meats
+- Occupational exposures: asbestos, vinyl chloride, arsenic
+
+> HPV E6 inhibits p53, and E7 inhibits Rb.
+
+Library: Cancer epidemiology
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Carcinogenesis and Epidemiology
+
+## Adults (United States)
+
+- Cancer was the #2 cause of death in 2022, behind heart disease and ahead of accidents
+- Non-melanoma skin cancer is usually left out of incidence counts because it's rarely deadly
+
+| Measure | Men | Women |
+|---|---|---|
+| Most common | Prostate, then lung, then colorectal | Breast, then lung, then colorectal |
+| Most deaths | Lung, then prostate, then colorectal and pancreatic | Lung, then breast, then colorectal and pancreatic |
+
+## Children
+
+- A higher share of pediatric cancers are inherited, since children have had little carcinogen exposure
+- Most have an excellent prognosis (about 92%)
+- Leukemia is the most common childhood cancer, followed by brain tumors; brain tumors cause the most deaths, followed by leukemia
+- B-cell ALL is the most common pediatric cancer and has about a 92% cure rate
+
+> Lung cancer causes the most cancer deaths in both men and women.
+
+Library: PRPP synthesis
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## Key findings
+
+- PRPP (5-phospho-D-ribosyl-1-alpha-pyrophosphate) is made by PRPP synthetase
+- It's the common precursor for both purine and pyrimidine synthesis, and an allosteric stimulator of nucleotide synthesis
+- PRPP synthesis is inhibited by purines and pyrimidines and promoted by glucose-6-phosphate and intracellular free phosphate
+
+## Clinical link
+
+In von Gierke disease (glucose-6-phosphatase deficiency), high glucose-6-phosphate and free phosphate drive PRPP synthesis up, which increases nucleotide synthesis and turnover.
+
+> More PRPP means more nucleotide synthesis, which is why von Gierke disease and HGPRT deficiency raise uric acid.
+
+Library: De novo purine synthesis and salvage
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## Key findings
+
+- About 97% of purine nucleotides come from salvage and about 3% from de novo synthesis
+- All purine synthesis enzymes are cytosolic
+
+## De novo
+
+- Glutamine PRPP amidotransferase catalyzes the first step
+- It's feedback-inhibited by IMP, GMP, and AMP and stimulated by PRPP
+- N10-formyltetrahydrofolate, from folate, is a cofactor, so folate deficiency impairs nucleotide synthesis and causes megaloblastic anemia
+
+## Salvage
+
+- Hypoxanthine-guanine phosphoribosyltransferase (HGPRT) catalyzes the most important salvage step and has a high affinity for PRPP
+- When salvage fails, unused PRPP builds up and drives de novo synthesis, and more purines are degraded to uric acid
+
+> Most purines are recycled by salvage; HGPRT is the key salvage enzyme.
+
+Library: Lesch-Nyhan syndrome
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## Mechanism
+
+HGPRT activity is under 2%. PRPP isn't used for salvage, so it stimulates de novo purine synthesis, and guanine and hypoxanthine are degraded instead of salvaged, sharply raising uric acid.
+
+## Key findings
+
+- X-linked
+- Hyperuricemia, gout, kidney stones, and renal damage
+- Severe neurological and behavioral abnormalities, including self-mutilation such as chewing the lips and fingertips; dental extraction is often used to prevent tissue injury
+- Memory hook (HGPRT): hyperuricemia, gout, aggression and self-harm, intellectual disability, dystonia
+
+## Treatment
+
+Allopurinol inhibits xanthine oxidase and lowers uric acid. It helps control the arthritis but doesn't prevent the neurological problems.
+
+> Allopurinol treats the hyperuricemia of Lesch-Nyhan syndrome but not the neurological symptoms.
+
+Library: Uric acid and gout
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## Purine degradation
+
+- Purines are degraded to uric acid
+- High AMP and low phosphate increase degradation
+- Lactate and some diuretics compete with uric acid for renal excretion, so high lactate raises uric acid
+
+## Gout
+
+- Uric acid is sparingly soluble and forms needle-shaped sodium urate crystals
+- Under polarized light the crystals are negatively birefringent
+- NSAIDs are the first treatment for an acute attack; colchicine and uricosuric drugs are used in severe cases
+- Allopurinol isn't used to treat the acute attack
+- Drugs listed for gout overall: NSAIDs, allopurinol, febuxostat
+
+> Gout crystals are needle-shaped and negatively birefringent.
+
+Library: Tumor lysis syndrome
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## Mechanism
+
+Cytolytic drugs for hematologic cancers kill large numbers of cells at once. The released nucleic acids are salvaged or degraded, and the excess uric acid precipitates as needle-shaped crystals.
+
+## Labs
+
+| Value | Change |
+|---|---|
+| Uric acid | High |
+| Potassium | High |
+| Phosphate | High |
+| Calcium | Low |
+
+## Treatment
+
+- Flushing the kidneys with fluids helps correct the hyperuricemia, hyperkalemia, hyperphosphatemia, and hypocalcemia
+- Allopurinol inhibits xanthine oxidase, so xanthine is excreted instead of uric acid
+
+> Tumor lysis syndrome raises uric acid, potassium, and phosphate and lowers calcium.
+
+Library: ADA deficiency and SCID
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## Key findings
+
+- Adenosine deaminase (ADA) converts deoxyadenosine to deoxyinosine during purine degradation
+- ADA deficiency causes about 15% of SCID and is autosomal recessive
+- Deoxyadenosine builds up and is phosphorylated to dATP, which inhibits ribonucleotide reductase and blocks deoxynucleotide synthesis
+- T cells, B cells, and NK cells are all absent
+- Failure to thrive, chronic diarrhea, thrush, and recurrent viral, bacterial, fungal, and protozoal infections; no thymic shadow
+- No live vaccines; antimicrobial prophylaxis
+
+## Look-alike
+
+The most common cause of SCID is an X-linked recessive defect in the IL-2 receptor gamma chain.
+
+> In ADA deficiency, dATP builds up and shuts down ribonucleotide reductase.
+
+Library: Pyrimidine synthesis and orotic aciduria
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## Key findings
+
+- Unlike purines, the pyrimidine ring is built first, and a phosphoribosyl group from PRPP is added afterward
+- Enzymes 1-3 form the CAD complex, enzyme 4 is mitochondrial, and enzymes 5-6 form UMP synthase
+- Orotate is an intermediate formed before PRPP is added
+
+## Carbamoyl phosphate
+
+| Enzyme | Pathway | Substrates | Notes |
+|---|---|---|---|
+| CPS I | Urea cycle | Ammonia and bicarbonate | Needs N-acetylglutamate |
+| CPS II | Pyrimidine synthesis | Glutamine and bicarbonate | Rate-limiting step; inhibited by UTP |
+
+## Orotic aciduria
+
+| Cause | Findings |
+|---|---|
+| Hereditary orotic aciduria (UMP synthase deficiency) | Orotate accumulates; severe megaloblastic anemia and poor growth; autosomal recessive |
+| Urea cycle defect (OTC deficiency) | Carbamoyl phosphate spills into pyrimidine synthesis; orotic aciduria with hyperammonemia |
+
+## Treatment of hereditary orotic aciduria
+
+Dietary uridine is converted to UMP and then UTP, which inhibits CPS II and lowers orotate.
+
+> Orotic aciduria with megaloblastic anemia and no hyperammonemia points to UMP synthase deficiency.
+
+Library: Ribonucleotide reductase and thymidylate synthesis
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## Ribonucleotide reductase
+
+- Converts all four ribonucleotides to deoxyribonucleotides
+- Hydroxyurea inhibits it and stops cancer growth; its use in sickle cell disease works differently, by raising fetal hemoglobin
+- In ADA deficiency, dATP binds and blocks it
+
+## Thymidylate synthesis
+
+- Thymidylate synthase and dihydrofolate reductase make thymine nucleotides, which depends on folate
+- 5-fluorouracil inhibits thymidylate synthase
+- Methotrexate inhibits dihydrofolate reductase
+
+> 5-FU blocks thymidylate synthase, and methotrexate blocks dihydrofolate reductase.
+
+Library: Drugs that inhibit nucleotide synthesis
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Nucleotide Metabolism
+
+## 6-Mercaptopurine
+
+- Used for leukemia (ALL) and as an immunosuppressant; azathioprine is its prodrug
+- HGPRT converts it to 6-thioinosine monophosphate (TIMP)
+- Inhibits amidophosphoribosyltransferase (the first rate-limiting step of purine synthesis) and the conversion of IMP to AMP and GMP, and it's incorporated into DNA and RNA
+- Xanthine oxidase breaks it down to thiouric acid, so allopurinol raises its levels (greater efficacy and toxicity)
+- Side effects: myelosuppression, GI and liver toxicity, pancreatitis
+
+## 5-Fluorouracil
+
+- Used for colorectal cancer
+- Converted to 5-fUTP and 5-fdUMP; 5-fdUMP inhibits thymidylate synthase and depletes thymine for DNA synthesis
+- Highly mutagenic, so it can't be used as an immunosuppressant
+- Side effects: myelosuppression, hand-foot syndrome, diarrhea, photosensitivity
+
+## Methotrexate
+
+- Antifolate used as an anticancer drug, as an immunosuppressant, and to terminate pregnancy
+- Competitively inhibits dihydrofolate reductase, so DHF accumulates and both purine and TMP synthesis fall
+- Side effects: myelosuppression, hepatotoxicity, mucositis, pulmonary fibrosis, folate deficiency, nephrotoxicity
+
+> Allopurinol blocks 6-MP breakdown, raising its effect and its toxicity.
+
+Library: Chromosomal translocations in cancer
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cytogenetics of Cancer
+
+## Key findings
+
+A translocation exchanges material between non-homologous chromosomes, producing two derivative (der) chromosomes, each named for the centromere it came from.
+
+| Translocation | Genes | Cancer | Result |
+|---|---|---|---|
+| t(9;22)(q34;q11) | BCR-ABL (Philadelphia chromosome) | Chronic myeloid leukemia | Constitutively active tyrosine kinase |
+| t(14;18) | IgH-BCL2 | Follicular lymphoma | BCL2 overexpression blocks apoptosis; chemotherapy resistance |
+| t(8;14) | c-MYC-IgH | Burkitt lymphoma | MYC drives massive growth |
+| t(15;17) | PML-RARA | Acute promyelocytic leukemia | Blocks promyelocyte maturation |
+| t(11;14) | Cyclin D1-IgH | Mantle cell lymphoma | Cyclin D1 drives G1 to S |
+
+## BCR-ABL
+
+- Part of the ABL gene (a nonreceptor tyrosine kinase) on chromosome 9 fuses with the breakpoint cluster region (BCR) on chromosome 22
+- Detected by karyotyping, FISH, and RT-PCR
+- The kinase is a drug target: imatinib occupies its ATP-binding site, and dasatinib and nilotinib cover resistance mutations
+
+## BCL2 and drug resistance
+
+Constitutive BCL2, like loss of p53 and Bax activation, causes multidrug resistance.
+
+> The Philadelphia chromosome, t(9;22), makes the BCR-ABL tyrosine kinase that imatinib targets.
+
+Library: Genomic instability and gene amplification
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cytogenetics of Cancer
+
+## Genomic instability
+
+- Unstable chromosomes are prone to amplifications, translocations, and deletions; cancer cells often have this mutator phenotype
+- At least 90% of cancers have lost p53 or Rb function
+- Losing p53, Rb, or both raises gene amplification about 1000-fold, with more deletions and aneuploidy
+
+## Gene amplification
+
+Amplification means more copies of a gene than the normal 2n, usually from a complex recombination event followed by repeated replication.
+
+| Type | Location | Key points |
+|---|---|---|
+| Intrachromosomal | Within a chromosome | |
+| Extrachromosomal | Double minute chromosomes | Excised from a chromosome; have a replication origin but no centromere or telomeres, so they split unequally in mitosis; drive intratumor heterogeneity; can carry oncogenes or drug-resistance genes; detected by FISH |
+
+> Double minutes lack centromeres, so they're divided unequally and spread heterogeneity through the tumor.
+
+Library: Oncogene amplification: MDM2, cyclin D, MYCN, and HER2
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cytogenetics of Cancer
+
+## Key findings
+
+| Gene | Cancers | Mechanism |
+|---|---|---|
+| MDM2 (double minute) | Sarcomas and other mesenchymal cancers; lung cancer with poor survival | Ubiquitin ligase that tags p53 for proteasomal degradation; without p53, Bax and p21 aren't induced, causing multidrug resistance |
+| Cyclin D (CCND1) | Breast and bladder | Binds CDK4/6 constitutively, inactivating Rb so G1 to S goes unchecked; CDK4/6 inhibitors exist |
+| MYCN | Neuroblastoma (usually adrenal gland) | Transcription factor that drives proliferation; harder to target than kinases |
+| HER2/neu | About 30% of breast cancers | EGFR-family receptor that signals through RAS, MEK, and AKT, increasing survival and drug resistance |
+
+## HER2 treatment
+
+- Trastuzumab (Herceptin) is an antibody that blocks HER2, but it can't cross the blood-brain barrier, so patients often relapsed in the brain; it can cause dilated cardiomyopathy
+- Small-molecule tyrosine kinase inhibitors cross the blood-brain barrier
+
+> MDM2 amplification degrades p53, so apoptosis and p21 arrest are both lost.
+
+Library: Principles of cancer screening
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Screening and Diagnosis
+
+## Background
+
+A cancer goes through about 30 divisions, usually about 5 years, before it's clinically palpable, and it accumulates mutations along the way before growth accelerates.
+
+## Criteria for effective screening
+
+- The cancer is recognizable at a latent or early stage, before symptoms
+- A suitable, accurate test exists
+- Effective treatment exists and improves cancer-specific mortality
+- The cost is balanced against the benefit
+- Screening is continuous, not a one-time project
+
+> Screening only makes sense when early treatment actually lowers cancer-specific mortality.
+
+Library: Sensitivity, specificity, and predictive values
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Screening and Diagnosis
+
+## Key findings
+
+| Measure | Meaning | Formula |
+|---|---|---|
+| Sensitivity | Correctly identifies people who have the disease | TP / (TP + FN) |
+| Specificity | Correctly identifies people who don't have the disease | TN / (TN + FP) |
+| Positive predictive value | Likelihood of disease when the test is positive | |
+| Negative predictive value | Likelihood of no disease when the test is negative | |
+
+- Poor sensitivity means many false negatives; poor specificity means many false positives
+- For screening, the ideal test has high sensitivity and high negative predictive value
+
+> High sensitivity means few false negatives, which is what a screening test needs.
+
+Library: Lead-time and length-time bias
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Screening and Diagnosis
+
+## Key findings
+
+| Bias | What happens | Example |
+|---|---|---|
+| Lead-time bias | Screening moves diagnosis earlier without changing the time of death, so survival looks longer | Death at 65 either way, but diagnosis at 45 instead of 60 looks like 20-year rather than 5-year survival |
+| Length-time bias | Screening picks up a disproportionate number of slow-growing, indolent cancers | |
+
+- Lead-time bias is most likely when treatment doesn't change mortality
+
+> Lead-time bias makes survival look longer without anyone living longer.
+
+Library: Breast and lung cancer screening
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Screening and Diagnosis
+
+## Breast cancer
+
+Incidence rises with age.
+
+| Source | Recommendation |
+|---|---|
+| American Cancer Society | Yearly mammogram from 40; clinical breast exam every 3 years in the 20s and 30s, yearly from 40 |
+| USPSTF | Mammogram every 2 years from 40 through 74; no evidence of benefit after 74; no recommendation on clinical or self exams, with evidence of harm from self-exams |
+
+- Breast MRI has high sensitivity but low specificity and outperforms mammography in high-risk patients
+
+## Lung cancer
+
+- High-risk patients are aged 50-80 with 20 pack-years of smoking
+- Screen yearly until they've quit for more than 15 years
+
+> Lung cancer screening covers ages 50-80 with a 20 pack-year history.
+
+Library: Cancer surgery and biopsy types
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Treatment
+
+## Three pillars of cancer management
+
+Surgery, radiation, and pharmacotherapy (chemotherapy and targeted therapy).
+
+## Surgery
+
+- Best candidates: slow-growing tumors with a long cell cycle and low metastatic potential
+- Adverse events: bleeding, infection, pneumonia
+- Risk factors: physiologic old age, poor cardiopulmonary status, smoking, obesity
+
+| Type | Purpose |
+|---|---|
+| Prophylactic | Remove tissue likely to become cancerous |
+| Diagnostic | Biopsy |
+| Definitive (curative) | Remove cancer confined to its site; cytoreduction helps other treatments work |
+| Palliative | Relieve symptoms when cure isn't possible |
+| Reconstructive | Restore appearance after definitive treatment |
+
+## Biopsy types
+
+| Biopsy | Method |
+|---|---|
+| Fine-needle aspiration (FNAC) | Least invasive; a positive result may need follow-up |
+| Core needle | 1-1.2 mm core through a hollow needle under local anesthesia |
+| Incisional | Small wedge of the tumor removed with a scalpel or punch |
+| Excisional | Entire suspected tumor removed with little or no margin |
+
+- Only positive biopsy findings are definitive; if symptoms persist after a negative biopsy, repeat it
+
+> A negative biopsy doesn't rule out cancer; only positive findings are definitive.
+
+Library: Radiation therapy
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Treatment
+
+## Biology
+
+- Ionizing radiation causes DNA damage, chromosomal instability, mutation, and apoptosis, and irradiated cells can signal to non-irradiated neighbors
+- Proliferating cells are more radiosensitive than quiescent ones
+- Cancer cells repair double-strand breaks by homologous recombination and NHEJ, so their radiosensitivity depends on that repair capacity
+
+| Cell cycle phase | Sensitivity | Why |
+|---|---|---|
+| Late G2 and M | Most sensitive | Rely on error-prone NHEJ |
+| S and early G2 | Most resistant | Homologous recombination repair is available |
+
+## Sources
+
+- Photons: gamma rays (from radioactive nuclei, as in a cobalt machine) and X-rays (from a linear accelerator)
+- Particle beams: protons, electrons, neutrons
+
+## Modalities
+
+| Modality | Key points |
+|---|---|
+| External beam (EBRT) | 90% of treatments; covers large areas such as the tumor and nearby nodes; given in daily fractions |
+| Brachytherapy | Radioactive implants next to the tumor; spares other tissue |
+| SRS/SBRT | Precisely targeted large doses; spares normal tissue |
+| Total body irradiation | Part of conditioning for stem cell transplant |
+| Systemic | Iodine-131 concentrates in the thyroid; strontium-89 and samarium-153 go to bone |
+| Whole brain irradiation | |
+
+> Cells in late G2 and M are the most radiosensitive; S and early G2 cells are the most resistant.
+
+Library: The five Rs of radiobiology
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Treatment
+
+## Key findings
+
+| R | Meaning |
+|---|---|
+| Radiosensitivity | Give normal tissue room to recover and repair |
+| Repair | Normal cells get time between fractions to repair sublethal damage |
+| Repopulation | A trade-off: healthy tissue repopulates, but so can the tumor |
+| Redistribution | Stress pushes tumor cells into the cell cycle, into more sensitive phases |
+| Reoxygenation | The hypoxic tumor core is protected; killing outer layers ("peeling an onion") lets oxygen reach it |
+
+- Hypoxic cells stay in G0 and G1 and resist radiation
+
+## Side effects
+
+- Treatment itself is painless, but it affects all tissue in the beam's path, and long-term quality of life can suffer
+- Local skin changes and fatigue appear within a few weeks of external beam treatment
+- The risk of a second cancer is low
+
+> Hypoxic tumor cells resist radiation, which is why reoxygenation between fractions matters.
+
+Library: Principles of chemotherapy and log-kill
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Treatment
+
+## Goals
+
+| Use | Purpose |
+|---|---|
+| Curative | Cure without other treatment when possible |
+| Adjuvant | Kill cells left behind after other treatment |
+| Neoadjuvant | Shrink the tumor before other treatment |
+| Palliative | Ease symptoms |
+
+## Kinetics
+
+- The faster a tumor divides, the more chemosensitive it is
+- Growth fraction = cells actively cycling / total cells
+- Log-kill principle (first-order kinetics): each dose kills a constant fraction of tumor cells, not a constant number
+- Pulsed intermittent chemotherapy spaces doses to maximize tumor kill and normal cell recovery, depending on the last response, the dosing interval, and the tumor's doubling time
+
+## Cell cycle specificity
+
+| Type | Acts on | Dosing |
+|---|---|---|
+| Phase-specific | Cells in one phase; best for tumors with many cells in that phase | Schedule dependent |
+| Phase-nonspecific | Cells in all phases, including G0; works on slow-growing tumors | Dose dependent |
+
+## Combination therapy
+
+Combination therapy replaced single-agent therapy, which rarely achieved lasting remission and encouraged resistance. Combinations lower the chance of resistance and improve cell kill and response rates.
+
+> Each chemotherapy dose kills a constant fraction of tumor cells (log-kill).
+
+Library: Chemotherapy drug classes
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Treatment
+
+## Key findings
+
+| Class | Mechanism | Phase | Examples |
+|---|---|---|---|
+| Alkylating agents | Crosslink DNA, break strands, cause abnormal base pairing | Mostly cycling cells, still active in G0 | Cyclophosphamide, cisplatin, carboplatin |
+| Antimetabolites | False metabolites that block DNA and RNA synthesis | S phase; fast-growing tumors | Methotrexate, 5-fluorouracil, 6-mercaptopurine, hydroxyurea |
+| Antimicrotubule agents | Bind microtubules and cause mitotic arrest | M phase | Vinca alkaloids (vincristine, vinblastine); taxanes (paclitaxel, docetaxel) |
+| Topoisomerase inhibitors | Block strand rejoining, disrupting transcription, replication, and mitosis | G2 | Etoposide, teniposide (topo II); irinotecan, topotecan (topo I); doxorubicin |
+
+## Toxicities worth knowing
+
+| Drug | Toxicity |
+|---|---|
+| Doxorubicin, daunorubicin | Dilated cardiomyopathy (dexrazoxane prevents it) |
+| Bleomycin | Pulmonary fibrosis; little myelosuppression |
+| Vincristine | Peripheral neuropathy |
+| Paclitaxel | Peripheral neuropathy, myelosuppression |
+
+- Cyclophosphamide needs activation by the liver
+
+> Antimetabolites act in S phase; vinca alkaloids and taxanes act in M phase.
+
+Library: Chemotherapy side effects
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Treatment
+
+## Key findings
+
+Chemotherapy has a narrow therapeutic window, and toxicity hits tissues that normally divide quickly: hair, GI tract, and bone marrow.
+
+| Effect | Key points |
+|---|---|
+| Hypersensitivity | Most drugs cause a mild reaction; true allergy is much more severe |
+| Extravasation | Drug leaks out of the vein into tissue; severity depends on drug, concentration, and site |
+| Bone marrow suppression | Low WBCs, RBCs, and platelets; anemia impairs oxygen delivery |
+| Neutropenic sepsis | Infection while neutrophils are low |
+| Thrombocytopenia | Bleeding risk |
+| Tumor lysis syndrome | Treated with kidney flushing and allopurinol |
+| Mucositis | Mouth lining atrophies and ulcerates |
+
+> Chemotherapy toxicity falls on fast-dividing tissues: marrow, gut, and hair.
+
+Library: Targeted therapy and antibody naming
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Treatment
+
+## How targeted therapy differs from chemotherapy
+
+- Acts on a specific molecular target linked to the cancer
+- Deliberately designed to interact with that target
+- Usually cytostatic rather than cytotoxic
+
+## Antibody names
+
+| Type | Human share | Suffix |
+|---|---|---|
+| Murine | 0% | -omab |
+| Chimeric | 65% | -ximab |
+| Humanized | Over 90% | -zumab |
+| Human | 100% | -umab |
+
+## Examples from the course
+
+| Drug | Target | Use |
+|---|---|---|
+| Trastuzumab | HER2 | HER2-positive breast cancer |
+| Rituximab | CD20 | B-cell lymphomas (part of R-CHOP) |
+| Imatinib | BCR-ABL | CML |
+| Ribociclib | CDK4/6 | Cancers with active cyclin D |
+
+> Targeted therapies are usually cytostatic; chemotherapy is cytotoxic.
+
+Library: Hormone therapy and immunotherapy
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Foundations of Cancer Treatment
+
+## Hormone therapy
+
+- Blocks the hormones that hormone-responsive cancers (breast, prostate, endometrium) need to grow
+- Tamoxifen blocks the estrogen receptor in ER-positive breast cancer; side effects include hot flashes and higher risk of DVT and endometrial cancer
+
+## Immunotherapy
+
+| Type | How it works |
+|---|---|
+| Immune checkpoint inhibitors | Block checkpoints so immune cells respond more strongly; side effects look autoimmune (add "-itis" to any organ) |
+| T-cell transfer | The patient's best tumor-fighting T cells are selected, expanded, and returned |
+| Monoclonal antibodies | Bind targets on cancer cells and mark them for destruction |
+| Vaccines | Raised against antigens on the cancer cells |
+| Immune system modulators | Boost the overall immune response |
+
+> Checkpoint inhibitor side effects are autoimmune: any organ plus "-itis."
+
+Library: Cell cycle control in cancer
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cancer Survival Mechanisms
+
+## Key findings
+
+| Phase | Events |
+|---|---|
+| G1 | Protein, RNA, and lipid synthesis; no chromosome replication |
+| S | DNA replication |
+| G2 | Duplicated chromosomes checked for errors and repaired |
+
+- p53 is the master regulator of the cell cycle and survival; as a transcription factor it induces p21, which blocks G1 progression, and it can also trigger apoptosis
+- Rb binds and inactivates E2F, the transcription factor that drives cell cycle progression
+- Mutations in Rb and p53 carry the worst outcomes
+- Relapsed or progressing tumors often show mutated Rb, high cyclin E, or mutated p53
+
+> Loss of Rb and p53 carries the worst outcomes and drives therapy resistance.
+
+Library: Apoptosis pathways and PARP inhibitors
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cancer Survival Mechanisms
+
+## Pathways
+
+| Pathway | Sequence |
+|---|---|
+| Intrinsic (mitochondrial) | Bax and other pro-apoptotic proteins release cytochrome c → caspase-9 → caspase-3 → PARP cleavage → cell death |
+| Extrinsic | Death ligand binds death receptor → caspase-8 → caspase-3 → PARP cleavage → cell death |
+
+- The intrinsic pathway is balanced by anti-apoptotic Bcl-2 and pro-apoptotic Bax
+- Cleavage of PARP marks cell death
+
+## PARP inhibitors
+
+PARP helps repair DNA damage. Inhibiting it makes it harder for cancer cells to repair their genomes, pushing them toward apoptosis. PARP inhibitors are used in hereditary breast and ovarian cancer (BRCA1/2).
+
+> Both apoptosis pathways converge on caspase-3 and PARP cleavage.
+
+Library: Telomerase and replicative immortality
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cancer Survival Mechanisms
+
+## Key findings
+
+- Telomeres protect chromosome ends from damage and fusion
+- Losing telomeres usually stops cell growth or triggers apoptosis
+- Telomerase (a reverse transcriptase) is overexpressed in most cancer cells, making them immortal
+- Telomerase can serve as a molecular marker of cancer
+
+> Most cancers overexpress telomerase, which makes them immortal.
+
+Library: Warburg effect and cancer metabolism
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cancer Survival Mechanisms
+
+## Warburg effect
+
+- Cancer cells prefer glycolysis over the citric acid cycle, even though it makes less ATP, because it's fast
+- The hypoxic tumor core makes reliance on oxidative phosphorylation a liability, and hypoxia promotes resistance to chemotherapy and radiation
+- Tumors reduce pyruvate entry into mitochondria and lower pyruvate dehydrogenase activity
+- The Warburg effect helps detect tumors and metastases on imaging
+
+## Altered citric acid cycle
+
+- The cycle is often truncated and runs backward, fed by glutamine addiction
+- Alpha-ketoglutarate → isocitrate → citrate, and citrate feeds fatty acid synthesis for new membranes
+- Mutant isocitrate dehydrogenase turns alpha-ketoglutarate into 2-hydroxyglutarate (2-HG), which increases methylation of tumor suppressors
+
+## Cachexia
+
+A multifactorial metabolic syndrome in about 80% of cancer patients: involuntary weight loss, anorexia, muscle loss (sarcopenia), and fatigue, driven by tumor-induced inflammatory cytokines such as TNF-alpha.
+
+> Mutant IDH makes 2-hydroxyglutarate, which silences tumor suppressors by methylation.
+
+Library: Angiogenesis and metastasis
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cancer Survival Mechanisms
+
+## Angiogenesis
+
+- Growth of new vessels from existing vasculature
+- The angiogenic switch: tumors secrete activators and inhibitors into the microenvironment
+- VEGF binds its receptors and stimulates capillary formation
+- Anti-angiogenic therapy often fails because many pathways can compensate; when one drug fails, the next needs a different target
+
+## Steps of metastasis
+
+1. Angiogenic switch and primary tumor growth
+2. Loss of contact inhibition and breakdown of the basement membrane
+3. Intravasation and survival in the circulation (most cells don't survive)
+4. Extravasation into distant organs, which depends on the tissue of origin
+5. Metastatic colonization and clinical detection
+
+- Metastatic cancer isn't curable, but it can be managed with chemotherapy, radiation, anti-angiogenic drugs, immunotherapy, and targeted therapy
+
+> VEGF drives the angiogenic switch that lets a tumor grow and spread.
+
+Library: Cancer immunoediting and immune checkpoints
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Cancer Survival Mechanisms
+
+## Immunoediting
+
+| Phase | What happens |
+|---|---|
+| Elimination | Immune surveillance destroys tumor cells |
+| Equilibrium | The immune system selects tumor variants better able to survive attack |
+| Escape | The sculpted tumor grows uncontrolled in an immunocompetent host |
+
+- The immune system fails because tumor antigens look like self, and T cells can be kept out of the tumor
+
+## Checkpoints
+
+| Checkpoint | Mechanism | Drug |
+|---|---|---|
+| CTLA-4 | An off switch on T cells | Anti-CTLA-4 antibodies |
+| PD-1/PD-L1 | PD-L1 on tumor cells binds PD-1 on T cells and suppresses them | Anti-PD-1 antibodies |
+
+> PD-L1 on tumor cells binds PD-1 on T cells to shut them down.
+
+Library: Personalized and stratified medicine
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Individualizing Care of Cancer Patients (Personalized Medicine)
+
+## Why personalize
+
+Tailoring treatment gives better efficacy, individualized dosing, fewer adverse effects than chemotherapy, and better prognosis.
+
+## Tools
+
+- Next-generation sequencing covers 20,000-25,000 genes (about 1% of the genome) with a 2-week turnaround
+- Cytogenetic classification replaced morphology alone for prognosis, since translocations and unfavorable genetics can be seen
+
+## Stratified medicine
+
+- Patients are grouped by features that predict response
+- Immunotherapy response depends on how much of a target, such as PD-L1, the tumor expresses, and individuals vary within each group
+
+## Treatment selection
+
+- Each cancer is really many diseases defined by driver mutations; an EGFR-mutant tumor is treated differently from an ALK-driven one
+- Targeted therapy can reach response rates up to 80% with much less toxicity than traditional chemotherapy
+- Breast cancers are tested for hormone receptors, and after surgery, genetic relapse-risk testing decides who needs chemotherapy
+
+> Driver mutations such as EGFR or ALK decide which targeted drug a patient gets.
+
+Library: Pharmacogenomics in cancer care
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Individualizing Care of Cancer Patients (Personalized Medicine)
+
+## Key findings
+
+Genetic polymorphisms make some drug-handling enzymes very active in some patients and weak in others.
+
+| Variant | Affected drug | Result |
+|---|---|---|
+| DPD deficiency | 5-fluorouracil (DPD metabolizes it) | High 5-FU levels: neutropenia, neurotoxicity, severe diarrhea, stomatitis |
+| UGT1A1 polymorphism | Irinotecan (UGT1A1 metabolizes it) | High irinotecan levels: diarrhea, myelosuppression |
+| G6PD deficiency | Many oxidizing drugs | Significant hemolysis |
+
+> DPD deficiency causes severe 5-FU toxicity; UGT1A1 variants cause irinotecan toxicity.
+
+Library: CAR-T and TIL therapy
+Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Cancer Genetics / Individualizing Care of Cancer Patients (Personalized Medicine)
+
+## Key findings
+
+| Therapy | How it works | Key points |
+|---|---|---|
+| CAR-T cells | The patient's own T cells are engineered with a chimeric antigen receptor against a cancer antigen and reinfused | No graft-versus-host disease since the cells are the patient's own; rapid expansion causes inflammation that needs anti-inflammatory treatment; used only for liquid (blood) cancers |
+| Tumor-infiltrating lymphocytes (TIL) | The tumor is resected, its infiltrating lymphocytes are isolated, expanded, and reinfused | These cells have already shown they can survive the tumor's defenses |
+
+> CAR-T therapy uses the patient's own engineered T cells, so there's no graft-versus-host disease.
