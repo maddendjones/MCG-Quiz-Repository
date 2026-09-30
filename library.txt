@@ -9,4 +9,4 @@ Include: library/fom-week-05-cancer-biology-genetics.txt
 Include: library/fom-week-06.txt
 Include: library/fom-week-07-hematology.txt
 Include: library/fom-week-08.txt
-Include: libary/FOM.txt
+Include: library/FOM.txt
