@@ -4776,7 +4776,7 @@ Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lym
 | Bone marrow | Week 18 to adult | Permanent site; the only significant source by birth |
 
 - Memory hook: Young Liver Synthesizes Blood
-- The lecture slides give a more granular timeline, with marrow starting in the clavicle around week 10 and dominant by week 28
+- The lecture slides give a more granular timeline, with marrow starting in the clavicle around Week 10: Foundations of Early Development: Foundations of Early Development and dominant by week 28
 
 ## Adult marrow
 
@@ -8817,7 +8817,7 @@ Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II
 > On MacConkey agar, lactose fermenters turn red.
 
 Library: Sperm structure and capacitation
-Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Fertilization and Implantation
 
 ## Sperm structure
 
@@ -8839,7 +8839,7 @@ Sperm become more capable of motility and fertilization after they enter the vag
 > Capacitation removes membrane cholesterol so calcium can hyperactivate sperm motility.
 
 Library: Zona pellucida and blocks to polyspermy
-Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Fertilization and Implantation
 
 ## Zona pellucida
 
@@ -8862,7 +8862,7 @@ A thick, transparent extracellular matrix around the oocyte that:
 > The cortical reaction cross-links the zona pellucida to block polyspermy.
 
 Library: Cleavage, morula, and blastocyst
-Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Fertilization and Implantation
 
 ## Key findings
 
@@ -8883,7 +8883,7 @@ Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
 > The trophoblast becomes the placenta, and the inner cell mass becomes the embryo.
 
 Library: Implantation and the trophoblast
-Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Fertilization and Implantation
 
 ## Timing
 
@@ -8903,7 +8903,7 @@ Channels form inside the syncytiotrophoblast. As the blastocyst grows and meets 
 > The syncytiotrophoblast invades the uterine wall and makes hCG.
 
 Library: Human chorionic gonadotropin (hCG)
-Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Fertilization and Implantation
 
 ## Key findings
 
@@ -8923,7 +8923,7 @@ Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
 > hCG keeps the corpus luteum making progesterone in early pregnancy.
 
 Library: Bilaminar embryonic disc
-Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Fertilization and Implantation
 
 ## Key findings
 
@@ -8939,7 +8939,7 @@ The bilaminar disc is an oval plate of two epithelial layers that forms from the
 > The epiblast gives rise to all three germ layers; the hypoblast is replaced by endoderm.
 
 Library: Gastrulation and the primitive streak
-Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Germ Layers and Body Plan
 
 ## Key findings
 
@@ -8959,7 +8959,7 @@ Gastrulation rearranges cells to turn the bilaminar disc into a trilaminar disc 
 > The primitive streak is the first sign of gastrulation and defines the craniocaudal axis.
 
 Library: Ectoderm derivatives
-Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Germ Layers and Body Plan
 
 ## Key findings
 
@@ -8974,7 +8974,7 @@ The amnion is also a thin ectodermal membrane derived from the epiblast.
 > The neural tube forms the CNS, while the neural crest forms the peripheral nervous system and ganglia.
 
 Library: Mesoderm derivatives
-Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Germ Layers and Body Plan
 
 ## Key findings
 
@@ -8989,7 +8989,7 @@ Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
 > Paraxial mesoderm forms somites; intermediate mesoderm forms urogenital structures.
 
 Library: Endoderm derivatives
-Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Germ Layers and Body Plan
 
 ## Key findings
 
@@ -9010,7 +9010,7 @@ Endoderm forms the linings and glands that come off the primitive gut:
 > Endoderm lines the gut tube and forms its glands, including the liver and pancreas.
 
 Library: Neurulation
-Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Germ Layers and Body Plan
 
 ## Steps
 
@@ -9027,7 +9027,7 @@ Cells at the lateral borders of the neural plate become neural crest and migrate
 > Notochord-derived sonic hedgehog induces the neural plate.
 
 Library: Neural tube defects
-Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Germ Layers and Body Plan
 
 ## Key findings
 
@@ -9051,7 +9051,7 @@ Neural tube defects come from incomplete closure of a neuropore. They're detecte
 > Rostral neuropore failure causes anencephaly; caudal neuropore failure causes spina bifida.
 
 Library: Folding defects of the body wall
-Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Germ Layers and Body Plan
 
 ## Key findings
 
@@ -9067,7 +9067,7 @@ Errors in embryonic folding leave organs outside the body.
 > Omphalocele passes through the umbilicus, while gastroschisis passes through the abdominal wall.
 
 Library: The fetus as a semi-allograft
-Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Immunology of Pregnancy
 
 ## Key findings
 
@@ -9083,7 +9083,7 @@ Tolerance comes from a combination of progesterone, estradiol, hCG, cytokines, r
 > The fetus is a semi-allograft, and its protection resembles tumor immunology more than transplant immunology.
 
 Library: Hormones and maternal tolerance
-Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Immunology of Pregnancy
 
 ## Neuroendocrine-immune network
 
@@ -9102,7 +9102,7 @@ The AIRE gene, the thymus's "library" of self-antigens, appears to be involved i
 > Progesterone expands regulatory T cells, and estradiol shifts immunity from Th1 to Th2.
 
 Library: IDO1 in pregnancy and cancer
-Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Immunology of Pregnancy
 
 ## Key findings
 
@@ -9118,7 +9118,7 @@ Some cancers make IDO1 to hide from the immune system. IDO inhibitors such as in
 > IDO1 suppresses maternal T-cell attack, and tumors use the same trick.
 
 Library: Immune stages of pregnancy
-Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Immunology of Pregnancy
 
 ## Key findings
 
@@ -9139,7 +9139,7 @@ Microbial exposure and acquiring a microbiome mature the newborn's immune system
 > Pregnancy moves from Th1 at implantation, to Th2 during fetal growth, and back to Th1 for labor.
 
 Library: Maternal IgG transfer and Rh disease
-Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Immunology of Pregnancy
 
 ## Brambell receptor (FcRn)
 
@@ -9156,7 +9156,7 @@ Rh disease is prevented with RhoGAM (anti-RhD immune globulin).
 > Rh disease affects a later pregnancy because the anti-RhD antibodies form after the first.
 
 Library: Infections in pregnancy
-Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Immunology of Pregnancy
 
 ## Key findings
 
@@ -9170,7 +9170,7 @@ Pregnancy doesn't cause global immunosuppression, but it changes how some infect
 > Listeriosis, tuberculosis, and malaria are more likely in pregnancy.
 
 Library: Gestational age vs. embryonic age
-Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Prenatal Timeline and Congenital Abnormalities
 
 ## Key findings
 
@@ -9191,7 +9191,7 @@ Ultrasound measurements (crown-rump length, femur length, and head measurements)
 > Gestational age runs about 2 weeks ahead of embryonic age.
 
 Library: Embryonic period milestones
-Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Prenatal Timeline and Congenital Abnormalities
 
 ## Key findings
 
@@ -9208,7 +9208,7 @@ The embryonic period (weeks 0 to 8) is the most critical stage, when the foundat
 > Weeks 5 to 8, the organogenetic period, are when teratogens do the most damage.
 
 Library: Fetal period milestones
-Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Prenatal Timeline and Congenital Abnormalities
 
 ## Key findings
 
@@ -9227,7 +9227,7 @@ The fetal period (week 9 to birth) is a time of rapid growth and tissue differen
 > Surfactant production starts at weeks 21 to 25, and survival after preterm birth becomes likely at weeks 26 to 29.
 
 Library: Prenatal testing
-Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Prenatal Timeline and Congenital Abnormalities
 
 ## Key findings
 
@@ -9242,7 +9242,7 @@ Neural tube defects are also screened with alpha-fetoprotein (AFP).
 > Chorionic villus sampling can be done earlier than amniocentesis.
 
 Library: Types of birth defects
-Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Prenatal Timeline and Congenital Abnormalities
 
 ## Key findings
 
@@ -9266,7 +9266,7 @@ Genetic causes are the most common cause of birth defects:
 > A malformation is intrinsically abnormal, while a disruption damages normal development from outside.
 
 Library: Teratogens
-Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Prenatal Timeline and Congenital Abnormalities
 
 ## Key findings
 
@@ -9289,7 +9289,7 @@ A teratogen is any agent that causes or raises the rate of congenital abnormalit
 > Folic acid in pregnancy cuts neural tube defects by about half.
 
 Library: TORCH infections
-Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Prenatal Timeline and Congenital Abnormalities
 
 ## Key findings
 
@@ -9312,7 +9312,7 @@ Hepatitis B, HIV, syphilis, parvovirus B19, VZV, influenza, malaria, listeriosis
 > Toxoplasmosis causes diffuse calcifications, while CMV causes periventricular calcifications.
 
 Library: Chorionic villi
-Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placenta and Extraembryonic Membranes
 
 ## Development
 
@@ -9333,7 +9333,7 @@ The chorionic plate lines the inside of the cytotrophoblast, and the villi form 
 > Tertiary villi are the stage in which fetal blood vessels appear.
 
 Library: Chorion and decidua
-Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placenta and Extraembryonic Membranes
 
 ## Chorion
 
@@ -9357,7 +9357,7 @@ The functional layer of the endometrium, shed at childbirth.
 > The placenta is the chorion frondosum (fetal side) plus the decidua basalis (maternal side).
 
 Library: Amnion and amniotic fluid
-Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placenta and Extraembryonic Membranes
 
 ## Amnion
 
@@ -9377,7 +9377,7 @@ Clear fluid containing fetal cells, enzymes, amino acids, and hormones; the volu
 > Oligohydramnios causes deformations such as clubfoot and Potter sequence.
 
 Library: Placenta structure and function
-Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placenta and Extraembryonic Membranes
 
 ## Structure
 
@@ -9399,7 +9399,7 @@ Oxygen, nutrients, antibodies (IgG), steroid hormones, drugs and alcohol, poison
 > The placenta's maternal part is the decidua basalis, and its fetal part is the chorion frondosum.
 
 Library: Placental circulation
-Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placenta and Extraembryonic Membranes
 
 ## Maternal side
 
@@ -9417,7 +9417,7 @@ Exchange happens in the fetal capillaries inside the villi.
 > The umbilical vein carries the oxygen-rich blood; the two umbilical arteries carry deoxygenated blood.
 
 Library: Yolk sac, allantois, and connecting stalk
-Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placenta and Extraembryonic Membranes
 
 ## Key findings
 
@@ -9431,7 +9431,7 @@ Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membrane
 > The connecting stalk becomes the umbilical cord.
 
 Library: Twinning and placentation
-Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placenta and Extraembryonic Membranes
 
 ## Key findings
 
@@ -9449,7 +9449,7 @@ Conjoined twins form when the embryonic disc doesn't fully divide, usually after
 > The later monozygotic twins split, the more membranes they share.
 
 Library: Placenta previa
-Folder: Foundations of Medicine / Week 10 / Placental Pathology
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placental Pathology
 
 ## Key findings
 
@@ -9460,7 +9460,7 @@ Folder: Foundations of Medicine / Week 10 / Placental Pathology
 > Placenta previa covers the internal cervical os and requires cesarean delivery.
 
 Library: Placenta accreta spectrum
-Folder: Foundations of Medicine / Week 10 / Placental Pathology
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placental Pathology
 
 ## Key findings
 
@@ -9478,7 +9478,7 @@ Higher risk of postpartum hemorrhage and maternal death.
 > In the accreta spectrum, the missing decidua lets villi attach to or invade the myometrium.
 
 Library: Placental abruption
-Folder: Foundations of Medicine / Week 10 / Placental Pathology
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placental Pathology
 
 ## Key findings
 
@@ -9489,7 +9489,7 @@ Folder: Foundations of Medicine / Week 10 / Placental Pathology
 > Painful bleeding before delivery suggests placental abruption, which is linked to smoking.
 
 Library: Hydatidiform mole: complete vs. partial
-Folder: Foundations of Medicine / Week 10 / Placental Pathology
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placental Pathology
 
 ## Key findings
 
@@ -9506,7 +9506,7 @@ Hydropic villi are a common differential diagnosis for molar pregnancy.
 > A complete mole is 46,XX with only paternal DNA, so it's p57 negative.
 
 Library: Umbilical cord abnormalities
-Folder: Foundations of Medicine / Week 10 / Placental Pathology
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placental Pathology
 
 ## Cord findings
 
@@ -9532,7 +9532,7 @@ Folder: Foundations of Medicine / Week 10 / Placental Pathology
 > A normal cord has two arteries and one vein.
 
 Library: Oligohydramnios sequences and amniotic bands
-Folder: Foundations of Medicine / Week 10 / Placental Pathology
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placental Pathology
 
 ## Key findings
 
@@ -9545,7 +9545,7 @@ Folder: Foundations of Medicine / Week 10 / Placental Pathology
 > Potter syndrome links oligohydramnios to pulmonary hypoplasia and limb deformations.
 
 Library: Other placental findings
-Folder: Foundations of Medicine / Week 10 / Placental Pathology
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placental Pathology
 
 ## Key findings
 
@@ -9561,7 +9561,7 @@ Folder: Foundations of Medicine / Week 10 / Placental Pathology
 > Meconium passed in utero can be aspirated and can stain the placenta green.
 
 Library: Amniotic fluid infection sequence
-Folder: Foundations of Medicine / Week 10 / Placental Pathology
+Folder: Foundations of Medicine / Week 10: Foundations of Early Development: Foundations of Early Development / Placental Pathology
 
 ## Key findings
 
