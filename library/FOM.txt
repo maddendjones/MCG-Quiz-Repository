@@ -8816,6 +8816,765 @@ Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II
 
 > On MacConkey agar, lactose fermenters turn red.
 
+Library: Sperm structure and capacitation
+Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+
+## Sperm structure
+
+| Part | Function |
+|---|---|
+| Acrosome | Sac of digestive enzymes needed to get through the zona pellucida |
+| Nucleus | Tightly condensed, inactive chromatin, which allows efficient movement |
+| Mitochondrial sheath | Sits in the mid-piece and powers the flagellum |
+| Flagellum | Runs through the mid-piece and tail |
+
+## Capacitation
+
+Sperm become more capable of motility and fertilization after they enter the vagina.
+
+1. Sperm start out with cholesterol-rich plasma membranes, which limit motility and the ability to activate the ZP3 receptor
+2. Cervical and uterine secretions remove the cholesterol
+3. Calcium flows into the sperm cytoplasm and hyperactivates motility
+
+> Capacitation removes membrane cholesterol so calcium can hyperactivate sperm motility.
+
+Library: Zona pellucida and blocks to polyspermy
+Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+
+## Zona pellucida
+
+A thick, transparent extracellular matrix around the oocyte that:
+
+- Contains the sperm-binding receptors
+- Cross-links after the first sperm fuses, which blocks polyspermy
+- Prevents premature implantation (ectopic pregnancy) while the zygote travels through the uterine tube
+- Is broken down by trophoblast proteolytic enzymes at about days 5 to 6
+
+## Sequence of fertilization
+
+| Event | What happens |
+|---|---|
+| Acrosome reaction | Enzymes that degrade the zona pellucida are released, the sperm pushes through, and the sperm and egg membranes fuse |
+| Cortical reaction | Cortical granules cross-link the zona pellucida so it becomes impermeable to other sperm |
+| Completion of meiosis II | The oocyte, arrested at metaphase II, finishes meiosis II; the male and female pronuclei decondense and fuse |
+| First zygotic mitosis | Follows fusion of the sperm and oocyte DNA |
+
+> The cortical reaction cross-links the zona pellucida to block polyspermy.
+
+Library: Cleavage, morula, and blastocyst
+Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+
+## Key findings
+
+| Stage | Description |
+|---|---|
+| Zygote | The fertilized egg |
+| Cleavage | Mitotic divisions over about the first 4 days that split the zygote into smaller and smaller blastomeres |
+| Morula | A loose cluster of 12 to 16 cells, usually by day 3; compaction turns it into a smooth ball joined by adherens junctions |
+| Blastocyst | Forms as fluid is secreted into a cavity |
+
+## Parts of the blastocyst
+
+| Part | Becomes |
+|---|---|
+| Trophoblast (outer cells) | The placenta, through the fetal chorion |
+| Inner cell mass | The embryo, through the epiblast and hypoblast |
+
+> The trophoblast becomes the placenta, and the inner cell mass becomes the embryo.
+
+Library: Implantation and the trophoblast
+Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+
+## Timing
+
+Implantation occurs between days 6 and 12; the placenta lecture places it at about 5 to 6 days after fertilization. It begins when the trophoblast contacts the endometrium, and afterward the uterine epithelium regenerates over the site.
+
+## Trophoblast layers
+
+| Layer | Features |
+|---|---|
+| Cytotrophoblast | Inner layer of mononucleate cells (the original single layer); cells divide and push into the syncytiotrophoblast to form primary villi |
+| Syncytiotrophoblast | Multinucleated because cytokinesis doesn't finish; secretes enzymes that degrade the uterine wall and pull the blastocyst in, eroding into maternal capillaries |
+
+## Lacunae
+
+Channels form inside the syncytiotrophoblast. As the blastocyst grows and meets uterine arteries, maternal blood and gland secretions fill the lacunae, creating the primitive uteroplacental circulation. The embryo first gets nutrients and oxygen by diffusion.
+
+> The syncytiotrophoblast invades the uterine wall and makes hCG.
+
+Library: Human chorionic gonadotropin (hCG)
+Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+
+## Key findings
+
+- Secreted by the syncytiotrophoblast
+- Maintains the corpus luteum and stimulates progesterone production, which keeps the pregnancy going
+- Rises through the first trimester
+- Promotes maternal tolerance and helps trophoblast invasion
+- Measurable shortly after implantation, which is the basis of pregnancy tests (implantation has to have happened)
+
+## hCG in molar pregnancy
+
+| Mole | hCG |
+|---|---|
+| Complete | Markedly increased |
+| Partial | Somewhat increased |
+
+> hCG keeps the corpus luteum making progesterone in early pregnancy.
+
+Library: Bilaminar embryonic disc
+Folder: Foundations of Medicine / Week 10 / Fertilization and Implantation
+
+## Key findings
+
+The bilaminar disc is an oval plate of two epithelial layers that forms from the inner cell mass around days 7 to 8.
+
+| Structure | Features | Fate |
+|---|---|---|
+| Epiblast | Columnar layer nearest the embryonic pole and trophoblast | The embryo proper and the amniotic sac; all three germ layers at gastrulation |
+| Hypoblast | Cuboidal layer beneath the epiblast, nearest the cavity | The primary yolk sac lining; replaced by endoderm during gastrulation |
+| Amnioblasts | Form the amniotic membrane | Enclose the amniotic cavity, which eventually surrounds the embryo |
+| Extraembryonic mesoderm | Forms around day 9 between the cytotrophoblast and the exocoelomic cavity | Blood vessels and connective tissue of the amniotic sac, umbilical cord, yolk sac, and chorion |
+
+> The epiblast gives rise to all three germ layers; the hypoblast is replaced by endoderm.
+
+Library: Gastrulation and the primitive streak
+Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+
+## Key findings
+
+Gastrulation rearranges cells to turn the bilaminar disc into a trilaminar disc of ectoderm, mesoderm, and endoderm.
+
+- The primitive streak is the first morphological marker and sets the craniocaudal axis. It forms from migrating epiblast cells on the caudal side of the median plane.
+- The primitive groove is a depression in the middle of the streak that lets cells migrate through the epiblast.
+
+## Order of migration
+
+| Cells | Become |
+|---|---|
+| First cells through the groove | Endoderm, which replaces the hypoblast |
+| Second cells through the groove | Mesoderm |
+| Cells that don't ingress | Ectoderm |
+
+> The primitive streak is the first sign of gastrulation and defines the craniocaudal axis.
+
+Library: Ectoderm derivatives
+Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+
+## Key findings
+
+| Subdivision | Gives rise to |
+|---|---|
+| Surface (non-neural) ectoderm | Epidermis, hair and nails, subcutaneous and mammary glands, anterior pituitary, tooth enamel, lens and cornea |
+| Neural tube | Central nervous system |
+| Neural crest | Peripheral nervous system, sympathetic and parasympathetic ganglia, pigment cells of the dermis, and some muscle and connective tissue |
+
+The amnion is also a thin ectodermal membrane derived from the epiblast.
+
+> The neural tube forms the CNS, while the neural crest forms the peripheral nervous system and ganglia.
+
+Library: Mesoderm derivatives
+Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+
+## Key findings
+
+| Subdivision | Gives rise to |
+|---|---|
+| Axial mesoderm (chordamesoderm) | The notochord, which stiffens the embryo, is the precursor of the axial skeleton, and signals to induce the neural plate |
+| Paraxial mesoderm | Somites (sclerotome and dermomyotome); in the head, striated muscles of the face, jaw, and throat; in the trunk, vertebrae, ribs and rib cartilage, back muscles, and dermis of the back |
+| Intermediate mesoderm | Urogenital structures |
+| Lateral plate mesoderm, somatic layer | Lateral and ventral body walls and serous membranes |
+| Lateral plate mesoderm, visceral layer | Gut wall and the serous membrane around each organ |
+
+> Paraxial mesoderm forms somites; intermediate mesoderm forms urogenital structures.
+
+Library: Endoderm derivatives
+Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+
+## Key findings
+
+Endoderm forms the linings and glands that come off the primitive gut:
+
+- Lining of the GI tract
+- Lung buds and trachea
+- Liver, gallbladder, and pancreas
+- Thymus, thyroid, and parathyroid glands
+- Urethra and urinary bladder
+- Reproductive system
+
+## Related structures
+
+- The yolk sac is lined by extraembryonic endoderm from the hypoblast
+- The allantois is an endoderm-lined outpocketing of the hindgut
+
+> Endoderm lines the gut tube and forms its glands, including the liver and pancreas.
+
+Library: Neurulation
+Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+
+## Steps
+
+1. The notochord (from chordamesoderm) secretes sonic hedgehog, which specifies the overlying ectoderm as the neural plate
+2. The edges of the neural plate rise as neural folds, and the middle sinks as the neural groove
+3. The folds fuse into the neural tube, which separates from the overlying ectoderm
+4. Fusion starts in the middle and zips toward both ends, leaving temporary openings called neuropores
+5. The rostral and caudal neuropores close in week 4
+
+## Neural crest
+
+Cells at the lateral borders of the neural plate become neural crest and migrate throughout the embryo to form many tissues.
+
+> Notochord-derived sonic hedgehog induces the neural plate.
+
+Library: Neural tube defects
+Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+
+## Key findings
+
+Neural tube defects come from incomplete closure of a neuropore. They're detected with fetal ultrasound, alpha-fetoprotein (AFP), amniocentesis, or blood tests. Folic acid during pregnancy cuts them by about 50%, and the critical window is days 18 to 33.
+
+| Defect | Neuropore | Description |
+|---|---|---|
+| Anencephaly | Rostral | Absence of much of the brain, skull, and scalp; not viable, and the infant dies soon after birth |
+| Exencephaly | Rostral | Mostly normal brain tissue outside the skull; not viable |
+| Encephalocele | Rostral | Brain and meninges protrude through a skull opening, covered by skin |
+| Spina bifida | Caudal | Vertebral defect exposing the spinal cord from failed caudal neuropore closure |
+
+## Forms of spina bifida
+
+| Form | Contents |
+|---|---|
+| Occulta | Skin covers the vertebral defect, often with a tuft of hair |
+| Meningocele | Sac with meninges and CSF |
+| Myelomeningocele | Sac with spinal cord and nerves |
+
+> Rostral neuropore failure causes anencephaly; caudal neuropore failure causes spina bifida.
+
+Library: Folding defects of the body wall
+Folder: Foundations of Medicine / Week 10 / Germ Layers and Body Plan
+
+## Key findings
+
+Errors in embryonic folding leave organs outside the body.
+
+| Defect | Folding error | Description |
+|---|---|---|
+| Omphalocele | Lateral | Intestine or other abdominal organs outside the body through a hole in the umbilicus |
+| Gastroschisis | Lateral | Intestines outside the body through a hole in the abdominal wall |
+| Ectopia cordis | Head (rostral) | Heart partly or completely outside the thorax |
+| Bladder exstrophy | Tail (caudal) | Urinary bladder protrudes through an abdominal wall defect |
+
+> Omphalocele passes through the umbilicus, while gastroschisis passes through the abdominal wall.
+
+Library: The fetus as a semi-allograft
+Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+
+## Key findings
+
+- The embryo carries both maternal and paternal antigens, so it's a semi-allograft; in a surrogate pregnancy it carries two sets of foreign antigens
+- The mother has to keep protecting against microbes while not attacking paternal antigens
+- The mechanism looks more like tumor immunology than transplant immunology
+- Pregnancy doesn't cause global immunosuppression, but it does raise the risk of some infections
+
+## No single mechanism of tolerance
+
+Tolerance comes from a combination of progesterone, estradiol, hCG, cytokines, regulatory T cells, and IDO1.
+
+> The fetus is a semi-allograft, and its protection resembles tumor immunology more than transplant immunology.
+
+Library: Hormones and maternal tolerance
+Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+
+## Neuroendocrine-immune network
+
+Neurologic, endocrine, and immune circuits work together, and T, B, and NK cells carry hormone receptors. Estradiol, progesterone, and hCG are the major players in establishing, maintaining, and ending pregnancy.
+
+| Hormone | Immune role |
+|---|---|
+| Progesterone | Rises with ovulation, prepares the uterus for implantation, and expands regulatory T cells; also made by the placenta |
+| Estradiol | Rises as the placenta makes more of it; shifts the maternal response from Th1 to Th2 |
+| hCG | Promotes tolerance and helps trophoblast invasion |
+
+## APS-1 (APECED)
+
+The AIRE gene, the thymus's "library" of self-antigens, appears to be involved in tolerance to fetal antigens. More than 60% of women with APS-1 have infertility or fetal loss.
+
+> Progesterone expands regulatory T cells, and estradiol shifts immunity from Th1 to Th2.
+
+Library: IDO1 in pregnancy and cancer
+Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+
+## Key findings
+
+Indoleamine 2,3-dioxygenase 1 (IDO1) catalyzes the oxidation of L-tryptophan and is needed for invasion into the endometrium.
+
+- It's immunosuppressive: it dampens cytotoxic T-cell responses by activating regulatory T cells
+- It blocks conversion of regulatory T cells into Th17-like cells
+
+## Link to cancer
+
+Some cancers make IDO1 to hide from the immune system. IDO inhibitors such as indoximod boost anti-tumor responses and are often used for melanoma.
+
+> IDO1 suppresses maternal T-cell attack, and tumors use the same trick.
+
+Library: Immune stages of pregnancy
+Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+
+## Key findings
+
+| Stage | Immune state | Key events |
+|---|---|---|
+| Implantation and placenta formation | Th1, pro-inflammatory | Apposition (IL-1, IL-6, more vascular permeability), adhesion, and invasion driven by inflammatory cytokines (IL-6, IL-8, IL-15, GM-CSF, TNF, TGF-beta), much like malignant cells |
+| Fetal growth | Th2, anti-inflammatory | Macrophages clear dying trophoblast so paternal antigens aren't released; regulatory T cells protect fetal cells; NK cells help control inflammation |
+| Labor and delivery | Th1, pro-inflammatory | NF-kB activation, triggered by fetal lung surfactant protein A acting on TLR4 and by DAMPs |
+
+## Autoimmune disease in pregnancy
+
+Th1-driven autoimmune diseases tend to have reduced severity during pregnancy, consistent with the Th2 shift of fetal growth.
+
+## After birth
+
+Microbial exposure and acquiring a microbiome mature the newborn's immune system, shifting it from Th2 to Th1.
+
+> Pregnancy moves from Th1 at implantation, to Th2 during fetal growth, and back to Th1 for labor.
+
+Library: Maternal IgG transfer and Rh disease
+Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+
+## Brambell receptor (FcRn)
+
+FcRn actively transports maternal IgG across the placenta. Nothing protects the fetus from maternal pathologic antibodies, so autoantibodies cross too.
+
+## Rh disease
+
+1. An RhD-negative mother carries an RhD-positive infant (the father is RhD positive)
+2. She makes anti-RhD antibodies after that pregnancy
+3. In a later pregnancy, maternal anti-RhD IgG crosses the placenta and attacks fetal red cells
+
+Rh disease is prevented with RhoGAM (anti-RhD immune globulin).
+
+> Rh disease affects a later pregnancy because the anti-RhD antibodies form after the first.
+
+Library: Infections in pregnancy
+Folder: Foundations of Medicine / Week 10 / Immunology of Pregnancy
+
+## Key findings
+
+Pregnancy doesn't cause global immunosuppression, but it changes how some infections behave.
+
+| Effect | Infections |
+|---|---|
+| Increased susceptibility | Listeriosis, tuberculosis, malaria |
+| Increased severity | H. influenzae, group A strep, pneumococcal disease, influenza, VZV, HSV, measles, hepatitis E, malaria, dengue, Lassa fever, Ebola |
+
+> Listeriosis, tuberculosis, and malaria are more likely in pregnancy.
+
+Library: Gestational age vs. embryonic age
+Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+
+## Key findings
+
+| Measure | Starts from | Notes |
+|---|---|---|
+| Gestational age | First day of the last normal menstrual period (LNMP) | Pregnancy lasts 280 days (40 weeks); the clinical standard |
+| Embryonic age | Conception | About 2 weeks less than gestational age, because ovulation usually happens 14 days after the start of the last period |
+
+## Embryo vs. fetus
+
+- Embryo: fertilization to week 8
+- Fetus: 9 weeks after fertilization to birth
+
+## Estimating age
+
+Ultrasound measurements (crown-rump length, femur length, and head measurements) estimate age and the delivery date.
+
+> Gestational age runs about 2 weeks ahead of embryonic age.
+
+Library: Embryonic period milestones
+Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+
+## Key findings
+
+The embryonic period (weeks 0 to 8) is the most critical stage, when the foundation for many organs is laid.
+
+| Week | Milestones |
+|---|---|
+| 1 | Fertilization and blastocyst formation |
+| 2 | Implantation; two-layered embryo (epiblast and hypoblast) |
+| 3 | Gastrulation; notochord forms, neurulation begins, heart and blood vessels begin to form |
+| 4 | Rostral and caudal neuropores close; pharyngeal arches begin; C-shaped curve; upper and lower limb buds; organ systems begin |
+| 5 to 8 | All major organs established; the organogenetic period, when teratogens do the most damage |
+
+> Weeks 5 to 8, the organogenetic period, are when teratogens do the most damage.
+
+Library: Fetal period milestones
+Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+
+## Key findings
+
+The fetal period (week 9 to birth) is a time of rapid growth and tissue differentiation.
+
+| Weeks | Milestones |
+|---|---|
+| 9 to 12 | Urinary system becomes functional; external genitalia distinguishable at 12 weeks |
+| 13 to 16 | Ossification of the skeleton |
+| 17 to 20 | Quickening (fetal movement); vernix caseosa appears, held on by lanugo hair |
+| 21 to 25 | Surfactant production begins in the alveoli |
+| 26 to 29 | Usually survives if born early (lungs can exchange gas); breathing movements; eyelids can open |
+| 30 to 34 | Pupillary reflex present by the end |
+| 35 to 38 | Growth slows |
+
+> Surfactant production starts at weeks 21 to 25, and survival after preterm birth becomes likely at weeks 26 to 29.
+
+Library: Prenatal testing
+Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+
+## Key findings
+
+| Test | Description |
+|---|---|
+| Ultrasonography | The primary imaging method; shows the placenta, fetus, multiple gestations, and abnormalities |
+| Amniocentesis | After 15 weeks; amniotic fluid with sloughed fetal cells is sampled for genetic testing |
+| Chorionic villus sampling (CVS) | Biopsy of trophoblastic tissue; detects chromosomal abnormalities and X-linked disorders; can be done earlier than amniocentesis |
+
+Neural tube defects are also screened with alpha-fetoprotein (AFP).
+
+> Chorionic villus sampling can be done earlier than amniocentesis.
+
+Library: Types of birth defects
+Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+
+## Key findings
+
+| Term | Meaning |
+|---|---|
+| Malformation | Intrinsically abnormal development |
+| Disruption | An extrinsic problem affecting originally normal development |
+| Deformation | Mechanical forces, often from oligohydramnios (for example, clubfoot) |
+| Dysplasia | Abnormal organization of cells within a tissue |
+| Syndrome | Anomalies occurring together with a specific common cause (Down syndrome) |
+| Association | Anomalies occurring together nonrandomly with an unknown cause (VACTERL association) |
+
+## Genetic causes
+
+Genetic causes are the most common cause of birth defects:
+
+- Trisomy from meiotic nondisjunction (Down syndrome)
+- A mutant gene with lost or changed function (fragile X syndrome)
+- Signaling errors, such as inherited sonic hedgehog mutations causing holoprosencephaly
+
+> A malformation is intrinsically abnormal, while a disruption damages normal development from outside.
+
+Library: Teratogens
+Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+
+## Key findings
+
+A teratogen is any agent that causes or raises the rate of congenital abnormalities. The effect depends on timing, and the embryo is most easily disturbed during organogenesis (weeks 4 to 8 in the teratogen table; the prenatal timeline lists weeks 5 to 8).
+
+| Teratogen | Effects |
+|---|---|
+| Thalidomide | Meromelia or amelia (missing part or all of a limb), heart defects |
+| Retinoic acid (for severe acne) | Craniofacial dysmorphism, cardiovascular defects such as transposition of the great vessels, CNS defects (neural tube defects, hydrocephalus, microcephaly) |
+| Alcohol (fetal alcohol syndrome) | Thin upper lip, smooth philtrum, small palpebral fissures, growth deficits, CNS and heart defects |
+| Cigarette smoking | Growth restriction, prematurity, low birth weight, placental abruption, stillbirth |
+| Folic acid deficiency | Neural tube defects (critical window days 18 to 33) |
+| Radiation | Chromosomal damage and death of dividing cells: microcephaly, intellectual disability, growth restriction, malignancy |
+
+## Mechanisms worth knowing
+
+- Smoking: nicotine constricts uterine vessels and lowers perfusion, while carbon monoxide impairs oxygen transport
+- Folic acid supplementation cuts neural tube defects by about 50% and cleft lip by about 50%
+
+> Folic acid in pregnancy cuts neural tube defects by about half.
+
+Library: TORCH infections
+Folder: Foundations of Medicine / Week 10 / Prenatal Timeline and Congenital Abnormalities
+
+## Key findings
+
+TORCH infections cross the placenta and cause similar congenital findings: Toxoplasmosis, Rubella, CMV, and HSV.
+
+| Infection | Congenital findings | Maternal clues |
+|---|---|---|
+| Toxoplasma gondii | Chorioretinitis, hydrocephalus, diffuse intracranial calcifications | Undercooked meat or cat feces; usually asymptomatic in the mother |
+| Rubella | Eyes (cataracts, glaucoma), heart defects, sensorineural hearing loss, blueberry muffin rash | Highest risk in the first trimester; rare in the US because of vaccination |
+| CMV | Low birth weight, microcephaly, sensorineural hearing loss, chorioretinitis, hepatosplenomegaly with jaundice, periventricular calcifications | The most common fetal viral infection; spread by body fluids and contact with children in daycare |
+
+## Infections acquired at birth
+
+Group B strep colonizes the vagina and passes to the baby during childbirth, causing meningitis, pneumonia, and sepsis.
+
+## Other perinatal infections
+
+Hepatitis B, HIV, syphilis, parvovirus B19, VZV, influenza, malaria, listeriosis, tuberculosis, Zika, measles, and mumps.
+
+> Toxoplasmosis causes diffuse calcifications, while CMV causes periventricular calcifications.
+
+Library: Chorionic villi
+Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+
+## Development
+
+1. Cytotrophoblast cells push into the syncytiotrophoblast to form primary villi
+2. Primary villi become secondary villi
+3. Tertiary villi form once the embryo's own blood vessels develop in them
+
+Villi supply nutrients and oxygen and form the outer cytotrophoblast shell.
+
+## Distribution
+
+Villi first cover the entire chorion. As pregnancy advances they grow only at the embryonic pole (the chorion frondosum) and degenerate at the abembryonic pole.
+
+## Chorionic plate
+
+The chorionic plate lines the inside of the cytotrophoblast, and the villi form around it for maximum contact with maternal blood.
+
+> Tertiary villi are the stage in which fetal blood vessels appear.
+
+Library: Chorion and decidua
+Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+
+## Chorion
+
+The outermost fetal membrane, surrounding the embryo, amnion, yolk sac, and umbilical cord. It's made of the two trophoblast layers plus extraembryonic mesoderm and forms the fetal part of the placenta.
+
+| Part | Location | Fate |
+|---|---|---|
+| Chorion frondosum (bushy) | Embryonic pole | Forms blood vessels; the fetal placenta |
+| Smooth chorion | Abembryonic pole | Vessels degenerate; fuses with the decidua parietalis |
+
+## Decidua
+
+The functional layer of the endometrium, shed at childbirth.
+
+| Part | Location | Fate |
+|---|---|---|
+| Decidua basalis | Deep to the embryo | The maternal placenta; cells rich in lipid and glycogen |
+| Decidua capsularis | Over the embryo | Degenerates as the embryo grows |
+| Decidua parietalis | The rest of the uterus | Fuses with the smooth chorion |
+
+> The placenta is the chorion frondosum (fetal side) plus the decidua basalis (maternal side).
+
+Library: Amnion and amniotic fluid
+Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+
+## Amnion
+
+- A thin ectodermal membrane from the epiblast that encloses the embryo during folding
+- Holds the amniotic fluid, which leaves room for growth and normal movement
+- Fuses with the chorion to form the amniochorionic membrane, which obliterates the chorionic cavity and ruptures when the water breaks
+
+## Amniotic fluid
+
+Clear fluid containing fetal cells, enzymes, amino acids, and hormones; the volume rises over the pregnancy.
+
+| Term | Meaning | Linked problem |
+|---|---|---|
+| Polyhydramnios | Too much fluid | |
+| Oligohydramnios | Too little fluid | Deformations such as clubfoot; Potter sequence |
+
+> Oligohydramnios causes deformations such as clubfoot and Potter sequence.
+
+Library: Placenta structure and function
+Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+
+## Structure
+
+The placenta doesn't surround the baby. It has two parts:
+
+- Fetal: the bushy chorion (chorion frondosum)
+- Maternal: the decidua basalis
+
+Chorionic villi erode the decidua to create the intervillous space, and placental septa divide it into cotyledons, which are visible on the maternal surface after delivery.
+
+## Endocrine function
+
+The placenta makes hCG, progesterone, and estrogen.
+
+## What crosses the placenta
+
+Oxygen, nutrients, antibodies (IgG), steroid hormones, drugs and alcohol, poisons, carbon monoxide, and viruses.
+
+> The placenta's maternal part is the decidua basalis, and its fetal part is the chorion frondosum.
+
+Library: Placental circulation
+Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+
+## Maternal side
+
+Maternal blood enters the intervillous space from the spiral endometrial arteries and showers the villi for gas exchange.
+
+## Fetal side
+
+| Vessel | Number | Blood |
+|---|---|---|
+| Umbilical arteries | 2 | Poorly oxygenated blood from the fetus to the placenta |
+| Umbilical vein | 1 | Oxygen-rich blood back to the fetus |
+
+Exchange happens in the fetal capillaries inside the villi.
+
+> The umbilical vein carries the oxygen-rich blood; the two umbilical arteries carry deoxygenated blood.
+
+Library: Yolk sac, allantois, and connecting stalk
+Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+
+## Key findings
+
+| Structure | Features | Fate |
+|---|---|---|
+| Yolk sac | Sac in front of the embryo, lined by extraembryonic endoderm from the hypoblast; provides nutrients early | Incorporated into the gut tube during folding; the vitelline duct connecting it to the gut usually atrophies |
+| Allantois | Endoderm-lined outpocketing of the hindgut | Initially drains the urinary bladder |
+| Connecting stalk | The only place extraembryonic mesoderm crosses the whole chorionic cavity | Becomes the umbilical cord |
+| Chorionic cavity | Expansion of the extraembryonic cavity | Obliterated when the amnion fuses with the chorion |
+
+> The connecting stalk becomes the umbilical cord.
+
+Library: Twinning and placentation
+Folder: Foundations of Medicine / Week 10 / Placenta and Extraembryonic Membranes
+
+## Key findings
+
+Dizygotic twins come from two eggs and two sperm. Monozygotic twins come from one egg and one sperm, and the timing of the split decides how many chorions and amnions they share.
+
+| Twin type | Chorions | Amnions |
+|---|---|---|
+| Dizygotic | 2 (with 2 placentas) | 2 |
+| Monozygotic, early cleavage (morula) | 2 | 2 |
+| Monozygotic, blastocyst cleavage | 1 | 2 |
+| Monozygotic, late cleavage | 1 | 1 |
+
+Conjoined twins form when the embryonic disc doesn't fully divide, usually after late cleavage.
+
+> The later monozygotic twins split, the more membranes they share.
+
+Library: Placenta previa
+Folder: Foundations of Medicine / Week 10 / Placental Pathology
+
+## Key findings
+
+- The placenta covers the internal opening of the cervix
+- Total previa covers it completely, and partial previa covers part of it
+- Cesarean delivery is needed
+
+> Placenta previa covers the internal cervical os and requires cesarean delivery.
+
+Library: Placenta accreta spectrum
+Folder: Foundations of Medicine / Week 10 / Placental Pathology
+
+## Key findings
+
+The chorion adheres to the uterus without the intervening decidua, so the placenta can't separate normally at delivery.
+
+| Form | Depth |
+|---|---|
+| Accreta | Chorionic villi attach to the myometrium |
+| Percreta | Chorionic villi penetrate through the myometrium |
+
+## Consequence
+
+Higher risk of postpartum hemorrhage and maternal death.
+
+> In the accreta spectrum, the missing decidua lets villi attach to or invade the myometrium.
+
+Library: Placental abruption
+Folder: Foundations of Medicine / Week 10 / Placental Pathology
+
+## Key findings
+
+- Complete or partial separation of the placenta from the uterine wall before delivery
+- Abrupt onset of painful vaginal bleeding
+- Associated with hypertension, smoking, and small umbilical cords
+
+> Painful bleeding before delivery suggests placental abruption, which is linked to smoking.
+
+Library: Hydatidiform mole: complete vs. partial
+Folder: Foundations of Medicine / Week 10 / Placental Pathology
+
+## Key findings
+
+| Feature | Complete mole | Partial mole |
+|---|---|---|
+| Description | Abnormal placental growth with no fetus | Fetus partly present but dies as an embryo; fetal tissue present |
+| Genome | Two paternal genomes, no maternal copy (46,XX) | Triploid (69,XXY) |
+| hCG | Markedly increased | Somewhat increased |
+| p57 stain | Negative (no maternal copy) | Positive (maternal copy present) |
+| Other | 2% to 8% risk of choriocarcinoma; uterus large for gestational age | |
+
+Hydropic villi are a common differential diagnosis for molar pregnancy.
+
+> A complete mole is 46,XX with only paternal DNA, so it's p57 negative.
+
+Library: Umbilical cord abnormalities
+Folder: Foundations of Medicine / Week 10 / Placental Pathology
+
+## Cord findings
+
+| Finding | Significance |
+|---|---|
+| Single umbilical artery | Normally 2 arteries and 1 vein; a single artery raises the risk of certain conditions or stillbirth |
+| True knot | Can block oxygenation; more common with long cords; sometimes not significant |
+| Thrombosis | Clot within the cord, often with true knots |
+| Long cord | Knots, prolapse, and nuchal cord |
+| Small cord | Abruption; the cord may be absent |
+| Funisitis | Infection of the umbilical cord |
+
+## Cord insertion
+
+| Insertion | Description |
+|---|---|
+| Normal | Central two-thirds of the disc; oxygenation is less efficient farther from the center |
+| Peripheral | Within 3 cm of the disc edge; may be less efficient |
+| Marginal | Within 1 cm of the disc edge |
+| Velamentous | Inserts into the membranes outside the placenta, so vessels travel farther and can be compressed or torn; all velamentous insertions are also furcate |
+| Furcate | Vessels branch before reaching the placental surface; not all furcate insertions are velamentous |
+
+> A normal cord has two arteries and one vein.
+
+Library: Oligohydramnios sequences and amniotic bands
+Folder: Foundations of Medicine / Week 10 / Placental Pathology
+
+## Key findings
+
+| Condition | Description |
+|---|---|
+| Potter syndrome | Abnormal kidney growth with oligohydramnios, causing pulmonary hypoplasia and limb deformations |
+| Deformations | Mechanical forces from oligohydramnios, such as clubfoot |
+| Amniotic band syndrome | Fibrous amniotic bands encircle part of the fetus, causing ring constrictions or amputations |
+
+> Potter syndrome links oligohydramnios to pulmonary hypoplasia and limb deformations.
+
+Library: Other placental findings
+Folder: Foundations of Medicine / Week 10 / Placental Pathology
+
+## Key findings
+
+| Finding | Description | Significance |
+|---|---|---|
+| Calcifications | Calcium buildup, usually on the maternal surface | Usually not pathologic |
+| Infarction hematoma | Round clot surrounded by infarcted placenta; tan marginal lesions from poor perfusion and fibrin | Marginal lesions are common; some are pathologic |
+| Hydropic placenta | Swollen but recognizable cotyledons | |
+| Meconium passage in utero | First stool passed before birth instead of 24 to 48 hours after | Meconium aspiration syndrome if inhaled; vascular necrosis of large placental and cord vessels; can turn the placenta green |
+| Circummarginate membrane insertion | Flat fibrin ring inside the disc margin | Can cause flexion deformities |
+| Circumvallate membrane insertion | Raised from the surface | Can cause flexion deformities |
+
+> Meconium passed in utero can be aspirated and can stain the placenta green.
+
+Library: Amniotic fluid infection sequence
+Folder: Foundations of Medicine / Week 10 / Placental Pathology
+
+## Key findings
+
+Ascending infection into the amniotic cavity is much more common than other routes, and the fetal response is more common than the maternal one.
+
+| Stage | Maternal response | Fetal response |
+|---|---|---|
+| 1 | Acute chorionitis and subchorionitis | Chorionic plate vasculitis and umbilical vein phlebitis |
+| 2 | Acute chorioamnionitis | Inflammation of one or both umbilical arteries |
+| 3 | Necrotizing acute chorioamnionitis | Necrotizing funisitis, with arcs of neutrophils toward the surface |
+
+> Fetal inflammation starts in the chorionic plate vessels and umbilical vein, then spreads to the arteries.
+
 Library: Prospective vs. retrospective study designs
 Folder: Foundations of Medicine / Biostatistics / Study Designs
 
