@@ -6379,7 +6379,7 @@ Aggressive without treatment but potentially curable with R-CHOP.
 
 > DLBCL is the most common adult lymphoma and potentially curable with R-CHOP.
 
-Library: Burkitt lymphoma: starry sky and MYC translocation
+Library: Burkitt lymphoma: starry sky and t(8:14)
 Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
 
 ## Key findings
