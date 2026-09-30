@@ -10,7 +10,9 @@ Answer: A. Ribosome subunit assembly
 Order: Second
 Difficulty: Easy
 Reference: Nucleolus and ribosomes
-Why this is correct:The prominent structures are nucleoli, the site of rRNA transcription, pre-RNA processing, and ribosome subunit assembly. Cells with high protein synthesis, such as cancer cells and liver cells, tend to have more nucleoli.Why the other answers are wrong:
+Why this is correct:
+The prominent structures are nucleoli, the site of rRNA transcription, pre-RNA processing, and ribosome subunit assembly. Cells with high protein synthesis, such as cancer cells and liver cells, tend to have more nucleoli.
+Why the other answers are wrong:
 B. Basal bodies form when centrioles attach to the inner plasma membrane of non-dividing cells, not in the nucleus.
 C. Hydrogen peroxide is broken down by catalase in peroxisomes.
 D. Ubiquitinated proteins are degraded by proteasomes.
