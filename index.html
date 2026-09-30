@@ -1561,7 +1561,10 @@
       letter-spacing: 0.05em;
       color: var(--text-muted);
     }
-    .library-page + .library-page { border-top: 1px solid var(--border-sub); }
+    .library-page-row { position: relative; }
+    .library-page-row + .library-page-row { border-top: 1px solid var(--border-sub); }
+    .library-page-row.has-practice > .library-page > summary { padding-right: 104px; }
+    .library-practice { position: absolute; top: 9px; right: 0; white-space: nowrap; }
     .library-page summary {
       display: flex;
       align-items: center;
@@ -2072,7 +2075,7 @@
       </div>
       <div class="modal-body">
         <p style="color:var(--text-sub);">Paste formatted questions below. Headings formatted as <code>Folder / Subfolder / Sub-subfolder</code> will be parsed and nested automatically.</p>
-        <p class="format-hint">Each question needs a <code>Question N</code> line, lettered choices (<code>A.</code>, <code>B.</code>, &hellip; as many as you need), and an <code>Answer: X</code> line. Optional: <code>Order: First / Second / Third</code>, <code>Difficulty: Easy / Medium / Hard</code>, explanations (any length), an objective, and <code>Reference: Page title</code> to link a Library page. Load or download the sample to see every part. Re-importing a question updates it instead of duplicating it.</p>
+        <p class="format-hint">Each question needs a <code>Question N</code> line, lettered choices (<code>A.</code>, <code>B.</code>, &hellip; as many as you need), and an <code>Answer: X</code> line. Optional: <code>Order: First / Second / Third</code>, <code>Difficulty: Easy / Medium / Hard</code>, explanations (any length), an objective, and <code>Reference:</code> with a Library page title or folder to show those pages after the question is answered. Load or download the sample to see every part. Re-importing a question updates it instead of duplicating it.</p>
         <div style="display:flex; gap:10px; flex-wrap:wrap;">
           <button type="button" class="btn-soft" id="btnInsertSampleData" style="font-size:0.75rem;">Load Built-In Sample Test Questions</button>
           <button type="button" id="btnDownloadSample" style="font-size:0.75rem;">Download Sample .txt</button>
@@ -4644,6 +4647,22 @@
       return pages;
     }
 
+    // Library folder names match without regard to capital letters, punctuation, "&" versus "and",
+    // or a week's title: "Week 2", "Week 02" and "Week 2: Cell Biology" are the same week.
+    function folderKey(name) {
+      const words = String(name || "").toLowerCase().replace(/&/g, " and ").replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+      const week = words.match(/^week 0*(\d+)\b/);
+      return week ? `week ${week[1]}` : words;
+    }
+
+    function folderPath(text) {
+      return String(text || "").split("/").map(folderKey).filter(Boolean);
+    }
+
+    function isFolderPrefix(prefix, path) {
+      return prefix.length > 0 && prefix.length <= path.length && prefix.every((seg, i) => seg === path[i]);
+    }
+
     async function loadLibrary() {
       const pages = [];
       const embedded = document.getElementById("default-library-data");
@@ -4657,7 +4676,7 @@
       LIBRARY_PAGES = pages.map((p, i) => ({
         ...p,
         id: `lib${i}`,
-        path: p.folder.split("/").map(s => s.trim().toLowerCase()).filter(Boolean)
+        path: folderPath(p.folder)
       }));
       libraryStatus = { onWeb, embedded: !!embeddedText, files };
       if (activeView === "library") renderLibraryView();
@@ -4756,29 +4775,53 @@
       return html;
     }
 
-    // Pages named on the question's "Reference:" lines come first, then pages filed under the
-    // question's folder (most specific folder first).
-    function relatedLibraryPages(q) {
-      if (!LIBRARY_PAGES.length) return [];
+    function libraryTitleMap() {
       const byTitle = new Map();
       LIBRARY_PAGES.forEach(p => {
-        if (!byTitle.has(p.title.toLowerCase())) byTitle.set(p.title.toLowerCase(), p);
+        const key = p.title.toLowerCase();
+        if (!byTitle.has(key)) byTitle.set(key, p);
       });
+      return byTitle;
+    }
+
+    // A Reference: value names the page with that title or, if no page has it, every page filed
+    // in that library folder (for example "Foundations of Medicine / Week 2 / Cell Structure").
+    function referencedPages(ref, byTitle) {
+      const page = byTitle.get(ref.trim().toLowerCase());
+      if (page) return [page];
+      const path = folderPath(ref);
+      return path.length ? LIBRARY_PAGES.filter(p => isFolderPrefix(path, p.path)) : [];
+    }
+
+    // Only the pages a question names on its Reference: lines show under it, in the order named.
+    function relatedLibraryPages(q) {
+      if (!LIBRARY_PAGES.length) return [];
+      const byTitle = libraryTitleMap();
       const picked = [];
-      const seen = new Set();
-      const add = (p) => {
-        if (p && !seen.has(p.id)) {
-          seen.add(p.id);
-          picked.push(p);
-        }
-      };
-      (q.references || []).forEach(title => add(byTitle.get(title.toLowerCase())));
-      const qPath = subjectPath(q).split("/").map(s => s.trim().toLowerCase());
-      LIBRARY_PAGES
-        .filter(p => p.path.length && p.path.length <= qPath.length && p.path.every((seg, i) => seg === qPath[i]))
-        .sort((a, b) => b.path.length - a.path.length)
-        .forEach(add);
+      (q.references || []).forEach(ref => referencedPages(ref, byTitle).forEach(p => {
+        if (!picked.includes(p)) picked.push(p);
+      }));
       return picked.slice(0, 6);
+    }
+
+    // The questions that tag each page, directly or through its folder, keyed by page id.
+    function libraryTaggedQuestions() {
+      const byTitle = libraryTitleMap();
+      const resolved = new Map();
+      const tagged = new Map();
+      ALL_QUESTIONS.forEach(q => {
+        const ids = new Set();
+        (q.references || []).forEach(ref => {
+          const key = ref.trim().toLowerCase();
+          if (!resolved.has(key)) resolved.set(key, referencedPages(ref, byTitle));
+          resolved.get(key).forEach(p => ids.add(p.id));
+        });
+        ids.forEach(id => {
+          if (!tagged.has(id)) tagged.set(id, []);
+          tagged.get(id).push(q);
+        });
+      });
+      return tagged;
     }
 
     function libraryNotices() {
@@ -4795,18 +4838,24 @@
       LIBRARY_PAGES.filter((p, i, all) => counts.get(p.title.toLowerCase()) > 1 && all.findIndex(o => o.title.toLowerCase() === p.title.toLowerCase()) === i)
         .forEach(p => notes.push(`More than one page is titled "${p.title}". Questions link to the first one.`));
 
+      const byTitle = libraryTitleMap();
+      const found = new Map();
       const missing = new Map();
-      ALL_QUESTIONS.forEach(q => (q.references || []).forEach(title => {
-        if (!counts.has(title.toLowerCase())) missing.set(title, (missing.get(title) || 0) + 1);
+      ALL_QUESTIONS.forEach(q => (q.references || []).forEach(ref => {
+        const key = ref.trim().toLowerCase();
+        if (!found.has(key)) found.set(key, referencedPages(ref, byTitle).length > 0);
+        if (!found.get(key)) missing.set(ref, (missing.get(ref) || 0) + 1);
       }));
-      [...missing.entries()].slice(0, 8).forEach(([title, n]) => {
-        notes.push(`${n} question${n === 1 ? " references" : "s reference"} "${title}", but no library page has that title.`);
+      [...missing.entries()].slice(0, 8).forEach(([ref, n]) => {
+        notes.push(`${n} question${n === 1 ? " references" : "s reference"} "${ref}", but no library page or folder has that name.`);
       });
+      if (missing.size > 8) notes.push(`${missing.size - 8} more Reference: names don't match a library page or folder.`);
       return notes;
     }
 
     // Module > week > lecture. Modules and lectures keep the order they first appear in the library
-    // files, and weeks sort by number. Capital letters don't split a group; it shows the name as first written.
+    // files, and weeks sort by number. Names group the way folder tags match them (see folderKey),
+    // and each group shows its name as first written.
     function libraryTree(pages) {
       const modules = [];
       const node = (list, name, key) => {
@@ -4820,18 +4869,18 @@
       pages.forEach(p => {
         const names = p.folder.split("/").map(s => s.trim()).filter(Boolean);
         const moduleName = names[0] || "General";
-        const mod = node(modules, moduleName, `m:${moduleName.toLowerCase()}`);
+        const mod = node(modules, moduleName, `m:${folderKey(moduleName)}`);
         if (names.length < 2) {
           mod.pages.push(p);
           return;
         }
-        const week = node(mod.children, names[1], `${mod.key}/w:${names[1].toLowerCase()}`);
+        const week = node(mod.children, names[1], `${mod.key}/w:${folderKey(names[1])}`);
         if (names.length < 3) {
           week.pages.push(p);
           return;
         }
         const lecture = names.slice(2).join(" / ");
-        node(week.children, lecture, `${week.key}/l:${lecture.toLowerCase()}`).pages.push(p);
+        node(week.children, lecture, `${week.key}/l:${folderPath(lecture).join("/")}`).pages.push(p);
       });
       modules.forEach(mod => mod.children.sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: "base" })));
       return modules;
@@ -4841,12 +4890,21 @@
       return n.pages.length + n.children.reduce((sum, child) => sum + libraryPageCount(child), 0);
     }
 
-    function libraryPageRows(pages) {
-      return pages.map(p => `
-        <details class="library-page">
-          <summary>${esc(p.title)}</summary>
-          <div class="library-content">${renderLibraryMarkdown(p.body)}</div>
-        </details>`).join("");
+    function libraryPageRows(pages, tagged) {
+      return pages.map(p => {
+        const n = (tagged.get(p.id) || []).length;
+        const practice = n
+          ? `<button type="button" class="btn-quick-play library-practice" data-library-practice="${esc(p.id)}" title="Practice the ${n} question${n === 1 ? "" : "s"} tagged with this page">Practice (${n})</button>`
+          : "";
+        return `
+        <div class="library-page-row${n ? " has-practice" : ""}">
+          <details class="library-page">
+            <summary>${esc(p.title)}</summary>
+            <div class="library-content">${renderLibraryMarkdown(p.body)}</div>
+          </details>
+          ${practice}
+        </div>`;
+      }).join("");
     }
 
     function libraryGroup(cls, key, name, count, open, bodyHtml) {
@@ -4861,12 +4919,12 @@
         </div>`;
     }
 
-    function renderLibraryWeek(week, open) {
+    function renderLibraryWeek(week, open, tagged) {
       const lectures = week.children.map(l => ({ name: l.name, pages: l.pages }));
       if (week.pages.length && lectures.length) lectures.unshift({ name: "General / Overview", pages: week.pages });
       const body = lectures.length
-        ? lectures.map(l => `<div class="library-lecture"><div class="library-lecture-name">${esc(l.name)}</div>${libraryPageRows(l.pages)}</div>`).join("")
-        : libraryPageRows(week.pages);
+        ? lectures.map(l => `<div class="library-lecture"><div class="library-lecture-name">${esc(l.name)}</div>${libraryPageRows(l.pages, tagged)}</div>`).join("")
+        : libraryPageRows(week.pages, tagged);
       return libraryGroup("library-week", week.key, week.name, libraryPageCount(week), open, body);
     }
 
@@ -4893,13 +4951,14 @@
       }
       // A search opens every group with a match; otherwise groups stay as the student left them.
       const isOpen = (key) => !!needle || openLibraryKeys.has(key);
+      const tagged = libraryTaggedQuestions();
       libraryList.innerHTML = libraryTree(matches).map(mod => {
-        const weeks = mod.children.map(week => renderLibraryWeek(week, isOpen(week.key)));
+        const weeks = mod.children.map(week => renderLibraryWeek(week, isOpen(week.key), tagged));
         if (mod.pages.length && weeks.length) {
           const key = `${mod.key}/overview`;
-          weeks.unshift(renderLibraryWeek({ name: "General / Overview", key, pages: mod.pages, children: [] }, isOpen(key)));
+          weeks.unshift(renderLibraryWeek({ name: "General / Overview", key, pages: mod.pages, children: [] }, isOpen(key), tagged));
         }
-        const body = weeks.length ? weeks.join("") : `<div class="library-pages">${libraryPageRows(mod.pages)}</div>`;
+        const body = weeks.length ? weeks.join("") : `<div class="library-pages">${libraryPageRows(mod.pages, tagged)}</div>`;
         return libraryGroup("library-module", mod.key, mod.name, libraryPageCount(mod), isOpen(mod.key), body);
       }).join("");
     }
@@ -4914,9 +4973,27 @@
       else openLibraryKeys.delete(toggle.dataset.libraryToggle);
     }
 
-    function handleLibraryToggle(e) {
+    function handleLibraryClick(e) {
+      const practice = e.target.closest("[data-library-practice]");
+      if (practice) {
+        practiceLibraryPage(practice.dataset.libraryPractice);
+        return;
+      }
       const toggle = e.target.closest("[data-library-toggle]");
       if (toggle) setLibraryGroupOpen(toggle, toggle.getAttribute("aria-expanded") !== "true");
+    }
+
+    // Starts a block of the page's tagged questions, the same way the Practice buttons on the Create Test page do.
+    function practiceLibraryPage(id) {
+      const page = LIBRARY_PAGES.find(p => p.id === id);
+      if (!page) return;
+      let pool = (libraryTaggedQuestions().get(id) || []).slice();
+      if (!pool.length) {
+        showToast(`No questions are tagged with ${page.title} yet.`);
+        return;
+      }
+      if (document.getElementById("chkRandomizeQ").checked) pool = shuffle(pool);
+      startBlock(pool, `Library: ${page.title}`);
     }
 
     function setAllLibraryGroups(open) {
@@ -4944,6 +5021,7 @@ E. Acute HIV infection
 Answer: B. Epstein-Barr virus
 Order: Second
 Difficulty: Easy
+Reference: Infectious mononucleosis (EBV)
 Why this is correct: Epstein-Barr virus (EBV), a member of the Herpesviridae family, causes infectious mononucleosis characterized by the triad of fever, pharyngitis, and lymphadenopathy, accompanied by atypical reactive cytotoxic T-cells (CD8+) and a positive heterophile antibody test (Monospot).
 Why the other answers are wrong:
 A. Cytomegalovirus produces a mononucleosis-like illness but characteristically has a negative heterophile antibody test.
@@ -5262,7 +5340,7 @@ Objective: Know how acyclovir is activated and how it inhibits herpesvirus repli
 
       document.getElementById("chkSpacedReview").addEventListener("change", (e) => setSpacedReview(e.target.checked));
       librarySearch.addEventListener("input", renderLibraryView);
-      libraryList.addEventListener("click", handleLibraryToggle);
+      libraryList.addEventListener("click", handleLibraryClick);
       document.getElementById("btnLibraryExpandAll").addEventListener("click", () => setAllLibraryGroups(true));
       document.getElementById("btnLibraryCollapseAll").addEventListener("click", () => setAllLibraryGroups(false));
       explanationBox.addEventListener("click", (e) => {
