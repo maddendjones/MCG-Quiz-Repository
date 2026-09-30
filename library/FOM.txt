@@ -1,7 +1,5 @@
 WPS-Archive library: Foundations of Medicine, Weeks 2-9 and Biostatistics (all pages in one file).
 Lines above the first Library: line are notes and never appear on the site.
-Sources: each week's review or study guide plus FOM Diseases & Drugs; Week 8 antifungals and Week 9 come from FOM Diseases & Drugs, and Biostatistics comes from the EBM Foundations Review plus FOM Diseases & Drugs. Weeks 4, 6, 8, and 9 folders use the bare week number until course titles are confirmed.
-Last checked: September 30, 2026.
 
 Library: Nucleolus and ribosomes
 Folder: Foundations of Medicine / Week 2: Cellular, Molecular, and Genetic Foundations / Cell Structure and Intracellular Organelles
@@ -1625,7 +1623,7 @@ Folder: Foundations of Medicine / Week 3: Metabolic Foundations / Clinical Aspec
 > Homocystinuria dislocates the lens downward; Marfan syndrome dislocates it upward.
 
 Library: DNA hybridization and repeat sequences
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Key terms
 
@@ -1646,7 +1644,7 @@ Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
 > VNTRs (minisatellites) are used for paternity testing; microsatellites are hotspots for replication errors.
 
 Library: DNA polymerases, topoisomerases, and telomerase
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Polymerases
 
@@ -1673,7 +1671,7 @@ Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
 > Type I topoisomerases cut one strand without ATP; type II cut both strands and need ATP.
 
 Library: Sources of DNA damage and the Ames test
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Endogenous sources
 
@@ -1700,7 +1698,7 @@ Salmonella is modified so it can't grow without histidine. A mutagen causes muta
 > Deaminated methylcytosine becomes thymine, which repair enzymes don't recognize as foreign.
 
 Library: Trinucleotide repeat disorders and anticipation
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Anticipation
 
@@ -1718,7 +1716,7 @@ With each generation, symptoms appear at an earlier age. It usually results from
 > Anticipation (earlier onset each generation) points to a trinucleotide repeat disorder.
 
 Library: DNA repair pathways
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Key findings
 
@@ -1738,7 +1736,7 @@ Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
 > UV thymine dimers are repaired by nucleotide excision repair.
 
 Library: DNA repair disorders
-Folder: Foundations of Medicine / Week 4 / DNA Replication and Repair
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Replication and Repair
 
 ## Key findings
 
@@ -1758,7 +1756,7 @@ Aspirin, endoscopy surveillance, and immunotherapy.
 > Lynch syndrome is a mismatch repair defect that causes microsatellite instability.
 
 Library: Homologous recombination
-Folder: Foundations of Medicine / Week 4 / DNA Recombination
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Recombination
 
 ## Functions of recombination
 
@@ -1796,7 +1794,7 @@ If the two alleles differ, the paired strands contain mismatches. Mismatch repai
 > Reduced meiotic recombination can lead to nondisjunction and trisomy.
 
 Library: Non-homologous end joining and BRCA1
-Folder: Foundations of Medicine / Week 4 / DNA Recombination
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Recombination
 
 ## Key findings
 
@@ -1812,7 +1810,7 @@ BRCA1 promotes the error-free pathways (error-free NHEJ or homologous recombinat
 > NHEJ joins ends without a template, which can cause deletions and translocations.
 
 Library: Transposons
-Folder: Foundations of Medicine / Week 4 / DNA Recombination
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / DNA Recombination
 
 ## Key findings
 
@@ -1838,7 +1836,7 @@ Transposons move sections of DNA to random new positions. Many came from past vi
 > Retrotransposons copy and paste through an RNA intermediate and are the main source of repetitive DNA.
 
 Library: Bacterial transformation and conjugation
-Folder: Foundations of Medicine / Week 4 / Bacterial Genetics and Virulence Determinants
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Bacterial Genetics and Virulence Determinants
 
 ## Transformation
 
@@ -1857,7 +1855,7 @@ Folder: Foundations of Medicine / Week 4 / Bacterial Genetics and Virulence Dete
 > Transformation is blocked by DNase because the DNA is taken up naked.
 
 Library: Transduction and lysogeny
-Folder: Foundations of Medicine / Week 4 / Bacterial Genetics and Virulence Determinants
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Bacterial Genetics and Virulence Determinants
 
 ## Phage types
 
@@ -1880,7 +1878,7 @@ Induction excises the phage genome from the bacterial chromosome, usually after 
 > Antibiotics can worsen EHEC by inducing the prophage.
 
 Library: RNA polymerase basics
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Why transcribe
 
@@ -1901,7 +1899,7 @@ Initiation (DNA unwinds), elongation, termination, and in eukaryotes only, proce
 > RNA polymerase needs no primer and doesn't proofread.
 
 Library: Prokaryotic transcription
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Key findings
 
@@ -1928,7 +1926,7 @@ Rifampin (rifampicin) binds the beta subunit of bacterial RNA polymerase and slo
 > Rifampin blocks the beta subunit of bacterial RNA polymerase.
 
 Library: Eukaryotic transcription and RNA polymerase II
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Key findings
 
@@ -1950,7 +1948,7 @@ Alpha-amanitin from the Amanita phalloides (death cap) mushroom inhibits RNA pol
 > Phosphorylation of the CTD by TFIIH activates RNA polymerase II.
 
 Library: mRNA capping and polyadenylation
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## 5' cap
 
@@ -1973,7 +1971,7 @@ Some viruses, such as influenza, "snatch" caps from host mRNA. Cap-binding inhib
 > The poly(A) signal is AAUAAA, and tail length controls how long an mRNA lasts.
 
 Library: mRNA splicing and the spliceosome
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Key findings
 
@@ -1989,7 +1987,7 @@ Certain exons can be included or left out, so one gene can make several differen
 > Introns start with GU and end with AG.
 
 Library: Retinitis pigmentosa and lupus: splicing disorders
-Folder: Foundations of Medicine / Week 4 / Transcription
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Transcription
 
 ## Key findings
 
@@ -2001,7 +1999,7 @@ Folder: Foundations of Medicine / Week 4 / Transcription
 > Anti-snRNP (anti-Sm) antibodies are the splicing link to lupus.
 
 Library: Genetic code and mutation types
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## Features of the code
 
@@ -2034,7 +2032,7 @@ Universal, degenerate (redundant, which softens the effect of mutations), unambi
 > Frameshifts come from insertions or deletions that aren't multiples of three.
 
 Library: tRNA charging and wobble pairing
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## Key findings
 
@@ -2047,7 +2045,7 @@ Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
 > Wobble at the third codon position explains why synonymous codons usually differ in the last base.
 
 Library: Ribosome sites, elongation, and termination
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## Ribosome
 
@@ -2078,7 +2076,7 @@ Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
 > The A site takes the incoming aminoacyl-tRNA; the P site holds the growing chain.
 
 Library: Translation initiation: prokaryotes vs. eukaryotes
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## Key findings
 
@@ -2099,7 +2097,7 @@ Beta-thalassemia minor can come from Kozak sequence mutations in the beta-globin
 > Kozak sequence mutations in beta-globin reduce translation and can cause beta-thalassemia minor.
 
 Library: Regulation of translation
-Folder: Foundations of Medicine / Week 4 / Genetic Code and Translation
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Genetic Code and Translation
 
 ## eIF2
 
@@ -2127,7 +2125,7 @@ Only capped mRNA is translated efficiently. Viral proteases can destroy cap-depe
 > Phosphorylated eIF2 alpha shuts down global translation during stress.
 
 Library: Protein sorting and signal sequences
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Key findings
 
@@ -2147,7 +2145,7 @@ Most mitochondrial proteins are encoded in the nucleus and imported unfolded, us
 > Proteins without a signal sequence stay in the cytosol.
 
 Library: Nuclear pores and nuclear localization signals
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Key findings
 
@@ -2161,7 +2159,7 @@ Folder: Foundations of Medicine / Week 4 / Endomembranes
 > Proteins over 40 kD need a nuclear localization signal; Ran-GTP releases them from importin.
 
 Library: Nuclear lamina, nuclear matrix, and nucleolus
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Key findings
 
@@ -2183,7 +2181,7 @@ Folder: Foundations of Medicine / Week 4 / Endomembranes
 > Lamin A mutations cause progeria and Emery-Dreifuss muscular dystrophy.
 
 Library: ER import and the unfolded protein response
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Key findings
 
@@ -2200,7 +2198,7 @@ Folder: Foundations of Medicine / Week 4 / Endomembranes
 > Misfolded ER proteins are ubiquitinated and degraded; too many trigger the unfolded protein response.
 
 Library: Vesicle coats and docking: COPI, COPII, Rab, and SNAREs
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Coats
 
@@ -2224,7 +2222,7 @@ Botulinum toxin enters by endocytosis, escapes the endosome, and cleaves SNARE p
 > COPII moves cargo forward from the ER; COPI brings it back.
 
 Library: Lysosomal targeting and storage diseases
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Targeting
 
@@ -2241,7 +2239,7 @@ Lysosomal enzymes are tagged with mannose-6-phosphate (M6P) in the Golgi, which 
 > I-cell disease is a Golgi tagging defect: without M6P, enzymes never reach the lysosome.
 
 Library: Cystic fibrosis
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Mechanism
 
@@ -2262,7 +2260,7 @@ Trikafta helps CFTR fold so it can reach the membrane. A second compound is stil
 > ΔF508 CFTR misfolds and is degraded in the ER before reaching the membrane.
 
 Library: Exocytosis, endocytosis, and autophagy
-Folder: Foundations of Medicine / Week 4 / Endomembranes
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Endomembranes
 
 ## Exocytosis
 
@@ -2288,7 +2286,7 @@ The cell digests its own components during stress or nutrient shortage, and clea
 > Falling endosome pH releases cargo from receptors so the receptors can be recycled.
 
 Library: Cyclins, CDKs, and CDK inhibitors
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -2306,7 +2304,7 @@ The balance between proliferation and death depends on growth factor availabilit
 > CDKs need a bound cyclin and removal of inhibitory phosphates to be active.
 
 Library: Rb and the restriction point
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -2324,7 +2322,7 @@ Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Ho
 > Cyclin D/CDK4/6 phosphorylates Rb, releasing E2F and pushing the cell past the G1/S restriction point.
 
 Library: p53 checkpoint
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -2343,7 +2341,7 @@ p53 blocks the G1 to S transition when DNA is damaged and chooses one of two out
 > p53 arrests the cell through p21 or kills it through Bax.
 
 Library: Flow cytometry of the cell cycle
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -2363,7 +2361,7 @@ Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Ho
 > A sub-G1 peak means cells with fragmented DNA are dying by apoptosis.
 
 Library: Intrinsic apoptosis and caspases
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Pathway
 
@@ -2391,7 +2389,7 @@ p53 → Bax → mitochondria release cytochrome c → caspase-9 activation
 > Cytochrome c released from mitochondria activates caspase-9 in the intrinsic pathway.
 
 Library: Bcl-2 family proteins
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Key findings
 
@@ -2410,7 +2408,7 @@ Follicular lymphoma: t(14;18) puts BCL2 under the IgH promoter, and BCL2 overexp
 > Bcl-2 overexpression, as in follicular lymphoma t(14;18), blocks apoptosis and causes drug resistance.
 
 Library: Extrinsic apoptosis and necrosis
-Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Homeostasis
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Cell Birth, Cell Death, and Tissue Homeostasis
 
 ## Extrinsic pathway
 
@@ -2429,7 +2427,7 @@ Folder: Foundations of Medicine / Week 4 / Cell Birth, Cell Death, and Tissue Ho
 > Necrosis breaks the membrane early and causes inflammation; apoptosis doesn't.
 
 Library: Promoters, enhancers, and transcription factors
-Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Regulation of Gene Expression
 
 ## Key findings
 
@@ -2456,7 +2454,7 @@ Tamoxifen is a synthetic estrogen antagonist that competes with estrogen for the
 > Zinc finger motifs are typical of steroid hormone receptors.
 
 Library: DNA methylation and histone modification
-Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Regulation of Gene Expression
 
 ## DNA methylation
 
@@ -2478,7 +2476,7 @@ Hypermethylation of tumor suppressor genes can cause cancer, so drugs that inhib
 > Histone acetylation opens chromatin; DNA methylation silences it.
 
 Library: Genomic imprinting: Prader-Willi and Angelman syndromes
-Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Regulation of Gene Expression
 
 ## Imprinting
 
@@ -2495,7 +2493,7 @@ Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
 > Prader-Willi is a paternal deletion; Angelman is a maternal deletion.
 
 Library: miRNA, siRNA, and lncRNA
-Folder: Foundations of Medicine / Week 4 / Regulation of Gene Expression
+Folder: Foundations of Medicine / Week 4: Foundations of Genetics / Regulation of Gene Expression
 
 ## Key findings
 
@@ -3505,7 +3503,7 @@ Folder: Foundations of Medicine / Week 5: Foundations of Cancer Biology and Canc
 > CAR-T therapy uses the patient's own engineered T cells, so there's no graft-versus-host disease.
 
 Library: Immunopathology, tolerance, and immune privilege
-Folder: Foundations of Medicine / Week 6 / Overview of the Immune System
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Overview of the Immune System
 
 ## Immunopathology
 
@@ -3529,7 +3527,7 @@ Danger signals were traditionally thought of as "non-self," but the body also ha
 > Molecular mimicry is an appropriate response to a pathogen that also hits similar self antigens.
 
 Library: Barriers and lymphoid organs
-Folder: Foundations of Medicine / Week 6 / Overview of the Immune System
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Overview of the Immune System
 
 ## Natural barriers
 
@@ -3548,7 +3546,7 @@ Folder: Foundations of Medicine / Week 6 / Overview of the Immune System
 > Bone marrow and thymus are the primary lymphoid organs.
 
 Library: Innate vs. adaptive immunity
-Folder: Foundations of Medicine / Week 6 / Overview of the Immune System
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Overview of the Immune System
 
 ## Key findings
 
@@ -3577,7 +3575,7 @@ A form of SCID affecting both innate and adaptive immunity, with agranulocytosis
 > Innate immunity is fast and has no memory; adaptive immunity is slow the first time and faster after.
 
 Library: Innate immune cells: NK cells, macrophages, and neutrophils
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Key findings
 
@@ -3592,7 +3590,7 @@ Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
 > NK cells kill cells that have lost MHC class I.
 
 Library: Cytokines, chemokines, and interferons
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Cytokines
 
@@ -3619,7 +3617,7 @@ Cytokines are messenger molecules that signal other cells in innate and adaptive
 > CXCL8 (IL-8) is the main neutrophil chemoattractant.
 
 Library: Pro-inflammatory and anti-inflammatory cytokines
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Pro-inflammatory
 
@@ -3640,7 +3638,7 @@ Etanercept is a decoy TNF receptor that keeps TNF-alpha from binding its real re
 > IL-1-beta, IL-6, and TNF-alpha are the endogenous pyrogens.
 
 Library: Complement pathways
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Key findings
 
@@ -3671,7 +3669,7 @@ Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
 > Terminal complement (C5-C9) deficiency causes recurrent Neisseria infections.
 
 Library: Paroxysmal nocturnal hemoglobinuria
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Mechanism
 
@@ -3690,7 +3688,7 @@ Eculizumab is a monoclonal antibody that binds C5 and blocks its cleavage into C
 > PNH is a PIGA defect that strips GPI-anchored complement regulators (CD59, DAF) from red cells.
 
 Library: Hereditary angioedema
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Mechanism
 
@@ -3708,7 +3706,7 @@ C1 inhibitor (C1INH) keeps C1 activation in check. Without enough of it, bradyki
 > Hereditary angioedema is bradykinin-driven swelling from too little or nonfunctional C1 inhibitor.
 
 Library: Toll-like receptors
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Key findings
 
@@ -3730,7 +3728,7 @@ TLRs are pattern recognition receptors found on all cells. When activated, they 
 > TLR4 recognizes LPS; TLR3, 7, 8, and 9 inside endosomes sense viral nucleic acids.
 
 Library: TLR signaling and NF-kappa-B defects
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Pathway
 
@@ -3750,7 +3748,7 @@ Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
 > NEMO (IKK-gamma) deficiency blocks NF-kappa-B activation and causes ectodermal dysplasia with infections.
 
 Library: Inflammasome and cytosolic sensors
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## NLRP3 inflammasome
 
@@ -3769,7 +3767,7 @@ Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
 > The NLRP3 inflammasome activates caspase-1, which makes IL-1-beta.
 
 Library: Autoinflammatory diseases
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Key findings
 
@@ -3784,7 +3782,7 @@ Autoinflammatory diseases are driven by the innate immune system; autoimmune dis
 > FCAS1 is an NLRP3 gain-of-function disease that causes a rash after cold exposure.
 
 Library: Neutrophil extravasation and leukocyte adhesion deficiency
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Steps
 
@@ -3807,7 +3805,7 @@ Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
 > LAD-1 (CD18) causes delayed umbilical cord separation, high blood neutrophils, and no pus.
 
 Library: Neutrophil killing disorders: CGD and Chediak-Higashi
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Neutrophil weapons
 
@@ -3823,7 +3821,7 @@ Granule components (lysozyme, defensins, myeloperoxidase, proteases) kill pathog
 > Giant neutrophil granules with silvery hair point to Chediak-Higashi syndrome.
 
 Library: IL-12 and interferon-gamma pathway
-Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Basics of Innate Immunity
 
 ## Pathway
 
@@ -3841,7 +3839,7 @@ Folder: Foundations of Medicine / Week 6 / Basics of Innate Immunity
 > Defects in the IL-12/IFN-gamma loop cause disseminated mycobacterial infection, often after BCG.
 
 Library: Acute inflammation
-Folder: Foundations of Medicine / Week 6 / Inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
 
 ## Purpose
 
@@ -3867,7 +3865,7 @@ Infection (often bacterial), tissue necrosis, hypoxia, ischemia, trauma, chemica
 > Histamine-driven vascular leakage causes the swelling of acute inflammation.
 
 Library: Macrophages, abscesses, and chronic inflammation
-Folder: Foundations of Medicine / Week 6 / Inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
 
 ## Macrophages
 
@@ -3895,7 +3893,7 @@ Macrophages make IL-8 to recruit more neutrophils. Neutrophils and macrophages c
 > Granulomas are defined by clusters of macrophages.
 
 Library: Systemic effects of inflammation
-Folder: Foundations of Medicine / Week 6 / Inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
 
 ## Key findings
 
@@ -3918,7 +3916,7 @@ Folder: Foundations of Medicine / Week 6 / Inflammation
 > Fibrinogen causes rouleaux, which is why the ESR rises in inflammation.
 
 Library: Regeneration and repair
-Folder: Foundations of Medicine / Week 6 / Inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
 
 ## Regeneration
 
@@ -3944,7 +3942,7 @@ Replacement with a fibrous scar, when stem cells are lost (as in a deep cut) or 
 > Permanent tissues can't regenerate, so they heal by scarring.
 
 Library: Phases of wound healing
-Folder: Foundations of Medicine / Week 6 / Inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
 
 ## Key findings
 
@@ -3957,7 +3955,7 @@ Folder: Foundations of Medicine / Week 6 / Inflammation
 > Remodeling replaces type III collagen with type I, which strengthens the scar.
 
 Library: Abnormal wound healing
-Folder: Foundations of Medicine / Week 6 / Inflammation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inflammation
 
 ## Key findings
 
@@ -3971,7 +3969,7 @@ Folder: Foundations of Medicine / Week 6 / Inflammation
 > A keloid grows beyond the borders of the original wound.
 
 Library: Lymphocyte development and selection
-Folder: Foundations of Medicine / Week 6 / The Adaptive Immune System
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / The Adaptive Immune System
 
 ## Key findings
 
@@ -4000,7 +3998,7 @@ Folder: Foundations of Medicine / Week 6 / The Adaptive Immune System
 > T cells that recognize MHC class I become CD8 cells; those that recognize class II become CD4 cells.
 
 Library: DiGeorge syndrome and APECED
-Folder: Foundations of Medicine / Week 6 / The Adaptive Immune System
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / The Adaptive Immune System
 
 ## DiGeorge syndrome
 
@@ -4018,7 +4016,7 @@ Folder: Foundations of Medicine / Week 6 / The Adaptive Immune System
 > DiGeorge syndrome (22q11) causes absent thymus, hypocalcemia, and heart defects.
 
 Library: Antibody structure
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Key findings
 
@@ -4036,7 +4034,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their
 > The heavy chain type determines the antibody class.
 
 Library: Papain and pepsin antibody fragments
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Key findings
 
@@ -4048,7 +4046,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their
 > Papain gives two Fab and one Fc; pepsin gives one F(ab')2.
 
 Library: Hybridomas and monoclonal antibodies
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Making monoclonal antibodies
 
@@ -4067,7 +4065,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their
 > Hybridomas fuse B cells with cancer cells to make an immortal source of one antibody.
 
 Library: T cell receptor structure
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Key findings
 
@@ -4079,7 +4077,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their
 > The alpha chain is like a light chain, and the beta chain is like a heavy chain.
 
 Library: V(D)J recombination and TRECs
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Key findings
 
@@ -4100,7 +4098,7 @@ Imprecise joining adds diversity. RAG-1/2 cut the DNA, and the hairpin ends are 
 > A low TREC count on newborn screening points to SCID.
 
 Library: Recombination disorders: Omenn syndrome, ataxia telangiectasia, and CD3 deficiency
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Key findings
 
@@ -4115,7 +4113,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their
 > Omenn syndrome is leaky SCID from partial RAG function, with erythroderma and eosinophilia.
 
 Library: Class switching
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Key findings
 
@@ -4132,7 +4130,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their
 > Class switching changes the heavy chain constant region but keeps the same VDJ and specificity.
 
 Library: Antigens, epitopes, and haptens
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Key findings
 
@@ -4151,7 +4149,7 @@ B cell receptors bind parts of large intact proteins or carbohydrates. T cell re
 > B cells see intact antigen; T cells only see processed peptides on MHC.
 
 Library: Molecular mimicry and rheumatic fever
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their Antigens
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Receptors and their Antigens
 
 ## Key findings
 
@@ -4163,7 +4161,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Receptors and their
 > Rheumatic fever is type II hypersensitivity from anti-strep antibodies cross-reacting with heart tissue.
 
 Library: Antibody neutralization
-Folder: Foundations of Medicine / Week 6 / Antibody Function
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Antibody Function
 
 ## Blocking entry
 
@@ -4180,7 +4178,7 @@ Folder: Foundations of Medicine / Week 6 / Antibody Function
 > The tetanus vaccine works by inducing IgG that neutralizes tetanospasmin.
 
 Library: Opsonization, Fc receptors, and FcRn
-Folder: Foundations of Medicine / Week 6 / Antibody Function
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Antibody Function
 
 ## Opsonization
 
@@ -4202,7 +4200,7 @@ As maternal IgG naturally declines, a delay in the baby's own antibody productio
 > FcRn carries maternal IgG across the placenta and protects IgG from degradation.
 
 Library: ADCC and immune complex clearance
-Folder: Foundations of Medicine / Week 6 / Antibody Function
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Antibody Function
 
 ## ADCC
 
@@ -4222,7 +4220,7 @@ Widespread immune complex deposition plus autoantibodies. Kidney deposition dama
 > Red cells use CR1 to carry immune complexes to the spleen and liver for clearance.
 
 Library: Antibody classes and functions
-Folder: Foundations of Medicine / Week 6 / Antibody Function
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Antibody Function
 
 ## Classes
 
@@ -4250,7 +4248,7 @@ Folder: Foundations of Medicine / Week 6 / Antibody Function
 > IgG is the only antibody that crosses the placenta.
 
 Library: MHC class I and class II
-Folder: Foundations of Medicine / Week 6 / T Cell Receptors and the MHC
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / T Cell Receptors and the MHC
 
 ## Antigen presentation
 
@@ -4275,7 +4273,7 @@ T cells need antigens pre-digested. Antigen-presenting cells (macrophages, dendr
 > CD8 T cells see peptides on MHC class I; CD4 T cells see peptides on MHC class II.
 
 Library: HLA typing and disease associations
-Folder: Foundations of Medicine / Week 6 / T Cell Receptors and the MHC
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / T Cell Receptors and the MHC
 
 ## Key findings
 
@@ -4286,7 +4284,7 @@ Folder: Foundations of Medicine / Week 6 / T Cell Receptors and the MHC
 > Screen for HLA-B*57:01 before starting abacavir.
 
 Library: Antigen processing pathways
-Folder: Foundations of Medicine / Week 6 / T Cell Receptors and the MHC
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / T Cell Receptors and the MHC
 
 ## Key findings
 
@@ -4307,7 +4305,7 @@ Folder: Foundations of Medicine / Week 6 / T Cell Receptors and the MHC
 > TAP moves proteasome peptides into the ER for loading onto MHC class I.
 
 Library: Transplant matching and rejection
-Folder: Foundations of Medicine / Week 6 / T Cell Receptors and the MHC
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / T Cell Receptors and the MHC
 
 ## Matching
 
@@ -4327,7 +4325,7 @@ Folder: Foundations of Medicine / Week 6 / T Cell Receptors and the MHC
 > Hyperacute rejection is caused by pre-formed antibodies, most often from an ABO mismatch.
 
 Library: Allergy, atopy, and TSLP
-Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
 
 ## Allergy
 
@@ -4349,7 +4347,7 @@ Thymic stromal lymphopoietin, made by airway epithelium, activates ILC2 cells th
 > The atopic march runs from atopic dermatitis to rhinitis to asthma.
 
 Library: Type I hypersensitivity
-Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
 
 ## Mechanism
 
@@ -4384,7 +4382,7 @@ FcεRI, the high-affinity IgE receptor on mast cells, basophils, and activated e
 > Tryptase is specific to mast cells, not basophils.
 
 Library: Allergic diseases and anaphylaxis
-Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
 
 ## Key findings
 
@@ -4400,7 +4398,7 @@ Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
 > Chronic urticaria in adults is most often caused by an autoantibody to FcεRI, not IgE.
 
 Library: Biologics for allergic and eosinophilic disease
-Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
 
 ## Key findings
 
@@ -4414,7 +4412,7 @@ Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
 > Omalizumab binds IgE; mepolizumab binds IL-5.
 
 Library: Type II hypersensitivity
-Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
 
 ## Mechanism
 
@@ -4430,7 +4428,7 @@ IgG or IgM binds antigens on cells or extracellular matrix, causing cell destruc
 > Type II hypersensitivity is antibody against a fixed antigen on a cell or matrix.
 
 Library: Type III hypersensitivity
-Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
 
 ## Mechanism
 
@@ -4454,7 +4452,7 @@ Circulating antigen and antibody form immune complexes, whose size depends on th
 > Medium-sized immune complexes get trapped in small vessels and cause vasculitis.
 
 Library: Type IV hypersensitivity
-Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunopathology Basics
 
 ## Key findings
 
@@ -4467,7 +4465,7 @@ Folder: Foundations of Medicine / Week 6 / Immunopathology Basics
 > Type IV hypersensitivity is T cell mediated and delayed, as in the tuberculin skin test.
 
 Library: B cell trafficking and activation
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Activation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
 
 ## Trafficking
 
@@ -4490,7 +4488,7 @@ B cells leave the marrow and circulate through secondary lymphoid organs, enteri
 > CD40-CD40L binding between B cells and helper T cells is needed for class switching.
 
 Library: T-independent antigens and conjugate vaccines
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Activation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
 
 ## T-independent activation
 
@@ -4504,7 +4502,7 @@ Many important bacterial antigens are polysaccharides, but MHC class II only pre
 > Conjugating a protein to a polysaccharide recruits T cell help and gets a class-switched response.
 
 Library: Cytotoxic T cell activation
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Activation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
 
 ## Activation
 
@@ -4522,7 +4520,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Activation
 > T cell activation needs both peptide-MHC and costimulation (B7 binding CD28).
 
 Library: Helper T cell subsets and innate lymphoid cells
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Activation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
 
 ## Helper T cells
 
@@ -4546,7 +4544,7 @@ ILCs have no antigen receptors but produce lymphocyte-like cytokine profiles.
 > Th17 cells make IL-17 and recruit neutrophils; Tregs are activated by TGF-beta.
 
 Library: Cytokine receptors and JAK-STAT
-Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Activation
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / B Cell and T Cell Activation
 
 ## Key findings
 
@@ -4558,7 +4556,7 @@ Folder: Foundations of Medicine / Week 6 / B Cell and T Cell Activation
 > JAK phosphorylates STAT, which carries cytokine signals to the nucleus.
 
 Library: Glucocorticoids
-Folder: Foundations of Medicine / Week 6 / Immunosuppressants
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunosuppressants
 
 ## Classes of immunosuppressants
 
@@ -4584,7 +4582,7 @@ First-line immunosuppression: organ rejection, graft-versus-host disease, rheuma
 > Glucocorticoids are first-line immunosuppressants, with Cushing syndrome and avascular necrosis as classic side effects.
 
 Library: Calcineurin inhibitors and antiproliferative drugs
-Folder: Foundations of Medicine / Week 6 / Immunosuppressants
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunosuppressants
 
 ## Calcineurin inhibitors
 
@@ -4607,7 +4605,7 @@ Affect lymphocyte proliferation; used to prevent transplant rejection and treat 
 > Calcineurin inhibitors block IL-2 transcription and are nephrotoxic.
 
 Library: Antibody and fusion protein immunosuppressants
-Folder: Foundations of Medicine / Week 6 / Immunosuppressants
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Immunosuppressants
 
 ## Polyclonal antibodies
 
@@ -4633,7 +4631,7 @@ Antithymocyte globulin (ATG) and antilymphocyte globulin (ALG), made in horses o
 > Screen for latent TB before starting a TNF inhibitor.
 
 Library: Immunodeficiency workup
-Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
 
 ## First-line tests
 
@@ -4659,7 +4657,7 @@ Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
 > The DHR flow test detects the absent respiratory burst of CGD.
 
 Library: Immunodeficiency phenotypes
-Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
 
 ## Key findings
 
@@ -4675,7 +4673,7 @@ Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
 > SCID presents as a "walking agar plate" with low lymphocytes.
 
 Library: SCID types
-Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
 
 ## Key findings
 
@@ -4693,7 +4691,7 @@ Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
 > Common gamma chain SCID is X-linked and shows T-B+NK-.
 
 Library: Antibody deficiencies: XLA, CVID, and selective IgA deficiency
-Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
 
 ## Key findings
 
@@ -4707,7 +4705,7 @@ Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
 > XLA (BTK) presents after 6 months, once maternal IgG runs out.
 
 Library: Wiskott-Aldrich, hyper-IgM, and hyper-IgE syndromes
-Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
+Folder: Foundations of Medicine / Week 6: Foundations of Immunology / Inborn Errors of Immunity
 
 ## Key findings
 
@@ -4720,7 +4718,7 @@ Folder: Foundations of Medicine / Week 6 / Inborn Errors of Immunity
 > Wiskott-Aldrich is small platelets, eczema, and infections in a boy.
 
 Library: Peripheral smear findings in hematology
-Folder: Foundations of Medicine / Week 7
+Folder: Foundations of Medicine / Week 7: Hematology
 
 ## Key findings
 
@@ -4751,7 +4749,7 @@ Folder: Foundations of Medicine / Week 7
 > Spherocytes appear in both hereditary spherocytosis and warm AIHA; the Coombs test separates them.
 
 Library: Dry tap differential
-Folder: Foundations of Medicine / Week 7
+Folder: Foundations of Medicine / Week 7: Hematology
 
 ## Key findings
 
@@ -4765,15 +4763,15 @@ A dry tap on marrow aspiration means the marrow space is occupied or fibrosed.
 > A dry tap with teardrop cells points to myelofibrosis; with TRAP-positive B cells, hairy cell leukemia.
 
 Library: Sites of hematopoiesis
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## Key findings
 
 | Site | Window | Notes |
 |---|---|---|
-| Yolk sac | Day 18-19 to week 8 | Primitive wave in "blood islands": outer cells become endothelium, inner cells become the first nucleated red cells with embryonic hemoglobin |
+| Yolk sac | Day 18-19 to Week 8 | Primitive wave in "blood islands": outer cells become endothelium, inner cells become the first nucleated red cells with embryonic hemoglobin |
 | AGM region | Weeks 4-6 | The first true self-renewing HSCs bud from hemogenic endothelium of the dorsal aorta |
-| Liver | Week 6 to birth | Dominant source through mid-gestation |
+| Liver | Week 6: Foundations of Immunology to birth | Dominant source through mid-gestation |
 | Spleen | Weeks 10-28 | Transient secondary site, with the thymus; shuts down around birth |
 | Bone marrow | Week 18 to adult | Permanent site; the only significant source by birth |
 
@@ -4788,7 +4786,7 @@ Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
 > The AGM region, not the yolk sac, is where the first true self-renewing HSCs arise.
 
 Library: Bone marrow architecture and the hematopoietic stem cell
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## Marrow compartments
 
@@ -4811,7 +4809,7 @@ Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
 > HSCs are CD34+ CD38- Lin-, and G-CSF mobilizes them into blood for collection.
 
 Library: Hematopoietic lineage tree
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## Key findings
 
@@ -4831,7 +4829,7 @@ HSC → multipotent progenitor (MPP) → two progenitor lines:
 > EPO drives the erythroid line and TPO drives megakaryocytes, both from the MEP.
 
 Library: B and T cell origin and maturation
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## Lymphoid organs
 
@@ -4856,7 +4854,7 @@ Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
 > B cells mature in the marrow; T cells are born in the marrow but mature in the thymus.
 
 Library: Lymph node structure and circulation
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## Zones
 
@@ -4880,7 +4878,7 @@ Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
 > The paracortex is the T cell zone, which is empty in DiGeorge syndrome.
 
 Library: GALT and tonsils
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## GALT
 
@@ -4902,7 +4900,7 @@ Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
 > M cells in Peyer's patches sample gut antigen, and the output is secretory IgA.
 
 Library: Spleen structure and function
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## Location
 
@@ -4922,7 +4920,7 @@ Red cells enter the open circulation of the red pulp and must squeeze through 1-
 > Red cells must squeeze through 1-3 μm slits in the splenic sinuses, and rigid cells fail.
 
 Library: Asplenia and Howell-Jolly bodies
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## Key findings
 
@@ -4944,7 +4942,7 @@ Hereditary spherocytosis, warm AIHA, and hypersplenism in thalassemia.
 > Howell-Jolly bodies mean asplenia, and fever in an asplenic patient is an emergency.
 
 Library: Thymus structure and T cell selection
-Folder: Foundations of Medicine / Week 7 / Hematopoiesis and the Lymphoid System
+Folder: Foundations of Medicine / Week 7: Hematology / Hematopoiesis and the Lymphoid System
 
 ## Key findings
 
@@ -4970,7 +4968,7 @@ Hassall's corpuscles vs. germinal centers: both look pale and organized at low p
 > Positive selection happens in the thymic cortex; negative selection, driven by AIRE, happens in the medulla.
 
 Library: Heme structure and heme proteins
-Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
+Folder: Foundations of Medicine / Week 7: Hematology / Heme Synthesis and Porphyria
 
 ## Structure
 
@@ -4995,7 +4993,7 @@ Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
 > Heme is a porphyrin ring holding ferrous iron.
 
 Library: Heme synthesis pathway
-Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
+Folder: Foundations of Medicine / Week 7: Hematology / Heme Synthesis and Porphyria
 
 The pathway has eight enzymes: it starts in the mitochondria, moves to the cytosol, and finishes in the mitochondria.
 
@@ -5017,7 +5015,7 @@ The pathway has eight enzymes: it starts in the mitochondria, moves to the cytos
 > ALA synthase is the rate-limiting step and needs vitamin B6.
 
 Library: Regulation of heme synthesis: ALAS1 vs. ALAS2
-Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
+Folder: Foundations of Medicine / Week 7: Hematology / Heme Synthesis and Porphyria
 
 ## Key findings
 
@@ -5036,7 +5034,7 @@ Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
 > P450-inducing drugs use up hepatic heme, which releases ALAS1 and triggers porphyria attacks.
 
 Library: Acute intermittent porphyria
-Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
+Folder: Foundations of Medicine / Week 7: Hematology / Heme Synthesis and Porphyria
 
 ## Key findings
 
@@ -5064,7 +5062,7 @@ Neither fixes the enzyme defect; both stop overproduction of the toxic intermedi
 > Treat an AIP attack with IV hemin and glucose to shut down ALAS1.
 
 Library: Porphyria cutanea tarda and erythropoietic protoporphyria
-Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
+Folder: Foundations of Medicine / Week 7: Hematology / Heme Synthesis and Porphyria
 
 ## Key findings
 
@@ -5083,7 +5081,7 @@ Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
 > PCT blisters; EPP burns without blisters.
 
 Library: Lead poisoning
-Folder: Foundations of Medicine / Week 7 / Heme Synthesis and Porphyria
+Folder: Foundations of Medicine / Week 7: Hematology / Heme Synthesis and Porphyria
 
 ## Mechanism
 
@@ -5109,7 +5107,7 @@ Remove the exposure and give chelation.
 > Basophilic stippling in a microcytic anemia points to lead poisoning.
 
 Library: Red cell production: iron, B12, folate, and EPO
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Ingredients
 
@@ -5132,7 +5130,7 @@ Iron (the core of heme), vitamin B12 and folate (for DNA synthesis), and erythro
 > Hepcidin controls iron release through ferroportin.
 
 Library: Defining and classifying anemia
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Definition (WHO)
 
@@ -5159,7 +5157,7 @@ Hemoglobin is heme plus globin, and heme is iron plus protoporphyrin. A shortage
 > The microcytic anemias are TAILS: thalassemia, ACD, iron deficiency, lead, sideroblastic.
 
 Library: Systematic approach to anemia
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Step 1: reticulocyte count
 
@@ -5194,7 +5192,7 @@ Folder: Foundations of Medicine / Week 7 / Anemia
 > Classify first with the reticulocyte count, then the MCV, before ordering iron studies.
 
 Library: Iron studies in microcytic anemia
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Key findings
 
@@ -5216,7 +5214,7 @@ Target cells with normal or high iron and ferritin separate thalassemia from iro
 > TIBC is high in iron deficiency and low in anemia of chronic disease.
 
 Library: Iron deficiency anemia
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Causes
 
@@ -5237,7 +5235,7 @@ Chronic blood loss (GI bleeding, heavy menstrual bleeding) or poor intake and ma
 > Take oral iron with vitamin C, not with milk or antacids.
 
 Library: Anemia of chronic disease
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Mechanism
 
@@ -5255,7 +5253,7 @@ Treat the underlying inflammatory condition; iron supplements are largely ineffe
 > Iron is trapped in macrophages by hepcidin, so oral iron doesn't help.
 
 Library: Sideroblastic anemia
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Mechanism
 
@@ -5281,7 +5279,7 @@ Ring sideroblasts also appear in MDS. In an older patient with cytopenias and dy
 > Ringed sideroblasts with high iron point to sideroblastic anemia from alcohol, lead, or isoniazid.
 
 Library: B12 vs. folate deficiency
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Shared findings
 
@@ -5310,7 +5308,7 @@ Folate enters DNA synthesis downstream of B12, so it bypasses the folate trap an
 > High methylmalonic acid is specific for B12 deficiency.
 
 Library: Anemia of kidney disease, aplastic anemia, and non-megaloblastic macrocytosis
-Folder: Foundations of Medicine / Week 7 / Anemia
+Folder: Foundations of Medicine / Week 7: Hematology / Anemia
 
 ## Key findings
 
@@ -5323,7 +5321,7 @@ Folder: Foundations of Medicine / Week 7 / Anemia
 > A macrocytic anemia without hypersegmented neutrophils is non-megaloblastic.
 
 Library: Red cell life cycle and normal destruction
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Key findings
 
@@ -5350,7 +5348,7 @@ An elevated reticulocyte count in the face of anemia, with high LDH, high indire
 > Excess bilirubin from hemolysis causes jaundice and pigmented gallstones.
 
 Library: Intravascular vs. extravascular hemolysis
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Key findings
 
@@ -5367,7 +5365,7 @@ Haptoglobin circulates waiting to soak up spilled hemoglobin. In intravascular h
 > Undetectable haptoglobin is the most specific sign of intravascular hemolysis.
 
 Library: Causes of hemolytic anemia
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Key findings
 
@@ -5383,7 +5381,7 @@ Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
 > Hereditary spherocytosis, G6PD deficiency, and sickle cell are intrinsic; AIHA and MAHA are extrinsic.
 
 Library: Hemolysis workup
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Lab findings
 
@@ -5411,7 +5409,7 @@ Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
 > A high reticulocyte count separates hemolysis from a production problem.
 
 Library: Direct and indirect Coombs tests
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Key findings
 
@@ -5428,7 +5426,7 @@ Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
 > Direct Coombs looks for antibody on red cells; indirect Coombs looks for antibody in serum.
 
 Library: Hereditary spherocytosis
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Mechanism
 
@@ -5449,7 +5447,7 @@ Splenectomy stops the hemolysis by removing the site of destruction, though sphe
 > Spherocytes, high MCHC, positive osmotic fragility, and a negative Coombs mean hereditary spherocytosis.
 
 Library: G6PD deficiency hemolytic crisis
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Mechanism
 
@@ -5472,7 +5470,7 @@ G6PD deficiency partly protects against P. falciparum but makes primaquine and t
 > Bite cells and Heinz bodies after a sulfa drug or infection mean G6PD deficiency.
 
 Library: Warm vs. cold autoimmune hemolytic anemia
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Key findings
 
@@ -5491,7 +5489,7 @@ Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
 > Warm AIHA is IgG and responds to steroids; cold AIHA is IgM and doesn't.
 
 Library: Thrombotic thrombocytopenic purpura
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Mechanism
 
@@ -5516,7 +5514,7 @@ Fever, anemia (hemolytic), thrombocytopenia, renal failure (mild), neurologic sy
 > Schistocytes, low platelets, and confusion with normal PT/PTT mean TTP: start plasma exchange now.
 
 Library: Hemolytic transfusion reactions
-Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
+Folder: Foundations of Medicine / Week 7: Hematology / Hemolytic Anemias
 
 ## Key findings
 
@@ -5531,7 +5529,7 @@ Folder: Foundations of Medicine / Week 7 / Hemolytic Anemias
 > Acute reactions are immediate, intravascular, and IgM (ABO); delayed reactions are extravascular and IgG (minor antigens).
 
 Library: Hemoglobin structure and the globin genes
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Structure
 
@@ -5558,7 +5556,7 @@ Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
 > Alpha genes are on chromosome 16 (four copies); beta genes are on chromosome 11 (two copies).
 
 Library: Hemoglobin switching
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Key findings
 
@@ -5576,7 +5574,7 @@ Around birth, gamma-globin falls and beta-globin rises, and HbA becomes dominant
 > HbF has no beta chains, which delays symptoms of beta-chain disorders until about 6 months.
 
 Library: Structural vs. quantitative hemoglobin disorders
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Qualitative (structural)
 
@@ -5602,7 +5600,7 @@ Electrophoresis separates structural variants by charge; HPLC quantifies the fra
 > Structural variants change the chain; thalassemias reduce the amount of chain.
 
 Library: Sickle cell disease
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Molecular pathogenesis
 
@@ -5636,7 +5634,7 @@ Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
 > HbS is valine at position 6, and dehydration (high MCHC) promotes sickling.
 
 Library: Beta-thalassemia
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Genetics
 
@@ -5662,7 +5660,7 @@ Too few beta chains lowers HbA. The key problem is that excess unpaired alpha ch
 > Excess alpha chains destroy precursors in the marrow, driving the bone changes of beta-thalassemia major.
 
 Library: Alpha-thalassemia
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Genetics
 
@@ -5687,7 +5685,7 @@ In beta-thalassemia, the excess alpha chains are insoluble and destroy precursor
 > Hb Barts (γ4) binds oxygen so tightly that tissues starve, causing hydrops fetalis.
 
 Library: Diagnosing and managing hemoglobinopathies
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Diagnosis
 
@@ -5706,7 +5704,7 @@ Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
 > Electrophoresis order is A Fat Santa Claus: A, F, S, C.
 
 Library: HbS, HbC, and HbE variants
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Key findings
 
@@ -5723,7 +5721,7 @@ A mother with sickle cell trait (HbA and HbS, with more than half HbA) and a fat
 > HbS and HbC are both position 6; HbE is position 26 with a cryptic splice site.
 
 Library: Hydroxyurea, luspatercept, and gene therapy
-Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
+Folder: Foundations of Medicine / Week 7: Hematology / Hemoglobinopathies
 
 ## Key findings
 
@@ -5739,7 +5737,7 @@ Folder: Foundations of Medicine / Week 7 / Hemoglobinopathies
 > Hydroxyurea and BCL11A editing both work by bringing back fetal hemoglobin.
 
 Library: Primary hemostasis: adhesion, activation, and aggregation
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 ## The 3 A's
 
@@ -5759,7 +5757,7 @@ Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding 
 > Mucosal bleeding and petechiae point to a platelet problem; hemarthrosis points to a factor problem.
 
 Library: Tests of primary hemostasis
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 ## Key findings
 
@@ -5783,7 +5781,7 @@ Ristocetin makes vWF bind GpIb, so abnormal agglutination means the vWF-GpIb axi
 > Ristocetin that corrects with normal plasma means vWD; if it doesn't, the platelet lacks GpIb.
 
 Library: Platelet disorders
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 ## Quantitative: immune thrombocytopenia (ITP)
 
@@ -5804,7 +5802,7 @@ vWD is the one primary hemostasis disorder that can prolong the PTT, because vWF
 > vWD can prolong the PTT because vWF protects factor VIII.
 
 Library: Coagulation cascade and vitamin K
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 ## The cascade
 
@@ -5829,7 +5827,7 @@ Proteins C and S have shorter half-lives than factors 2 and 10, so starting warf
 > The vitamin K-dependent proteins are factors 2, 7, 9, 10, protein C, and protein S.
 
 Library: PT, PTT, and mixing studies
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 ## Key findings
 
@@ -5855,7 +5853,7 @@ Mix the patient's plasma 1:1 with normal plasma and repeat the test.
 > A mixing study that corrects means a missing factor; one that doesn't means an inhibitor.
 
 Library: Hemophilia, vitamin K deficiency, and factor inhibitors
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 ## Hemophilias
 
@@ -5881,7 +5879,7 @@ A prolonged PT or PTT that doesn't correct on mixing; causes include autoantibod
 > Hemophilia A and B both prolong only the PTT, and both correct on mixing.
 
 Library: TTP, HUS, and DIC
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 MAHA is non-immune hemolysis from red cells sheared against microthrombi, with schistocytes on the smear.
 
@@ -5900,7 +5898,7 @@ MAHA is non-immune hemolysis from red cells sheared against microthrombi, with s
 > Normal PT/PTT separates TTP and HUS from DIC.
 
 Library: Inherited thrombophilias
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 ## Key findings
 
@@ -5913,7 +5911,7 @@ Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding 
 > Factor V Leiden is the most common inherited thrombophilia.
 
 Library: Heparin-induced thrombocytopenia
-Folder: Foundations of Medicine / Week 7 / Hemostasis, Thrombosis, and Bleeding Disorders
+Folder: Foundations of Medicine / Week 7: Hematology / Hemostasis, Thrombosis, and Bleeding Disorders
 
 ## Mechanism
 
@@ -5938,7 +5936,7 @@ IgG against the heparin-platelet factor 4 (PF4) complex binds platelet Fc recept
 > In HIT, stop all heparin and start argatroban; no LMWH, no warfarin yet, no platelets.
 
 Library: Acute vs. chronic myeloid neoplasms
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Vocabulary
 
@@ -5970,7 +5968,7 @@ A mass of myeloid blasts outside the marrow and blood; it behaves like AML even 
 > Auer rods are the one definitive marker of myeloid blasts.
 
 Library: Acute myeloid leukemia
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Definition
 
@@ -5998,7 +5996,7 @@ The older FAB system (M0-M7) was morphologic; WHO and ICC now use genetics. Two 
 > Gum infiltration in AML means monocytic differentiation.
 
 Library: Acute promyelocytic leukemia
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Molecular pathogenesis
 
@@ -6023,7 +6021,7 @@ Capillary leak from cytokines released by maturing promyelocytes, days to weeks 
 > Start ATRA the moment APL is suspected; waiting for FISH risks death from DIC.
 
 Library: Myelodysplastic syndromes
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Key findings
 
@@ -6047,7 +6045,7 @@ Treatment is guided by IPSS-R (ANC, hemoglobin, platelets, marrow blast percenta
 > MDS is a busy marrow with empty blood and under 20% blasts.
 
 Library: MPN principles and chronic myeloid leukemia
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Myeloproliferative neoplasms
 
@@ -6074,7 +6072,7 @@ Imatinib and related TKIs occupy the ATP-binding site of BCR-ABL, blocking its s
 > Low LAP and basophilia separate CML from a leukemoid reaction.
 
 Library: Polycythemia vera
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Mechanism
 
@@ -6100,7 +6098,7 @@ Phlebotomy, with or without hydroxyurea.
 > A low EPO level separates polycythemia vera from secondary polycythemia.
 
 Library: Essential thrombocythemia
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Key findings
 
@@ -6121,7 +6119,7 @@ Aspirin, with hydroxyurea if high risk.
 > Most thrombocytosis is reactive, so ET is a diagnosis of exclusion.
 
 Library: Primary myelofibrosis
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Phases
 
@@ -6145,7 +6143,7 @@ JAK2 in about 50%, otherwise CALR or MPL; older patients; the least common core 
 > Teardrop cells and a dry tap point to primary myelofibrosis.
 
 Library: Comparing the core myeloproliferative neoplasms
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Key findings
 
@@ -6162,7 +6160,7 @@ Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
 > CML gets a BCR-ABL inhibitor; the JAK2 MPNs get cytoreduction, aspirin, or JAK inhibitors.
 
 Library: Chronic myelomonocytic leukemia
-Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Myeloid Neoplasms
 
 ## Key findings
 
@@ -6176,7 +6174,7 @@ Folder: Foundations of Medicine / Week 7 / Myeloid Neoplasms
 > Persistent monocytosis with dysplasia and under 20% blasts means CMML.
 
 Library: Leukemia vs. lymphoma and lymphoid neoplasm categories
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Leukemia vs. lymphoma
 
@@ -6198,7 +6196,7 @@ Peripherally derived, often multicentric and widespread at diagnosis, mostly in 
 > SLL and CLL are the same disease; the name depends on where the cells are.
 
 Library: B-ALL and T-ALL
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Shared features
 
@@ -6225,7 +6223,7 @@ ALL hides in the CNS and testes, so prophylactic intrathecal chemotherapy is man
 > B-ALL presents like a leukemia; T-ALL presents like a lymphoma, as a thymic mass in a teenager.
 
 Library: Hodgkin lymphoma
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## General features
 
@@ -6251,7 +6249,7 @@ Popcorn (L&H) cells that are CD20+, CD45+, CD15-negative, CD30-negative, the opp
 > Reed-Sternberg cells are CD15+, CD30+, and CD45-negative.
 
 Library: Ann Arbor staging
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6272,7 +6270,7 @@ Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
 > Stage III means nodes on both sides of the diaphragm.
 
 Library: CLL and SLL
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6291,7 +6289,7 @@ Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
 > CLL is CD5+ and CD23+; CD23 is what separates it from mantle cell lymphoma.
 
 Library: Hairy cell leukemia
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6308,7 +6306,7 @@ Cladribine (2-CDA), an adenosine deaminase inhibitor.
 > Hairy cell leukemia is TRAP-positive with BRAF V600E and responds to cladribine.
 
 Library: Follicular lymphoma
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Mechanism
 
@@ -6333,7 +6331,7 @@ The prototype indolent lymphoma: waxing and waning painless generalized lymphade
 > Follicular lymphoma is BCL2-positive and lacks tingible-body macrophages.
 
 Library: Marginal zone (MALT) lymphoma
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6348,7 +6346,7 @@ For gastric MALT lymphoma, antibiotics to treat H. pylori alone can cure the lym
 > Gastric MALT lymphoma can be cured by treating H. pylori.
 
 Library: Mantle cell lymphoma
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6362,7 +6360,7 @@ Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
 > Mantle cell lymphoma is CD5+ but CD23-negative, with cyclin D1 from t(11;14).
 
 Library: Diffuse large B-cell lymphoma
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6380,7 +6378,7 @@ Aggressive without treatment but potentially curable with R-CHOP.
 > DLBCL is the most common adult lymphoma and potentially curable with R-CHOP.
 
 Library: Burkitt lymphoma: starry sky and t(8:14)
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6399,7 +6397,7 @@ Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
 > Burkitt lymphoma is t(8;14) MYC with a starry sky pattern.
 
 Library: Mycosis fungoides and Sézary syndrome
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Mycosis fungoides
 
@@ -6416,7 +6414,7 @@ Spread to the blood: Sézary cells with cerebriform nuclei, and erythroderma.
 > Pautrier microabscesses mark mycosis fungoides; cerebriform cells in blood mark Sézary syndrome.
 
 Library: Rituximab
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6428,7 +6426,7 @@ Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
 > Rituximab targets CD20, which nearly all B cell lymphomas express.
 
 Library: Lymphoma translocation quick reference
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6451,7 +6449,7 @@ Mantle = 11 (t(11;14)); Follicular = 14 (t(14;18)); Burkitt = 8 (t(8;14)), since
 > Mantle is t(11;14), follicular is t(14;18), and Burkitt is t(8;14).
 
 Library: Plasma cell spectrum: MGUS, smoldering, and myeloma
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## Key findings
 
@@ -6478,7 +6476,7 @@ No specific risk factors; after age 40 with peak in the seventh decade; twice th
 > CRAB features turn a plasma cell precursor state into myeloma that needs treatment.
 
 Library: Multiple myeloma: CRAB and pathology
-Folder: Foundations of Medicine / Week 7 / Lymphoid Neoplasms
+Folder: Foundations of Medicine / Week 7: Hematology / Lymphoid Neoplasms
 
 ## CRAB
 
@@ -6504,7 +6502,7 @@ An IgM spike with hyperviscosity symptoms rather than lytic bone lesions.
 > Rouleaux form because high serum protein reduces the charge repulsion between red cells.
 
 Library: Malaria life cycle
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Classification and vector
 
@@ -6529,7 +6527,7 @@ Plasmodium is an apicomplexan (an apical complex on the merozoite mediates red c
 > Only P. vivax and P. ovale form liver hypnozoites and relapse.
 
 Library: Malaria pathogenesis and host resistance
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Fever
 
@@ -6553,7 +6551,7 @@ P. falciparum exports PfEMP1 into the red cell cytoskeleton, forming sticky knob
 > PfEMP1 makes falciparum-infected cells stick in brain capillaries.
 
 Library: Clinical features of malaria
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Paroxysm
 
@@ -6582,7 +6580,7 @@ In a non-immune traveler, symptoms classically start about 6 weeks after leaving
 > P. malariae is quartan (72 hours); P. knowlesi is daily.
 
 Library: Malaria species on blood smear
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Key findings
 
@@ -6604,7 +6602,7 @@ Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymp
 > A falciparum smear shows rings and crescent gametocytes but rarely schizonts.
 
 Library: Antimalarial drugs
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## The drug target
 
@@ -6623,7 +6621,7 @@ In its food vacuole, the parasite digests hemoglobin with plasmepsins into toxic
 > Chloroquine and its relatives block heme polymerase; artemisinins make reactive oxygen species.
 
 Library: Malaria treatment and prevention
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Regimens
 
@@ -6650,7 +6648,7 @@ Chemoprophylaxis, plus the RTS,S and R21 vaccines against the sporozoite's circu
 > Vivax and ovale need primaquine or tafenoquine (after a G6PD check); falciparum doesn't.
 
 Library: Babesiosis
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Organism and vector
 
@@ -6683,7 +6681,7 @@ Consider it with exposure in an endemic area (US Northeast and upper Midwest, pa
 > The Maltese cross tetrad is pathognomonic for Babesia.
 
 Library: Babesiosis vs. malaria
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Key findings
 
@@ -6699,7 +6697,7 @@ Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymp
 > Only Babesia forms a Maltese cross, and only Babesia has no liver stage.
 
 Library: Toxoplasmosis overview
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Key findings
 
@@ -6712,7 +6710,7 @@ Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymp
 > Toxoplasma mono-like illness is heterophile-negative, unlike EBV.
 
 Library: Chagas disease: life cycle and pathogenesis
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Life cycle
 
@@ -6729,7 +6727,7 @@ Years of amastigote replication and inflammation destroy myenteric neurons and c
 > Chagas is spread by kissing bug feces rubbed into the wound, not by the bite.
 
 Library: Chagas disease: clinical features and treatment
-Folder: Foundations of Medicine / Week 7 / Protozoan Parasites of Blood and Lymphoid Systems
+Folder: Foundations of Medicine / Week 7: Hematology / Protozoan Parasites of Blood and Lymphoid Systems
 
 ## Acute phase
 
@@ -6762,7 +6760,7 @@ Most patients stay in an indeterminate form (asymptomatic, positive serology).
 > Antitrypanosomal drugs don't reverse the heart and GI damage of chronic Chagas disease.
 
 Library: Enveloped vs. naked viruses
-Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Viral Structure and Pathogenesis
 
 ## Key findings
 
@@ -6778,7 +6776,7 @@ Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
 > Naked viruses survive stomach acid and bile, so they can spread by the fecal-oral route.
 
 Library: Viral life cycle and replication sites
-Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Viral Structure and Pathogenesis
 
 ## Stages
 
@@ -6804,7 +6802,7 @@ Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
 > Most DNA viruses replicate in the nucleus and most RNA viruses in the cytoplasm; poxviruses, influenza, and HIV are the exceptions.
 
 Library: DNA virus families
-Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Viral Structure and Pathogenesis
 
 DNA viruses (HHAPPPPy) stimulate cell growth and establish persistent infections.
 
@@ -6821,7 +6819,7 @@ DNA viruses (HHAPPPPy) stimulate cell growth and establish persistent infections
 > Parvovirus B19 infection in pregnancy causes fetal anemia and hydrops fetalis.
 
 Library: RNA virus families
-Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Viral Structure and Pathogenesis
 
 ## Key findings
 
@@ -6842,7 +6840,7 @@ Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
 > Antigenic shift (reassortment of influenza's segments) causes pandemics; drift causes yearly outbreaks.
 
 Library: Viral spread and course of infection
-Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Viral Structure and Pathogenesis
 
 ## Spread
 
@@ -6865,7 +6863,7 @@ Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
 > The prodrome is the stage of nonspecific symptoms before the characteristic illness.
 
 Library: Viral cytopathic effects and inclusion bodies
-Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Viral Structure and Pathogenesis
 
 ## Key findings
 
@@ -6883,7 +6881,7 @@ Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
 > Owl's eye inclusions mean CMV; Negri bodies mean rabies.
 
 Library: SARS-CoV-2 pathogenesis
-Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Viral Structure and Pathogenesis
 
 ## Key findings
 
@@ -6897,7 +6895,7 @@ Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
 > Losing ACE2 function raises angiotensin II, driving vasoconstriction and clotting.
 
 Library: Hepatitis C antivirals
-Folder: Foundations of Medicine / Week 8 / Viral Structure and Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Viral Structure and Pathogenesis
 
 ## Hepatitis C
 
@@ -6916,7 +6914,7 @@ HCV is a (+) RNA flavivirus spread parenterally and sexually. Acute infection is
 > Glecaprevir targets NS3/4A, pibrentasvir and velpatasvir target NS5A, and sofosbuvir targets NS5B.
 
 Library: Herpesvirus structure, subfamilies, and latency
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Structure
 
@@ -6944,7 +6942,7 @@ Herpesviruses are dsDNA viruses with four parts: an outer lipid envelope, a tegu
 > Alpha herpesviruses (HSV-1, HSV-2, VZV) establish latency in sensory ganglia.
 
 Library: Herpesvirus lab diagnosis
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Key findings
 
@@ -6959,7 +6957,7 @@ Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
 > IgM points to acute infection; IgG points to past exposure.
 
 Library: HSV-1 infection
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Primary infection
 
@@ -6981,7 +6979,7 @@ Reactivation travels from the neuron down the axon to the skin, causing cold sor
 > HSV-1 hides in the trigeminal ganglion and reactivates as cold sores.
 
 Library: HSV-2 and genital herpes
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Key findings
 
@@ -6999,7 +6997,7 @@ Acyclovir, famciclovir, or valacyclovir. Suppressive therapy reduces recurrences
 > Asymptomatic viral shedding spreads genital herpes, and suppressive therapy doesn't fully stop it.
 
 Library: HSV complications
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Key findings
 
@@ -7014,7 +7012,7 @@ Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
 > Fever, behavior change, and seizures with a temporal lobe lesion point to HSV encephalitis.
 
 Library: Herpes antivirals
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Mechanism of acyclovir
 
@@ -7039,7 +7037,7 @@ Because the first step needs viral thymidine kinase, these drugs don't work agai
 > Acyclovir needs viral thymidine kinase for its first phosphorylation.
 
 Library: Varicella (chickenpox)
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Key findings
 
@@ -7059,7 +7057,7 @@ Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
 > Chickenpox is contagious until every lesion has crusted.
 
 Library: Herpes zoster (shingles)
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Key findings
 
@@ -7079,7 +7077,7 @@ Pain that persists in the dermatome after the rash heals, common in the elderly 
 > Early antiviral treatment of shingles may reduce post-herpetic neuralgia.
 
 Library: EBV and infectious mononucleosis
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Key findings
 
@@ -7102,7 +7100,7 @@ Rest and no contact sports; steroids may help some complications.
 > Mono has a positive Monospot and atypical T-lymphocytes.
 
 Library: CMV infection
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Key findings
 
@@ -7124,7 +7122,7 @@ Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
 > CMV mono looks like EBV mono but has a negative heterophile test.
 
 Library: HHV-6, HHV-7, and roseola
-Folder: Foundations of Medicine / Week 8 / Herpes Virus Infections
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Herpes Virus Infections
 
 ## Key findings
 
@@ -7140,7 +7138,7 @@ High fever for several days, which can cause febrile seizures, followed by a dif
 > Roseola is high fever first, then a rash.
 
 Library: HIV entry: CD4, CCR5, and CXCR4
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## CD4
 
@@ -7163,7 +7161,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
 > CCR5 delta-32 homozygotes are resistant to CCR5-tropic HIV.
 
 Library: HIV elite controllers
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Key findings
 
@@ -7177,7 +7175,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
 > Elite controllers keep HIV suppressed without treatment but can still transmit it.
 
 Library: AIDS and opportunistic infections by CD4 count
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## AIDS
 
@@ -7199,7 +7197,7 @@ Seborrheic dermatitis, fungal and viral skin infections, parasites, and Kaposi s
 > Pneumocystis pneumonia appears once CD4 falls below 200.
 
 Library: HIV-associated candidiasis
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Key findings
 
@@ -7224,7 +7222,7 @@ Oral imidazoles such as fluconazole.
 > Thrush scrapes off; oral hairy leukoplakia on the lateral tongue doesn't.
 
 Library: Pneumocystis pneumonia
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Key findings
 
@@ -7246,7 +7244,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
 > Add steroids to TMP-SMX for PCP when room-air PaO2 is under 70 mm Hg.
 
 Library: Mycobacterium avium complex in HIV
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Key findings
 
@@ -7263,7 +7261,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
 > Disseminated MAC appears when CD4 falls below 50.
 
 Library: Cryptococcal meningitis
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Key findings
 
@@ -7283,7 +7281,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
 > The most common cause of death is failing to recognize and treat high CSF pressure.
 
 Library: Cerebral toxoplasmosis
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Key findings
 
@@ -7304,7 +7302,7 @@ Usually clinical. A positive toxoplasma IgG with a consistent presentation and r
 > Multiple ring-enhancing lesions in the basal ganglia point to toxoplasmosis.
 
 Library: CNS lymphoma and PML in HIV
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Key findings
 
@@ -7316,7 +7314,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
 > PML is JC virus demyelination of white matter, with non-enhancing lesions.
 
 Library: CMV retinitis
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Key findings
 
@@ -7333,7 +7331,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
 > CMV retinitis presents with floaters and scotomata when CD4 is under 100.
 
 Library: HIV-associated diarrhea and Cryptosporidium
-Folder: Foundations of Medicine / Week 8 / HIV Pathogenesis
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Pathogenesis
 
 ## Causes
 
@@ -7349,7 +7347,7 @@ Cryptosporidium, Mycobacterium avium complex, Giardia, and amoeba.
 > Acid-fast oocysts in stool point to Cryptosporidium.
 
 Library: How viruses cause cancer
-Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Oncogenic Viruses
 
 ## Key findings
 
@@ -7372,7 +7370,7 @@ Persistent viral infection can drive uncontrolled growth and malignant transform
 > Oncogenic viruses either activate oncogenes or disable tumor suppressors.
 
 Library: EBV oncogenesis
-Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Oncogenic Viruses
 
 ## Infection
 
@@ -7389,7 +7387,7 @@ EBV is an enveloped dsDNA herpesvirus spread by saliva. It starts in the orophar
 > LMP-1 acts like a permanently active CD40 and turns on BCL2.
 
 Library: Burkitt lymphoma and EBV
-Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Oncogenic Viruses
 
 ## Key findings
 
@@ -7406,7 +7404,7 @@ Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
 > Burkitt lymphoma is t(8;14) MYC activation, with a starry sky pattern.
 
 Library: HPV oncogenesis
-Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Oncogenic Viruses
 
 ## Key findings
 
@@ -7427,7 +7425,7 @@ The HPV vaccine protects against types 6, 11, 16, and 18.
 > HPV E6 degrades p53 and E7 inactivates Rb.
 
 Library: Kaposi sarcoma herpesvirus (HHV-8)
-Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Oncogenic Viruses
 
 ## Key findings
 
@@ -7444,7 +7442,7 @@ Antiretrovirals alone for early disease (stage T0), plus liposomal doxorubicin f
 > Kaposi sarcoma is HHV-8-driven proliferation of endothelial spindle cells.
 
 Library: Hepatitis B and hepatocellular carcinoma
-Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Oncogenic Viruses
 
 ## Key findings
 
@@ -7456,7 +7454,7 @@ Folder: Foundations of Medicine / Week 8 / Oncogenic Viruses
 > HBV causes about 80% of hepatocellular carcinoma.
 
 Library: HIV transmission
-Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Epidemiology, Treatment, and Prevention
 
 ## Key findings
 
@@ -7467,7 +7465,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prev
 > Primary HIV infection can look like mononucleosis.
 
 Library: HIV entry inhibitors: maraviroc and enfuvirtide
-Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Epidemiology, Treatment, and Prevention
 
 ## Key findings
 
@@ -7479,7 +7477,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prev
 > Maraviroc only works on CCR5-tropic virus, so tropism testing comes first.
 
 Library: NRTIs and NNRTIs
-Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Epidemiology, Treatment, and Prevention
 
 ## NRTIs
 
@@ -7502,7 +7500,7 @@ Non-nucleoside reverse transcriptase inhibitors are rarely used now. They cause 
 > Screen for HLA-B*57:01 before giving abacavir.
 
 Library: Integrase and protease inhibitors
-Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Epidemiology, Treatment, and Prevention
 
 ## Integrase strand transfer inhibitors (INSTIs, "-tegravir")
 
@@ -7524,7 +7522,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prev
 > Integrase inhibitors are the best-tolerated HIV class and the base of two-class therapy.
 
 Library: HIV treatment strategy and resistance
-Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prevention
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / HIV Epidemiology, Treatment, and Prevention
 
 ## Management
 
@@ -7542,7 +7540,7 @@ Folder: Foundations of Medicine / Week 8 / HIV Epidemiology, Treatment, and Prev
 > M184V causes resistance to lamivudine and emtricitabine.
 
 Library: Mechanisms of cell injury
-Folder: Foundations of Medicine / Week 8 / Pathology of Cell Injury and Death
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Pathology of Cell Injury and Death
 
 ## Key findings
 
@@ -7556,7 +7554,7 @@ The main targets of cell injury are the mitochondria, the cell membrane, the cyt
 > Rising intracellular calcium drives much of the damage in cell injury.
 
 Library: Reversible vs. irreversible cell injury
-Folder: Foundations of Medicine / Week 8 / Pathology of Cell Injury and Death
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Pathology of Cell Injury and Death
 
 ## Key findings
 
@@ -7579,7 +7577,7 @@ Folder: Foundations of Medicine / Week 8 / Pathology of Cell Injury and Death
 > Pyknosis, karyorrhexis, and karyolysis mark irreversible injury.
 
 Library: Types of necrosis
-Folder: Foundations of Medicine / Week 8 / Pathology of Cell Injury and Death
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Pathology of Cell Injury and Death
 
 ## Key findings
 
@@ -7594,7 +7592,7 @@ Folder: Foundations of Medicine / Week 8 / Pathology of Cell Injury and Death
 > Ischemia causes coagulative necrosis everywhere except the brain, where it's liquefactive.
 
 Library: Antifungal drugs at a glance
-Folder: Foundations of Medicine / Week 8 / Antifungal Drugs
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Antifungal Drugs
 
 ## Key findings
 
@@ -7614,7 +7612,7 @@ Two of the three core antifungals act on ergosterol in the fungal cell membrane 
 > Amphotericin B binds ergosterol, while fluconazole blocks ergosterol synthesis.
 
 Library: Amphotericin B
-Folder: Foundations of Medicine / Week 8 / Antifungal Drugs
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Antifungal Drugs
 
 ## Mechanism
 
@@ -7638,7 +7636,7 @@ Students remember it as "amphoterrible" because the side effects are broad:
 > Amphotericin B pokes holes in the fungal membrane by binding ergosterol, and nephrotoxicity is its signature toxicity.
 
 Library: Flucytosine
-Folder: Foundations of Medicine / Week 8 / Antifungal Drugs
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Antifungal Drugs
 
 ## Mechanism
 
@@ -7657,7 +7655,7 @@ Flucytosine is a precursor of 5-fluorouracil (5-FU). Inside the fungus it become
 > Flucytosine works through 5-FU, so it shares 5-FU's marrow toxicity.
 
 Library: Fluconazole
-Folder: Foundations of Medicine / Week 8 / Antifungal Drugs
+Folder: Foundations of Medicine / Week 8: Foundations of Microbiology I / Antifungal Drugs
 
 ## Mechanism
 
@@ -7678,7 +7676,7 @@ Because it inhibits CYP450 enzymes, fluconazole also affects human steroid and d
 > Fluconazole's CYP450 inhibition explains both its antifungal action and its effects on testosterone and the liver.
 
 Library: Staphylococcus aureus
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Cocci
 
 ## Key findings
 
@@ -7703,7 +7701,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
 > Toxic shock syndrome comes from TSST-1, a superantigen that binds MHC II.
 
 Library: Coagulase-negative staphylococci
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Cocci
 
 ## Key findings
 
@@ -7717,7 +7715,7 @@ Both are gram-positive cocci that are separated from S. aureus by a negative coa
 > S. epidermidis infects prosthetic devices, and S. saprophyticus causes UTIs.
 
 Library: Streptococcus pyogenes (group A strep)
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Cocci
 
 ## Key findings
 
@@ -7743,7 +7741,7 @@ Penicillin G covers Streptococcus pyogenes.
 > M protein is group A strep's main virulence factor, and rheumatic fever is a Th1-driven complication.
 
 Library: Streptococcus agalactiae (group B strep)
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Cocci
 
 ## Key findings
 
@@ -7765,7 +7763,7 @@ Penicillin G covers Streptococcus agalactiae.
 > Group B strep passes to the baby at birth and is the leading cause of neonatal sepsis and meningitis.
 
 Library: Streptococcus pneumoniae and viridans streptococci
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Cocci
 
 ## Key findings
 
@@ -7784,7 +7782,7 @@ S. pneumoniae is the top encapsulated organism threatening asplenic and sickle c
 > S. pneumoniae is alpha-hemolytic and optochin sensitive.
 
 Library: Enterococcus
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Cocci
 
 ## Key findings
 
@@ -7804,7 +7802,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
 > Enterococcus grows in 6.5% salt and isn't covered by cephalosporins.
 
 Library: Hemolysis patterns of gram-positive cocci
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Cocci
 
 ## Key findings
 
@@ -7824,7 +7822,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Positive Cocci
 > Alpha-hemolytic cocci are split by optochin: S. pneumoniae is sensitive.
 
 Library: Bacillus anthracis
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Bacilli
 
 ## Key findings
 
@@ -7852,7 +7850,7 @@ Ciprofloxacin is listed for B. anthracis.
 > Inhalational anthrax classically shows a widened mediastinum.
 
 Library: Bacillus cereus
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Bacilli
 
 ## Key findings
 
@@ -7873,7 +7871,7 @@ B. cereus causes rapid eye toxicity and post-traumatic endophthalmitis.
 > Fried or reheated rice plus vomiting points to B. cereus's heat-stable toxin.
 
 Library: Clostridium perfringens
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Bacilli
 
 ## Key findings
 
@@ -7889,7 +7887,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
 > C. perfringens alpha toxin is a lecithinase that causes double-zone hemolysis and gas gangrene.
 
 Library: Tetanus vs. botulism
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Bacilli
 
 ## Key findings
 
@@ -7906,7 +7904,7 @@ Both are large motile gram-positive rods and obligate anaerobes with toxins that
 > Tetanus toxin causes spastic paralysis, while botulinum toxin causes flaccid paralysis.
 
 Library: Clostridioides difficile
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Bacilli
 
 ## Key findings
 
@@ -7927,7 +7925,7 @@ Metronidazole is listed for C. difficile. Clindamycin causes C. difficile coliti
 > Recent clindamycin or a fluoroquinolone followed by diarrhea suggests C. difficile.
 
 Library: Corynebacterium diphtheriae
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Bacilli
 
 ## Key findings
 
@@ -7949,7 +7947,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
 > Diphtheria toxin ADP-ribosylates elongation factor 2 and stops protein synthesis.
 
 Library: Listeria monocytogenes
-Folder: Foundations of Medicine / Week 9 / Gram-Positive Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Positive Bacilli
 
 ## Key findings
 
@@ -7970,7 +7968,7 @@ Ampicillin is the drug linked to Listeria.
 > Listeria in pregnancy or a newborn is treated with ampicillin.
 
 Library: Enterobacteriaceae
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Bacilli
 
 ## Key findings
 
@@ -7990,7 +7988,7 @@ MacConkey agar selects for these organisms because bile salts and crystal violet
 > Enterobacteriaceae ferment glucose, reduce nitrate, and are oxidase negative.
 
 Library: E. coli, Shigella, and Salmonella typhi
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Bacilli
 
 ## Key findings
 
@@ -8009,7 +8007,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Negative Bacilli
 > Shiga toxin causes bloody diarrhea and HUS.
 
 Library: Klebsiella pneumoniae and Proteus mirabilis
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Bacilli
 
 ## Key findings
 
@@ -8026,7 +8024,7 @@ Both are Enterobacteriaceae, so both ferment glucose and are oxidase negative.
 > Proteus is urease positive and swarms, which explains its link to kidney stones.
 
 Library: Pseudomonas aeruginosa
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Bacilli
 
 ## Key findings
 
@@ -8051,7 +8049,7 @@ Gentamicin, piperacillin, piperacillin-tazobactam, cefepime, ceftazidime, imipen
 > Pseudomonas exotoxin A and diphtheria toxin both ADP-ribosylate elongation factor 2.
 
 Library: Anaerobic gram-negative bacilli
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Bacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Bacilli
 
 ## Key findings
 
@@ -8073,7 +8071,7 @@ Metronidazole, clindamycin, amoxicillin-clavulanate, and moxifloxacin. Aztreonam
 > Mixed flora near a mucosal surface with a foul smell suggests anaerobes.
 
 Library: Neisseria meningitidis
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Cocci and Coccobacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Cocci and Coccobacilli
 
 ## Key findings
 
@@ -8099,7 +8097,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Negative Cocci and Coccobacilli
 > Meningococcus ferments maltose, and close contacts get chemoprophylaxis.
 
 Library: Neisseria gonorrhoeae
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Cocci and Coccobacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Cocci and Coccobacilli
 
 ## Key findings
 
@@ -8124,7 +8122,7 @@ Parenteral ceftriaxone.
 > Gonococcus has no capsule and ferments glucose but not maltose, unlike meningococcus.
 
 Library: Haemophilus influenzae
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Cocci and Coccobacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Cocci and Coccobacilli
 
 ## Key findings
 
@@ -8151,7 +8149,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Negative Cocci and Coccobacilli
 > H. influenzae needs factors X and V, and meningitis is treated with a third-generation cephalosporin.
 
 Library: Bordetella pertussis
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Cocci and Coccobacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Cocci and Coccobacilli
 
 ## Key findings
 
@@ -8176,7 +8174,7 @@ Erythromycin for treatment and Tdap for prevention.
 > Pertussis toxin ADP-ribosylates Gi, and the whoop comes in the paroxysmal stage.
 
 Library: Moraxella catarrhalis and Kingella kingae
-Folder: Foundations of Medicine / Week 9 / Gram-Negative Cocci and Coccobacilli
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Gram-Negative Cocci and Coccobacilli
 
 ## Key findings
 
@@ -8191,7 +8189,7 @@ Folder: Foundations of Medicine / Week 9 / Gram-Negative Cocci and Coccobacilli
 > Septic arthritis in a toddler points to Kingella kingae.
 
 Library: Mycobacteria overview
-Folder: Foundations of Medicine / Week 9 / Mycobacteria and Nocardia
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Mycobacteria and Nocardia
 
 ## Key findings
 
@@ -8210,7 +8208,7 @@ HIV raises the risk of reactivating latent tuberculosis even when the CD4 count 
 > Screen for latent TB with a PPD or IGRA before starting a TNF-alpha inhibitor.
 
 Library: Nontuberculous mycobacteria
-Folder: Foundations of Medicine / Week 9 / Mycobacteria and Nocardia
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Mycobacteria and Nocardia
 
 ## Key findings
 
@@ -8239,7 +8237,7 @@ Other rapid growers are M. chelonae and M. fortuitum.
 > M. kansasii mimics tuberculosis, with upper lobe cavitation.
 
 Library: Leprosy: tuberculoid vs. lepromatous
-Folder: Foundations of Medicine / Week 9 / Mycobacteria and Nocardia
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Mycobacteria and Nocardia
 
 ## Key findings
 
@@ -8260,7 +8258,7 @@ Triple-drug regimen of dapsone, rifampin, and clofazimine.
 > A strong Th1 response gives tuberculoid leprosy; a Th2-skewed response gives lepromatous leprosy.
 
 Library: Nocardia
-Folder: Foundations of Medicine / Week 9 / Mycobacteria and Nocardia
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Mycobacteria and Nocardia
 
 ## Key findings
 
@@ -8282,7 +8280,7 @@ TMP-SMX is listed for Nocardia; linezolid also covers it.
 > Lung infection plus a brain abscess in an immunocompromised patient suggests Nocardia.
 
 Library: Antimycobacterial drugs
-Folder: Foundations of Medicine / Week 9 / Mycobacteria and Nocardia
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Mycobacteria and Nocardia
 
 ## Key findings
 
@@ -8301,7 +8299,7 @@ Folder: Foundations of Medicine / Week 9 / Mycobacteria and Nocardia
 > Isoniazid causes B6 deficiency, which can cause sideroblastic anemia.
 
 Library: Brucellosis
-Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellular Infections
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Zoonotic, Tick-Borne, and Intracellular Infections
 
 ## Key findings
 
@@ -8324,7 +8322,7 @@ Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellul
 > Undulating fever with bone and joint involvement after animal exposure suggests brucellosis.
 
 Library: Rocky Mountain spotted fever
-Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellular Infections
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Zoonotic, Tick-Borne, and Intracellular Infections
 
 ## Key findings
 
@@ -8346,7 +8344,7 @@ Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellul
 > A rash that starts on the wrists and ankles after a tick bite points to Rocky Mountain spotted fever.
 
 Library: Ehrlichiosis and anaplasmosis
-Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellular Infections
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Zoonotic, Tick-Borne, and Intracellular Infections
 
 ## Key findings
 
@@ -8363,7 +8361,7 @@ Both are Anaplasmataceae, obligate intracellular bacteria that replicate inside 
 > Rickettsia grows free in the cytoplasm, while Ehrlichia and Anaplasma grow inside vacuoles.
 
 Library: Q fever (Coxiella burnetii)
-Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellular Infections
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Zoonotic, Tick-Borne, and Intracellular Infections
 
 ## Key findings
 
@@ -8387,7 +8385,7 @@ Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellul
 > An abattoir worker with pneumonia and relative bradycardia suggests Q fever.
 
 Library: Leptospirosis
-Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellular Infections
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Zoonotic, Tick-Borne, and Intracellular Infections
 
 ## Key findings
 
@@ -8408,7 +8406,7 @@ Often biphasic, with a leptospiremic phase followed by an immune phase with IgM 
 > Jaundice with conjunctival suffusion after rat or water exposure suggests leptospirosis.
 
 Library: Psittacosis (Chlamydophila psittaci)
-Folder: Foundations of Medicine / Week 9 / Zoonotic, Tick-Borne, and Intracellular Infections
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Zoonotic, Tick-Borne, and Intracellular Infections
 
 ## Key findings
 
@@ -8426,7 +8424,7 @@ Doxycycline, or azithromycin for children.
 > Pneumonia in a bird owner points to psittacosis.
 
 Library: Beta-lactam antibiotics overview
-Folder: Foundations of Medicine / Week 9 / Beta-Lactam Antibiotics
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Beta-Lactam Antibiotics
 
 ## Mechanism
 
@@ -8448,7 +8446,7 @@ Beta-lactams bind penicillin-binding proteins (PBPs) and inhibit transpeptidatio
 > Beta-lactams bind PBPs and block peptidoglycan cross-linking.
 
 Library: Penicillins
-Folder: Foundations of Medicine / Week 9 / Beta-Lactam Antibiotics
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Beta-Lactam Antibiotics
 
 ## Key findings
 
@@ -8474,7 +8472,7 @@ Ampicillin or amoxicillin given during EBV mononucleosis causes a maculopapular 
 > Antistaphylococcal penicillins treat MSSA but not MRSA.
 
 Library: Cephalosporins by generation
-Folder: Foundations of Medicine / Week 9 / Beta-Lactam Antibiotics
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Beta-Lactam Antibiotics
 
 ## Key findings
 
@@ -8496,7 +8494,7 @@ Hypersensitivity and disulfiram-like reactions are listed with the first generat
 > Ceftaroline is the cephalosporin with MRSA activity.
 
 Library: Carbapenems and aztreonam
-Folder: Foundations of Medicine / Week 9 / Beta-Lactam Antibiotics
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Beta-Lactam Antibiotics
 
 ## Carbapenems
 
@@ -8516,7 +8514,7 @@ Folder: Foundations of Medicine / Week 9 / Beta-Lactam Antibiotics
 > Ertapenem is the carbapenem that doesn't cover Pseudomonas, Acinetobacter, or Enterococcus.
 
 Library: Drug choices for MRSA and Pseudomonas
-Folder: Foundations of Medicine / Week 9 / Beta-Lactam Antibiotics
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Beta-Lactam Antibiotics
 
 ## MRSA, in the course's order
 
@@ -8538,7 +8536,7 @@ Linezolid, doxycycline, delafloxacin, and TMP-SMX also have MRSA activity.
 > For MRSA, the course's order is vancomycin, then ceftaroline, then daptomycin.
 
 Library: Vancomycin
-Folder: Foundations of Medicine / Week 9 / Other Cell Wall and Membrane Antibiotics
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Other Cell Wall and Membrane Antibiotics
 
 ## Mechanism
 
@@ -8562,7 +8560,7 @@ Vancomycin has a narrow therapeutic index, so levels are monitored.
 > Vancomycin binds D-Ala-D-Ala and is the first-line drug for MRSA.
 
 Library: Daptomycin
-Folder: Foundations of Medicine / Week 9 / Other Cell Wall and Membrane Antibiotics
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Other Cell Wall and Membrane Antibiotics
 
 ## Mechanism
 
@@ -8581,7 +8579,7 @@ Myopathy and rhabdomyolysis.
 > Daptomycin is inactivated by surfactant, so it can't treat pneumonia.
 
 Library: Fosfomycin and polymyxins
-Folder: Foundations of Medicine / Week 9 / Other Cell Wall and Membrane Antibiotics
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Other Cell Wall and Membrane Antibiotics
 
 ## Key findings
 
@@ -8593,7 +8591,7 @@ Folder: Foundations of Medicine / Week 9 / Other Cell Wall and Membrane Antibiot
 > Oral fosfomycin is only useful for UTIs.
 
 Library: Aminoglycosides
-Folder: Foundations of Medicine / Week 9 / Protein Synthesis Inhibitors
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Protein Synthesis Inhibitors
 
 ## Mechanism
 
@@ -8617,7 +8615,7 @@ Nephrotoxicity, ototoxicity, vertigo, and neuromuscular blockade. Avoid in pregn
 > Aminoglycosides are 30S inhibitors that cause nephrotoxicity and ototoxicity.
 
 Library: Tetracyclines
-Folder: Foundations of Medicine / Week 9 / Protein Synthesis Inhibitors
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Protein Synthesis Inhibitors
 
 ## Mechanism
 
@@ -8642,7 +8640,7 @@ Tetracyclines prevent tRNA from binding the 30S ribosome during elongation.
 > Doxycycline chelates calcium, stains teeth, and causes photosensitivity.
 
 Library: Macrolides
-Folder: Foundations of Medicine / Week 9 / Protein Synthesis Inhibitors
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Protein Synthesis Inhibitors
 
 ## Mechanism
 
@@ -8664,7 +8662,7 @@ Prolonged QT interval and GI upset.
 > Macrolides are 50S inhibitors that prolong the QT interval.
 
 Library: Clindamycin and linezolid
-Folder: Foundations of Medicine / Week 9 / Protein Synthesis Inhibitors
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / Protein Synthesis Inhibitors
 
 ## Key findings
 
@@ -8682,7 +8680,7 @@ Data on clindamycin's efficacy in necrotizing fasciitis are limited.
 > Clindamycin's classic complication is C. difficile colitis, and linezolid's is marrow suppression.
 
 Library: Fluoroquinolones
-Folder: Foundations of Medicine / Week 9 / DNA and RNA Synthesis Inhibitors
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / DNA and RNA Synthesis Inhibitors
 
 ## Mechanism
 
@@ -8704,7 +8702,7 @@ Tendonitis and tendon rupture, prolonged QT, C. difficile infection, confusion, 
 > Fluoroquinolones inhibit DNA gyrase and can rupture tendons.
 
 Library: Metronidazole
-Folder: Foundations of Medicine / Week 9 / DNA and RNA Synthesis Inhibitors
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / DNA and RNA Synthesis Inhibitors
 
 ## Mechanism
 
@@ -8726,7 +8724,7 @@ Metronidazole, a nitroimidazole, diffuses into the organism and is reduced in it
 > Metronidazole covers anaerobes and causes a disulfiram-like reaction.
 
 Library: Rifamycins
-Folder: Foundations of Medicine / Week 9 / DNA and RNA Synthesis Inhibitors
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / DNA and RNA Synthesis Inhibitors
 
 ## Mechanism
 
@@ -8748,7 +8746,7 @@ Red-orange body fluids, hepatotoxicity, and flu-like symptoms. Rifamycins induce
 > Rifampin induces CYP450, turns body fluids red, and is never used alone.
 
 Library: TMP-SMX (trimethoprim-sulfamethoxazole)
-Folder: Foundations of Medicine / Week 9 / DNA and RNA Synthesis Inhibitors
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II / DNA and RNA Synthesis Inhibitors
 
 ## Mechanism
 
@@ -8773,7 +8771,7 @@ TMP-SMX blocks folate synthesis at two steps, dihydropteroate synthase (DHPS) an
 > TMP-SMX blocks DHPS and DHFR and is the drug for Pneumocystis and Nocardia.
 
 Library: Bacteria grouped by clinical clue
-Folder: Foundations of Medicine / Week 9
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II
 
 ## Key findings
 
@@ -8796,7 +8794,7 @@ Folder: Foundations of Medicine / Week 9
 > Asplenic patients are most threatened by encapsulated organisms such as S. pneumoniae.
 
 Library: Bacterial culture media and lab tests
-Folder: Foundations of Medicine / Week 9
+Folder: Foundations of Medicine / Week 9: Foundations of Microbiology II
 
 ## Key findings
 
