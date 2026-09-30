@@ -6690,7 +6690,7 @@ E. CDKN2A
 Answer: B. MYC
 Order: Second
 Difficulty: Medium
-Reference: Oncogenes and proto-oncogenes; Burkitt lymphoma: starry sky and MYC translocation
+Reference: Oncogenes and proto-oncogenes; Burkitt lymphoma: starry sky and t(8;14)
 Why this is correct:
 This is Burkitt lymphoma, driven by MYC, an oncogene amplified or translocated in many cancers.
 Why the other answers are wrong:
@@ -9257,7 +9257,7 @@ E. MYC
 Answer: E. MYC
 Order: Second
 Difficulty: Easy
-Reference: Recombination disorders: Omenn syndrome, ataxia telangiectasia, and CD3 deficiency; Burkitt lymphoma: starry sky and MYC translocation
+Reference: Recombination disorders: Omenn syndrome, ataxia telangiectasia, and CD3 deficiency; Burkitt lymphoma: starry sky and t(8;14)
 Why this is correct:
 Errors in cutting and pasting receptor genes can move DNA to the wrong place, and moving MYC next to the heavy chain region on chromosome 14 causes Burkitt lymphoma.
 Why the other answers are wrong:
@@ -11573,7 +11573,7 @@ E. t(12;21)
 Answer: C. t(8;14), moving MYC next to IgH
 Order: Second
 Difficulty: Easy
-Reference: Burkitt lymphoma: starry sky and MYC translocation
+Reference: Burkitt lymphoma: starry sky and t(8;14)
 Why this is correct:
 Burkitt lymphoma is driven by t(8;14), which moves MYC to IgH. It has a starry-sky pattern and a Ki-67 near 100%, and the sporadic form involves the abdomen, often the ileocecal valve.
 Why the other answers are wrong:
@@ -13740,7 +13740,7 @@ E. t(11;14) involving cyclin D1
 Answer: D. t(8;14) involving MYC
 Order: Second
 Difficulty: Easy
-Reference: Burkitt lymphoma: starry sky and MYC translocation; Burkitt lymphoma and EBV
+Reference: Burkitt lymphoma: starry sky and t(8;14); Burkitt lymphoma and EBV
 Why this is correct:
 Burkitt lymphoma has t(8;14) involving MYC and a starry-sky pattern, and the endemic African form presents as a jaw mass linked to EBV.
 Why the other answers are wrong:
@@ -13762,7 +13762,7 @@ E. Plasma cells
 Answer: D. Tingible-body macrophages
 Order: First
 Difficulty: Easy
-Reference: Burkitt lymphoma: starry sky and MYC translocation
+Reference: Burkitt lymphoma: starry sky and t(8;14)
 Why this is correct:
 The starry-sky pattern of Burkitt lymphoma comes from tingible-body macrophages scattered among sheets of tumor cells.
 Why the other answers are wrong:
@@ -13784,7 +13784,7 @@ E. HIV
 Answer: B. Epstein-Barr virus
 Order: First
 Difficulty: Easy
-Reference: Burkitt lymphoma: starry sky and MYC translocation; Burkitt lymphoma and EBV
+Reference: Burkitt lymphoma: starry sky and t(8;14); Burkitt lymphoma and EBV
 Why this is correct:
 Endemic African Burkitt lymphoma presents as a jaw or facial mass and is associated with EBV.
 Why the other answers are wrong:
