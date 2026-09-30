@@ -1,13 +1,21 @@
 Foundations of Medicine / Week 2 / Cell Structure & Organelles
-Question 1
-A 58-year-old man comes to the physician because of fatigue and a 6-kg weight loss over 3 months. He drank heavily for 20 years but quit last year. He takes no medications. Temperature is 37.2°C (99°F), and his liver is firm and palpable 4 cm below the costal margin. Alpha-fetoprotein is elevated, and CT shows a liver mass. Biopsy shows malignant hepatocytes with several large, prominent nucleoli in each nucleus. Which process is taking place in these structures?
+Question 1A 
+58-year-old man comes to the clinic because of fatigue and a 6-kg (13-lb) weight loss over 3 months. He drank heavily for 20 years but quit last year. His liver is firm and palpable 4 cm below the costal margin. Serum alpha-fetoprotein is high, and CT shows a liver mass. A biopsy shows malignant hepatocytes, each containing several large, prominent nucleoli. Which of the following processes is most likely increased in these structures?
 A. Ribosome subunit assembly
 B. Basal body formation
 C. Hydrogen peroxide breakdown
 D. Ubiquitinated protein degradation
 E. Long-chain fatty acid oxidation
-Answer: A
-Why this is correct: The nucleolus is the site of rRNA transcription, pre-RNA processing, and ribosome subunit assembly. Cells with high protein synthesis, like cancer cells and liver cells, tend to have more nucleoli.
+Answer: A. Ribosome subunit assembly
+Order: Second
+Difficulty: Easy
+Reference: Nucleolus and ribosomes
+Why this is correct:The prominent structures are nucleoli, the site of rRNA transcription, pre-RNA processing, and ribosome subunit assembly. Cells with high protein synthesis, such as cancer cells and liver cells, tend to have more nucleoli.Why the other answers are wrong:
+B. Basal bodies form when centrioles attach to the inner plasma membrane of non-dividing cells, not in the nucleus.
+C. Hydrogen peroxide is broken down by catalase in peroxisomes.
+D. Ubiquitinated proteins are degraded by proteasomes.
+E. Beta oxidation of long-chain fatty acids takes place in peroxisomes.
+Objective: Identify the nucleolus as the site of rRNA synthesis and ribosome subunit assembly.
 
 Foundations of Medicine / Week 2 / Cell Structure & Organelles
 Question 2
