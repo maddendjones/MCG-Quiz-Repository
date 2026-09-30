@@ -2,11 +2,4 @@ WPS-Archive library: table of contents
 Lines above the first page are notes and never appear on the site.
 Add one Include: line per week file, in course order.
 
-Include: library/fom-week-02-cellular-molecular-genetic.txt
-Include: library/fom-week-03-metabolic-foundations.txt
-Include: library/fom-week-04.txt
-Include: library/fom-week-05-cancer-biology-genetics.txt
-Include: library/fom-week-06.txt
-Include: library/fom-week-07-hematology.txt
-Include: library/fom-week-08.txt
 Include: library/FOM.txt
