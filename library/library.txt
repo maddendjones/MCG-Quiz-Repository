@@ -13010,3 +13010,3519 @@ The slide doesn't print the answers. Work them out from the lecture's own figure
 - Parasympathetic (purple): the vagus nerve from the dorsal motor nucleus in the medulla, ending near the SA and AV nodes
 
 > Angina is cardiac pain referred to the chest, left upper limb, back, neck, and/or jaw, and the heart's sympathetic supply comes from upper thoracic levels (T1 to T5 on the slide's diagram).
+
+Library: Vertebral column regions and functions
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Vertebral column in anterior, right lateral, and posterior views plus a medial view of the bisected column, with color bands and labels for 7 cervical, 12 thoracic, 5 lumbar, sacrum (5 segments), and coccyx (4 segments), and vertebrae numbered T1 to T12, L1 to L5, S1 to S5](library/images/msk-week-13/vert-vertebral-column-regions.jpg)
+
+## Key features
+
+The vertebral column extends from the skull to the tip of the coccyx. It's built from five regions, counted from top to bottom.
+
+| Region | Number of vertebrae | Notes |
+|---|---|---|
+| Cervical | 7 | Neck |
+| Thoracic | 12 | Articulate with ribs |
+| Lumbar | 5 | Lower back |
+| Sacral | 5 | Fused to form the sacrum |
+| Coccygeal | 3 to 5 | Fused to form the coccyx |
+
+The handout counts 33 vertebrae in total, using 4 coccygeal vertebrae.
+
+## Function
+
+- Maintains posture
+- Absorbs shock and supports body weight
+- Aids in movement
+- Protects the spinal cord and spinal nerves
+
+> The vertebral column has 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, and 3 to 5 fused coccygeal vertebrae.
+
+Library: Normal vertebral curvatures
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Medial view of the vertebral column with skull, ribs, and pelvis, color banded by region, with dashed lines marking the cervical, thoracic, lumbar, and sacral curvatures](library/images/msk-week-13/vert-normal-curvatures.jpg)
+
+## Identify it
+
+- In a lateral view the column forms four curves, alternating in direction
+- The cervical and lumbar curves are hollow toward the back
+- The thoracic and sacral curves are hollow toward the front
+
+## Key features
+
+| Curvature | Concave toward | Type named in lecture |
+|---|---|---|
+| Cervical | Posteriorly | Secondary |
+| Thoracic | Anteriorly | Not stated |
+| Lumbar | Posteriorly | Secondary |
+| Sacral | Anteriorly | Not stated |
+
+The thoracic and sacral curvatures are concave anteriorly, and the cervical and lumbar curvatures are concave posteriorly. When these normal curves become exaggerated or a sideways curve appears, the result is one of the abnormal curvatures: kyphosis (thoracic), lordosis (lumbar), or scoliosis (lateral).
+
+> Cervical and lumbar curvatures are concave posteriorly and are the secondary curvatures; thoracic and sacral curvatures are concave anteriorly.
+
+Library: Abnormal vertebral curvatures: kyphosis, lordosis, and scoliosis
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Side-by-side illustration of a neutral spine and a kyphotic spine with regions labeled cervical, thoracic spine, lumbar, sacrum, and tailbone, above a lateral photo of a patient's back showing a pronounced thoracic hump](library/images/msk-week-13/vert-kyphosis.jpg)
+
+![Illustration of two standing women in lateral view comparing normal posture with lumbar lordosis (swayback), labeled lumbar spine and curved spine in the lower back](library/images/msk-week-13/vert-lordosis.jpg)
+
+![Posterior view diagrams comparing normal spines with scoliotic spines, and a photo of a patient's back showing a lateral curve of the spine with an uneven trunk](library/images/msk-week-13/vert-scoliosis.jpg)
+
+## Identify it
+
+- Kyphosis: hunchback or humpback, a rounded upper back in lateral view
+- Lordosis: hollow back or sway back, a deeply hollowed lower back in lateral view
+- Scoliosis: curved back seen from behind, with the spine bending to the side and the trunk looking uneven
+
+## Key features
+
+| Condition | Region | Defining change | Causes in lecture |
+|---|---|---|---|
+| Kyphosis | Thoracic | Excessive thoracic curvature | Degenerative diseases; erosion or fracture of the anterior part of one or more vertebrae; postural component |
+| Lordosis | Lumbar | Excessive lumbar curvature | Weak trunk muscles; obesity; pregnancy |
+| Scoliosis | Lateral | Increased lateral curvature with vertebral rotation | Idiopathic; congenital defect in vertebral development |
+
+The handout adds detail to each one. Kyphosis typically results from erosion or fracture of the anterior part of the vertebrae, often due to osteoporosis or other aging factors. Lordosis is characterized by anterior rotation of the pelvis and is often caused by weakened trunk musculature and seen during pregnancy. Scoliosis may be due to weakness of back muscles, poor posture, congenital defects in vertebral development, and inequality in the length of the lower limbs.
+
+Kyphosis and lordosis exaggerate curves that are already present (thoracic concave anteriorly, lumbar concave posteriorly). Scoliosis adds a sideways curve that isn't part of the normal column, and the rotation of the vertebrae is part of its definition.
+
+> Kyphosis exaggerates the thoracic curve, lordosis exaggerates the lumbar curve, and scoliosis is a lateral curve with vertebral rotation.
+
+Library: Parts of a typical vertebra
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Typical vertebra in superior view labeled spinous process, vertebral foramen, lamina, transverse process, pedicle, and vertebral body, and in lateral view labeled transverse process, pedicle, spinous process, and vertebral body](library/images/msk-week-13/vert-typical-vertebra-parts.jpg)
+
+## Identify it
+
+- Vertebral body: large anterior block
+- Vertebral arch: posterior ring made of pedicles and laminae
+- Pedicles: short stout processes joining the arch to the body
+- Laminae: two broad flat plates closing the arch posteriorly
+- Vertebral foramen: the opening bounded by the body and the arch
+- Transverse processes (2): project posterolaterally from the pedicle and lamina junction
+- Spinous process (1): projects posteriorly where the two laminae meet
+
+## Key features
+
+- The vertebral body supports body weight, and adjacent bodies are separated by intervertebral (IV) discs
+- Vertebral bodies get larger inferiorly to support increasing body weight
+- Spinous and transverse processes are attachment sites for muscles and ligaments
+
+Osteoporosis commonly affects the vertebral bodies, which become weak and brittle and can fracture. It's most common in thoracic vertebrae and especially common in postmenopausal females. A laminectomy removes one or more spinous processes and their laminae to open the vertebral canal and relieve pressure on the cord or nerve roots. In spina bifida, the vertebral arch formed from the laminae (usually lumbar) fails to develop and fuse.
+
+> The vertebral arch is made of pedicles and laminae; the body sits anterior and the spinous process projects posteriorly from where the laminae meet.
+
+Library: Articular processes and pars interarticularis
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lumbar vertebra in superior view and lateral view plus two articulated vertebrae, labeled superior articular process and facet, inferior articular process and facet, and pars interarticularis](library/images/msk-week-13/vert-articular-processes-pars.jpg)
+
+## Identify it
+
+- Superior articular process with its facet points upward
+- Inferior articular process with its facet points downward
+- Pars interarticularis is the bony segment between the superior and inferior articular processes
+- In the articulated view, the inferior process of the upper vertebra meets the superior process of the vertebra below
+
+## Key features
+
+- Superior articular facet articulates with the vertebra above
+- Inferior articular facet articulates with the vertebra below
+- There are four articular processes per vertebra (2 superior, 2 inferior), located at the junction of the pedicles and laminae
+- Paired articular processes of adjacent vertebrae form the zygapophysial (facet) joints
+- A fracture of the pars interarticularis is called spondylolysis
+
+> A fracture through the pars interarticularis, the region between the superior and inferior articular processes, is spondylolysis.
+
+Library: Vertebral notches and the intervertebral foramen
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lateral view of a lumbar vertebra labeled superior vertebral notch and inferior vertebral notch, next to two articulated vertebrae with the intervertebral foramen outlined in yellow between them](library/images/msk-week-13/vert-vertebral-notches-ivf.jpg)
+
+## Identify it
+
+- Superior vertebral notch: shallow curve on the upper edge of the pedicle
+- Inferior vertebral notch: deeper curve on the lower edge of the pedicle
+- When two vertebrae stack, the inferior notch of the upper vertebra and the superior notch of the lower vertebra outline an opening, the intervertebral foramen
+
+## Function
+
+- Each pedicle has a superior and an inferior vertebral notch
+- The notches of adjacent vertebrae create the intervertebral foramen
+- The intervertebral foramen allows passage of the spinal nerves
+
+Narrowing of the intervertebral foramina is one form of spinal stenosis, which can compress the spinal nerve roots passing through.
+
+> Superior and inferior vertebral notches of adjacent vertebrae form the intervertebral foramen, where spinal nerves pass.
+
+Library: Vertebral canal
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lateral view of the lumbar and sacral column with vertebral bodies sectioned, showing the spinal cord, cauda equina nerve roots, and meninges running in the vertebral canal and spinal nerves exiting between vertebrae](library/images/msk-week-13/vert-vertebral-canal.jpg)
+
+## Identify it
+
+- Continuous channel behind the stacked vertebral bodies
+- Holds the spinal cord, its nerve roots, and the meninges
+- Spinal nerves leave the canal laterally between adjacent vertebrae
+
+## Key features
+
+- The vertebral canal is formed when vertebrae are stacked in succession
+- It's made by the adjacent vertebral foramina lined up one above the other
+- It contains the spinal cord and meninges
+- The posterior longitudinal ligament runs inside the canal along the back of the vertebral bodies
+- The internal vertebral venous plexus lies within the canal
+- The sacral hiatus is an inverted U-shaped opening leading into the sacral canal, the inferior end of the vertebral canal
+
+Spinal stenosis is a narrowing of the vertebral canal (or of the intervertebral foramina) that compresses the spinal cord or nerve roots.
+
+> The vertebral canal is the stack of vertebral foramina and contains the spinal cord and meninges.
+
+Library: Cervical vertebrae (C3 to C7) and the vertebra prominens
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Superior view of a cervical vertebra labeled spinous process (bifid), vertebral body, and transverse foramen](library/images/msk-week-13/vert-cervical-vertebra.jpg)
+
+![Superior views of vertebrae C1 to C7 stacked vertically, a lateral view of articulated C4 and C5 with a dashed line along the facet plane, and a lateral cervical radiograph with C2 to C7 labeled](library/images/msk-week-13/vert-cervical-facets-radiograph.jpg)
+
+![Photo of the back of a person's neck and upper back, neck and back flexed with scapulae protracted, with a leader line to the C7 spinous process bump at the base of the neck](library/images/msk-week-13/vert-vertebra-prominens.jpg)
+
+## Identify it
+
+- Small vertebral body
+- Short, bifid spinous process (split tip)
+- A hole in each transverse process, the transverse foramen
+- Large triangular vertebral foramen
+- On a lateral radiograph, the cervical bodies stack in a gentle curve numbered C2 to C7 from the top
+- C7 (vertebra prominens) makes the prominent bump at the base of the neck, easiest to see with the neck flexed
+
+## Key features
+
+| Part | Cervical feature |
+|---|---|
+| Vertebral body | Small |
+| Vertebral foramen | Large and triangular, due to the cervical enlargement of the spinal cord |
+| Transverse processes | Short, with transverse foramina in all cervical vertebrae |
+| Spinous process | Short and bifid, except C7, which is long |
+| Articular facets | Superior face superoposteriorly, inferior face anteroinferiorly; horizontal orientation |
+| Motions | Flexion, extension, lateral flexion |
+
+- The vertebral artery ascends through the transverse foramina of C6 to C1, and the vertebral vein passes through the C1 to C7 transverse foramina
+- C7 has a long spinous process and serves as a surface anatomy landmark
+- C1 (atlas) and C2 (axis) are atypical cervical vertebrae
+
+> A transverse foramen identifies a cervical vertebra; C7 (vertebra prominens) has a long spinous process used as a surface landmark.
+
+Library: Vertebral artery and the transverse foramina
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lateral view of the cervical spine with the vertebral artery in red entering the transverse foramen of C6, ascending through the transverse foramina, and curving over the atlas](library/images/msk-week-13/vert-vertebral-artery.jpg)
+
+## Identify it
+
+- Red vessel climbing the side of the cervical spine inside the transverse processes
+- It enters low in the neck and bends medially over the top of the atlas
+
+## Key features
+
+- Courses through the transverse foramina of the cervical vertebrae
+- Typically enters at C6 and ascends through C1
+- On the atlas it runs in the groove for the vertebral artery on the superior surface
+- Passes through the foramen magnum to enter the cranial cavity
+- Contributes to the posterior circulation of blood to the brain (covered further in the CPH module)
+
+> The vertebral artery typically enters the transverse foramen at C6 and ascends through C1 to the foramen magnum.
+
+Library: Atlas (C1)
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Superior view of the atlas labeled anterior arch, posterior arch, lateral mass, superior articular facet, and groove for the vertebral artery, with an inferior view of the skull labeling the occipital condyles](library/images/msk-week-13/vert-atlas-c1.jpg)
+
+## Identify it
+
+- Ring shape with no body and no spinous process
+- Two lateral masses take the place of the body
+- Anterior arch and posterior arch join the lateral masses
+- Large kidney-shaped superior articular facets on the lateral masses
+- Groove for the vertebral artery on the superior surface
+
+## Key features
+
+- The superior articular facets articulate with the occipital condyles of the occipital bone (atlanto-occipital joint)
+- The atlanto-occipital joint allows nodding, some side bending, and limited rotation
+- The inferior facets articulate with C2 (atlanto-axial joint)
+- The posterior surface of the anterior arch has a facet for the dens of the axis
+
+## Look-alikes
+
+| Feature | Atlas (C1) | Axis (C2) |
+|---|---|---|
+| Body | None (lateral masses) | Present, with dens projecting up |
+| Key landmark | Groove for vertebral artery | Dens (odontoid process) |
+
+> The atlas has no body or spinous process; its lateral masses articulate with the occipital condyles.
+
+Library: Axis (C2) and the dens
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Axis in posterosuperior and superior views labeled dens, and an anterior view of articulated C1 and C2 labeled dens and anterior arch of the atlas](library/images/msk-week-13/vert-axis-c2.jpg)
+
+## Identify it
+
+- Tooth-like dens (odontoid process) projecting upward from the body
+- In the articulated anterior view, the dens sits just behind the anterior arch of the atlas
+
+## Key features
+
+- The dens projects superiorly from the body of C2
+- It serves as the pivot point for rotation of the head
+- It articulates with the facet for the dens on the posterior surface of the anterior arch of the atlas
+- This dens joint is a pivot joint, part of the atlanto-axial joint, which lets C1 pivot around the dens of C2
+
+> The dens of C2 articulates with the back of the atlas's anterior arch and is the pivot for head rotation.
+
+Library: Thoracic vertebrae: costal facets and facet orientation
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Thoracic vertebra in superior view labeled transverse costal facet, and two thoracic vertebrae in lateral view labeled transverse costal facet, superior costal facet, and inferior costal facet](library/images/msk-week-13/vert-thoracic-costal-facets.jpg)
+
+![Lateral view of two articulated thoracic vertebrae with a red dashed line along the nearly vertical facet joint plane](library/images/msk-week-13/vert-thoracic-facet-orientation.jpg)
+
+## Identify it
+
+- Heart-shaped vertebral body
+- Costal facets on the sides of the body (superior and inferior)
+- Costal facet on the tip of each transverse process
+- Long spinous process sloping inferiorly to overlap the vertebra below
+- Small round vertebral foramen
+- In lateral view, the facet joint plane runs nearly vertically
+
+## Key features
+
+| Facet | Location | Articulates with |
+|---|---|---|
+| Superior and inferior costal facets | Vertebral body | Head of the rib (costovertebral joint) |
+| Transverse costal facet | Transverse process (T1 to T10) | Tubercle of the rib (costotransverse joint) |
+
+- Superior articular facet faces posteriorly and slightly laterally
+- Inferior articular facet faces anteriorly and slightly medially
+- The facets are vertically oriented, which limits excessive flexion and extension
+- Motions: rotation and some lateral flexion
+
+## Look-alikes
+
+| Region | Facet orientation | Main motions |
+|---|---|---|
+| Cervical | Horizontal | Flexion, extension, lateral flexion |
+| Thoracic | Vertical | Rotation, some lateral flexion |
+| Lumbar | Sagittal plane | Flexion and extension, lateral flexion, limited rotation |
+
+> Costal facets on the body take the head of the rib and the transverse costal facet takes the tubercle; vertical thoracic facets limit flexion and extension.
+
+Library: Lumbar vertebrae
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lumbar vertebra in superior view labeled spinous process, mammillary process, pedicle, and vertebral body, and in lateral view labeled vertebral body and spinous process](library/images/msk-week-13/vert-lumbar-vertebra.jpg)
+
+![Lateral view of two articulated lumbar vertebrae with a red dashed line along the facet joint plane](library/images/msk-week-13/vert-lumbar-facet-orientation.jpg)
+
+## Identify it
+
+- Large, strong vertebral body
+- Short, sturdy pedicles
+- Short and stout spinous process
+- Mammillary process on the superior articular process
+- Triangular vertebral foramen, larger than in thoracic vertebrae
+- Long, slender transverse processes with no costal facets
+
+## Key features
+
+| Part | Lumbar feature |
+|---|---|
+| Vertebral body | Larger, strong, with short heavy pedicles |
+| Vertebral foramen | Triangular, larger than in thoracic vertebrae |
+| Transverse processes | Long and slender, no costal facets |
+| Spinous process | Short and stout |
+
+- Articular facets are oriented in the sagittal plane
+- Motions: flexion and extension, lateral flexion, and limited rotation
+- Lumbar spinal stenosis and lumbar disc herniations (L4/L5, L5/S1) are common clinical problems here
+
+> Lumbar vertebrae have large bodies, short stout spinous processes, mammillary processes, and no costal facets.
+
+Library: Comparing cervical, thoracic, and lumbar vertebrae
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+## Key features
+
+Each region has a few features that identify it on its own. Use this table to sort an unknown vertebra.
+
+| Part | Cervical | Thoracic | Lumbar |
+|---|---|---|---|
+| Body | Small | Heart-shaped, with costal facets | Large and strong |
+| Vertebral foramen | Large, triangular | Small, round | Triangular |
+| Transverse process | Transverse foramen | Costal facet (T1 to T10) | Long, slender, no costal facet |
+| Spinous process | Short, bifid (C7 long) | Long, slopes inferiorly | Short and stout |
+| Main motions | Flexion, extension, lateral flexion | Rotation, some lateral flexion | Flexion, extension, lateral flexion, limited rotation |
+
+## Identify it
+
+- Hole in the transverse process: cervical
+- Facets for ribs on the body or transverse process: thoracic
+- Big body, no transverse foramen, no costal facets: lumbar
+- No body and no spinous process: atlas (C1)
+- Dens: axis (C2)
+- Long spinous process at the base of the neck: C7
+
+> Transverse foramina mean cervical, costal facets mean thoracic, and a large body with neither means lumbar.
+
+Library: Sacrum: promontory, foramina, and hiatus
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Sacrum in anterior view labeled sacral promontory and anterior sacral foramina, and in posterior view labeled posterior sacral foramina and sacral hiatus](library/images/msk-week-13/vert-sacrum-anterior-posterior.jpg)
+
+## Identify it
+
+- Triangular bone made of 5 fused vertebrae
+- Anterior (pelvic) surface is smooth and concave
+- Posterior surface is rough and convex
+- Sacral promontory: anterior projecting edge of the S1 body
+- Paired foramina on both the anterior and posterior surfaces
+- Sacral hiatus: inverted U-shaped opening at the lower end of the posterior surface
+
+## Key features
+
+- Provides strength and stability to the pelvis and transmits upper body weight to the ilium through the sacroiliac joints
+- The sacral promontory is an important obstetrical landmark
+- Anterior (ventral) sacral foramina transmit the anterior rami of spinal nerves
+- Posterior (dorsal) sacral foramina transmit the posterior rami of spinal nerves
+- The sacral hiatus leads into the sacral canal and is one site for caudal epidural anesthesia
+
+> Anterior sacral foramina carry anterior rami and posterior sacral foramina carry posterior rami; the sacral hiatus is a caudal epidural site.
+
+Library: Sacral joints and the coccyx
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the sacrum labeled superior articular facet and auricular surface](library/images/msk-week-13/vert-sacrum-articular-surfaces.jpg)
+
+![Anterior view of the sacrum and coccyx with a bracket labeling the coccyx below the sacrum](library/images/msk-week-13/vert-coccyx.jpg)
+
+## Identify it
+
+- Superior articular facets: paired facets at the top of the sacrum's posterior surface
+- Auricular surface: ear-shaped surface on each lateral side of the sacrum
+- Coccyx: small triangular bone below the sacrum, the "tail bone"
+
+## Key features
+
+| Sacral surface | Articulates with | Joint |
+|---|---|---|
+| Superior articular facet | Inferior articular facet of L5 | Lumbosacral joint |
+| Auricular surface | Ilium of the hip bone | Sacroiliac joint |
+
+- The coccyx is a fusion of 3 to 5 rudimentary coccygeal vertebrae (the handout says 4)
+
+> The auricular surface of the sacrum forms the sacroiliac joint with the ilium; the superior articular facet forms the lumbosacral joint with L5.
+
+Library: Anterior and posterior longitudinal ligaments and ligamentum flavum
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lateral view of the lumbar column with upper vertebrae sectioned, labeled anterior longitudinal ligament on the front of the bodies, posterior longitudinal ligament inside the canal on the back of the bodies, and ligamentum flavum between laminae](library/images/msk-week-13/vert-longitudinal-ligaments-flavum.jpg)
+
+## Identify it
+
+- Anterior longitudinal ligament: broad band down the front of the vertebral bodies and discs
+- Posterior longitudinal ligament: narrow band on the back of the vertebral bodies, inside the vertebral canal
+- Ligamentum flavum: pale yellow tissue between adjacent laminae
+
+Vertebral ligaments are strong fibrous bands that hold vertebrae together, stabilize the spine, and protect the IV discs.
+
+## Key features
+
+| Ligament | Location | Function |
+|---|---|---|
+| Anterior longitudinal | Anterior to vertebral bodies and IV discs, occipital bone to sacrum | Prevents hyperextension |
+| Posterior longitudinal | Posterior to vertebral bodies, within the vertebral canal | Weakly resists hyperflexion; resists posterior displacement of IV discs |
+| Ligamentum flavum | Between laminae | Joins adjacent laminae |
+
+## Whiplash
+
+![Illustration of a rear-end car collision with an arrow to a sagittal section of the cervical spine in hyperextension, showing a torn anterior longitudinal ligament at the front of the vertebral bodies](library/images/msk-week-13/vert-whiplash.jpg)
+
+Whiplash is due to a sudden back and forth motion of the neck, and a common cause is a rear-ended motor vehicle collision. It can result in severe hyperextension of the neck, so the anterior longitudinal ligament (the ligament that prevents hyperextension) is severely stretched and may be torn.
+
+> The anterior longitudinal ligament prevents hyperextension, so it's the ligament stretched or torn in whiplash.
+
+Library: Supraspinous, interspinous, and nuchal ligaments
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lateral view of the lumbar column labeled interspinous ligaments between adjacent spinous processes and supraspinous ligament along the tips of the spinous processes](library/images/msk-week-13/vert-supraspinous-interspinous.jpg)
+
+![Lateral view of the cervical spine and base of the skull with the fan-shaped nuchal ligament labeled, running from the occipital bone to the C7 spinous process](library/images/msk-week-13/vert-nuchal-ligament.jpg)
+
+## Identify it
+
+- Supraspinous ligament: continuous cord along the tips of the spinous processes
+- Interspinous ligaments: thin sheets filling the gaps between adjoining spinous processes
+- Nuchal ligament: thin, fan-shaped midline sheet behind the cervical spine, from the back of the skull to C7
+
+## Key features
+
+| Ligament | Connects |
+|---|---|
+| Supraspinous | Tips of the spinous processes, C7 to the sacrum |
+| Interspinous | Adjacent spinous processes |
+| Intertransverse | Adjacent transverse processes |
+| Nuchal | External occipital protuberance to the C7 spinous process |
+
+- Above C7, the supraspinous fibers merge with the nuchal ligament
+- The nuchal ligament limits forward flexion of the head and cervical spine
+- It serves as an attachment site for muscles, including the trapezius, serratus posterior superior, and splenius
+- The handout calls the nuchal ligament an extremely strong band reaching the spinous processes of the cervical vertebrae
+- A back sprain is an injury involving only ligamentous tissue or the ligament-bone attachment
+
+> The nuchal ligament runs from the external occipital protuberance to C7, limits forward flexion of the head, and merges with the supraspinous ligament.
+
+Library: Intervertebral disc structure
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Anterosuperior view of a vertebral column sectioned through an IV disc, labeled nucleus pulposus in the center and annulus fibrosus in concentric rings around it](library/images/msk-week-13/vert-iv-disc-nucleus-anulus.jpg)
+
+![Three panels: anterosuperior view of the column sectioned through an IV disc, lateral view of a disc when recumbent labeled vertebral body and disc, and lateral view of a disc when erect and weight bearing under a 5 kg load](library/images/msk-week-13/vert-iv-disc-views.jpg)
+
+## Identify it
+
+- Nucleus pulposus: soft central core
+- Anulus fibrosus: concentric rings surrounding the nucleus
+
+## Key features
+
+- IV discs join two vertebral bodies, forming symphyses (secondary cartilaginous joints)
+- They're flexible shock absorbers and permit movement between vertebrae
+- Thickness varies along the column, thicker in the cervical and lumbar regions
+- IV discs make up 20 to 25% of the column's height
+- Only the outer third of the anulus fibrosus is vascular and innervated in a non-pathologic state
+
+| Part | Composition |
+|---|---|
+| Nucleus pulposus | Gelatinous material with high water content (about 90% in young people) |
+| Anulus fibrosus | Concentric layers of fibrocartilage |
+
+> An IV disc is a symphysis with a gelatinous nucleus pulposus inside a fibrocartilage anulus fibrosus.
+
+Library: Age-related intervertebral disc changes
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+## Key features
+
+With advancing age, the nucleus pulposus dehydrates and loses elastin and proteoglycans while gaining collagen. The discs lose their turgor (fullness), so they become stiffer and more resistant to deformation. Eventually the nucleus becomes dry and granular, and the anulus fibrosus takes on a greater share of the vertical load and often develops fissures and cavities.
+
+## Degenerative disc disease
+
+- Pain caused by an IV disc that has degenerated or lost its integrity
+- Often results from natural stresses and minor injuries that make discs gradually lose water as the anulus fibrosus weakens
+- The discs collapse, putting pressure on spinal nerves and causing pain and weakness
+- Symptoms are usually in the low back or neck, depending on which discs are affected
+- Treatment may include exercise, physical therapy, medications (NSAIDs, pain relievers), surgery, and spinal mobilization
+
+Disc degeneration also matters elsewhere in this lecture. It's a common cause of spondylolisthesis, and bulging IV discs are a common cause of spinal stenosis.
+
+> With age the nucleus pulposus dehydrates and gains collagen, so the disc stiffens and the anulus fibrosus bears more load.
+
+Library: Herniated nucleus pulposus (L4/L5 example)
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Herniated nucleus pulposus shown in median section with a median MRI labeled L5 and S1, in transverse section labeled cauda equina with an axial MRI labeled IV disc and herniated disc, and a posterior view of the lumbosacral canal circling an L4/L5 herniation labeled L4 spinal nerve and L5 spinal nerve](library/images/msk-week-13/vert-disc-herniation-l4-l5.jpg)
+
+## Identify it
+
+- Sagittal MRI or section: disc material bulging backward into the vertebral canal
+- Axial MRI or section: disc material pushing posterolaterally toward the nerve roots
+- Posterior view: herniated L4/L5 disc pressing on the L5 nerve root
+
+## Key features
+
+- Herniation is protrusion of the nucleus pulposus into or through the anulus fibrosus
+- It can compress nerve roots or the spinal cord, causing low back and lower limb pain or neurologic deficits
+- Herniations usually extend posterolaterally, where the anulus is thin and unsupported by the longitudinal ligaments
+- The posterior longitudinal ligament helps resist posterior displacement of the IV discs
+- About 95% of lumbar protrusions occur at L4/L5 or L5/S1
+
+| Disc | Nerve root affected |
+|---|---|
+| L4/L5 | L5 |
+| C5/C6 | C6 |
+| C6/C7 | C7 |
+
+> An L4/L5 disc herniation compresses the L5 nerve root.
+
+Library: Facet (zygapophysial) joints
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lateral view of the lumbar column labeled inferior articular process, joint capsule, and superior articular process at a facet joint](library/images/msk-week-13/vert-facet-joint.jpg)
+
+## Identify it
+
+- Small paired joints on the posterior side of the column, behind the vertebral bodies
+- Inferior articular process of the upper vertebra meeting the superior articular process of the vertebra below
+- Wrapped in a thin joint capsule
+
+## Key features
+
+- Also called the zygapophysial joint
+- Plane synovial joints
+- Formed between the inferior articular process of one vertebra and the superior articular process of the vertebra below
+- Facet orientation differs by region, which sets the motion each region allows (horizontal in cervical, vertical in thoracic, sagittal in lumbar)
+- Innervated by branches of adjacent posterior rami, and sensitive to pain
+
+> Facet (zygapophysial) joints are plane synovial joints between the inferior articular process above and the superior articular process below.
+
+Library: Craniovertebral joints
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the skull base with C1 and C2 with a red dashed circle at the atlanto-occipital joint and a blue dashed circle at a lateral atlanto-axial joint, and an anterior view of C1 and C2 with a blue circle at the lateral atlanto-axial joint and a purple circle at the joint between the dens and the anterior arch](library/images/msk-week-13/vert-craniovertebral-joints.jpg)
+
+## Identify it
+
+- Atlanto-occipital joint: between the occipital condyles and the top of C1 (red)
+- Lateral atlanto-axial joints: between the lateral masses of C1 and C2 (blue)
+- Median atlanto-axial joint: between the dens and the anterior arch of C1 (purple)
+
+## Key features
+
+| Joint | Bones | Type and motion |
+|---|---|---|
+| Atlanto-occipital (paired) | Occipital condyle and C1 superior facet | Synovial; nodding, some side bending, limited rotation |
+| Atlanto-axial, lateral (paired) | Lateral masses of C1 and C2 | Synovial |
+| Atlanto-axial, dens | Dens and C1 anterior arch | Synovial pivot |
+
+- The atlanto-axial joint is made of 3 synovial joints in total
+- It lets C1 pivot around the dens of C2, which rotates the head
+
+> The atlanto-axial joint is 3 synovial joints (two lateral, one at the dens) and allows the atlas to pivot around the dens.
+
+Library: Spondylolysis and the Scotty dog sign
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Left posterolateral oblique radiograph of L3 to L5 with outlined Scotty dog shapes and a broken neck at L5, a transverse CT with arrows at bilateral pars defects, and a labeled Scotty dog drawing: superior articular process (ear), pedicle (eye), transverse process (nose), pars interarticularis (neck), inferior articular process (front leg), lamina (body), spinous process (tail), contralateral inferior articular process (hind leg)](library/images/msk-week-13/vert-spondylolysis-scotty-dog.jpg)
+
+## Identify it
+
+- Oblique lumbar radiograph shows a "Scotty dog" outline on each vertebra
+- A lucent line across the dog's neck looks like a collar
+- On transverse CT, the defect shows as a break in the bony ring at the pars
+
+## Key features
+
+- Bony defect or fracture in the pars interarticularis
+- Common in the lower lumbar vertebrae (L5, L4)
+- Affects about 6 to 8% of the general population
+- A stress fracture common in young athletes with repetitive hyperextension movements
+
+| Scotty dog part | Structure |
+|---|---|
+| Nose | Transverse process |
+| Eye | Pedicle |
+| Ear | Superior articular process |
+| Neck | Pars interarticularis |
+| Front leg | Inferior articular process |
+
+> A fracture through the pars interarticularis looks like a collar on the Scotty dog's neck.
+
+Library: Spondylolisthesis
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Lateral illustration of the lumbosacral junction with L5 slipping anteriorly over S1, next to a median MRI labeled S1 and L5 showing spondylolisthesis secondary to spondylolysis of L5](library/images/msk-week-13/vert-spondylolisthesis-mri.jpg)
+
+## Identify it
+
+- On sagittal imaging, one vertebral body is shifted forward relative to the one below
+- Classic site: L5 sitting anterior to S1
+
+## Key features
+
+- Displacement of one vertebra compared to another
+- Common at the L5-S1 junction, with L5 slipping anterior over S1
+- Common causes are disc degeneration and sports injury
+- The MRI in the lecture shows spondylolisthesis secondary to spondylolysis of L5
+
+## Look-alikes
+
+| Term | What it is |
+|---|---|
+| Spondylolysis | Defect or fracture of the pars interarticularis |
+| Spondylolisthesis | Slippage of one vertebra relative to another |
+| Spinal stenosis | Narrowing of the vertebral canal or intervertebral foramina |
+
+> Spondylolisthesis is slippage of one vertebra on another, most commonly L5 sliding anteriorly over S1.
+
+Library: Spinal stenosis of the vertebral canal
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Superior views of a normal vertebral foramen and a stenotic vertebral foramen, and a sagittal MRI viewed from the left labeled tip of conus medullaris, nerve roots of cauda equina, region of lumbar spinal stenosis (arrow), and sacrum](library/images/msk-week-13/vert-spinal-stenosis.jpg)
+
+## Identify it
+
+- Vertebral foramen looks smaller and more crowded than normal
+- On the sagittal MRI, the arrow marks the region of lumbar spinal stenosis along the nerve roots of the cauda equina
+
+## Key features
+
+- Narrowing of the vertebral canal or intervertebral foramina
+- Compresses the spinal cord or spinal nerve roots
+- Common in the lumbar and cervical regions
+- Common causes: bulging IV discs and bone spurs
+
+## Lumbar spinal stenosis
+
+The handout describes lumbar spinal stenosis as causing pain, numbness, or weakness in the legs. It can affect younger patients from developmental causes, but it's more often degenerative and usually affects people age 60 and older. It develops slowly and is often related to osteoarthritis, which causes bulging hardened IV discs, bone spurs, and thickened ligaments that narrow the canal. Symptoms may come from inflammation, nerve compression, or both.
+
+> Spinal stenosis is narrowing of the vertebral canal or intervertebral foramina, commonly from bulging discs and bone spurs.
+
+Library: Arterial supply of the vertebral column
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Superior view of a thoracic vertebra with the aorta giving off a posterior intercostal artery, which sends a spinal branch into the vertebral canal and a posterior branch to the posterior elements](library/images/msk-week-13/vert-arterial-supply.jpg)
+
+## Identify it
+
+- Aorta in front of the vertebral body
+- Posterior intercostal (segmental) artery wrapping around the side of the body
+- Spinal branch entering the vertebral canal
+- Posterior branch running to the spinous and transverse processes
+
+## Key features
+
+- Multiple cervical and segmental arteries have branches that supply the vertebrae and surrounding ligaments
+- The handout describes these as spinal branches of the major cervical and segmental arteries
+- In the thoracic region the segmental vessel shown is the posterior intercostal artery from the aorta
+- In the neck, the vertebral artery runs through the transverse foramina
+
+Venous drainage parallels this arterial supply through the internal and external vertebral venous plexuses.
+
+> Spinal branches of cervical and segmental arteries (such as posterior intercostal arteries) supply the vertebrae and ligaments.
+
+Library: Internal and external vertebral venous plexuses
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Superior view of a lumbar vertebra with veins in blue labeled internal vertebral venous plexus inside the canal, intervertebral vein, and external vertebral venous plexus around the body](library/images/msk-week-13/vert-venous-plexus-superior.jpg)
+
+![Sagittal view of the vertebral column with veins in blue labeled external vertebral venous plexus on the outer surface and internal vertebral venous plexus within the vertebral canal](library/images/msk-week-13/vert-venous-plexus-sagittal.jpg)
+
+## Identify it
+
+- Internal plexus: dense network of veins inside the vertebral canal
+- External plexus: veins on the outside of the vertebrae
+- Intervertebral veins link the two through the intervertebral foramina
+
+## Key features
+
+- Venous drainage of the vertebral column parallels the arterial supply
+- Internal vertebral venous plexuses lie within the vertebral canal
+- External vertebral venous plexuses lie outside the vertebral canal
+- The plexuses communicate with each other
+- They drain into the vertebral veins of the neck and the segmental veins of the trunk
+- The plexuses lack valves, which facilitates spread of malignant cells and bacteria in the blood
+
+> Vertebral venous plexuses are valveless and communicate, which lets malignant cells and bacteria spread.
+
+Library: Meningeal branches and vertebral column innervation
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Transverse section through the back at a thoracic level, superior view, labeled spinal nerve and the meningeal branch returning into the vertebral canal, with the deep back muscles posteriorly](library/images/msk-week-13/vert-meningeal-branch.jpg)
+
+## Identify it
+
+- Spinal nerve leaving the intervertebral foramen
+- Small meningeal branch turning back (recurrent) into the vertebral canal
+
+## Key features
+
+The (recurrent) meningeal branches of spinal nerves supply:
+
+- Bone periosteum
+- IV discs (anulus fibrosus)
+- Vertebral ligaments
+- Spinal cord meninges
+
+The zygapophysial joints are innervated by branches of adjacent posterior rami. Together these two groups of nerves convey all localized pain from the vertebral column, and these structures are sensitive to pain.
+
+## Back pain
+
+Back pain affects about 80% of the population at some point. Acute back pain comes on suddenly and lasts days to weeks; it's chronic if it lasts more than three months. Pain sources include periosteum, ligaments, IV discs, meninges, zygapophysial joints, intrinsic back muscles, and spinal nerves or roots.
+
+> Meningeal branches supply periosteum, discs, ligaments, and meninges; posterior rami supply the zygapophysial joints.
+
+Library: Back muscle layers and their innervation
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the back with trapezius (red), latissimus dorsi (yellow), levator scapulae (green), and rhomboid minor and rhomboid major (blue) labeled](library/images/msk-week-13/vert-superficial-back-muscles.jpg)
+
+## Key features
+
+Back muscles are grouped into three layers. Think about them by action (learned through bony attachments) and by innervation, since patients present with abnormal movements caused by muscle injury or nerve lesions.
+
+| Layer | Muscles | Associated with | Motor innervation |
+|---|---|---|---|
+| Superficial (extrinsic) | Trapezius, latissimus dorsi, levator scapulae, rhomboid major, rhomboid minor | Shoulder movements | CN XI, thoracodorsal n., dorsal scapular n. |
+| Intermediate (extrinsic) | Serratus posterior superior and inferior | Thoracic cage | Intercostal nerves (anterior rami) |
+| Deep (intrinsic) | Splenius, semispinalis, erector spinae | Vertebral column movement and posture | Posterior rami of spinal nerves |
+
+- Muscles are innervated by the peripheral nervous system through cranial nerves and spinal nerves
+- Motor innervation through spinal nerves runs in either anterior rami or posterior rami
+- Posterior rami ultimately become cutaneous nerves that give sensation to the skin of the back and neck
+
+> Deep (intrinsic) back muscles are innervated by posterior rami of spinal nerves.
+
+Library: Trapezius muscle
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the back and upper limb with the trapezius highlighted in teal, spanning from the occiput and midline spinous processes to the shoulder](library/images/msk-week-13/vert-trapezius.jpg)
+
+![Posterior view of the scapula, clavicle, and humerus with muscle attachment sites, leader lines labeling the trapezius insertion on the spine of the scapula, acromion, and clavicle](library/images/msk-week-13/vert-trapezius-insertion.jpg)
+
+## Identify it
+
+- Large triangular, superficial muscle covering the upper back and back of the neck
+
+## Key features
+
+| Feature | Trapezius |
+|---|---|
+| Proximal attachment | Occipital bone, nuchal ligament, spinous processes C7 to T12 |
+| Distal attachment | Lateral 1/3 of clavicle, acromion, spine of scapula |
+| Action | Elevates, retracts (middle part), and depresses the scapula |
+| Motor nerve | Spinal accessory nerve (CN XI) |
+| Pain and proprioception | Anterior rami of C3 and C4 |
+| Blood supply | Transverse cervical artery |
+
+## Clinical testing
+
+Test the spinal accessory nerve by having the patient shrug the shoulders against resistance.
+
+> The trapezius gets motor innervation from CN XI, tested by shrugging the shoulders against resistance.
+
+Library: Latissimus dorsi muscle
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the back and upper limb with the latissimus dorsi highlighted in green, spreading from the lower back toward the arm](library/images/msk-week-13/vert-latissimus-dorsi.jpg)
+
+![Anterior view of the humerus and scapula with muscle attachment sites, labeled latissimus dorsi attachment in the intertubercular groove of the humerus](library/images/msk-week-13/vert-latissimus-dorsi-humerus.jpg)
+
+## Identify it
+
+- Large, fan-shaped muscle of the lower back, sweeping up to the arm
+- Known as the "climber's or rower's muscle"
+
+## Key features
+
+| Feature | Latissimus dorsi |
+|---|---|
+| Proximal attachment | Lower thoracic spinous processes, thoracolumbar fascia, iliac crest |
+| Distal attachment | Floor of the intertubercular groove of the humerus |
+| Action | Adduction, extension, and medial rotation of the arm |
+| Innervation | Thoracodorsal nerve |
+| Blood supply | Thoracodorsal artery |
+
+The slides give the spinous processes as T6 to T12. The handout gives T7 to T12 and adds the inferior 3 to 4 ribs.
+
+> The latissimus dorsi adducts, extends, and medially rotates the arm and is innervated by the thoracodorsal nerve.
+
+Library: Rhomboid major and minor
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Two posterior views of the back and upper limb side by side, the left panel highlighting rhomboid major in pink and the right panel highlighting rhomboid minor in purple just above it, both running from the spinous processes to the medial border of the scapula](library/images/msk-week-13/vert-rhomboid-major-minor.jpg)
+
+## Identify it
+
+- Both lie deep to the trapezius, running obliquely from the midline to the scapula
+- Rhomboid minor: narrow, thicker, and superior
+- Rhomboid major: wider, flat, and more inferior
+- The separation between the two isn't always distinct
+
+## Key features
+
+| Feature | Rhomboid minor | Rhomboid major |
+|---|---|---|
+| Proximal attachment | Spinous processes C7 to T1 | Spinous processes T2 to T5 |
+| Distal attachment | Spine of the scapula (medial edge) | Medial border of the scapula inferior to the spine |
+| Action | Retraction of the scapula | Retraction of the scapula |
+| Innervation | Dorsal scapular nerve | Dorsal scapular nerve |
+| Blood supply | Dorsal scapular artery | Dorsal scapular artery |
+
+The handout adds downward rotation of the scapula and fixing the scapula to the thoracic wall as actions of both.
+
+> Both rhomboids retract the scapula and are supplied by the dorsal scapular nerve and artery.
+
+Library: Levator scapulae muscle
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the back and upper limb with the levator scapulae highlighted in blue, running from the side of the neck to the superior angle of the scapula](library/images/msk-week-13/vert-levator-scapulae.jpg)
+
+## Identify it
+
+- Relatively thin, strap-like muscle on the side and back of the neck
+- Lies deep to the trapezius
+- Runs from the upper cervical transverse processes down to the top of the scapula
+
+## Key features
+
+| Feature | Levator scapulae |
+|---|---|
+| Proximal attachment | Transverse processes of C1 to C4 |
+| Distal attachment | Medial border and superior angle of the scapula |
+| Action | Elevates the scapula and rotates it, directing the glenoid cavity inferiorly |
+| Innervation | Dorsal scapular nerve (handout adds anterior rami of C3 and C4) |
+| Blood supply | Dorsal scapular artery |
+
+The levator scapulae shares its nerve and artery (dorsal scapular) with the rhomboids. It shares scapular elevation with the trapezius, which is innervated by CN XI instead.
+
+> The levator scapulae elevates the scapula and turns the glenoid cavity inferiorly; it's innervated by the dorsal scapular nerve.
+
+Library: Serratus posterior superior and inferior
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Two posterior views of the trunk with ribs and pelvis side by side, the left highlighting serratus posterior superior in pink on the upper ribs and the right highlighting serratus posterior inferior in teal on the lower ribs](library/images/msk-week-13/vert-serratus-posterior.jpg)
+
+## Identify it
+
+- Thin rectangular muscles of the intermediate layer
+- Superior one lies deep to the rhomboids, angling down to the upper ribs
+- Inferior one lies deep to the latissimus dorsi, angling up to the lower ribs
+
+## Key features
+
+| Feature | Serratus posterior superior | Serratus posterior inferior |
+|---|---|---|
+| Proximal attachment | Nuchal ligament, spinous processes C7 to T3 | Spinous processes T11 to L2 |
+| Distal attachment | Superior borders of ribs 2 to 4 | Inferior borders of ribs 8 to 12 |
+| Action | Proprioception; elevates ribs | Proprioception; depresses ribs |
+| Innervation | 2nd to 5th intercostal nerves | 9th to 12th intercostal nerves |
+
+The intercostal nerves here are anterior rami (T2 to T5 and T9 to T12). These muscles are associated with movements of the thoracic cage, and the handout ties the rib movement to respiration.
+
+> Serratus posterior superior elevates ribs 2 to 4; serratus posterior inferior depresses ribs 8 to 12; both are innervated by intercostal nerves.
+
+Library: Splenius muscle
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the neck and upper thorax labeled splenius capitis running up to the skull and splenius cervicis running up to the cervical vertebrae](library/images/msk-week-13/vert-splenius.jpg)
+
+## Identify it
+
+- Thick, flat muscle on the posterolateral side of the neck, deep to the trapezius
+- Fibers run upward and laterally from the midline like a bandage ("splenius" is Latin for bandage)
+
+## Key features
+
+| Feature | Splenius |
+|---|---|
+| Inferior (origin) | Nuchal ligament and spinous processes C7 to T6 |
+| Superior (insertion) | Occipital bone and superior nuchal line (capitis); transverse processes C1 to C3 or C4 (cervicis) |
+| Unilateral action | Lateral flexion of the neck and rotation of the head to the same side |
+| Bilateral action | Extension of the head and neck |
+| Innervation | Posterior rami of spinal nerves |
+
+The two parts are named by where they attach: capitis to the head, cervicis to the neck. The handout notes you don't need to distinguish them.
+
+> Splenius acting alone rotates the head to the same side; both sides together extend the head and neck.
+
+Library: Semispinalis muscle
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the vertebral column, ribs, and pelvis with the semispinalis muscle labeled as a long vertical muscle beside the spinous processes reaching the skull](library/images/msk-week-13/vert-semispinalis.jpg)
+
+## Identify it
+
+- Vertically oriented muscle close to the spinous processes
+- Lies deep to the splenius
+- Each bundle spans 4 to 6 vertebral levels
+
+## Key features
+
+| Feature | Semispinalis |
+|---|---|
+| Superior attachment | Occipital bone between the superior and inferior nuchal lines; spinous processes 4 to 6 segments above |
+| Inferior attachment | Transverse processes from C4 down to the thoracic region |
+| Action | Extends and contralaterally rotates the head and vertebral column |
+| Innervation | Posterior rami of spinal nerves |
+
+- Three parts named by superior attachment: semispinalis thoracis, cervicis, and capitis (you don't need to distinguish them)
+- The slides give the inferior attachment as C4 to T12, and the handout as C4 to T10
+
+## Look-alikes
+
+| Muscle | Rotation of the head |
+|---|---|
+| Splenius | Same side |
+| Semispinalis | Opposite side (contralateral) |
+
+> Semispinalis extends and contralaterally rotates the head and vertebral column.
+
+Library: Erector spinae muscles
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+![Posterior view of the deep back muscles labeled spinalis muscle (medial), longissimus muscle (intermediate), and iliocostalis muscle (lateral)](library/images/msk-week-13/vert-erector-spinae.jpg)
+
+## Identify it
+
+- Vertical column of muscles next to the spinal column, between the spinous processes and the angles of the ribs
+- Three columns from medial to lateral: spinalis, longissimus, iliocostalis
+- Longissimus is usually the widest
+
+## Key features
+
+| Feature | Erector spinae |
+|---|---|
+| Origin | Broad tendon from the posterior iliac crest, posterior sacrum, sacroiliac ligaments, and sacral and inferior lumbar spinous processes |
+| Iliocostalis insertion | Angles of ribs and cervical transverse processes |
+| Longissimus insertion | Ribs between tubercle and angle, thoracic and cervical transverse processes, mastoid process |
+| Spinalis insertion | Upper thoracic spinous processes and skull |
+| Action | Unilateral: lateral flexion of the column; bilateral: extension of the column and head |
+| Innervation | Posterior rami of spinal nerves |
+
+Deep back muscles help maintain posture and control movements of the vertebral column.
+
+> Erector spinae columns from medial to lateral are spinalis, longissimus, and iliocostalis, innervated by posterior rami.
+
+Library: Back sprain, strain, and spasm
+Folder: MSK / Week 13 / Vertebral Column and Back
+
+## Key features
+
+The handout separates three common back injuries by which tissue is involved.
+
+| Injury | Tissue involved | Cause or trigger |
+|---|---|---|
+| Back sprain | Only ligamentous tissue, or the ligament-bone attachment | Excessively strong contractions with movements such as excessive extension or rotation |
+| Back strain | Muscle fibers stretched or microscopically torn, especially the erector spinae | Weight not properly balanced on the vertebral column |
+| Back spasm | One or more muscle groups contract suddenly and involuntarily | Protective response after injury or to inflammation, for example of ligaments |
+
+- Back strain is the most common cause of low back pain
+- Spasms cause cramps, pain, involuntary movement, and a distortion of the vertebral column
+
+These link back to the structures in this lecture. Sprains involve the vertebral ligaments, strains most often involve the erector spinae, and the pain is carried by the meningeal branches and posterior rami that supply the back.
+
+> A sprain involves ligaments; a strain involves muscle fibers (especially erector spinae) and is the most common cause of low back pain.
+
+Library: Connective tissue definition and members
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Two H&E panels: loose connective tissue with scattered cells in a mesh of thin fibers (letters F and E mark structures the slide does not define), and epithelial tissue made of closely packed cells lining a surface](library/images/msk-week-13/ct-loose-ct-vs-epithelium.jpg)
+
+## Identify it
+
+- Connective tissue: cells are few and far between, and the extracellular matrix (ECM) is usually predominant
+- In the lecture's comparison, epithelial tissue is a sheet of closely packed cells, while loose connective tissue is mostly fibers with scattered cells
+
+## Key features
+
+- Broadly, connective tissue is cells plus ECM, and the presence of ECM is what classifies a tissue as connective tissue
+- The body has four tissue types: epithelial, muscle, nervous, and connective
+- Bone, cartilage, adipose tissue, tendons, and blood are all connective tissue
+- Vascularity varies: the dermis of the skin is highly vascularized, while cartilage, ligaments, and tendon are relatively avascular (which matters for wound healing)
+
+![Diagram of an arm showing the four tissue types, with connective tissue examples labeled: loose connective tissue (protein fibers, soft extracellular matrix, cells), bone, cartilage, and blood](library/images/msk-week-13/ct-tissue-types-diagram.jpg)
+
+| Connective tissue | Matrix (from the lecture figure) |
+|---|---|
+| Loose connective tissue | Soft matrix with protein fibers; padding under skin and elsewhere |
+| Bone and cartilage | Hard or stiff matrix |
+| Blood | Liquid matrix |
+
+> Connective tissue is cells plus extracellular matrix, and the ECM (not the cells) is what makes bone, cartilage, adipose tissue, and blood count as connective tissue.
+
+Library: Mesenchymal cells and connective tissue cell origins
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![H&E of fetal kidney mesenchyme, labeled mesenchymal cells, collagen fibres, and cell processes](library/images/msk-week-13/ct-fetal-kidney-mesenchymal-cells.jpg)
+
+## Identify it
+
+- Undifferentiated cells with slender cell processes
+- Scattered among fine collagen fibers in a loose, pale matrix
+
+## Key features
+
+- Connective tissue cells come from two sources: the mesenchyme and hematopoietic stem cells
+- Mesenchymal cells are undifferentiated cells derived from the mesoderm (multipotent stem cells)
+- Mesenchyme is abundant in the embryo; in adults, mesenchymal stem cells are found in bone marrow but are less abundant
+- Hematopoietic stem cells (also in bone marrow) give rise to macrophages, mast cells, and the cells seen in blood
+
+![Mesengenic process diagram: a mesenchymal stem cell (MSC) proliferates and commits to osteogenesis, chondrogenesis, myogenesis, marrow stroma, tendogenesis or ligamentogenesis, and adipogenesis, maturing into osteocytes (bone), hypertrophic chondrocytes (cartilage), myotubes (muscle), stromal cells (marrow), tendon and ligament fibroblasts, adipocytes, and dermal and other cells (connective tissue)](library/images/msk-week-13/ct-mesengenic-process.jpg)
+
+## Lineages
+
+| Source | Cells it gives rise to |
+|---|---|
+| Mesenchymal stem cell | Osteocytes, chondrocytes, myotubes, marrow stromal cells, tendon and ligament fibroblasts, adipocytes |
+| Hematopoietic stem cell | Macrophages, mast cells, blood cells |
+
+> Connective tissue cells come either from multipotent mesenchymal cells (fibroblasts, adipocytes, bone and cartilage cells) or from hematopoietic stem cells (macrophages, mast cells, blood cells).
+
+Library: Fibroblasts: active and inactive forms
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Drawings of a large branched fibroblast and a thin spindle-shaped fibroblast, above two H&E sections of fibroblasts in connective tissue](library/images/msk-week-13/ct-fibroblast-active-inactive.jpg)
+
+## Identify it
+
+- Inactive fibroblast: smaller, spindle-shaped cell with a dark-staining nucleus
+- Active fibroblast: cell has grown in size, with lighter-staining cytoplasm and a denser arrangement of endoplasmic reticulum (ER)
+
+![Electron micrograph of a fibroblast in active state, labeled RER and GA, surrounded by collagen fibers in cross-section and collagen fibers in longitudinal section (scale bar 1.0 µm)](library/images/msk-week-13/ct-fibroblast-em-active-state.jpg)
+
+## Key features
+
+- One of the most abundant cell types in connective tissue and one of the main cells that secretes ECM (the "work horse" of connective tissue)
+- In the activated state, fibroblasts are highly secretory and produce the abundant matrix fibers of the ECM
+- The fibroblast is the main producer of collagen; because collagen is secreted, an active fibroblast has abundant ER and a very active secretory pathway
+- Other connective tissue cells can make collagen too, but the fibroblast does most of the work
+- Fibroblasts have a very important role in wound healing and fibrosis
+- A reticular cell is a specialized fibroblast that secretes reticular fibers (type III collagen)
+
+> An active fibroblast is enlarged with pale cytoplasm and abundant ER for collagen secretion; an inactive fibroblast is small and spindle-shaped with a dark nucleus.
+
+Library: White adipose tissue
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![H&E of white adipose tissue at low power and at higher power, labeled nucleus, lipid droplet, and blood vessel](library/images/msk-week-13/ct-white-adipose-tissue.jpg)
+
+## Identify it
+
+- Cells look "empty": the large lipid droplet is washed out during histological processing
+- The lipid droplet takes up most of the cytoplasm
+- Nucleus is pushed to the periphery of the cell
+- Small blood vessels run between the adipocytes
+
+## Key features
+
+- Adipocytes are specialized for energy storage, with fat stored as triglycerides
+- Found in fat pads, around organs, and subcutaneously (deeper layers of the skin), where they function like bubble wrap
+- The type of fat most often seen in adults is "white fat"
+- They're not just for energy storage: adipocytes secrete signaling molecules called adipokines
+- Adipokines help regulate eating habits, and some play important roles in glucose metabolism
+
+> White adipocytes look empty because the triglyceride in their single large lipid droplet washes out during processing, leaving the nucleus pushed to the cell periphery.
+
+Library: Brown adipose tissue
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![H&E of brown adipose tissue beside an electron micrograph of brown fat labeled Ld (lipid droplet) and M (mitochondria)](library/images/msk-week-13/ct-brown-adipose-he-em.jpg)
+
+## Identify it
+
+- Contains lipid droplets, but the droplets are much smaller than in white fat
+- Mitochondria are much more abundant
+- Nuclei are not pushed to the periphery of the cell
+
+## Function
+
+- Brown adipose tissue is found in infants (and many animals)
+- Brown fat cells have a modified electron transport system: instead of producing ATP, it produces heat
+- Its main function is thermal regulation
+- Beige fat cells, found in adults, have properties in between brown and white fat cells, and their presence generally correlates with better health indices
+- Converting white fat into brown or beige fat is an active area of research
+
+## Look-alikes
+
+| Feature | White fat | Brown fat |
+|---|---|---|
+| Lipid droplet | One large droplet filling most of the cell | Smaller droplets |
+| Mitochondria | Fewer | Much more abundant |
+| Nucleus | Pushed to the periphery | Not pushed to the periphery |
+| Main job | Energy storage, adipokines | Heat production |
+| Where | Most fat in adults | Infants |
+
+> Brown fat has small lipid droplets, central nuclei, and abundant mitochondria whose modified electron transport system makes heat instead of ATP.
+
+Library: Mast cells and basophils
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Electron micrograph of a mast cell packed with numerous dark, electron-dense granules, with cytoplasmic projections at its surface](library/images/msk-week-13/ct-mast-cell-em.jpg)
+
+## Identify it
+
+- Under the electron microscope, numerous electron-dense granules fill the cytoplasm
+- Mast cells often have more numerous cytoplasmic projections than basophils
+- Found in tissue (solid connective tissue)
+
+## Key features
+
+- Derived from hematopoietic stem cells in the bone marrow
+- Part of the innate immune system
+- Granules contain histamine, heparin (a glycosaminoglycan, or GAG), proteases, cytokines, and mediators of inflammation
+- Mast cells are covered with IgE receptors
+- They act as beacons, detecting infection or foreign substances and releasing molecules that recruit and stimulate other immune cells
+
+![Electron micrograph of a basophil with numerous granules, labeled lobes of nucleus](library/images/msk-week-13/ct-basophil-em.jpg)
+
+## Look-alikes
+
+| Feature | Mast cell | Basophil |
+|---|---|---|
+| Location | Tissue | Blood |
+| Granules | Numerous, with histamine | Numerous, with histamine |
+| Origin | Hematopoietic stem cells | Hematopoietic stem cells |
+| Cytoplasmic projections | More numerous | Fewer |
+
+> Mast cells and basophils both carry numerous histamine granules, but mast cells live in connective tissue and basophils circulate in blood.
+
+Library: Mast cell degranulation and allergy
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Schematic of a mast cell with IgE antibodies on its surface binding an allergen, histamine-containing granules inside, and degranulation releasing inflammatory mediators that cause symptoms (rashes, wheezing, vomiting)](library/images/msk-week-13/ct-mast-cell-degranulation.jpg)
+
+## Mechanism
+
+1. An allergen binds the IgE receptors on the surface of a mast cell
+2. IgE receptor activation starts downstream signaling inside the cell
+3. The cell degranulates, releasing histamine and other cytokines by regulated exocytosis
+4. Histamine binds histamine receptors on blood vessels and increases their permeability
+5. Additional immune cells (such as neutrophils) and other mediators of inflammation are recruited
+
+These released molecules are responsible for the symptoms of allergy.
+
+## Clinical links
+
+- Allergic rhinitis: runny nose, sneezing, and itchy, red eyes; the common allergen is pollen
+- Anaphylaxis: a very severe, life-threatening allergic reaction (bee sting, peanuts) caused by massive mast cell degranulation and the inflammation that follows
+- Antihistamines such as diphenhydramine (Benadryl) and loratadine (Claritin) bind the histamine receptor and block histamine from binding
+
+![Diagram of a mast cell releasing histamine toward histamine receptors on blood vessels and a nerve, with anti-histamine occupying the histamine receptor](library/images/msk-week-13/ct-antihistamine-mechanism.jpg)
+
+> Allergen binding to IgE on mast cells triggers degranulation (regulated exocytosis) of histamine, which increases blood vessel permeability; antihistamines block the histamine receptor.
+
+Library: Macrophages: origin and tissue-specific names
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Scanning electron micrograph of a macrophage with rod-shaped bacteria on and around it](library/images/msk-week-13/ct-macrophage-sem.jpg)
+
+## Key features
+
+- "Macrophage" literally translates to "big eater"
+- Derived from hematopoietic stem cells in the bone marrow
+- Part of the innate immune system, and a professional phagocytic cell
+- Phagocytoses bacteria and other pathogens, dead cells, and cellular debris (the clean-up crew)
+- Needs abundant lysosomes, which are acidic, degradative organelles full of acid hydrolases
+- Also an antigen presenting cell: it shows degraded peptides from what it has eaten to T cells, giving it a role in the adaptive immune response
+
+![Diagram of the macrophage lineage: HSC, GM-CFU, M-CFU, monoblast, and pro-monocyte in bone marrow; inflammatory and resident monocytes in peripheral blood; and tissue macrophages named osteoclast (bone), microglial cell (CNS), alveolar macrophage (lung), Kupffer cell (liver), histiocyte (connective tissue), and white-pulp, red-pulp, marginal-zone, and metallophilic macrophages (spleen)](library/images/msk-week-13/ct-macrophage-lineage.jpg)
+
+## Tissue names
+
+Once macrophages settle in a tissue they take on slightly different roles and get different names, but they share one lineage and are all phagocytic.
+
+| Tissue | Macrophage name |
+|---|---|
+| Bone | Osteoclast |
+| Liver | Kupffer cell |
+| Central nervous system | Microglial cell |
+| Lung | Alveolar macrophage |
+| Connective tissue | Histiocyte |
+
+When identifying these cells in histology or pathology, use the tissue name: "osteoclast" may be the correct answer where "macrophage" isn't enough.
+
+> Macrophages come from hematopoietic stem cells and take tissue-specific names: osteoclast in bone, Kupffer cell in liver, microglial cell in the CNS.
+
+Library: Macrophages in tuberculosis and leishmaniasis
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of granuloma formation in tuberculosis: Mycobacterium taken up by alveolar macrophages, infected macrophages and mononuclear cells gathering, foamy macrophages and lymphocytes forming a granuloma surrounded by a fibrous cuff with caseum in the center, and a necrotic, caseating granuloma center releasing free mycobacteria into the airway](library/images/msk-week-13/ct-tuberculosis-granuloma.jpg)
+
+Some pathogens have evolved ways to survive inside the macrophage, the cell that's supposed to kill them.
+
+## Mycobacterium tuberculosis
+
+- Causative agent of tuberculosis
+- Phagocytosed by alveolar macrophages
+- Once inside, the bacterium prevents fusion of the phagosome with the lysosome, so it avoids being killed and lives inside the macrophage
+- The immune response tries to seal off the infected cells by forming a granuloma, which is usually pretty effective
+- Symptoms appear and the patient becomes contagious only when some unknown event triggers the granuloma to burst
+
+## Leishmania
+
+- A protozoan parasite transmitted by the sandfly
+- Present in the promastigote form within the sandfly
+- After infecting the macrophage, it transforms into the amastigote form, which is very resistant to killing
+- Unlike M. tuberculosis, it does get targeted to the lysosome, but the amastigote survives and thrives inside the lysosome
+
+## Comparison
+
+| Pathogen | How it survives the macrophage |
+|---|---|
+| Mycobacterium tuberculosis | Blocks phagosome-lysosome fusion |
+| Leishmania (amastigote) | Tolerates the harsh lysosome environment |
+
+> M. tuberculosis survives in macrophages by blocking phagosome-lysosome fusion, while Leishmania amastigotes survive inside the lysosome itself.
+
+Library: Macrophage foam cells in atherosclerosis
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of an atherosclerotic plaque in the intima: monocytes entering past endothelial cells (persistent influx), foam cells loaded with cholesterol releasing inflammatory cytokines, defective egress, a necrotic core from secondary necrosis due to defective efferocytosis, and a thinning fibrous cap, above the smooth muscle cells of the media](library/images/msk-week-13/ct-atherosclerosis-foam-cells.jpg)
+
+## Key features
+
+Atherosclerosis is essentially a non-resolving inflammatory disease, and macrophages play a prominent role in it.
+
+1. Build-up of plaque recruits macrophages
+2. Macrophages try to ingest and metabolize the lipid
+3. The very high lipid content at the plaque transforms them into "foam cells"
+4. Foam cells are sick and don't function properly: they become less motile and secrete high levels of inflammatory mediators
+5. The high lipid content is associated with endoplasmic reticulum (ER) stress
+6. Sustained ER stress can kill these cells, forming a necrotic core
+7. The plaque becomes destabilized and can form a blood clot, putting the patient at risk of myocardial infarction or stroke
+
+## What to remember
+
+The lecture calls this a highly simplified view of an active research area. The two things to know are that there's a connection between macrophages and atherosclerosis, and the general mechanism (lipid-loaded foam cells, ER stress, necrotic core, unstable plaque).
+
+> In atherosclerosis, lipid-loaded macrophages become foam cells; sustained ER stress kills them and forms a necrotic core that destabilizes the plaque.
+
+Library: Extracellular matrix: fibers and ground substance
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of the extracellular matrix above a cell, labeled proteoglycan molecule, proteoglycan complex, polysaccharide molecule, collagen fiber, integrin, plasma membrane, and microfilaments of cytoskeleton](library/images/msk-week-13/ct-ecm-diagram.jpg)
+
+## Key features
+
+- The extracellular matrix (ECM) is the combination of fibers and ground substance
+- The two types of fibers are collagen and elastic (reticular fibers are a specialized fiber made of type III collagen)
+- People often think of the fibers first because they're easy to see under the microscope
+- Ground substance is hard to visualize with histological techniques, but it's present in the ECM and enables the tissue to withstand compressive forces
+- The three main kinds of ground substance are glycosaminoglycans (GAGs), proteoglycans, and multi-adhesive glycoproteins
+- Integrins in the plasma membrane link the ECM outside the cell to the cytoskeleton inside the cell
+
+## ECM components
+
+| Component | Examples | Main job |
+|---|---|---|
+| Fibers | Collagen, elastic | Tensile strength (collagen) and elasticity (elastic) |
+| Ground substance | GAGs, proteoglycans, multi-adhesive glycoproteins | Resist compressive forces, adhesion |
+
+> The ECM is fibers (collagen and elastic) plus ground substance (GAGs, proteoglycans, and multi-adhesive glycoproteins), and the ground substance lets tissue withstand compression.
+
+Library: Collagen alpha chains and collagen types
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Molecular model of the collagen triple helix, with red, green, and blue representing different alpha chains](library/images/msk-week-13/ct-collagen-triple-helix.jpg)
+
+## Key features
+
+- Proteins called "collagen" are the most abundant proteins in the human body, but collagen isn't a single protein
+- There are 25 collagen genes, and each is known as an alpha chain
+- Three alpha chains come together into a triple helix, the basic unit of collagen
+- Inside the cell this triple helix is called procollagen; outside the cell, after its terminal non-helical segments are cleaved off, it's called tropocollagen
+- Mixing and matching alpha chains (like letters of an alphabet) gives 28 collagen types, named with Roman numerals
+- Each type has a unique composition of alpha chains suited to particular functions
+- Every third amino acid is glycine, because the helix is wound so tightly that only glycine's side chain is small enough to fit in the groove
+- Proline and a modified proline, hydroxyproline, are also common
+- The fibroblast is the main cell that produces collagen
+
+## Collagen classes in this lecture
+
+| Class | Types | Key point |
+|---|---|---|
+| Fibril forming | I, II, III | Most common types |
+| Fibril associated (FACIT) | IX, XII | Don't form fibrils; organize other fibrils |
+| Network forming | IV, VII | Form a mesh in the basal lamina |
+
+> Collagen is a triple helix of three alpha chains (25 genes, 28 types), and glycine sits at every third position because only it fits inside the tightly wound helix.
+
+Library: Collagen synthesis: procollagen to type I fiber
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of type I collagen assembly: (a) pro-alpha peptide chains, two alpha1(I) and one alpha2(I), self-assemble into (b) procollagen; procollagen peptidase removes the loose termini to give (c) tropocollagen, which self-assembles into (d, e) a collagen fibril and then (f) a type I collagen fiber](library/images/msk-week-13/ct-type-i-collagen-assembly.jpg)
+
+Type I collagen is a fibril-forming collagen. It's the most abundant collagen type and is found almost everywhere.
+
+## The problem
+
+Collagen peptides and procollagen molecules tend to self-associate into fibrils, fibers, and bundles. If fibrils formed inside the cell, they would interfere with normal cellular processes and be toxic (the slide puts it as "the cell is dead"). Fibril formation has to happen in the extracellular space.
+
+## The solution
+
+1. Three alpha chains form a triple helix inside the cell, called procollagen
+2. Procollagen has terminal ends that don't form a helix, and these ends prevent fibril formation
+3. Procollagen is secreted from the cell
+4. A protease that's only active in the extracellular space cleaves off the terminal ends, giving tropocollagen
+5. Tropocollagen molecules pack together into a fibril, stabilized by lateral interactions and hydrogen bonds between hydroxylated proline residues
+6. Numerous fibrils pack together into a fiber, and fibers associate into a bundle
+
+Like the cable of a suspension bridge, made of many smaller cables, this layered structure is ideally suited for high tensile strength.
+
+> Procollagen's non-helical terminal ends block fibril formation inside the cell; an extracellular protease removes them, so tropocollagen assembles into fibrils only outside the cell.
+
+Library: Dense irregular versus dense regular connective tissue
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![H&E of skin labeled stratum corneum, epidermis, papillary dermis, reticular dermis, and hypodermis](library/images/msk-week-13/ct-dermis-layers-he.jpg)
+
+## Identify it
+
+- Dense irregular (deeper layers of the skin): collagen bundles run in many different directions
+- Dense regular (tendon): densely packed collagen fibers all aligned in a single plane
+
+![H&E of tendon showing densely packed collagen fibers running in parallel](library/images/msk-week-13/ct-tendon-dense-regular-he.jpg)
+
+## Key features
+
+- Dermis and bone both contain mostly type I collagen, yet the collagen is organized differently
+- Mechanical forces on skin act in many different directions, so its collagen runs in many directions
+- In tendons, ligaments, and bone, collagen fibers are organized to provide strength in one particular direction
+- Fibroblasts and other cells in the ECM can shape how collagen is organized
+- Fibril associated (FACIT) collagens also help organize collagen into higher order structures
+
+![Electron micrograph of bone collagen arranged in stacked layers of densely packed fibrils (scale bar 5 µm)](library/images/msk-week-13/ct-bone-collagen-em.jpg)
+
+## Look-alikes
+
+| Type | Collagen arrangement | Example |
+|---|---|---|
+| Dense irregular | Many directions | Deeper layers of the skin |
+| Dense regular | Aligned in a single plane | Tendons, ligaments |
+
+> The same type I collagen is organized differently by tissue: aligned in one plane in tendon (dense regular) and running in many directions in the deeper skin (dense irregular).
+
+Library: Tendon fiber bundle hierarchy
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of tendon structure labeled collagen fibril, collagen fiber, primary fiber bundle (subfascicle), secondary fiber bundle (fascicle), tertiary fiber bundle, endotenon, epitenon, and paratenon, beside a drawing of the Achilles tendon at the heel](library/images/msk-week-13/ct-tendon-structure-diagram.jpg)
+
+## Key features
+
+Tendons and ligaments are dense regular connective tissue. They contain few cells, are relatively avascular, and are built from large bundles of collagen oriented in a single plane, which gives strength in one direction.
+
+Like a type I collagen fiber, a tendon is assembled in steps, from small units into larger and larger bundles:
+
+1. Collagen fibril
+2. Collagen fiber
+3. Primary fiber bundle (subfascicle)
+4. Secondary fiber bundle (fascicle)
+5. Tertiary fiber bundle
+
+The lecture figure also labels the connective tissue layers around these bundles (endotenon, epitenon, and paratenon) without describing them further.
+
+## Why it matters
+
+The same features that make a tendon strong (few cells, poor blood supply, tightly aligned collagen) make tendon and ligament injuries much harder to repair than a skin wound.
+
+> A tendon is dense regular connective tissue built as a hierarchy: collagen fibrils form fibers, which form primary, secondary, and tertiary fiber bundles.
+
+Library: FACIT fibril associated collagens
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of type IX collagen molecules bound along fibrils of type II collagen](library/images/msk-week-13/ct-facit-type-ix-on-type-ii.jpg)
+
+## Key features
+
+- Fibril associated collagens don't form fibrils; they're also called FACIT collagens
+- Classic examples are type IX and type XII
+- Their triple helix is interrupted by non-helical segments, which makes them more flexible
+- They retain their propeptides (terminal ends), and this inhibits fibril formation
+- They bind laterally along fibrils formed by other collagen types and also bind other ECM molecules
+- They're thought to help organize fibrillar collagens into fibers and fiber bundles
+
+![Diagram of a procollagen molecule labeled N-terminal propeptide, telopeptides, a 300 nm triple-helix domain, and C-terminal propeptide, with the collagen portion marked within the full procollagen](library/images/msk-week-13/ct-procollagen-domains.jpg)
+
+## Look-alikes
+
+| Feature | Fibril forming collagens | FACIT collagens |
+|---|---|---|
+| Examples | I, II, III | IX, XII |
+| Propeptides | Cleaved after secretion | Retained |
+| Form fibrils | Yes | No |
+| Role | Build fibrils and fibers | Organize other collagen fibrils |
+
+> FACIT collagens (types IX and XII) keep their propeptides, so they can't form fibrils; they bind along other collagen fibrils and help organize them.
+
+Library: Type II and type III collagen
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+## Type II collagen
+
+- A fibril forming collagen and the predominant collagen type in cartilage
+- Mutations in genes for type II collagen, and for type IX collagen, are associated with Stickler syndrome
+- Because type IX is a FACIT collagen that organizes collagen fibers in many tissues, these mutations cause a wide range of symptoms
+
+## Stickler syndrome findings
+
+- Myopia and increased risk of retinal detachment
+- Hearing loss
+- Cleft palate
+- Flattened face and small nose
+- A variety of joint defects
+
+## Type III collagen
+
+- Technically a fibril forming collagen, but it forms specialized fibers called reticular fibers, which are thin and branching
+- Reticular fibers are made by reticular cells, a specialized type of fibroblast
+- Don't confuse reticular cells with reticulocytes (immature red blood cells)
+- Reticular fibers form a support structure for organs such as the liver, spleen, adipose tissue, and lymph nodes
+
+## Summary
+
+| Type | Fiber | Where |
+|---|---|---|
+| II | Fibril forming | Cartilage |
+| III | Reticular fibers (thin, branching) | Supporting liver, spleen, adipose, lymph nodes |
+
+> Stickler syndrome comes from mutations in type II or type IX collagen genes and causes myopia, retinal detachment risk, hearing loss, cleft palate, and joint defects.
+
+Library: Network forming collagens and the basal lamina
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of type IV collagen assembly: single alpha-chain monomers with a 7S end, a triple-helical domain, and an NC1 domain form a protomer (a trimer of alpha chains); NC1 hexamers join protomers into dimers; 7S domains join them into a tetramer; and these build a meshwork suprastructure](library/images/msk-week-13/ct-type-iv-collagen-network.jpg)
+
+## Network forming collagens
+
+- Types IV and VII
+- They don't form fibrils; they form an intricate network, or "mesh"
+- Each triple helix forms a dimer, and dimers associate to form a tetramer
+- The end result is a meshwork of collagen that acts as a scaffold for cells
+- They're found mainly in the basement membrane (basal lamina)
+
+## Basal lamina
+
+- Found between an epithelial layer and the underlying connective tissue, and also surrounds muscles and blood vessels
+- Made of a meshwork of ECM proteins: type IV collagen, glycoproteins such as laminin and fibronectin, and GAGs
+- Serves as a scaffold and separates the cellular layer from the underlying connective tissue
+- Forms a physical barrier between cells and the underlying tissue (think cancer metastasis)
+- In the kidney, it's specialized as a highly selective filtration device
+
+![Diagram of the basal lamina on a plasma membrane, labeled type IV collagen, laminin, nidogen, perlecan, and integrin, with an inset showing how these components bind one another](library/images/msk-week-13/ct-basal-lamina-components.jpg)
+
+Laminin (a basal lamina glycoprotein) isn't the same as lamin, which is an intermediate filament of the nuclear envelope.
+
+> Network forming collagens (types IV and VII) build a mesh instead of fibrils, and type IV collagen is the main collagen of the basal lamina.
+
+Library: Hemidesmosomes and integrins
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of a hemidesmosome: (A) keratin filaments in an epithelial cell anchored by hemidesmosomes to the basal lamina; (B) enlarged view labeled keratin, dystonin, plectin, integrin (alpha6 beta4), collagen XVII, laminin, and collagen](library/images/msk-week-13/ct-hemidesmosome.jpg)
+
+## Hemidesmosomes
+
+- Hemidesmosomes connect the epithelial layer to the basal lamina
+- Integrins on epithelial cells interact with collagens and glycoproteins in the basal lamina
+- Integrins in hemidesmosomes connect to intermediate filaments (keratin in the figure)
+
+## Integrins
+
+- Cell-surface receptors in the plasma membrane that link the cellular layer to the underlying connective tissue
+- Each integrin is a complex of an alpha chain and a beta chain
+- There are 24 genes for alpha chains and 9 genes for beta chains, so there are many integrin types
+- Many integrins bind glycoproteins such as fibronectin and laminin outside the cell
+- Inside the cell, most integrins bind the actin cytoskeleton, connecting the ECM to actin
+
+![Diagram of active integrins, each with an alpha subunit and a beta subunit, binding an extracellular matrix protein outside the cell and linking through talin and vinculin to actin filaments inside the cell](library/images/msk-week-13/ct-integrin-actin-link.jpg)
+
+## Look-alikes
+
+| Integrin setting | Binds outside | Links inside to |
+|---|---|---|
+| Most integrins | Fibronectin, laminin | Actin cytoskeleton |
+| Hemidesmosome integrin | Basal lamina collagens and glycoproteins | Intermediate filaments |
+
+> Most integrins link the ECM to the actin cytoskeleton, but integrins in hemidesmosomes link the basal lamina to intermediate filaments.
+
+Library: Dystrophin-glycoprotein complex
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of the dystrophin-glycoprotein complex in skeletal muscle: laminin 2 in the extracellular matrix binds alpha- and beta-dystroglycan in the sarcolemma, dystrophin links dystroglycan to actin filaments in the cytoplasm, and the sarcoglycan complex, sarcospan, syntrophins, and alpha-dystrobrevin associate with it](library/images/msk-week-13/ct-dystrophin-glycoprotein-complex.jpg)
+
+## Key features
+
+In addition to integrins, skeletal muscle cells have an additional link between the cell and the ECM, the dystrophin-glycoprotein complex.
+
+1. Laminin in the ECM binds dystroglycan
+2. Dystroglycan is a glycoprotein found in the ECM and on the plasma membrane
+3. On the cellular side, dystroglycan binds dystrophin
+4. Dystrophin binds the actin cytoskeleton inside the cell
+
+The sarcoglycan complex associates with these proteins and helps stabilize the complex.
+
+## Disease links
+
+| Mutated protein | Disease |
+|---|---|
+| Dystrophin | Duchenne muscular dystrophy |
+| Sarcoglycan complex | Limb-girdle muscular dystrophy |
+
+## Big picture
+
+Both integrins and the dystrophin-glycoprotein complex connect the cellular layer to the underlying connective tissue. The lecture asks you to think about why skeletal muscle, in particular, needs this extra link.
+
+> In skeletal muscle, dystrophin links dystroglycan (which binds laminin) to actin; dystrophin mutations cause Duchenne muscular dystrophy and sarcoglycan mutations cause limb-girdle muscular dystrophy.
+
+Library: Alport syndrome
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Glomerular filtration barrier: a diagram labeled endothelial cell with holes (fenestrations), glomerular basement membrane (GBM), epithelial cell foot processes attached by a thin membrane, and proteins kept in the capillary, beside an electron micrograph labeled fenestrae, endothelium, BM, and podocyte processes (P2)](library/images/msk-week-13/ct-glomerular-basement-membrane.jpg)
+
+## Normal filtration
+
+In the kidney, the basal lamina is specialized for filtration. Proteins and larger molecular weight components are retained in the circulation, while small molecules and metabolic wastes pass through the basement membrane and leave as urine.
+
+## Key findings
+
+- Caused by mutations in type IV collagen genes
+- Defective glomerular basement membrane: the basal lamina is weakened and kidney filtration is compromised
+- Blood in the urine and high levels of protein in the urine (proteinuria)
+- The most common form is X-linked, so males are often more severely affected
+- Type IV collagen is also found in the ear and in the eye (lens), so hearing loss and vision loss are often seen
+
+> Alport syndrome is caused by type IV collagen mutations (most often X-linked) that weaken the glomerular basement membrane, giving hematuria, proteinuria, and hearing and vision loss.
+
+Library: Elastic fibers in loose connective tissue and the aorta
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Loose connective tissue spread labeled elastic fibers, collagen fibers, fibroblast nuclei, mesothelial cell nuclei, and a mast cell](library/images/msk-week-13/ct-loose-ct-elastic-fibers.jpg)
+
+## Identify it
+
+- Elastic fibers are thin and stain darkly
+- Collagen fibers are thicker and more lightly stained in the same section
+- In the wall of the aorta, elastic fibers appear as many dark, wavy lines
+
+![H&E of an elastic artery (aorta) with arrows pointing to elastic fibers](library/images/msk-week-13/ct-elastic-artery-aorta.jpg)
+
+## Key features
+
+- As the name suggests, elastic fibers give tissues elasticity
+- The character of a tissue depends on its proportion of collagen fibers versus elastic fibers
+- Elastic fibers are most abundant in tissues that need to expand and then regain their original shape
+- This is typified by arteries, and especially the aorta
+
+## Look-alikes
+
+| Feature | Elastic fibers | Collagen fibers |
+|---|---|---|
+| Thickness | Thin | Thicker |
+| Staining | Darker | Lighter |
+| Property | Elasticity | Tensile strength |
+| Classic site | Aorta | Tendon, dermis, bone |
+
+> Elastic fibers are thin and stain darker than the thicker, lighter collagen fibers, and they're especially abundant in the aorta.
+
+Library: Elastin, fibrillin, and elastic recoil
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Schematic of an elastic fiber with an elastin core surrounded by microfibrils, above scanning electron micrographs of a fiber meshwork (scale bar 100 µm) and of the aorta (scale bar 1 mm)](library/images/msk-week-13/ct-elastic-fiber-schematic-sem.jpg)
+
+## Assembly
+
+Like collagen, elastic fibers are assembled step by step.
+
+1. Microfibrils form first
+2. Microfibrils contain the protein fibrillin
+3. The microfibrils organize elastin polypeptides into a fiber
+4. Elastin is the main protein component of the finished fiber
+
+## Why elastic fibers stretch and recoil
+
+- Elastin has many hydrophobic segments, so it naturally avoids water
+- In the relaxed state, elastin takes a random coiled conformation with the hydrophobic segments tucked inside the coil
+- Lysine residues in elastic fibers are cross-linked
+- When force is applied, the fibers stretch, and the cross-links keep them from breaking
+- When the force is removed, the hydrophobic nature of elastin makes the fiber coil back into its favored relaxed conformation
+
+The result is a fiber with the properties of a rubber band.
+
+![Diagram of an elastic fiber made of elastin molecules joined by cross-links, shown relaxed as random coils and stretched into extended chains](library/images/msk-week-13/ct-elastin-stretch-relax.jpg)
+
+> Fibrillin-containing microfibrils form first and organize elastin into a fiber; cross-linked, hydrophobic elastin stretches without breaking and recoils like a rubber band.
+
+Library: Glycosaminoglycans and hyaluronic acid
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Chemical structure of a GAG chain: a repeating disaccharide of N-acetylglucosamine and glucuronic acid carrying negatively charged carboxyl and sulfate groups](library/images/msk-week-13/ct-gag-repeating-disaccharide.jpg)
+
+## Ground substance
+
+Ground substance is hard to see with histological techniques, but it enables tissue to withstand compressive forces. Its three main kinds are GAGs, proteoglycans, and multi-adhesive glycoproteins.
+
+## GAGs (glycosaminoglycans)
+
+- Unbranched polysaccharides
+- Very negatively charged
+- The charge gives them a high affinity for water, so they retain water in the matrix
+- This gives the matrix the consistency of a gel and lets the tissue resist compression
+
+## Hyaluronic acid versus other GAGs
+
+- Hyaluronic acid is the largest and most abundant GAG
+- It's often found associated with proteins, but it isn't covalently attached to a protein
+- Other GAGs (heparan sulfate, dermatan sulfate, chondroitin sulfate, keratan sulfate) are covalently linked to protein, forming a proteoglycan
+
+![Size comparison of a hyaluronan molecule (MW 8 x 10^6, spanning about 300 nm) with a globular protein, glycogen, spectrin, and collagen](library/images/msk-week-13/ct-hyaluronan-size-comparison.jpg)
+
+| GAG | Linked to protein? |
+|---|---|
+| Hyaluronic acid | No |
+| Heparan, dermatan, chondroitin, keratan sulfate | Yes (proteoglycan) |
+
+> GAGs are unbranched, highly negatively charged polysaccharides that hold water, giving the matrix a gel consistency that resists compression; hyaluronic acid is the largest and isn't attached to protein.
+
+Library: Proteoglycans and aggrecan
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of a proteoglycan linkage: a GAG chain attached to a serine of the core protein through a link tetrasaccharide of xylose, galactose, galactose, and glucuronic acid](library/images/msk-week-13/ct-proteoglycan-core-protein-link.jpg)
+
+## Key features
+
+- A proteoglycan is a protein backbone (core protein) covalently linked to GAGs
+- Proteoglycans are negatively charged because their GAGs are highly negatively charged
+- Like free GAGs, they help tissue resist compressive forces
+- They can also bind and sequester signaling molecules such as fibroblast growth factor and certain chemokines, so they help regulate the biology of nearby cells
+
+## Aggrecan
+
+- The major component of cartilage
+- Has over 100 GAG chains
+- It's huge, big enough to be seen with electron microscopy (most protein complexes are too small to see by EM)
+
+## Structure (from the lecture figures)
+
+- Each GAG chain attaches to a serine on the core protein through a link tetrasaccharide (xylose, galactose, galactose, glucuronic acid)
+- In the aggrecan aggregate, many aggrecan core proteins carrying keratan sulfate and chondroitin sulfate chains attach through link proteins to one long hyaluronan molecule
+
+![Diagram of an aggrecan aggregate (scale 1 µm): aggrecan core proteins bearing keratan sulfate and chondroitin sulfate chains, attached by link proteins to a hyaluronan molecule](library/images/msk-week-13/ct-aggrecan-aggregate.jpg)
+
+> Aggrecan, the major proteoglycan of cartilage, is a core protein carrying over 100 GAG chains, which makes it large enough to see by electron microscopy.
+
+Library: Multi-adhesive glycoproteins: fibronectin and laminin
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of a multi-adhesive glycoprotein dimer joined by disulfide bonds near the C termini, labeled self-association, collagen-binding, cell-binding, and heparin-binding sites, a domain, and a module](library/images/msk-week-13/ct-fibronectin-binding-sites.jpg)
+
+## Key features
+
+- Glycoproteins are proteins covalently linked to carbohydrate, but the protein component predominates
+- The carbohydrates are usually short, branched structures
+- Most have binding sites for collagen, GAGs, and integrins, hence the name multi-adhesive glycoprotein
+- Fibronectin has binding sites for GAGs, collagen, and integrins (on cell surfaces)
+- Laminin attaches epithelial cells to the underlying basal lamina, and in skeletal muscle it binds dystroglycan
+- Laminin and lamin aren't the same thing: lamin is an intermediate filament of the nuclear envelope
+
+![Diagram of a cross-shaped glycoprotein built from alpha, beta, and gamma chains, labeled globular domains, an alpha-helical region, globular regions, and collagen-binding, cellular-binding, entactin-binding, integrin-binding, and dystroglycan-binding regions](library/images/msk-week-13/ct-laminin-binding-regions.jpg)
+
+## Look-alikes
+
+| Feature | Proteoglycan | Multi-adhesive glycoprotein |
+|---|---|---|
+| Carbohydrate | GAG chains | Short, branched sugars |
+| Main role | Resist compression, sequester signals | Bind collagen, GAGs, and integrins |
+| Example | Aggrecan | Fibronectin, laminin |
+
+> Multi-adhesive glycoproteins such as fibronectin and laminin are mostly protein with short branched sugars, and they bind collagen, GAGs, and integrins.
+
+Library: Skin wound healing: injury and inflammation
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Timeline of normal cutaneous wound healing from trauma to 14 days: haemostasis, inflammation, and cell migration; then cell proliferation, ECM synthesis, granulation tissue, angiogenesis, and re-epithelialisation; then remodelling, wound closure, and contraction, with the cell types active at each stage](library/images/msk-week-13/ct-wound-healing-stages-timeline.jpg)
+
+## Sequence
+
+1. Tissue injury exposes platelets to the ECM, which starts clotting and helps seal the wound
+2. Chemokines are released at the wound and attract neutrophils and mast cells
+3. Mast cell degranulation (histamine release) starts the inflammation phase, with swelling and redness
+4. Neutrophils phagocytose bacteria and other pathogens, then die
+5. Dead neutrophils and other cellular debris make up pus
+6. About 2 days after injury, macrophages are recruited and activated
+7. Macrophages phagocytose dead neutrophils, remaining bacteria, and tissue debris
+
+## Details from the lecture figures
+
+- At the time of injury, platelets adhere to the exposed collagen and to each other
+- Platelets release clotting factors, PDGF, and TGF-beta to start the repair process
+- By the first day, neutrophils attach to endothelial cells in the vessel walls around the wound (margination)
+- They then change shape to move through cell junctions (diapedesis) and migrate to the wound (chemotaxis), which marks the beginning of the inflammatory phase
+
+![Drawing of a fresh skin wound labeled epidermis, dermis, red blood cell, fibroblast, fixed tissue monocyte, platelet, and blood vessel, with a caption describing platelets adhering to exposed collagen and releasing clotting factors, PDGF, and TGF-beta](library/images/msk-week-13/ct-wound-injury-platelets.jpg)
+
+![Drawing of the early inflammatory phase labeled neutrophil, fibroblast, margination, diapedesis, and fixed tissue monocyte, with a caption describing neutrophils leaving vessels and migrating to the wound by the first day](library/images/msk-week-13/ct-wound-inflammation-neutrophils.jpg)
+
+> Mast cell histamine release starts the inflammation phase; neutrophils die after eating bacteria (forming pus), and macrophages arrive about 2 days later to clear the debris.
+
+Library: Skin wound healing: proliferation and remodeling
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Drawing of the late inflammatory phase labeled scab, fibroblast, wound macrophage, and fixed tissue monocyte, with a caption describing wound macrophages releasing PDGF and TGF-beta to recruit fibroblasts and begin the proliferative phase](library/images/msk-week-13/ct-wound-proliferative-phase.jpg)
+
+## Proliferative phase
+
+- Fibroblasts are recruited to the wound, become activated, and start synthesizing collagen
+- The main collagen made in the wound is type I
+- The collagen fibers form a more permanent seal over the wound area
+
+## Re-epithelialization and remodeling
+
+- Epithelial cells eventually migrate to cover the surface of the wound (re-epithelialization)
+- The underlying connective tissue is remodeled, and collagen fibers are cross-linked and organized
+- Remodeling involves continued synthesis and degradation of ECM components as the tissue tries to reach a new equilibrium
+
+![Drawing of the remodeling phase under restored epidermis, labeled fibroblast, fixed tissue monocyte, blood vessel, and macrophage](library/images/msk-week-13/ct-wound-remodeling-phase.jpg)
+
+## Outcome
+
+Collagen organization after healing is never as good as the original. ECM integrity appears to return to only about 80% of what it was before the wound, so repeated injury to the same tissue has consequences. Even so, this type of skin wound healing is relatively easy for the body to manage compared with tendon injury.
+
+> In the proliferative phase, activated fibroblasts lay down mainly type I collagen, and remodeled skin regains only about 80% of its original ECM integrity.
+
+Library: Defective skin wound healing: ulcers and keloids
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+Wound healing can go wrong at two different stages, either stalling in inflammation or overshooting in remodeling.
+
+## Stuck in inflammation: chronic non-healing dermal ulcer
+
+- Common name: bedsore
+- Often seen in patients who are immobile, such as elderly immobile patients and people with spinal cord injury
+- The pathology involves abnormal inflammation, and healing doesn't progress beyond the inflammation stage
+
+## Stuck in contraction and remodeling: keloid scar
+
+- Caused by excessive activation of fibroblasts
+- Activated fibroblasts make copious amounts of collagen
+- Some people are more susceptible than others to keloid formation during wound healing
+
+## Look-alikes
+
+| Feature | Chronic dermal ulcer | Keloid scar |
+|---|---|---|
+| Stalled phase | Inflammation | Contraction and remodeling |
+| Problem | Abnormal inflammation | Excess fibroblast activation |
+| Result | Wound that won't heal | Copious collagen |
+| Who | Immobile patients | Susceptible individuals |
+
+> A bedsore is a wound stuck in the inflammation phase, while a keloid is a wound stuck in remodeling with overactive fibroblasts making excess collagen.
+
+Library: Tendinopathy histology and repair
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Diagram of a tendon running from muscle (myotendinous junction) to bone (enthesis), comparing healthy tendon (type I collagen fibrils, tenocytes, interfascicular matrix, immune cell, nerve fibre, blood vessel) with tendinopathy (type III collagen fibrils, degenerative type I collagen fibrils, neovessels)](library/images/msk-week-13/ct-healthy-tendon-vs-tendinopathy.jpg)
+
+## Background
+
+- Tendons and ligaments are dense regular connective tissue, with thick collagen bundles arranged along a single plane
+- A normal healthy tendon has few cells and is relatively avascular
+- Excessive strain on a tendon (such as repetitive activities) can cause tendinopathy, often near the site of insertion into bone
+
+![Schematic of healthy tendon (flat, elongated, evenly distributed cells; densely packed, aligned type 1 collagen) versus tendinopathy (rounded and uneven cells with tendon damage; disorganized type 1 and 3 collagen fibers; capillary ingrowth)](library/images/msk-week-13/ct-tendinopathy-schematic.jpg)
+
+## Identify it
+
+- More cellular, and the cells are more rounded
+- Collagen bundles are disorganized and not correctly aligned
+- With chronic injury, new blood vessels and nerves grow into the tissue, which is associated with pain
+
+![H&E of tendon labeled disorganized collagen (upper area) and normal collagen (lower area)](library/images/msk-week-13/ct-tendinopathy-he.jpg)
+
+## Look-alikes
+
+| Feature | Healthy tendon | Tendinopathy |
+|---|---|---|
+| Cells | Few, flat, elongated, evenly spaced | More numerous, rounded, uneven |
+| Collagen | Mostly type I, densely packed and aligned | Types I and III, disorganized |
+| Vessels and nerves | Relatively avascular | Ingrowth of new vessels and nerves |
+
+Because of their biology, tendons and ligaments are hard to repair, and even a successful repair never restores 100% of the tissue's integrity and strength.
+
+> Tendinopathy turns aligned, sparsely cellular type I collagen into a disorganized, more cellular tissue containing type III collagen, with ingrowth of vessels and nerves.
+
+Library: Fibrosis after organ and surgical injury
+Folder: MSK / Week 13 / Connective Tissue Histology
+
+![Cross section of a heart after myocardial infarction, with black arrows pointing to pale collagen scar deposits](library/images/msk-week-13/ct-myocardial-infarction-collagen-scar.jpg)
+
+## Key features
+
+- Wound healing isn't just a surface event: internal organs can also be "wounded" by physical trauma or by lack of blood flow, and they need repair
+- Essentially the same repair process takes place, and the result is fibrosis
+- Fibroblasts are the main cell responsible for producing the collagen
+- After a myocardial infarction, a collagen scar forms in the heart
+
+## Kidney fibrosis
+
+1. Acute kidney injury can result in fibrosis
+2. Kidney epithelial cells are replaced with ECM (mostly collagen)
+3. This compromises kidney function
+4. Compromised function can lead to even more fibrosis
+5. This vicious cycle can eventually result in kidney failure
+
+## Surgical fibrosis
+
+Fibrosis can also develop after a surgical intervention.
+
+![Photo of an eye after surgery, with an arrow pointing to an area of fibrosis](library/images/msk-week-13/ct-surgical-fibrosis-eye.jpg)
+
+> Fibrosis is a fibroblast-made collagen scar that follows organ injury, as after myocardial infarction or acute kidney injury, where it can drive a vicious cycle toward kidney failure.
+
+Library: Acne vulgaris: presentation and diagnosis
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of a forehead covered with many small skin-colored comedones and a few red papules, acne vulgaris](library/images/msk-week-13/derm-acne-vulgaris-forehead-comedones-papules.jpg)
+
+## Identify it
+
+- Comedones must be present to make the diagnosis
+- Papules and pustules are often present too
+- Face, chest, and back
+- Common during the teenage years, 20s, and 30s
+
+## Key features
+
+- Very common: adolescents more than adults, with an incidence of up to 85%
+- Significant psychological impact, including depression and poor self-image
+- Long-term sequelae are postinflammatory hyperpigmentation and permanent scarring
+- Effective treatments are available, and the choice depends on the severity and the category of lesions
+
+## Severity categories
+
+The lecture sorts acne into four categories, from mildest to most severe. Each one has its own page with its treatment.
+
+| Category | Lesions |
+|---|---|
+| Comedonal | Comedones; the mildest form |
+| Mild inflammatory | Papules and pustules with comedones, none to few deep nodules |
+| Moderate inflammatory | Tender nodules plus comedones, papules, and pustules |
+| Nodulocystic | Many deep-seated nodules and cysts plus inflammatory papules and pustules |
+
+> Acne vulgaris is diagnosed by the presence of comedones, often with papules and pustules.
+
+Library: Acne pathogenesis: comedo to nodule
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Diagram of the pathogenesis of acne in four stages (early comedo, later comedo shown closed and open, inflammatory papule/pustule, nodule/cyst), labeled epidermis, sebaceous lobule, and follicular epithelium, with a key for corneocytes, sebum, and P. acnes](library/images/msk-week-13/derm-acne-pathogenesis-comedo-to-nodule.jpg)
+
+## Early comedo
+
+- Hyperkeratosis and increased corneocyte cohesiveness in the upper sebaceous follicle lead to microcomedo formation
+- Androgens stimulate sebum production
+
+## Later comedo
+
+- Shed keratin and sebum accumulate
+- Whorled lamellar concretions form
+- The comedo may be closed or open
+
+| Comedo | Description |
+|---|---|
+| Closed | No obvious follicular opening |
+| Open | Dilated follicular opening; the keratin plug darkens from oxidized lipids and melanin |
+
+## Inflammatory papule or pustule
+
+- *Propionibacterium acnes* proliferates and upregulates innate immune responses (for example, through TLRs)
+- Mild inflammation, mainly neutrophils, increases when the comedo wall ruptures
+- The sebaceous lobule regresses
+
+## Nodule or cyst
+
+- Marked inflammation, mainly T cells
+- May lead to scarring
+
+> Inflammation in acne papules and pustules is mainly neutrophils, while nodules and cysts show marked inflammation that's mainly T cells.
+
+Library: Comedonal acne
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of a forehead with many closed and open comedones and a few small papules, comedonal acne](library/images/msk-week-13/derm-comedonal-acne-forehead.jpg)
+
+## Identify it
+
+- Comedones on the face
+- The mildest form of acne
+
+## Treatment
+
+First-line treatment is a **topical retinoid**, a vitamin A analog.
+
+| Drug | Mechanism of action |
+|---|---|
+| Tretinoin | Normalizes follicular keratinization |
+| Tazarotene | Normalizes follicular keratinization |
+| Adapalene | Normalizes follicular keratinization |
+
+- Normalized keratinization means less follicular plugging and less comedone formation
+- Retinoids take at least 6 weeks to be effective
+- This fits the first step of acne pathogenesis, where hyperkeratosis and sticky corneocytes in the upper follicle form the microcomedo
+
+> First-line treatment for comedonal acne is a topical retinoid (tretinoin, tazarotene, adapalene), which normalizes follicular keratinization and takes at least 6 weeks to work.
+
+Library: Mild inflammatory acne
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of a cheek and chin below the lower lip with red papules, pustules, and comedones, mild inflammatory acne](library/images/msk-week-13/derm-mild-inflammatory-acne-cheek.jpg)
+
+## Identify it
+
+- Papules and pustules with comedones
+- None to few deep nodules
+
+## Treatment
+
+| Drug | Type | Mechanism of action |
+|---|---|---|
+| Tretinoin, adapalene | Topical retinoid | Normalizes follicular keratinization |
+| Clindamycin, erythromycin | Topical antibiotic | Kills acne-causing bacteria (*Propionibacterium acnes*) |
+| Benzoyl peroxide face wash (4-6%) | Topical wash | Kills acne-causing bacteria (*Propionibacterium acnes*) |
+
+The step up from comedonal acne is adding something that kills *P. acnes* (a topical antibiotic or benzoyl peroxide) to the retinoid. In the pathogenesis diagram, *P. acnes* proliferation is what drives the inflammatory papule and pustule stage.
+
+> Mild inflammatory acne adds a topical antibiotic (clindamycin, erythromycin) or benzoyl peroxide, which kill *Propionibacterium acnes*, to a topical retinoid.
+
+Library: Moderate inflammatory acne and hormonal treatment
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of the side of a face with scattered red papules and tender nodules on the cheek and jaw, moderate inflammatory acne](library/images/msk-week-13/derm-moderate-inflammatory-acne-cheek.jpg)
+
+## Identify it
+
+- Tender nodules along with comedones, papules, and pustules
+- In females, flares may precede the menstrual cycle and favor the chin and jawline
+
+![Clinical photo of the cheek and chin beside the lips with inflamed papules and small nodules, hormonal pattern of moderate acne in a female](library/images/msk-week-13/derm-hormonal-acne-chin-jawline.jpg)
+
+## Treatment
+
+- Tretinoin
+- Benzoyl peroxide face wash
+- Oral antibiotics: doxycycline 100 mg BID
+
+## Added options in females
+
+- Oral contraceptive pills
+- Spironolactone, a K+ sparing diuretic and antihypertensive
+- Spironolactone is also an anti-androgen that alters sebum production in response to hormones
+- Spironolactone has similar efficacy to oral antibiotics
+
+Moderate acne is where oral antibiotics enter the plan. For a female whose acne tracks with her cycle along the chin and jawline, oral contraceptive pills and spironolactone are extra choices, and spironolactone works about as well as oral antibiotics.
+
+> In females with moderate inflammatory acne, spironolactone (an anti-androgen that alters sebum production) has similar efficacy to oral antibiotics.
+
+Library: Nodulocystic acne
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Two clinical photos of cheeks with many deep nodules, cysts, and inflamed papules and pustules, nodulocystic acne](library/images/msk-week-13/derm-nodulocystic-acne-cheek-two-patients.jpg)
+
+## Identify it
+
+- Many deep-seated nodules and cysts
+- Inflammatory papules and pustules alongside them
+- Leads to scarring if untreated
+
+## Treatment
+
+Antibiotics with topical treatments can be considered, but many patients require **isotretinoin**.
+
+| Isotretinoin feature | Detail |
+|---|---|
+| Drug class | Oral retinoid |
+| Major risk | Severe teratogen |
+| Prescribing | Monthly prescription registered with the iPledge monitoring program |
+| Mechanism | Induces sebocyte apoptosis |
+| Result | Normalized keratinization and decreased *P. acnes* |
+
+Because nodulocystic acne scars, treatment shouldn't be delayed. The lecture stresses that scarring is difficult to treat and easier to prevent with early isotretinoin.
+
+> Many patients with nodulocystic acne need isotretinoin, an oral retinoid and severe teratogen that requires monthly iPledge registration.
+
+Library: Isotretinoin for acne
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Two profile photos of a patient with the eyes blocked out, shown on the isotretinoin slide: on the left many inflamed papules, nodules, and dark spots on the cheek and jaw, and on the right much clearer skin](library/images/msk-week-13/derm-isotretinoin-before-after.jpg)
+
+## Mechanism
+
+- Oral retinoid
+- Induces sebocyte apoptosis, which leads to normalized keratinization and decreased *P. acnes*
+
+## Course and monitoring
+
+- 6 to 8 month treatment course
+- Weight-based dosing to reach a goal dose
+- Monthly prescription through the iPledge monitoring program
+- Labs: LFTs, lipids, and a monthly pregnancy test
+
+## Side effects
+
+- Dryness of skin and mucous membranes
+- Increased sun sensitivity
+- Inflammatory bowel disease
+- Hair loss
+- Joint pain
+- Depression
+- LFT and triglyceride elevations
+- **Severe birth defects**
+
+## Role
+
+Isotretinoin is highly effective. Many nodulocystic acne patients need it, and starting it early is the easier way to deal with scarring, since established scars are difficult to treat. When used properly, it's a safe and highly effective medication.
+
+> Isotretinoin causes severe birth defects, so it requires iPledge registration and a monthly pregnancy test, plus LFT and lipid monitoring.
+
+Library: Acne treatment by severity
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+## Treatment ladder
+
+Acne treatment depends on the severity and the category of lesions. Therapy is added as lesions get deeper and more inflamed.
+
+| Category | Lesions | Treatment |
+|---|---|---|
+| Comedonal | Comedones (mildest) | Topical retinoid: tretinoin, tazarotene, adapalene |
+| Mild inflammatory | Papules/pustules with comedones, few or no nodules | Tretinoin or adapalene; topical clindamycin or erythromycin; benzoyl peroxide wash |
+| Moderate inflammatory | Tender nodules, comedones, papules, pustules | Tretinoin; benzoyl peroxide wash; oral doxycycline 100 mg BID |
+| Moderate, female | Flares before menses on chin and jawline | Add oral contraceptive pills or spironolactone |
+| Nodulocystic | Many deep nodules and cysts | Antibiotics with topicals; many need isotretinoin |
+
+## Mechanisms of action
+
+| Drug | Mechanism |
+|---|---|
+| Topical retinoids | Normalize follicular keratinization, less plugging and comedone formation |
+| Topical antibiotics, benzoyl peroxide | Kill *Propionibacterium acnes* |
+| Spironolactone | Anti-androgen; alters sebum production in response to hormones |
+| Isotretinoin | Induces sebocyte apoptosis; normalizes keratinization and decreases *P. acnes* |
+
+## Timing
+
+- Topical retinoids take at least 6 weeks to work
+- Isotretinoin needs a 6 to 8 month course
+
+> Acne treatment is chosen by severity: topical retinoid for comedonal, add antibacterials for inflammatory, oral antibiotics for moderate, and isotretinoin for many nodulocystic patients.
+
+Library: Acne sequelae: scarring and hyperpigmentation
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of the lower face with many small depressed acne scars on both cheeks](library/images/msk-week-13/derm-acne-scarring-cheeks.jpg)
+
+## Scarring
+
+- Permanent
+- Difficult to treat
+- Easier to prevent with early initiation of isotretinoin
+- When used properly, isotretinoin is safe and highly effective
+
+![Clinical photo of a cheek in darker skin with many dark brown to purple spots where acne lesions healed, postinflammatory hyperpigmentation](library/images/msk-week-13/derm-acne-postinflammatory-hyperpigmentation.jpg)
+
+## Postinflammatory hyperpigmentation
+
+- Common with all acne types
+- Worse in darker skin types
+- Worsened by picking and popping lesions
+
+## Treating the hyperpigmentation
+
+- Tincture of time, since it can take months to fade
+- Prevention of new acne lesions
+- Sunscreen
+
+## Look-alikes
+
+| Sequela | Permanent? | Approach |
+|---|---|---|
+| Scarring | Yes | Hard to treat; prevent with early isotretinoin |
+| Postinflammatory hyperpigmentation | No, fades over months | Time, preventing new lesions, sunscreen |
+
+> Acne scarring is permanent and best prevented with early isotretinoin, while postinflammatory hyperpigmentation fades with time and is worse in darker skin.
+
+Library: Rosacea pathophysiology and subtypes
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of the central face with redness of the nose and cheeks and scattered red papules, rosacea](library/images/msk-week-13/derm-rosacea-central-face.jpg)
+
+## Pathophysiology
+
+Rosacea is an inflammatory disorder due to immune and neurovascular dysregulation, with a possible role for an exaggerated immune reaction to demodex. A genetic predisposition plus triggers (alcohol, sun, spicy foods) lead to two problems.
+
+| Dysregulation | Result |
+|---|---|
+| Neurovascular dysregulation | Flushing, sensitivity |
+| Abnormal innate immune response | Inflammatory papules and pustules, no comedones |
+
+## Four subtypes
+
+| Subtype | Key findings |
+|---|---|
+| Erythematotelangiectatic | Facial redness, telangiectasias, burning, flushing |
+| Papulopustular | Erythematous papules and pustules on the central face over background erythema |
+| Phymatous | Papulopustular plus sebaceous gland hypertrophy and fibrosis; men, nose |
+| Ocular | Blepharitis with eyelid swelling, conjunctival injection, dry eyes |
+
+## Triggers to avoid
+
+- Alcohol
+- Sun
+- Spicy foods
+
+> Rosacea has inflammatory papules and pustules but no comedones, which separates it from acne vulgaris.
+
+Library: Erythematotelangiectatic rosacea
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of the nose, cheeks, and mouth with diffuse facial redness and fine visible vessels, erythematotelangiectatic rosacea](library/images/msk-week-13/derm-erythematotelangiectatic-rosacea.jpg)
+
+## Identify it
+
+- Facial redness
+- Telangiectasias
+- Skin sensitivity with burning and flushing
+
+## Pathophysiology
+
+This subtype reflects the neurovascular side of rosacea, where neurovascular dysregulation causes flushing and sensitivity.
+
+## Treatment
+
+| Treatment | Purpose or mechanism |
+|---|---|
+| Avoid triggers | Alcohol, sun, spicy foods |
+| Sunscreen | Sun is a trigger |
+| Gentle skin care | Skin is sensitive (burning, flushing) |
+| Pulse dye laser | Procedural option |
+| Beta blockers | For flushing |
+| Topical alpha2 agonist (brimonidine) | Blood vessel constriction |
+
+> Brimonidine, a topical alpha2 agonist, treats erythematotelangiectatic rosacea by constricting blood vessels, and beta blockers help flushing.
+
+Library: Papulopustular rosacea
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of the central face with many red papules and pustules on a background of redness over the nose, cheeks, and chin, papulopustular rosacea](library/images/msk-week-13/derm-papulopustular-rosacea.jpg)
+
+## Identify it
+
+- Erythematous papules and pustules
+- Typically on the central face
+- Background of erythema
+- No comedones
+
+## Treatment
+
+| Treatment | Mechanism |
+|---|---|
+| Sunscreen, gentle skin care | Supportive |
+| Avoid triggers | Alcohol, sun, spicy foods |
+| Topical metronidazole | Anti-inflammatory rather than antimicrobial |
+| Topical ivermectin | Kills demodex mites on the skin |
+| Low-dose doxycycline | Anti-inflammatory dose |
+
+## Look-alikes
+
+| Feature | Acne vulgaris | Papulopustular rosacea |
+|---|---|---|
+| Comedones | Present, needed for diagnosis | Absent |
+| Distribution | Face, chest, back | Central face |
+| Background | No background redness described | Background of erythema |
+| Doxycycline | Oral antibiotic, 100 mg BID | Low dose, anti-inflammatory |
+| Topical agents | Retinoids, antibiotics, benzoyl peroxide | Metronidazole, ivermectin |
+
+> Topical metronidazole works in papulopustular rosacea as an anti-inflammatory rather than an antimicrobial, and topical ivermectin kills demodex mites.
+
+Library: Phymatous rosacea
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of a man's nose and cheek with a markedly enlarged, thickened, bumpy nose and red papules on the cheek, phymatous rosacea](library/images/msk-week-13/derm-phymatous-rosacea-nose.jpg)
+
+## Identify it
+
+- Papulopustular rosacea plus sebaceous gland hypertrophy and fibrosis
+- Most common in men, on the nose
+- Can result in disfigurement
+
+## Pathophysiology
+
+Sebaceous glands undergo hypertrophy and fibrosis in response to chronic, longstanding inflammation. That's why it builds on papulopustular rosacea instead of appearing on its own.
+
+## Treatment
+
+| Treatment | Type |
+|---|---|
+| Surgical excision | Procedural |
+| Ablative laser treatments | Procedural |
+
+> Phymatous rosacea is sebaceous gland hypertrophy and fibrosis from chronic inflammation, most commonly on the nose in men, and it's treated with surgical excision or ablative laser.
+
+Library: Ocular rosacea
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Three photos of ocular rosacea: (A) an eye with a red, swollen lid margin and red conjunctiva, (B) a nearly closed eye with eyelid changes, and (C) both eyes with red, inflamed eyelid margins and conjunctival injection](library/images/msk-week-13/derm-ocular-rosacea-eyelids.jpg)
+
+## Identify it
+
+- Blepharitis with eyelid swelling
+- Conjunctival injection
+- Dry eyes and frequent blinking
+- Often seen together with other rosacea subtypes
+
+## Treatment
+
+| Treatment | Notes |
+|---|---|
+| Artificial tears | For dry eyes |
+| Low-dose doxycycline | Same anti-inflammatory dosing used in papulopustular rosacea |
+
+> Ocular rosacea is blepharitis with eyelid swelling and conjunctival injection, treated with artificial tears and low-dose doxycycline.
+
+Library: Hidradenitis suppurativa
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of an axilla with linear, scarred sinus tracts and a few inflamed nodules, hidradenitis suppurativa](library/images/msk-week-13/derm-hidradenitis-axilla-sinus-tracts-scars.jpg)
+
+## Identify it
+
+- Also known as acne inversa
+- Inflamed nodules and sterile abscesses, then draining sinus tracts and scarring
+- Intertriginous sites with apocrine glands: axilla, inframammary region, groin, buttocks
+
+![Clinical photo of the buttocks and upper thigh with inflamed nodules, draining lesions, and scarring, hidradenitis suppurativa](library/images/msk-week-13/derm-hidradenitis-buttocks.jpg)
+
+## Pathophysiology
+
+1. Unknown trigger
+2. Occlusion of pilosebaceous units in skin with apocrine glands
+3. Inflammation of apocrine glands
+4. Inflamed nodules and sterile abscesses
+5. Draining sinus tracts and scarring
+
+## Who gets it
+
+- Starts at or soon after puberty
+- Females more than males, African Americans more than Caucasians
+- Obesity and tobacco use are risk factors
+
+## Course
+
+- Chronic and progressive, and difficult to treat
+- Physical and emotional sequelae: painful, disfiguring, malodorous
+- Early treatment minimizes complications
+- Divided into Hurley stages by severity, and treatment for all stages includes weight loss and smoking cessation
+
+> Hidradenitis suppurativa starts with occlusion of pilosebaceous units in apocrine gland skin (axilla, inframammary, groin, buttocks) and progresses to sterile abscesses, sinus tracts, and scarring.
+
+Library: Hurley staging and treatment of hidradenitis suppurativa
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Hurley stage I hidradenitis suppurativa: axilla with a few red inflammatory nodules and no sinus tracts or scars](library/images/msk-week-13/derm-hidradenitis-hurley-stage-1-axilla.jpg)
+
+![Hurley stage II hidradenitis suppurativa: two photos of axillae with inflamed nodules, abscesses, and a few sinus tracts and scars](library/images/msk-week-13/derm-hidradenitis-hurley-stage-2.jpg)
+
+![Hurley stage III hidradenitis suppurativa: an axilla with extensive interconnected sinus tracts, crusting, and scarring, and a groin and buttock region with widespread nodules and scarring](library/images/msk-week-13/derm-hidradenitis-hurley-stage-3.jpg)
+
+## Hurley stages
+
+| Stage | Lesions | Sinus tracts and scars |
+|---|---|---|
+| I | Inflammatory nodules, sterile abscesses | None |
+| II | Inflammatory nodules, sterile abscesses | Few |
+| III | Nodules and abscesses, often covering the entire region | Multiple, interconnected |
+
+## Treatment by stage
+
+| Stage | Treatment |
+|---|---|
+| All stages | Weight loss, smoking cessation |
+| I | Topical antibiotics, antiseptic washes, intralesional steroids |
+| I | Oral antibiotics (rifampin + clindamycin, doxycycline) for anti-inflammatory effects |
+| II | Oral antibiotics |
+| II | Spironolactone or finasteride (anti-androgen effects) |
+| II | Adalimumab (TNF-alpha inhibitor); surgical excision |
+| III | Biologics: adalimumab, infliximab, secukinumab |
+| III | Surgical excision |
+
+The stage III biologics are anti-inflammatory monoclonal antibodies against TNF-alpha or IL-17. Surgical excision is an option from stage II on, and biologics become the main medical therapy in stage III, when sinus tracts are multiple and interconnected.
+
+> Hurley stage depends on sinus tracts and scars: none in stage I, few in stage II, and multiple interconnected tracts in stage III.
+
+Library: Hyperhidrosis: primary vs. secondary
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of the sole and toes of a foot with shiny, moist skin from excessive sweating (panel A), hyperhidrosis](library/images/msk-week-13/derm-hyperhidrosis-sole-of-foot.jpg)
+
+## Identify it
+
+- Excessive sweating
+- Primary disease favors the palms, soles, and axillae
+
+## Look-alikes
+
+| Feature | Primary | Secondary |
+|---|---|---|
+| Cause | No underlying disease | Underlying disease, medication, etc. |
+| Family history | 80% have one | Not a feature listed |
+| Sites | Palms, soles, axillae | Not specified |
+
+## Secondary causes
+
+- Febrile illness
+- Hyperthyroidism
+- Lymphoma or other cancer
+- Medications: amphetamines, insulin, sulfonylureas, SSRIs, opioids
+
+The first question with a sweaty patient is whether there's something driving it. If there's no apparent secondary cause and the sweating is focal, the next step is checking the diagnostic criteria for primary hyperhidrosis.
+
+> Primary hyperhidrosis has no underlying disease, a family history in 80%, and affects the palms, soles, and axillae; secondary hyperhidrosis comes from illness (fever, hyperthyroidism, lymphoma) or drugs.
+
+Library: Primary hyperhidrosis diagnostic criteria
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Table titled Criteria for the Diagnosis of Primary Hyperhidrosis listing focal visible excess sweating, present at least 6 months, no apparent secondary causes, and at least two supporting features](library/images/msk-week-13/derm-primary-hyperhidrosis-criteria-table.jpg)
+
+![Clinical photo of both palms glistening with sweat, primary hyperhidrosis](library/images/msk-week-13/derm-primary-hyperhidrosis-palms.jpg)
+
+## Criteria
+
+1. Focal, visible excess sweating
+2. Present for at least 6 months
+3. No apparent secondary causes
+4. At least two of the supporting features below
+
+## Supporting features
+
+- Bilateral and symmetric
+- Impairs activities of daily life
+- At least one episode per week
+- Age of onset under 25 years
+- Positive family history
+- Stops during sleep
+
+## Identify it
+
+- Palms, soles, and axillae
+- Visible sweat, as on the glistening palms in the photo
+
+> Primary hyperhidrosis needs focal, visible sweating for at least 6 months with no secondary cause, plus at least two features such as bilateral symmetry, onset before 25, family history, or stopping during sleep.
+
+Library: Primary hyperhidrosis treatment
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+## Treatment
+
+| Treatment | Mechanism of action | Notes |
+|---|---|---|
+| Topical aluminum chloride 12-20% (DrySol) | Physically occludes eccrine sweat glands | Topical |
+| Glycopyrrolate, oxybutynin | Block muscarinic receptors on eccrine sweat glands | Topical or oral anticholinergics |
+| Botulinum toxin injections | Blocks acetylcholine release | Repeat every 6-9 months |
+
+## How they fit together
+
+- Aluminum chloride works by plugging the eccrine glands physically
+- Anticholinergics and botulinum toxin both act on cholinergic signaling to eccrine sweat glands, one by blocking the muscarinic receptor and the other by blocking acetylcholine release
+- Botulinum toxin isn't permanent, so it requires repeated treatments every 6 to 9 months
+
+> Primary hyperhidrosis is treated with topical aluminum chloride (occludes eccrine glands), anticholinergics like glycopyrrolate and oxybutynin (block muscarinic receptors), or botulinum toxin (blocks acetylcholine release, repeated every 6 to 9 months).
+
+Library: Vitiligo
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photos of vitiligo: sharply bordered white depigmented patches on both knees, and white patches on the backs of two hands](library/images/msk-week-13/derm-vitiligo-knees-hands.jpg)
+
+## Identify it
+
+- Depigmentation of the skin (white patches)
+- Commonly on the hands and feet
+- Commonly on perioral and periocular skin
+
+## Pathophysiology
+
+Autoimmunity targets melanocytes, so the skin loses its pigment.
+
+## Associations
+
+Vitiligo is associated with other autoimmune diseases:
+
+- Alopecia areata
+- Autoimmune hypothyroidism
+- Graves disease
+
+## Treatment
+
+- Topical steroids
+- Narrowband UVB
+- Ruxolitinib
+
+> Vitiligo is depigmentation from autoimmunity targeting melanocytes, and it's associated with alopecia areata, autoimmune hypothyroidism, and Graves disease.
+
+Library: Pityriasis alba
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of a child's lower face with pale, hypopigmented patches on the cheeks around the mouth, pityriasis alba](library/images/msk-week-13/derm-pityriasis-alba-face.jpg)
+
+## Identify it
+
+- Hypopigmented, round patches with slight scale
+- On the face of young children
+- May worsen in the summer
+
+## Key features
+
+- Typically in children with atopic dermatitis, and it may represent a mild variant of it
+- The lecture lists it among hypopigmented rashes as atopic dermatitis (pityriasis alba)
+- Benign, and it resolves with age
+
+## Treatment
+
+| Treatment | Purpose |
+|---|---|
+| Moisturizers | Help the dry appearance |
+| 1% hydrocortisone | Helps the dry appearance |
+
+Because it's benign and resolves with age, treatment is aimed at the dry look of the patches. For how it compares with the other hypopigmented rashes, see the look-alikes table on the tinea versicolor page.
+
+> Pityriasis alba is hypopigmented, slightly scaly round patches on the face of young children with atopic dermatitis; it's benign and resolves with age.
+
+Library: Tinea versicolor
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of the upper back with many pale, hypopigmented patches that merge across the skin, tinea versicolor](library/images/msk-week-13/derm-tinea-versicolor-back.jpg)
+
+![Close clinical photo of a tanned shoulder with many small round hypopigmented patches, some merging, tinea versicolor](library/images/msk-week-13/derm-tinea-versicolor-shoulder.jpg)
+
+## Identify it
+
+- Hypopigmented patches, most commonly on the chest and back
+- Often in teenagers and young adults
+- Appearance worsens in the summer
+
+## Pathophysiology
+
+A common cutaneous reaction caused by overgrowth of *Malassezia* yeast. The yeast decreases melanin synthesis and tanning of the underlying skin, so the patches stand out more in summer.
+
+## Treatment
+
+- Topical azoles
+- Fluconazole
+- Over-the-counter dandruff shampoo
+
+## Look-alikes
+
+| Feature | Pityriasis alba | Tinea versicolor | Vitiligo |
+|---|---|---|---|
+| Color | Hypopigmented, slight scale | Hypopigmented | Depigmented |
+| Sites | Face | Chest and back | Hands, feet, perioral, periocular |
+| Patients | Young children | Teens, young adults | Not specified |
+| Cause | May be a mild variant of atopic dermatitis | *Malassezia* yeast overgrowth | Autoimmunity against melanocytes |
+| Treatment | Moisturizers, 1% hydrocortisone | Azoles, dandruff shampoo | Topical steroids, NB-UVB, ruxolitinib |
+
+> Tinea versicolor is *Malassezia* yeast overgrowth that decreases melanin synthesis, giving hypopigmented patches on the chest and back that worsen in summer.
+
+Library: Hair loss disorders compared
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+## Disorders of hair
+
+The lecture's list of hair disorders:
+
+- Androgenic alopecia
+- Tinea capitis
+- Telogen effluvium
+- Drug-induced hair loss
+- Deficiency-induced hair loss
+
+Alopecia areata is covered in detail as well. Hair loss can have a profound emotional and psychological impact on patients.
+
+## Look-alikes
+
+| Disorder | Pattern | Cause | Course or treatment |
+|---|---|---|---|
+| Alopecia areata | Circular, smooth patches; no erythema or scale | T cell autoimmune destruction of follicles | Often self-resolves in 6 months; steroids |
+| Tinea capitis | Mimics alopecia areata, with scaling and itching | Dermatophyte infection of hair follicles | Oral antifungals for 4-8 weeks |
+| Telogen effluvium | Diffuse, sudden loss | Faster hair cycling after illness, pregnancy, surgery, stress | Self-resolves in 6-12 months |
+| Androgenic alopecia | Men: frontal and vertex; women: wider part | Androgens miniaturize follicles | Minoxidil, anti-androgens |
+
+## Sorting clues
+
+- Patchy loss with smooth skin and no symptoms points to alopecia areata
+- Patchy loss with scale and itch points to tinea capitis
+- Diffuse sudden shedding after a stressful event points to telogen effluvium
+- A progressive pattern (frontal and vertex in men, widening part in women) points to androgenic alopecia
+
+> Alopecia areata and tinea capitis both cause patchy hair loss, but tinea capitis has scaling and itching while alopecia areata is smooth and asymptomatic.
+
+Library: Alopecia areata
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Two clinical photos of alopecia areata: a round, smooth bald patch on the back of the scalp, and a round patch of hair loss being held open in dark curly hair](library/images/msk-week-13/derm-alopecia-areata-scalp-patches.jpg)
+
+## Identify it
+
+- Circular areas of hair loss
+- Smooth skin, with no erythema or scaling
+- Asymptomatic
+- Common, non-scarring alopecia
+
+## Pathophysiology
+
+T cell mediated autoimmune destruction of hair follicles.
+
+## Who gets it
+
+- Occurs in all ages and races
+- Often a positive family history
+- Often affects children and young adults
+
+## Variants
+
+![Clinical photo of a scalp with complete hair loss (panel C), from the alopecia areata variants slide](library/images/msk-week-13/derm-alopecia-totalis-scalp.jpg)
+
+| Variant | Hair lost |
+|---|---|
+| Alopecia totalis | All scalp hair |
+| Alopecia universalis | All body hair |
+
+![Three clinical photos from the alopecia areata variants slide: patchy hair loss in a beard, loss of eyebrow hair, and extensive scalp hair loss with a few remaining tufts](library/images/msk-week-13/derm-alopecia-areata-beard-eyebrow-scalp.jpg)
+
+## Associations
+
+- Atopy (allergies, asthma, atopic dermatitis)
+- Hashimoto's thyroiditis
+- Vitiligo
+
+> Alopecia areata is a non-scarring, T cell mediated autoimmune destruction of hair follicles that causes smooth, circular, asymptomatic patches of hair loss.
+
+Library: Alopecia areata treatment and prognosis
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+## Treatment by extent
+
+| Extent | Treatment |
+|---|---|
+| Localized | Topical corticosteroids |
+| Localized | Intralesional corticosteroids |
+| Localized | Topical calcineurin inhibitors |
+| Widespread or rapidly progressive | Oral steroids |
+| Widespread or rapidly progressive | Tofacitinib (JAK/STAT inhibitor) |
+
+The systemic options are immunosuppressants that decrease T cell function. That matches the disease mechanism, since alopecia areata is T cell mediated autoimmune destruction of hair follicles.
+
+## Prognosis
+
+- Usually self-resolves within 6 months
+- Localized disease often responds well to treatment
+- May periodically recur
+- More extensive hair loss is treatment resistant
+
+## Putting it together
+
+Localized disease is treated locally and often responds well. Widespread or rapidly progressive loss gets systemic immunosuppression, and more extensive hair loss is the form most likely to resist treatment.
+
+> Localized alopecia areata is treated with topical or intralesional corticosteroids or topical calcineurin inhibitors, while widespread disease gets oral steroids or tofacitinib (a JAK/STAT inhibitor).
+
+Library: Tinea capitis
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Clinical photo of the scalp with an area of thinned hair and white scale, tinea capitis](library/images/msk-week-13/derm-tinea-capitis-scalp-scale.jpg)
+
+## Identify it
+
+- Dermatophyte fungal infection of hair follicles
+- Can mimic alopecia areata
+- Differences from alopecia areata include scaling and itching
+
+## Diagnosis
+
+- Scraping and microscopic examination of scale
+- Fungal culture
+
+![Light micrograph of a positive scale scraping after applying potassium hydroxide (KOH), showing long, branching fungal hyphae](library/images/msk-week-13/derm-tinea-capitis-koh-hyphae.jpg)
+
+## Treatment
+
+| Drug | Duration |
+|---|---|
+| Terbinafine | 4-8 weeks |
+| Griseofulvin | 4-8 weeks |
+| Fluconazole | 4-8 weeks |
+
+## Look-alikes
+
+| Feature | Tinea capitis | Alopecia areata |
+|---|---|---|
+| Cause | Dermatophyte infection | T cell autoimmune |
+| Scale | Present | None |
+| Itching | Present | Asymptomatic |
+| Treatment | Oral antifungals | Corticosteroids, calcineurin inhibitors |
+
+> Tinea capitis mimics alopecia areata but has scaling and itching; confirm it with a KOH scraping or fungal culture and treat with oral antifungals for 4 to 8 weeks.
+
+Library: Telogen effluvium
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+## Identify it
+
+- Diffuse, sudden hair loss
+- Follows illness, hospitalization, pregnancy, surgery, or other stressful events
+
+## Pathophysiology
+
+Telogen effluvium is caused by more rapid cycling of hair and increased shedding. In normal conditions, about 100 hairs a day are lost.
+
+| Hair cycle phase | Meaning |
+|---|---|
+| Anagen | Growth |
+| Catagen | Regression |
+| Telogen | Rest |
+
+## Course
+
+- Self-resolves in 6 to 12 months
+- No specific treatment is given in the lecture
+
+## Look-alikes
+
+| Feature | Telogen effluvium | Alopecia areata |
+|---|---|---|
+| Pattern | Diffuse | Circular patches |
+| Course | Resolves in 6-12 months | Often resolves within 6 months, may recur |
+
+> Telogen effluvium is diffuse, sudden shedding after illness, pregnancy, surgery, or stress from faster hair cycling, and it self-resolves in 6 to 12 months.
+
+Library: Androgenic alopecia
+Folder: MSK / Week 13 / Spectrum of Acneiform Disorders, Pigmentation, and Hair
+
+![Drawing of male pattern baldness progressing from a full hairline to frontal recession and then loss at the vertex and crown](library/images/msk-week-13/derm-androgenic-alopecia-male-pattern.jpg)
+
+![Four photos of the top of the scalp viewed from above showing progressive widening of the central part line, the pattern seen in women with androgenic alopecia](library/images/msk-week-13/derm-androgenic-alopecia-part-widening.jpg)
+
+## Identify it
+
+- Male and female pattern baldness
+- Often familial
+- Men present with loss of the frontal scalp and vertex
+- Women present with widening of the part line
+
+## Pathophysiology
+
+Circulating androgen hormones (testosterone) lead to progressive miniaturization of hair follicles.
+
+## Treatment
+
+| Treatment | Mechanism of action |
+|---|---|
+| Topical minoxidil | Increases blood circulation to hair follicles to prevent miniaturization |
+| Finasteride | Anti-androgen; decreases androgen stimulation of follicles |
+| Spironolactone | Anti-androgen; decreases androgen stimulation of follicles |
+| Dutasteride | Anti-androgen; decreases androgen stimulation of follicles |
+
+Spironolactone and finasteride show up elsewhere in this lecture for the same anti-androgen reason: spironolactone for hormonal acne in females, and both for Hurley stage II hidradenitis suppurativa.
+
+> Androgenic alopecia comes from androgens causing progressive miniaturization of hair follicles; men lose the frontal scalp and vertex, and women get a widening part line.
+
+Library: Channelopathies: ion channel diseases
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram titled Ion Channel Diseases "Channelopathies" showing a cell ringed by ion channels and labeled disorders, with cystic fibrosis, hypertension, and epilepsy boxed; other labels include long QT, myotonia, migraine, deafness, diabetes, multiple sclerosis, and dementia](library/images/msk-week-13/memb-channelopathies-disease-ring.jpg)
+
+## Key features
+
+- Channelopathies are human disorders caused by disturbing the function of ion channels
+- Genetic disorders are known to be caused by defective ion channels, and genome wide association studies (GWAS) are expected to reveal more
+- Ion channels are a site for therapeutic interventions
+- Toxins and venoms act by targeting ion channels
+- The lecture's disease ring highlights cystic fibrosis, hypertension, and epilepsy, and also lists conditions such as long QT, myotonia, migraine, deafness, kidney stones, diabetes, asthma, multiple sclerosis, and dementia
+- The slide also pairs hydrocephalus with AQP4
+
+## Timing of channelopathies in brain development
+
+![Timeline of ion channel disease and neurodevelopmental processes: developmental channelopathy (embryo, fetus) causing brain malformations and postnatal channelopathy (neonate to adult) causing epilepsy and encephalopathy, with voltage gated and ligand gated channel genes listed for each](library/images/msk-week-13/memb-channelopathy-timeline-genes.jpg)
+
+Developmental channelopathies act in the embryo and fetus and cause brain malformations. Postnatal channelopathies act from the neonate through adulthood and cause epilepsy and encephalopathy.
+
+| Channel | Brain malformations | Epilepsy and encephalopathy |
+|---|---|---|
+| Na+ (voltage gated) | SCN: 3A | SCN: 1A, 2A, 3A, 8A, 1B |
+| K+ (voltage gated) | None listed | KCN: A2, B1, H5, Q2, Q3, T1 |
+| Ca2+ (voltage gated) | None listed | CACNA: A1A, A2D2, 1E |
+| Glutamate (ligand gated) | GRIN: 1A, 2B | GRIN: 1A, 2A, 2B, 2D |
+| GABA (ligand gated) | None listed | GABAR: A1, B1, B2, B3, G2 |
+
+> Channelopathies are disorders caused by disturbed ion channel function, and ion channels are also targets for drugs, toxins, and venoms.
+
+Library: Autoimmune ion channel disorders
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## Key findings
+
+Autoimmune neurological disorders can target ion channels and their associated proteins. The lecture's table lists the channel or protein targeted, the disorder, and its clinical features.
+
+| Target | Disorder | Clinical features |
+|---|---|---|
+| Alpha1 AChR | Myasthenia gravis | Muscle weakness, fatigue |
+| Alpha3 AChR | Autoimmune autonomic neuropathy | Orthostatic hypotension, urinary retention |
+| CASPR2 and LGI1 (with Kv1, VGKC) | Morvan's syndrome | Encephalopathy, peripheral nerve hyperexcitability, dysautonomia |
+| Contactin-2 (with Kv1, VGKC) | Limbic encephalitis | Memory loss, seizures, personality changes, psychiatric features |
+| Unknown protein with Kv1 (VGKC) | Acquired neuromyotonia | Muscle fasciculations, cramps, pseudomyotonia |
+| Alpha1A (VGCC) | Lambert Eaton myasthenic syndrome | Muscle weakness, fatigue |
+| VGCC | Cerebellar ataxia 2 | Ataxia, small-cell lung cancer |
+| GluN1a (NMDA receptor) | NMDAR encephalitis | Epilepsy, abnormal movement, decreased consciousness |
+| GluR2/GluR3 (AMPA receptor) | Limbic encephalitis | Often with cancer, isolated psychiatric symptoms |
+| Gly alpha1 (glycine receptor) | PERM | Stiffness, rigidity, cognitive involvement, brainstem dysfunction |
+| Kir4.1 (inward rectifying K+) | Multiple sclerosis | Weakness, ataxia, fatigue, chronic pain, visual problems |
+| AQP4 (aquaporin) | Neuromyelitis optica | Muscle weakness, reduced sensation including blindness |
+| mGluR1 | Cerebellar ataxia | Prominent seizures, Ophelia syndrome often with cancer |
+| mGluR5 | Limbic encephalitis | Prominent seizures, Ophelia syndrome often with cancer |
+
+- VGKC means voltage-gated K+ channel, and VGCC means voltage-gated Ca2+ channel
+- PERM is progressive encephalomyelitis with rigidity and myoclonus
+- Detection methods in the table include radioimmunoassay, cell-based assay, indirect immunohistochemistry, ELISA, and Western blot
+
+> Autoimmunity against the alpha1 AChR causes myasthenia gravis, and autoimmunity against voltage-gated Ca2+ channels (alpha1A) causes Lambert Eaton myasthenic syndrome; both present with muscle weakness and fatigue.
+
+Library: Transmembrane potential and its measurement
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of a neuron with a boxed segment of axon enlarged, showing a voltmeter connected to a microelectrode inside the cell and a microelectrode outside the cell across the plasma membrane, with negative charges inside and positive charges outside](library/images/msk-week-13/memb-voltmeter-microelectrode-membrane-potential.jpg)
+
+## Electrical potential difference
+
+The lecture starts with a battery. When it's connected, electrons flow from the anode through the wire into the cathode and generate electricity. Over time the electron concentration at the anode falls, and once it equals the concentration at the cathode the current stops and the battery is dead.
+
+## Key features
+
+- Most cells in the body are electrically charged
+- A voltmeter connected to an electrode inside a cell and a reference electrode outside detects an instantaneous negative voltage
+- In living cells this voltage ranges from -10 mV to -100 mV
+- The electrical potential difference between the inside and outside of a cell is called the transmembrane potential (Em), resting potential, or membrane potential
+- Only some cells can generate rapid, transient changes in membrane potential, called electrical impulses, which are mediated by the flow of charged ions
+
+## Function
+
+Electrical signals mediate many functions:
+
+- Transmission of information among neurons
+- Muscular contraction
+- Hormone secretion
+- Vascular tone
+
+> The membrane potential is the voltage difference between the inside and outside of a cell, measured with an electrode inside against a reference electrode outside, and it's negative at rest.
+
+Library: Ion concentration gradients across the membrane
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of the cell membrane with extracellular fluid on the left (many Na+ and Cl-, net charge positive) and cytoplasm on the right (many K+, net charge negative), with K+ leaving through a channel](library/images/msk-week-13/memb-ion-distribution-ecf-cytoplasm.jpg)
+
+## Key features
+
+The transmembrane potential is generated by diffusion of ions down electrochemical gradients. This happens because charged ions are heterogeneously distributed across the surface membrane.
+
+| Ion | Inside the cell | Extracellular fluid |
+|---|---|---|
+| K+ | Relatively high | Very little |
+| Anionic proteins (Pr-) | Relatively high | Virtually none |
+| Na+ | Relatively low | High |
+| Cl- | Relatively low | High |
+
+- The membrane is slightly permeable to K+, Na+, and Cl-
+- The membrane is impermeable to Pr-
+- In the figure, K+ moves out through a channel, leaving the cytoplasm with a net negative charge and the extracellular fluid with a net positive charge
+
+> Cells keep K+ and anionic proteins high inside and Na+ and Cl- high outside, and the membrane is impermeable to the anionic proteins.
+
+Library: Potassium equilibrium potential and opposing forces
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Model cell permeable only to K+, with K+ leaving through a channel and negative charges left behind; text notes outside K+ 5 mM and inside K+ 150 mM, force 1 concentration gradient and force 2 electrical gradient, and graphs show outside K+ rising and Vm falling until both plateau at about -90.8 mV](library/images/msk-week-13/memb-potassium-equilibrium-opposing-forces.jpg)
+
+## How K+ reaches equilibrium
+
+The lecture's model cell has [K+]o = 5 mM and [K+]i = 150 mM and is permeable only to K+.
+
+1. K+ diffuses out of the cell down its concentration gradient (force 1)
+2. Each K+ that leaves leaves a negative charge behind, which attracts K+ back in (force 2, the electrical gradient)
+3. When the two opposing forces equal each other, net movement of K+ is zero
+4. Vm plateaus at about -90.8 mV, the equilibrium potential for K+
+
+## Nernst potential
+
+The transmembrane potential at which the electrical force across the membrane exactly opposes the concentration force for a particular ion is the Nernst potential, or equilibrium potential. At the equilibrium potential:
+
+- Ions are in equilibrium
+- There is no net flux of ions across the membrane
+- Each ion has its own specific Nernst potential
+
+Whenever possible, ions tend to be in equilibrium, meaning they'll try to set the transmembrane potential equal to their own equilibrium potential.
+
+## Predicting the response to added Na+
+
+![Membrane potential trace starting at -91 mV; after Na+ is injected into the cell Vm rises to about -45 mV, then returns to -91 mV as K+ ions move out and bring Vm back to the K+ equilibrium](library/images/msk-week-13/memb-sodium-injection-vm-trace.jpg)
+
+Adding Na+ inside a cell that's still permeable only to K+ moves Vm to about -45 mV. K+ then moves out, because there's less negative charge keeping it in, and Vm returns to the K+ equilibrium potential.
+
+> At an ion's equilibrium potential the concentration force and the electrical force are equal and opposite, so there's no net flux of that ion.
+
+Library: Nernst equation and equilibrium potentials
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## Key features
+
+- The equilibrium potential of an ion is calculated with the Nernst equation
+- It's mostly determined by the ratio of that ion's concentrations outside and inside the membrane
+- Other factors are constants: the gas constant, temperature, and the valence of the ion
+- The larger the concentration ratio, the larger the value of the equilibrium potential
+
+## The equation as the lecture gives it
+
+- E_ion = RT/zF * ln([K+]o/[K+]i)
+- E_ion = 58.2 * log10([K+]o/[K+]i)
+- At body temperature (37°C): E_ion = 61.5 * log10([K+]o/[K+]i)
+
+| Symbol | Meaning |
+|---|---|
+| E_ion | Equilibrium potential for the permeant ion |
+| R | Universal gas constant (8.31 joules/mole/Kelvin) |
+| T | Temperature in Kelvin (°C + 273) |
+| F | Faraday constant (96,500 coulombs/mole) |
+| z | Valence (electrical charge) of the ion |
+| ln | Natural log |
+| [ion]o and [ion]i | Outside and inside concentrations of the ion |
+
+## Equilibrium potentials of key ions in mammalian cells
+
+| Ion | Cytosolic | Extracellular | E at 37°C |
+|---|---|---|---|
+| K+ | High | Low | Negative |
+| Na+ | Low | High | Positive |
+| Ca2+ | 100 nM | 1.2 mM | +126 mV |
+| Cl- | 9 mM | 150 mM | -70 mV |
+
+- Because Cl- is negatively charged, the order of the concentration terms is reversed compared with Na+ and K+
+- The lecture's worked K+ example (5 mM outside, 150 mM inside) gives an equilibrium potential of about -90.8 mV
+
+> At 37°C the lecture's simplified Nernst equation is E_ion = 61.5 * log10([ion]o/[ion]i), so the equilibrium potential depends only on the concentration ratio across the membrane.
+
+Library: Resting membrane potential by cell type
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Table titled Most Cells Have Membrane Potentials listing membrane potential in mV for neuron, skeletal muscle, cardiac muscle (bracketed together), adipose cell, thyroid cell, fibroblast, yeast, Neurospora crassa, E. coli, and mitochondria, beside a diagram of a potentiometer with a salt-filled microelectrode in the cytosol and a reference electrode in the bathing medium](library/images/msk-week-13/memb-resting-potential-cell-types-table.jpg)
+
+## Key features
+
+- Different cell types have different transmembrane potentials
+- This is due to different ionic concentration profiles across the membrane
+- It's also due to differences in the relative membrane permeability to those ions
+- The potential is measured with a potentiometer between a microelectrode filled with conducting salt solution, placed in the cytosol, and a reference electrode in contact with the bathing medium
+
+## Values from the lecture's table
+
+| Cell type | Membrane potential |
+|---|---|
+| Skeletal muscle | -85 mV |
+| Cardiac muscle | -90 mV |
+| Adipose cell | -40 mV |
+| Thyroid cell | -40 mV |
+| Fibroblast | -10 mV |
+| Yeast | -120 mV |
+| Neurospora crassa | -200 mV |
+| E. coli | -140 mV |
+| Mitochondria | -140 mV |
+
+The table brackets neuron, skeletal muscle, and cardiac muscle together as the excitable cells.
+
+> Membrane potential differs by cell type because of differences in ionic concentration profiles and in relative membrane permeability to those ions.
+
+Library: Relative permeability and resting membrane potential
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of a membrane with a labeled K+ channel and Na+ channel, with the permeability ratio PK+:PNa+:PCl- approximately 50:1:10 boxed below](library/images/msk-week-13/memb-relative-permeability-k-na-cl.jpg)
+
+## Key features
+
+- The ability of a particular ion to influence Vrest is largely determined by the relative permeability of the membrane to that ion
+- The more permeable the membrane is to an ion, the stronger the influence of that ion's equilibrium potential on Vrest
+- When permeability to an ion increases, that ion moves across the membrane down its electrochemical gradient, displacing Vrest toward its equilibrium potential
+- Under resting conditions, membrane permeability is much higher for K+ than for Na+ and Cl-
+- At rest, PK+:PNa+:PCl- is about 50:1:10
+
+## How Vrest is set
+
+The resting membrane potential of a cell is determined by the combined action of the membrane's relative permeability to each ion and that ion's equilibrium potential. The Goldman-Hodgkin-Katz (GHK) equation describes this quantitatively. The lecture's figure of the resting membrane shows K+ channels, a Na+ channel, and the Na+-K+ pump side by side.
+
+> Vrest moves toward the equilibrium potential of the ion the membrane is most permeable to, and at rest that's K+ (PK+:PNa+:PCl- about 50:1:10).
+
+Library: Ion channel properties and gating
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of an ion channel in the membrane changing from closed to open (gating) with a change in Vm, with a large arrow showing ion flow through the open pore from extracellular to intracellular side](library/images/msk-week-13/memb-channel-gating-closed-open.jpg)
+
+## Key features
+
+- Biological membranes are largely impermeable to electrically charged ions
+- Ions cross the membrane through highly specialized membrane proteins, the ion channels
+
+Ion channel properties:
+
+- High rate of ion exchange
+- Ion specificity
+- Susceptible to regulation
+
+## Gating
+
+Ion channels can be in a closed or open configuration. Opening or closing can be triggered by different factors:
+
+| Trigger | Channel type |
+|---|---|
+| Change in membrane potential | Voltage-gated |
+| Binding of a neurotransmitter | Ligand-gated |
+| Stretching of the membrane | Stretch-activated |
+
+Other triggers exist as well. In the open configuration, ions flow through the membrane and generate a current and a change in membrane potential.
+
+> Ion channels open or close (gate) in response to voltage, ligand binding, or membrane stretch, and ion flow through an open channel creates a current that changes the membrane potential.
+
+Library: Leak, voltage-gated, ligand-gated, and signal-gated channels
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of four channel types in the membrane between exterior and cytosol: (a) resting K+ channel, boxed as leak K+ channels, always open and setting the resting membrane potential; (b) voltage-gated Na+ channel opening with a change in membrane potential; (c) ligand-gated channel opening when an extracellular neurotransmitter binds; (d) signal-gated channel opening when an intracellular molecule binds](library/images/msk-week-13/memb-ion-channel-types-leak-voltage-ligand-signal.jpg)
+
+## Key features
+
+| Channel | What opens it |
+|---|---|
+| Resting (leak) K+ channel | Always open |
+| Voltage-gated channel | Opens transiently in response to a change in membrane potential |
+| Ligand-gated channel | Opens (or closes) in response to a specific extracellular neurotransmitter |
+| Signal-gated channel | Opens (or closes) in response to a specific intracellular molecule |
+
+- The leak K+ channels are the ones the lecture highlights for the resting membrane potential
+- In the figure, the resting K+ channel lets K+ move out of the cell, with positive charge outside and negative charge inside at rest
+- The voltage-gated, ligand-gated, and signal-gated channels in the figure each let Na+ move into the cell once open
+- The figure also shows the opposite gradients of the two ions, with Na+ higher outside and K+ higher inside
+
+> Leak K+ channels are always open and underlie the resting membrane potential, while gated channels open only in response to voltage, a ligand, or an intracellular signal.
+
+Library: Voltage-gated Na+ and K+ channel states
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of a voltage-gated channel closed at -70 mV and open at -50 mV, with an ion moving through the open channel down its concentration gradient, between extracellular fluid and cytosol](library/images/msk-week-13/memb-voltage-gated-channel-closed-open.jpg)
+
+![Diagram of voltage-gated Na+ and K+ channels: both closed in a polarized membrane (normal state, positive outside and negative inside), and both open in a depolarized membrane (negative outside and positive inside) with Na+ moving in and K+ moving out](library/images/msk-week-13/memb-voltage-gated-na-k-polarized-depolarized.jpg)
+
+## Identify it
+
+- Two side-by-side states of the same channel, closed and open
+- The label that changes between panels is the membrane voltage or the charge across the membrane, not a bound ligand
+- Na+ and K+ channels drawn together, closed in the polarized membrane and open in the depolarized one
+
+## Key features
+
+- In a polarized (normal state) membrane, the outside is positive and the inside is negative, and voltage-gated Na+ and K+ channels are closed
+- Depolarization of the membrane opens the channels
+- Through the open Na+ channel, Na+ moves into the cell
+- Through the open K+ channel, K+ moves out of the cell
+- In the first figure, the open channel lets an ion move down its concentration gradient
+
+> Depolarization opens voltage-gated channels, letting Na+ flow into the cell and K+ flow out.
+
+Library: Ligand-gated, mechanically gated, and leak channels
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## Ligand-gated channel
+
+![Diagram of a ligand-gated channel closed until the neurotransmitter ACh binds its receptor site, then open with ions moving in response to their gradients; arrows show Na+ and Ca2+ concentration gradients pointing into the cell and the K+ concentration gradient pointing out](library/images/msk-week-13/memb-ligand-gated-channel-ach.jpg)
+
+- A neurotransmitter, the ligand, is required to open the channel (ACh in the figure)
+- The neurotransmitter attaches to the receptor site, and this chemical stimulus opens the channel
+- Ions move in response to their gradients: Na+ and Ca2+ gradients point into the cell and the K+ gradient points out
+
+## Mechanically gated channel
+
+![Diagram of a mechanically gated channel closed by a lid-like cap, then open with Na+ and Ca2+ ions passing through the pore between extracellular fluid and cytosol](library/images/msk-week-13/memb-mechanically-gated-channel.jpg)
+
+- The channel opens with a mechanical stimulus such as stretching of the membrane (stretch-activated channels)
+- In the figure, Na+ and Ca2+ pass through the open channel
+
+## Leak channel
+
+![Diagram of a leakage channel closed, then randomly opening so that ions move through it down their concentration gradient from cytosol to extracellular fluid](library/images/msk-week-13/memb-leak-channel-random-opening.jpg)
+
+- A leakage channel randomly opens
+- Ions then move through it down their concentration gradient
+
+## Comparing the three
+
+| Channel | Opens with |
+|---|---|
+| Ligand-gated | Neurotransmitter binding to its receptor site |
+| Mechanically gated | Mechanical force, such as membrane stretch |
+| Leak | Random opening |
+
+Once any of these channels is open, ions flow through the membrane down their gradients, generating a current and a change in membrane potential.
+
+> Ligand-gated channels open when a neurotransmitter binds, mechanically gated channels open with membrane stretch, and leak channels open randomly.
+
+Library: Nerve resting potential: K+ leak, Na+ leak, and the pump
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of the nerve resting membrane potential: Na+ higher outside and K+ higher inside; K+ loss through abundant leakage channels establishes a negative membrane potential; Na+ entry through leakage channels reduces the negative potential slightly; Na+-K+ ATPases (pumps) maintain the concentration gradients, resulting in the resting membrane potential](library/images/msk-week-13/memb-nerve-resting-potential-leak-and-pump.jpg)
+
+## Building the resting potential step by step
+
+1. If the nerve membrane were permeable only to K+, Vrest would equal EK+
+2. Adding some permeability to Na+ lets ENa+ contribute to Vrest, shifting the membrane toward ENa+
+3. Because PK+ is much higher than PNa+, EK+ still dominates, and ENa+ only depolarizes the membrane by a few mV
+4. If the membrane were mostly permeable to Na+, Vrest would equal ENa+
+5. The Na+-K+ pump also contributes to the resting membrane potential
+
+## Key features
+
+- K+ loss through abundant leakage channels establishes a negative membrane potential
+- Na+ entry through leakage channels reduces the negative membrane potential slightly
+- Na+-K+ ATPases (pumps) maintain the concentration gradients that the resting potential depends on
+- The figure shows Na+ concentration higher outside the cell and K+ concentration higher inside
+
+> K+ leak sets a negative resting potential near EK+, a small Na+ leak makes it slightly less negative, and the Na+-K+ pump maintains the gradients.
+
+Library: Na+-K+ pump and the resting potential
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Six-step diagram of the Na+-K+ pump: (a) Na+ binds from the intracellular fluid, (b) with three Na+ bound, ATP is split to ADP and the pump is phosphorylated, (c) three Na+ are released to the extracellular fluid, (d) K+ binds from outside and the phosphate is released, (e) two K+ are bound, (f) K+ is released into the cell](library/images/msk-week-13/memb-na-k-pump-cycle.jpg)
+
+## Key features
+
+- The Na+-K+ pump is an active ion transport mechanism that consumes ATP when it's active
+- It moves 3 Na+ ions out while it moves 2 K+ ions in
+- This imbalanced flow of charge leaves an excess of negative charge inside the membrane, so the pump is electrogenic
+- It contributes about -4 mV to Vrest
+- It's critical for maintaining ion gradients across the membrane, leading to accumulation of K+ inside the cell
+
+## Reading the pump cycle
+
+1. Na+ binds the pump from the intracellular side
+2. ATP is split to ADP and the pump is phosphorylated
+3. Three Na+ are released to the extracellular fluid
+4. K+ binds from outside and the phosphate is released
+5. Two K+ are carried across
+6. K+ is released into the cell
+
+> The Na+-K+ pump moves 3 Na+ out and 2 K+ in using ATP, which makes it electrogenic (about -4 mV of Vrest) and maintains the ion gradients.
+
+Library: Goldman-Hodgkin-Katz equation
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## The equation as the lecture gives it
+
+Vm = (RT/F) ln[ (pK[K+]o + pNa[Na+]o + pCl[Cl-]i) / (pK[K+]i + pNa[Na+]i + pCl[Cl-]o) ]
+
+- p is the membrane permeability to each ion
+- o and i are the outside and inside concentrations
+- The Cl- terms are flipped compared with K+ and Na+ (inside concentration on top, outside on the bottom), because Cl- is negatively charged
+
+## Key features
+
+- The GHK equation combines each ion's relative permeability with its concentration gradient to give the resting membrane potential
+- At rest, PK+:PNa+:PCl- is about 50:1:10
+- So the Nernst potential for K+ is about 50 times more influential than the Nernst potential for Na+ in determining Vrest of the spinal motor neuron
+- The Vrest of a spinal motor neuron is about -75 mV, a value much closer to EK than to ENa
+
+## Why it matters
+
+The Nernst equation gives the equilibrium potential for one ion. The GHK equation combines all the permeant ions, each weighted by its permeability, which is why Vrest lands closest to EK when K+ permeability dominates at rest.
+
+> The GHK equation weights each ion by its permeability, and because PK+:PNa+:PCl- is about 50:1:10 at rest, Vrest sits much closer to EK than to ENa.
+
+Library: Causes of hypokalemia and hyperkalemia
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## Hypokalemia (low K+ in the fluid)
+
+- Inadequate intake of K+ is very unlikely, even with the worst diet, but it's seen with anorexia and bulimia (for example, irregular heartbeats)
+- Use of diuretics, which get rid of excess fluid and salts; most (not all) increase K+ excretion
+- Diuretics are abused by athletes in sports where weight matters and are given to people with a buildup of fluid (edema), such as people with high blood pressure
+- Hyperaldosteronism: high aldosterone increases Na+ reabsorption and K+ secretion by the kidney, causing water retention along with sodium, and hypokalemia
+- Excessive vomiting and diarrhea, especially in infants; replacement should provide fluids and, most importantly, electrolytes (the slide's example is Gatorade versus Pedialyte)
+
+## Hyperkalemia (high K+ in the fluid)
+
+- Kidney failure: excess K+ is normally removed by the kidneys, so kidney failure causes K+ imbalances
+- Excessive administration of K+, as could happen in a hospital setting, such as giving KCl instead of NaCl saline for dehydration; this can cause fibrillation and death
+- Addison's disease: decreased aldosterone secretion decreases kidney excretion of K+ and causes hyperkalemia
+
+## Treatment of hyperkalemia
+
+- It's difficult to get rid of excess potassium
+- If the heart isn't in fibrillation (not a critical stage), give diuretics, which lower blood K+ but take a while
+- Ion exchange resins pull K+ out into the feces
+- Hemodialysis is used in kidney failure
+
+| Aldosterone | Effect on K+ |
+|---|---|
+| High (hyperaldosteronism) | More K+ secretion, hypokalemia |
+| Low (Addison's disease) | Less K+ excretion, hyperkalemia |
+
+> Hyperaldosteronism causes hypokalemia, and decreased aldosterone (Addison's disease) causes hyperkalemia.
+
+Library: Hypokalemia and hyperkalemia: effects on membrane potential
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Graph of membrane potential against extracellular K+ with K+:Na+ permeability 50:1: outside K+ of 2 mM gives -100 mV (hyperpolarized), 5 mM gives -70 mV (normal), and 10 mM gives -40 mV (depolarized)](library/images/msk-week-13/memb-extracellular-k-membrane-potential-graph.jpg)
+
+## Why K+ matters most
+
+Many diseases share a common mechanism, altered electrolyte balance. Excitable cells (nerves, muscle cells, cardiac myocytes) depend on the resting membrane potential, so changes in ion concentrations, especially K+, profoundly affect their function.
+
+| Condition | Membrane change | Effect on activity |
+|---|---|---|
+| Hypokalemia | More K+ diffuses out, Vm more negative (hyperpolarized) | Less excitable, activity slows |
+| Hyperkalemia | More K+ in the ECF, Vm less negative (depolarized) | Activity speeds up |
+
+## Predicting the change
+
+- In the lecture's graph (K+:Na+ permeability 50:1), raising [K+]out from 5 mM to 10 mM moves Vm from -70 mV to -40 mV, and lowering it to 2 mM moves Vm to -100 mV
+- Hypokalemia slows things down: the brain slows, GI motility drops, heart rate weakens, and weakness develops
+- A hyperpolarized cell is less sensitive to excitation, and severe hypokalemia can lead to a hyperpolarization block
+- Hyperkalemia speeds things up: increased brain electrical activity with seizures, fibrillations, and twitching muscles
+- A depolarized cell can't repolarize and becomes refractory, and severe hyperkalemia can cause a depolarization block
+
+## Clinical symptoms
+
+Severe muscle weakness, paresthesias, muscle cramps and spasms, ECG changes, cardiac arrhythmia, dysrhythmias, and seizures in CNS neurons.
+
+> Hypokalemia hyperpolarizes cells and makes them less excitable, while hyperkalemia depolarizes them, and severe hyperkalemia can cause a depolarization block.
+
+Library: Depolarization, hyperpolarization, overshoot, and repolarization
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Labeled action potential trace from RMP: a local graded potential reaches the threshold level, depolarization (opening of voltage-gated Na+ channels), the peak above 0 mV, repolarization (closure of Na+ and opening of voltage-gated K+ channels), and hyperpolarization (voltage-gated K+ channels remain open after the potential reaches resting level)](library/images/msk-week-13/memb-action-potential-labeled-phases.jpg)
+
+## What changes the membrane potential
+
+In excitable cells, electrical signals are mediated by changes in the resting membrane potential, which result from the flow of charged ions across the membrane. In most cases this comes from a change in membrane permeability, meaning the opening or closing of ion channels. Ion flow is determined by two factors, permeability and driving force (DF = Vrest - E_ion).
+
+## Definitions
+
+- **Depolarization**: membrane potential becomes more positive (increases)
+- **Hyperpolarization**: membrane potential becomes more negative (decreases)
+- **Overshoot**: membrane potential is from 0 mV to positive mV
+- **Repolarization**: membrane potential moves back toward the resting membrane potential
+
+## Reading the trace
+
+- A local potential change (graded potential) brings the membrane from rest to the threshold level
+- Depolarization comes from opening of voltage-gated Na+ channels
+- Repolarization comes from closure of Na+ channels and opening of voltage-gated K+ channels
+- The after-hyperpolarization happens because voltage-gated K+ channels remain open after the potential reaches resting level
+
+There are two major classes of change in membrane potential, graded potentials and action potentials.
+
+> Ion flow depends on permeability and driving force (Vrest - E_ion); Na+ channel opening depolarizes the membrane, and K+ channel opening repolarizes and then hyperpolarizes it.
+
+Library: Membrane potential terminology
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## Terms describing the membrane potential
+
+| Term | Definition |
+|---|---|
+| Potential (potential difference) | Voltage difference between two points due to separated charges of opposite sign |
+| Membrane potential | Voltage difference between the inside and outside of a cell |
+| Equilibrium potential | Voltage across a membrane producing a flux of an ion equal but opposite to the flux from its concentration gradient |
+| Resting membrane potential | Steady potential of an unstimulated cell |
+| Graded potential | Change of variable amplitude and duration, conducted decrementally; no threshold or refractory period |
+| Action potential | Brief all-or-none depolarization that reverses polarity in neurons; has threshold and refractory period; conducted without decrement |
+| Synaptic potential | Graded change in the postsynaptic neuron after neurotransmitter release; EPSP (depolarizing) or IPSP (hyperpolarizing) |
+| Receptor potential | Graded potential at the peripheral endings of afferent neurons (or in receptor cells) in response to a stimulus |
+| Pacemaker potential | Spontaneous graded potential change in certain specialized cells |
+| Threshold potential | Membrane potential at which an action potential is initiated |
+
+## Key distinctions
+
+- Graded potentials have no threshold and no refractory period and fade with distance
+- Action potentials have a threshold and a refractory period and travel without decrement
+- Synaptic potentials can go either way: an EPSP depolarizes and an IPSP hyperpolarizes
+
+> A graded potential varies in size and decays with distance with no threshold, while an action potential is all-or-none, has a threshold and refractory period, and is conducted without decrement.
+
+Library: Graded potentials and their properties
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Four sets of graded potential traces from -70 mV: (a) a depolarization and a hyperpolarization after stimuli, (b) a small response to a weak stimulus and a larger one to a strong stimulus, (c) a response measured at the stimulus site and a smaller one measured 1 mm away, (d) temporal summation of repeated X stimuli and spatial summation of X plus Y](library/images/msk-week-13/memb-graded-potential-properties-traces.jpg)
+
+## Key features
+
+- Graded potentials are brief, relatively small changes in membrane potential
+- They're called graded because their amplitude varies with the magnitude of the stimulus that evokes them
+- They result from changes in membrane permeability due to opening or closing of ion channels
+
+## Types
+
+- **Receptor potential**: a change in membrane potential arising from a sensory transduction process; typically depolarizing
+- **Synaptic potential**: a synaptically released neurotransmitter binds postsynaptic receptors, causing a depolarizing or hyperpolarizing change
+- **Pacemaker potential**: a gradual increase in voltage across the membrane of pacemaker cells between action potentials
+
+## General properties
+
+1. Depolarizing (excitatory) or hyperpolarizing (inhibitory)
+2. Amplitude is proportional to the intensity of the stimulus
+3. Amplitude decays over time and with distance from where the signal was generated
+4. They show temporal and spatial summation
+
+Summation of graded potentials is a common mechanism by which action potentials are evoked.
+
+> Graded potentials can be excitatory or inhibitory, scale with stimulus strength, decay with time and distance, and summate.
+
+Library: Temporal and spatial summation of graded potentials
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Membrane potential trace with a dashed threshold potential line above the resting potential: single Ex1 inputs stay below threshold; temporal summation of two quick Ex1 inputs reaches threshold and fires an action potential; spatial summation of Ex1 plus Ex2 fires an action potential; Ex1 plus In1 cancel (EPSP-IPSP cancellation); small neuron diagrams show one excitatory input, two excitatory inputs, and one excitatory plus one inhibitory input](library/images/msk-week-13/memb-summation-ex-in-inputs-trace.jpg)
+
+## Key features
+
+- In most cases, action potentials in neurons are evoked by summation of underlying graded potentials
+- EPSPs (excitatory postsynaptic potentials) and IPSPs (inhibitory postsynaptic potentials) sum at the axon hillock, and an action potential fires when the sum reaches the threshold of activation
+
+## Types of summation
+
+| Type | What happens |
+|---|---|
+| Temporal summation | The same presynaptic terminal is activated repeatedly within a brief time, and the graded potentials add into a single larger potential |
+| Spatial summation | Separate presynaptic terminals release neurotransmitter at the same time (or within a very narrow time frame) onto separate membrane regions, and the potentials add |
+| EPSP-IPSP cancellation | Excitatory and inhibitory graded potentials cancel each other out |
+
+## Reading the trace
+
+- One excitatory input alone (Ex1) gives a small depolarization that stays below threshold
+- Many excitatory potentials from one neuron arriving quickly can reach threshold (temporal)
+- Excitatory potentials from many neurons arriving together can reach threshold (spatial)
+- An excitatory and an inhibitory input together (Ex1 + In1) cancel and don't reach threshold
+
+> Temporal summation is repeated input from one presynaptic terminal, spatial summation is simultaneous input from separate terminals, and either can bring the axon hillock to threshold.
+
+Library: Graded potentials vs. action potentials
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## Look-alikes
+
+| Feature | Graded (electrotonic) potential | Action potential |
+|---|---|---|
+| Initiation | Subthreshold depolarization or hyperpolarization | Depolarization to or above threshold |
+| Process | Passive, dependent on resistive and capacitive membrane properties | Active, dependent on gating of voltage-dependent ion channels |
+| Response | Graded | All-or-none |
+| With distance | Amplitude decreases along the membrane | Amplitude stays constant along the membrane |
+| Threshold and refractory period | Neither | Both |
+
+## Key features
+
+- Graded potentials can be depolarizing or hyperpolarizing, and their size follows stimulus strength
+- Action potentials are brief all-or-none depolarizations that reverse polarity in neurons
+- Graded potentials are conducted decrementally, while action potentials are conducted without decrement
+- Graded potentials that summate to threshold are what usually trigger an action potential
+
+> Graded potentials are passive, graded, and decremental, while action potentials are active (voltage-gated channels), all-or-none, and keep their amplitude with distance.
+
+Library: Action potential waveforms by cell type
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Action potential traces compared: brief spikes in a neuron and in skeletal muscle, a ventricular cardiac myocyte action potential with a long plateau, a cardiac pacemaker cell action potential with a slow rising ramp, and types of smooth muscle action potentials (spike, plateau, and spikes riding on slow waves)](library/images/msk-week-13/memb-action-potential-waveforms-cell-types.jpg)
+
+## Key features
+
+| Cell | Waveform |
+|---|---|
+| Neuron | Brief spike |
+| Skeletal muscle | Brief spike |
+| Ventricular cardiac myocyte | Fast upstroke followed by a long plateau |
+| Cardiac pacemaker cell | Slow depolarizing ramp leading into each action potential |
+| Smooth muscle | Spike, plateau, or spikes on top of slow waves |
+
+## Unitary smooth muscle
+
+- Typical action potential (spike potential) elicited by an external stimulus
+- Repetitive spike potentials elicited by slow waves that occur spontaneously
+- Action potential with a plateau, which produces a prolonged contraction
+- Voltage-gated Ca2+ channels are important for action potential generation in unitary smooth muscle, not Na+ channels
+
+## Identify it
+
+- A long flat plateau lasting hundreds of milliseconds points to a ventricular cardiac myocyte or a plateau-type smooth muscle action potential
+- A slow ramp with no flat resting baseline points to a pacemaker cell
+- Bursts of spikes on top of a slow oscillation point to smooth muscle slow waves
+
+> Neuron and skeletal muscle action potentials are brief spikes, cardiac ventricular action potentials have a plateau, and unitary smooth muscle action potentials depend on voltage-gated Ca2+ channels rather than Na+ channels.
+
+Library: Action potential phases and Na+ and K+ permeability
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Two graphs: (a) three phases of an action potential, with phase 1 rising from threshold, phase 2 falling, and phase 3 dipping below the resting potential; (b) permeability changes during the action potential, with PNa rising sharply and briefly as Na+ channels open, and PK rising later and staying high longer after K+ channels open](library/images/msk-week-13/memb-action-potential-phases-pna-pk.jpg)
+
+## Key features
+
+The action potential is a plot of membrane potential over time. It runs from the resting membrane potential, through the action potential, and back to the resting state. Membrane depolarization increases the permeability to both Na+ and K+, but the two changes don't happen at the same time. K+ permeability rises more slowly than Na+ permeability and stays increased for a relatively longer time.
+
+| Phase | Permeability | Result |
+|---|---|---|
+| Depolarizing (rising) | Only PNa+ increased | Membrane depolarizes and overshoots |
+| Repolarizing (falling) | PNa+ decays while PK+ increases | Membrane repolarizes |
+| After-hyperpolarization | PK+ still high | Extra hyperpolarization beyond the resting potential |
+
+## Sequence on the trace
+
+1. Sodium channels open at threshold, and depolarization begins
+2. Potassium channels open, more slowly
+3. Sodium channels close at the peak
+4. Repolarization follows as K+ leaves
+5. Potassium channels start to close during the after-hyperpolarization, and the resting state returns
+
+> During the action potential PNa+ rises first and briefly, while PK+ rises later and stays high longer, which causes repolarization and then after-hyperpolarization.
+
+Library: Myelination and action potential propagation
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of a neuron with axon hillock and myelinated axon, enlarged to show myelin sheath segments separated by nodes of Ranvier; local current flows inside the axon from an active node to the next node, and the direction of action potential propagation jumps from node to node](library/images/msk-week-13/memb-myelinated-axon-saltatory-propagation.jpg)
+
+## Key features
+
+- The ability of action potentials to propagate down a nerve is strongly modulated by myelination
+- A myelinated fiber is an axon wrapped many times by the membrane of a specialized glial cell, the Schwann cell
+- This membrane, the myelin sheath, contains the lipid sphingomyelin, which electrically insulates the axon and dramatically reduces the ability of ions to flow across it
+- Nodes of Ranvier are very brief (2 to 3 micrometer) uninsulated spaces between two adjacent Schwann cells
+- In a myelinated fiber, action potentials occur only at the nodes of Ranvier, which gives saltatory conduction
+
+## Non-myelinated vs. myelinated
+
+![Comparison of non-myelinated propagation, with action potentials regenerated continuously along the whole axon, and myelinated propagation, with action potentials only at the gaps between myelin segments, labeled saltatory conduction](library/images/msk-week-13/memb-nonmyelinated-vs-myelinated-propagation.jpg)
+
+| Fiber | Where action potentials occur |
+|---|---|
+| Non-myelinated | Continuously along the entire axon |
+| Myelinated | Only at the nodes of Ranvier |
+
+> In a myelinated fiber, the insulating myelin sheath confines action potentials to the nodes of Ranvier, producing saltatory conduction.
+
+Library: Demyelinating disorders of the CNS
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## Key findings
+
+Myelin insulates the axon and lets action potentials jump between nodes of Ranvier, so disorders that strip myelin disrupt action potential propagation. The lecture groups CNS demyelinating disorders into five categories.
+
+| Category | Examples |
+|---|---|
+| Inflammatory and immune | MS, optic neuritis, ADEM, paraneoplastic encephalomyelitis, rheumatoid arthritis, systemic lupus erythematosus, Behcet's disease, Sjogren disease |
+| Infectious | HIV, PML, Lyme disease, neurosyphilis, HTLV-1 |
+| Granulomatous | Sarcoidosis, Wegener granulomatosis, lymphoid granulomatosis |
+| Myelin disorders | Metachromatic leukodystrophy, adrenoleukodystrophy/adrenomyeloneuropathy, globoid cell (Krabbe's) leukodystrophy, Alexander disease, Canavan disease |
+| Toxic and metabolic | B12 deficiency, central pontine myelinolysis, carbon monoxide, radiation, PRES |
+
+- Multiple sclerosis is the inflammatory and immune example listed first
+- The leukodystrophies sit in the myelin disorders group
+- B12 deficiency and central pontine myelinolysis are the toxic and metabolic causes
+
+> CNS demyelinating disorders fall into inflammatory/immune, infectious, granulomatous, myelin (leukodystrophy), and toxic/metabolic groups.
+
+Library: Channel states in the nerve and skeletal muscle action potential
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Cycle diagram around an action potential trace showing voltage-gated Na+ and K+ channel states at five numbered stages: 1 resting state, 2 depolarization to threshold, 3 rising phase, 4 falling phase, 5 undershoot; the Na+ channel's inactivation loop is labeled](library/images/msk-week-13/memb-nerve-action-potential-channel-states.jpg)
+
+## Channel states at each stage
+
+1. **Resting state**: the gated Na+ and K+ channels are closed, and ungated channels maintain the resting potential
+2. **Depolarization**: a stimulus opens some Na+ channels, and Na+ inflow depolarizes the membrane; if depolarization reaches threshold, it triggers an action potential
+3. **Rising phase**: depolarization opens most Na+ channels while K+ channels remain closed, and Na+ influx makes the inside positive relative to the outside
+4. **Falling phase**: most Na+ channels become inactivated, blocking Na+ inflow, and most K+ channels open, so K+ outflow makes the inside negative again
+5. **Undershoot**: Na+ channels close but some K+ channels are still open; as these K+ channels close and Na+ channels become unblocked, the membrane returns to its resting state
+
+## Key features
+
+- The Na+ channel has an inactivation loop that blocks Na+ inflow during the falling phase
+- Stimuli that don't reach threshold produce failed initiations, with no action potential
+- K+ channels that stay open cause the hyperpolarization after the spike
+- The Na+-K+ pump maintains the resting potential
+
+> During the falling phase Na+ channels are inactivated and K+ channels are open, and K+ channels still open afterward cause the undershoot.
+
+Library: Absolute and relative refractory periods
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Nerve action potential with the absolute refractory period shaded red over the upstroke and peak (about the first millisecond) and the relative refractory period shaded yellow over repolarization and after-hyperpolarization](library/images/msk-week-13/memb-absolute-relative-refractory-period.jpg)
+
+## Absolute refractory period
+
+- Another stimulus, no matter how strong, won't lead to a second action potential
+- It lasts from the opening of the Na+ channels until the channels reset just after the peak
+- Opening of Na+ channels spontaneously leads to their inactivation, and inactivated channels can't be reopened
+
+## Relative refractory period
+
+- A strong enough stimulus (greater than originally needed) may start another action potential
+- Na+ channels begin to recover from inactivation
+
+## Function
+
+- Ensures that each action potential is an all-or-none event
+- Enforces one-way transmission of nerve impulses
+
+## Cardiac comparison
+
+![Ventricular cardiac action potential: voltage-gated channels open and Na+ influx cause rapid depolarization, Na+ channels close at the peak, slow Ca2+ channels open to form the plateau, slow Ca2+ channels close and repolarization follows, and K+ channels close at the end; a long absolute refractory period spans most of the action potential, followed by a short relative refractory period](library/images/msk-week-13/memb-cardiac-action-potential-refractory.jpg)
+
+In the ventricular cardiac action potential, slow Ca2+ channels hold a plateau, and the absolute refractory period covers most of the action potential before a short relative refractory period.
+
+> During the absolute refractory period inactivated Na+ channels can't reopen, so no stimulus can fire a second action potential, and during the relative refractory period a stronger than normal stimulus can.
+
+Library: Natural toxins that target ion channels
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+## Key findings
+
+Toxins and venoms act by targeting ion channels. The lecture gives these examples.
+
+| Toxin | Source | Action |
+|---|---|---|
+| Maculotoxin | Blue-ringed octopus | Blocks sodium channels |
+| Batrachotoxin | Poison arrow frog | Prevents sodium channels from closing |
+| Apamin | Honey bee | Blocks Ca2+-activated potassium channels |
+| Capsaicin | Cayenne pepper | Excites peripheral nerve endings |
+
+## Blue-ringed octopus venom
+
+The venom can cause nausea, respiratory arrest, heart failure, severe and sometimes total paralysis, and blindness, and it can kill within minutes if not treated. Death is usually from suffocation due to paralysis of the diaphragm.
+
+## Fugu (Japanese pufferfish)
+
+- Fugu can be lethally poisonous and must be carefully prepared by specially licensed chefs in Japan
+- The lecture also shows a headline suggesting the Japanese pufferfish could be the ultimate painkiller
+
+## Apamin and the action potential
+
+The lecture pairs apamin with the action potential trace and boxes the late repolarization and after-hyperpolarization, the part of the trace where potassium channels start to close.
+
+> Maculotoxin blocks Na+ channels, batrachotoxin keeps Na+ channels from closing, and apamin blocks Ca2+-activated K+ channels.
+
+Library: PIEZO and thermoTRP sensory channels
+Folder: MSK / Week 13 / Membrane Properties of Excitable Cells: Ion Channels and Action Potentials
+
+![Diagram of thermoTRP channels placed along a temperature scale from 0 to 60, each drawn as six membrane-spanning segments: TRPA1 (horseradish, cinnamon, garlic), TRPM8 (mint), TRPV4, TRPV3 (camphor), TRPV1 (chili), and TRPV2, with ankyrin binding repeats, a TRP box, and a PDZ binding site marked](library/images/msk-week-13/memb-thermotrp-channels-activators.jpg)
+
+## PIEZO channels and the baroreceptor reflex
+
+The lecture shows research on how arterial baroreceptors sense blood pressure. Stretch-sensitive baroreceptor neurons give acute control of heart rate and blood pressure.
+
+- The mechanically activated ion channels PIEZO1 and PIEZO2 are together required for baroreception
+- Removing both Piezo1 and Piezo2 in the nodose and petrosal sensory ganglia of mice abolished the drug-induced baroreflex and aortic depressor nerve (AND) activity
+- Mice lacking Piezos had labile hypertension and increased blood pressure variability
+- Activating Piezo2-positive sensory afferents was enough to start the baroreflex
+- A second study shown reports that arterial baroreceptors sense blood pressure through decorated aortic claws, formed by PIEZO2 fibers of the aortic depressor nerve
+
+## ThermoTRP channels
+
+ThermoTRPs are TRP channels that function across a range of temperatures, and the figure links each one to natural compounds.
+
+| Channel | Compounds shown |
+|---|---|
+| TRPA1 | Horseradish, cinnamon, garlic |
+| TRPM8 | Mint |
+| TRPV3 | Camphor |
+| TRPV1 | Chili |
+| TRPV4, TRPV2 | None shown |
+
+> PIEZO1 and PIEZO2 are mechanically activated channels required for baroreceptor sensing of blood pressure, and thermoTRP channels respond to temperature and to compounds such as mint (TRPM8) and chili (TRPV1).
