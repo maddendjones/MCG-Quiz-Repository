@@ -1551,7 +1551,18 @@
     .library-module > .library-body { border-top: 1px solid var(--border-sub); }
     .library-week + .library-week { border-top: 1px solid var(--border-sub); }
     .library-week > .library-toggle { padding: 10px 16px 10px 38px; font-size: 0.85rem; font-weight: 700; }
-    .library-week > .library-body { padding: 0 16px 10px 60px; }
+    .library-week > .library-body { padding: 0 16px 10px 52px; }
+    .library-lecture + .library-lecture { border-top: 1px solid var(--border-sub); }
+    .library-lecture > .library-toggle {
+      padding: 9px 4px;
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+    }
+    .library-lecture > .library-toggle .library-count { text-transform: none; letter-spacing: 0; }
+    .library-lecture > .library-body { padding: 0 0 8px 22px; }
     .library-pages { padding: 0 16px 8px 38px; }
     .library-lecture-name {
       padding: 10px 0 2px;
@@ -4922,13 +4933,14 @@
         </div>`;
     }
 
-    function renderLibraryWeek(week, open, tagged) {
-      const lectures = week.children.map(l => ({ name: l.name, pages: l.pages }));
-      if (week.pages.length && lectures.length) lectures.unshift({ name: "General / Overview", pages: week.pages });
+    // Each lecture inside a week is its own collapsible group, closed until the student opens it.
+    function renderLibraryWeek(week, isOpen, tagged) {
+      const lectures = week.children.map(l => ({ name: l.name, key: l.key, pages: l.pages }));
+      if (week.pages.length && lectures.length) lectures.unshift({ name: "General / Overview", key: `${week.key}/overview`, pages: week.pages });
       const body = lectures.length
-        ? lectures.map(l => `<div class="library-lecture"><div class="library-lecture-name">${esc(l.name)}</div>${libraryPageRows(l.pages, tagged)}</div>`).join("")
+        ? lectures.map(l => libraryGroup("library-lecture", l.key, l.name, l.pages.length, isOpen(l.key), libraryPageRows(l.pages, tagged))).join("")
         : libraryPageRows(week.pages, tagged);
-      return libraryGroup("library-week", week.key, week.name, libraryPageCount(week), open, body);
+      return libraryGroup("library-week", week.key, week.name, libraryPageCount(week), isOpen(week.key), body);
     }
 
     function renderLibraryView() {
@@ -4956,10 +4968,10 @@
       const isOpen = (key) => !!needle || openLibraryKeys.has(key);
       const tagged = libraryTaggedQuestions();
       libraryList.innerHTML = libraryTree(matches).map(mod => {
-        const weeks = mod.children.map(week => renderLibraryWeek(week, isOpen(week.key), tagged));
+        const weeks = mod.children.map(week => renderLibraryWeek(week, isOpen, tagged));
         if (mod.pages.length && weeks.length) {
           const key = `${mod.key}/overview`;
-          weeks.unshift(renderLibraryWeek({ name: "General / Overview", key, pages: mod.pages, children: [] }, isOpen(key), tagged));
+          weeks.unshift(renderLibraryWeek({ name: "General / Overview", key, pages: mod.pages, children: [] }, isOpen, tagged));
         }
         const body = weeks.length ? weeks.join("") : `<div class="library-pages">${libraryPageRows(mod.pages, tagged)}</div>`;
         return libraryGroup("library-module", mod.key, mod.name, libraryPageCount(mod), isOpen(mod.key), body);
