@@ -2590,7 +2590,9 @@
         if (!currentQ) return;
         currentQ.stem = joinStem(currentQ.stemLines)
           .replace(/^\s*\[NBME Practice Vignette\s*\d+\]\s*:?\s*/i, "").trim()
-          .replace(/!\[([^\]]*)\]\((https?:\/\/[^\s\)]+)\)/gi, '<img src="$2" alt="$1">');
+          // Images: full https:// addresses, or paths in the repo (library/images/...), same rule as library pages
+          .replace(/!\[([^\]]*)\]\(([^\s\)]+)\)/gi, (m, alt, url) =>
+            (!/^[a-z][a-z0-9+.-]*:/i.test(url) || /^https?:\/\//i.test(url)) ? `<img src="${url}" alt="${alt}">` : m);
         delete currentQ.stemLines;
         if (currentQ.stem && currentQ.choices.length && currentQ.choices.some(c => c.letter === currentQ.answer)) {
           currentQ.subject = subjectPath(currentQ);
@@ -2790,7 +2792,8 @@
     }
 
     function stemWords(stem) {
-      return String(stem || "").replace(/<[^>]*>/g, " ").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+      // Ignore images (as tags or as ![...](...) text) so a stem matches itself however its image was saved
+      return String(stem || "").replace(/!\[[^\]]*\]\([^)\s]*\)/g, " ").replace(/<[^>]*>/g, " ").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
     }
 
     function stemSimilarity(a, b) {
