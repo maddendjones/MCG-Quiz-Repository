@@ -25196,3 +25196,2598 @@ B. That's the p-value.
 C. Correlation doesn't measure error.
 E. That's bias.
 Objective: Synthesize and incorporate new evidence-based information based on careful reading and critical appraisal of a clinically focused journal article (CBO 1.6)
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1237
+A student reviewing anatomical orientation is shown the attached image of a standing model in anatomical position with a single vertical plane passing through the body. Which of the following best describes how this plane divides the body?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-01.jpg)
+A. Into right and left sides
+B. Into anterior and posterior parts
+C. Into superior and inferior parts
+D. Into proximal and distal parts
+E. Into superficial and deep parts
+Answer: B. Into anterior and posterior parts
+Order: Second
+Difficulty: Easy
+Reference: Anatomical planes of the body
+Why this is correct:
+The plane is vertical and runs side to side, perpendicular to the median plane, so it is the coronal (frontal) plane. Frontal planes divide the body into anterior and posterior parts.
+Why the other answers are wrong:
+A. The median plane divides the body into right and left sides.
+C. Transverse (axial) planes divide the body into superior and inferior parts.
+D. Proximal and distal describe position along a limb, not a division made by a plane.
+E. Superficial and deep describe distance from the body surface, not a plane.
+Objective: Demonstrate & describe the anatomical position, as well as anatomical directions, planes, & movements.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1238
+A posterior view of a man moving his shoulders in the direction of the arrows is shown in the attached image. Which of the following terms best describes this movement?
+![Clinical photo](library/images/msk-week-13/questions/q-intro-02.jpg)
+A. Abduction
+B. Extension
+C. Depression
+D. Elevation
+E. Flexion
+Answer: D. Elevation
+Order: First
+Difficulty: Easy
+Reference: Anatomical terms of movement
+Why this is correct:
+The arrows point upward as the shoulders are raised, and raising a body part is elevation.
+Why the other answers are wrong:
+A. Abduction is moving a part away from the midline.
+B. Extension is straightening, or increasing the angle between body parts.
+C. Depression is lowering a body part, the opposite of what is shown.
+E. Flexion is bending, or decreasing the angle between body parts.
+Objective: Demonstrate & describe the anatomical position, as well as anatomical directions, planes, & movements.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1239
+A 62-year-old man lies supine on an examination table with his arms at his sides. During a shoulder exam, he keeps his elbow straight and raises his arm forward from his side until his hand points at the ceiling, keeping the arm in line with his shoulder the whole time. Which of the following best describes this movement in standard anatomical terms?
+A. Flexion in a sagittal plane
+B. Abduction in a frontal plane
+C. Flexion in a transverse plane
+D. Elevation in a frontal plane
+E. Extension in a sagittal plane
+Answer: A. Flexion in a sagittal plane
+Order: Third
+Difficulty: Hard
+Reference: Anatomical terms of movement; Anatomical planes of the body
+Why this is correct:
+Movements are described as if the patient were in anatomical position, so lying supine doesn't change the terms. Moving the arm forward (toward the ceiling when supine) is an anterior movement above the knee, which is flexion, and it happens in a vertical plane parallel to the median plane, a sagittal plane.
+Why the other answers are wrong:
+B. Abduction would move the arm out to the side, away from the midline.
+C. The arm moves in a plane that is vertical in anatomical position, not a horizontal (transverse) plane.
+D. Elevation is raising a part such as the shoulders; the arm moving toward the ceiling here is moving anteriorly.
+E. Extension increases the angle between parts and, above the knee, is a posterior movement.
+Objective: Demonstrate & describe the anatomical position, as well as anatomical directions, planes, & movements.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1240
+A 48-year-old woman is positioned on the operating table as shown in the attached image for removal of a soft-tissue mass of the trunk. The surgeon notes that the mass lies on the surface of the trunk that is facing the ceiling. Which of the following terms best describes the location of the mass on the trunk?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-03.jpg)
+A. Superior
+B. Anterior
+C. Posterior
+D. Deep
+E. Medial
+Answer: C. Posterior
+Order: Third
+Difficulty: Easy
+Reference: Anatomical position, supine, and prone; Anatomical terms of location and laterality
+Why this is correct:
+The patient is lying prone (face down), so the surface facing the ceiling is her back. Location terms always refer to anatomical position, so the mass is posterior (dorsal) whatever way she is lying.
+Why the other answers are wrong:
+A. Superior means toward the head; facing upward in the room doesn't make a structure superior.
+B. The anterior surface faces the table when a patient is prone.
+D. Deep means farther from the surface, and this mass is on the surface.
+E. Medial means toward the midline and doesn't tell which surface the mass is on.
+Objective: Demonstrate & describe the anatomical position, as well as anatomical directions, planes, & movements.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1241
+A 26-year-old man comes to the emergency department after spilling boiling water on his forearm. Biopsy of the wound edge shows tissue damage that extends completely through the layer indicated by the arrow in the attached illustration and into the superficial part of the layer just beneath it. Which of the following best describes this burn?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-04.jpg)
+A. Superficial burn limited to the outer layer, like a sunburn
+B. Partial-thickness burn that is more painful and more easily infected
+C. Full-thickness burn that requires grafting if the wound is open and ulcerated
+D. Fourth-degree burn that extends into the fascia, muscle, or bone
+E. Burn whose depth matters more than its extent in judging its effect
+Answer: B. Partial-thickness burn that is more painful and more easily infected
+Order: Third
+Difficulty: Medium
+Reference: Burn depth classification; Skin layers, superficial fascia, and deep fascia
+Why this is correct:
+The arrow marks the epidermis, the thin outermost layer. Damage through the epidermis into the superficial part of the dermis is a partial-thickness (formerly second-degree) burn, which is more painful and can get infected more easily.
+Why the other answers are wrong:
+A. A superficial burn is limited to the epidermis and doesn't reach the dermis.
+C. A full-thickness burn damages the epidermis, the whole dermis, and often the subcutaneous tissue.
+D. A fourth-degree burn extends through the skin into fascia, muscle, or bone.
+E. The extent of a burn generally matters more than its depth in judging its effect on the patient.
+Objective: Demonstrate & describe the anatomical position, as well as anatomical directions, planes, & movements.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1242
+A dissection of the anterior shoulder region is shown in the attached image. Which of the following best identifies the structure indicated by the arrow?
+![Cadaver dissection photo](library/images/msk-week-13/questions/q-intro-05.jpg)
+A. Artery, with a thick wall that looks hollow and has no valves
+B. Vein, with a thin, floppy wall that often contains valves
+C. Lymphatic vessel, a thin-walled channel carrying lymph to nodes
+D. Tendon, a tough band that attaches a muscle to a bone
+E. Nerve, a tough, fibrous cord that branches at acute angles
+Answer: E. Nerve, a tough, fibrous cord that branches at acute angles
+Order: First
+Difficulty: Hard
+Reference: Nerves, arteries, and veins in dissection; Arteries vs. veins: walls, valves, and flow
+Why this is correct:
+The arrow points to one of the solid, cream-colored cords that run straight courses alongside the vessels, the way nerves join an artery and its veins in a neurovascular bundle. Nerves are tough, fibrous, generally run straight courses, and branch at acute angles.
+Why the other answers are wrong:
+A. The arteries in this specimen are the hollow-looking vessels shown in red.
+B. The veins are the wide, thin-walled vessels shown in blue.
+C. Lymphatic vessels are thin-walled channels, not solid cords running with the vessels.
+D. A tendon ends at a bone, while this cord runs across the region with the vessels.
+Objective: Differentiate arteries from veins.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1243
+An illustration of two blood vessels joined by a capillary bed, each shown cut open, is in the attached image. Which of the following best describes the vessel indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-06.jpg)
+A. Carries blood toward the heart and often contains valves
+B. Carries blood away from the heart and has no valves
+C. Has a thicker wall that looks hollow in dissection
+D. Branches at right or wide angles from its parent vessel
+E. Transports lymph to lymph nodes for filtering
+Answer: A. Carries blood toward the heart and often contains valves
+Order: Second
+Difficulty: Easy
+Reference: Arteries vs. veins: walls, valves, and flow
+Why this is correct:
+The indicated vessel has the thinner wall and valve cusps inside its lumen, so it is a vein. Veins carry blood toward the heart and often contain valves.
+Why the other answers are wrong:
+B. This describes an artery, the thick-walled vessel on the other side of the capillary bed.
+C. A thicker wall that looks hollow is a feature of arteries.
+D. Branching at right or wide angles is a feature of arteries.
+E. Lymphatic vessels carry lymph to lymph nodes; this vessel is part of the blood circulation.
+Objective: Differentiate arteries from veins.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1244
+A 58-year-old man has a gradual blockage of the main artery at the circled segment near the elbow in the attached illustration. His forearm and hand stay warm and normal in color. Which of the following best explains the continued blood supply to his forearm?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-07.jpg)
+A. Paired veins flanking the artery carry oxygenated blood distally
+B. Arterial valves below the blockage prevent backflow from the hand
+C. Lymphatic vessels around the elbow return fluid to the forearm tissues
+D. Connections between branches above and below the elbow provide detours
+E. The thick arterial wall keeps the blocked segment open for flow
+Answer: D. Connections between branches above and below the elbow provide detours
+Order: Third
+Difficulty: Easy
+Reference: Anastomosis and collateral circulation
+Why this is correct:
+Branches that arise above the elbow connect with branches that arise below it (anastomoses), so blood can detour around the blocked segment. This collateral circulation keeps blood reaching structures distal to a blockage, and the smaller channels can enlarge over time.
+Why the other answers are wrong:
+A. Veins carry blood toward the heart, not distally to the forearm.
+B. Arteries have no valves.
+C. Lymphatic vessels drain excess fluid from tissues toward the venous system; they don't supply blood.
+E. A blocked segment carries no flow, however thick its wall is.
+Objective: Differentiate arteries from veins.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1245
+A 54-year-old woman comes to the clinic because of swelling of her right arm that has developed over several months. Two years ago, many lymph nodes and lymphatic vessels in her right axilla were removed during cancer surgery. Ultrasound shows normal arteries and veins in the arm. Which of the following functions is most likely impaired in her right arm?
+A. Delivery of oxygenated blood to the tissues of the arm
+B. Return of deoxygenated blood through valved veins
+C. Drainage of excess extracellular fluid from the tissues
+D. Formation of blood cells within the bones of the arm
+E. Conduction of sensory signals from the skin of the arm
+Answer: C. Drainage of excess extracellular fluid from the tissues
+Order: Third
+Difficulty: Easy
+Reference: Lymphatic system: lymph, vessels, and nodes
+Why this is correct:
+The lymphatic system is a series of lymphatic vessels connected to lymph nodes whose function is to drain excess fluid (lymph) from tissues and return it to the venous system. Removing the nodes and vessels that drain the arm lets that fluid build up.
+Why the other answers are wrong:
+A. Arteries deliver oxygenated blood, and her arteries are normal.
+B. Veins return blood to the heart, and her veins are normal.
+D. Blood cell formation is a function of the skeleton, not the lymphatic system.
+E. Sensory signals travel in nerves, which weren't the structures removed.
+Objective: Describe the function of the lymphatic system.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1246
+An anterior view of the skeleton is shown in the attached image. Which of the following bones belongs to the same division of the skeleton as the bone indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-08.jpg)
+A. Sternum
+B. Rib
+C. Vertebra
+D. Cranium
+E. Hip bone
+Answer: E. Hip bone
+Order: Second
+Difficulty: Medium
+Reference: Axial vs. appendicular skeleton
+Why this is correct:
+The arrow points to the clavicle, part of the pectoral girdle. The appendicular skeleton is the bones of the limbs including the pectoral and pelvic girdles, and the hip bone belongs to the pelvic girdle.
+Why the other answers are wrong:
+A. The sternum is a bone of the trunk, part of the axial skeleton.
+B. The ribs are bones of the trunk, part of the axial skeleton.
+C. The vertebrae form the vertebral column of the axial skeleton.
+D. The cranium is a bone of the head, part of the axial skeleton.
+Objective: Identify the major components of the skeletal system and describe their functions. Distinguish between the axial & appendicular skeletal systems.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1247
+A 27-year-old professional baseball pitcher who has thrown year-round since childhood has imaging of both arms. The humerus of his throwing arm shows about 15 degrees more retroversion than the humerus of his other arm. Which of the following best explains this difference?
+A. Inherited differences in bone size and shape between the two sides
+B. Adaptation of bone structure to the demands placed on the bone
+C. A curve that develops without any identified causative force
+D. Increased formation of blood cells within the throwing arm
+E. Larger insertion angles of the muscles acting on the throwing arm
+Answer: B. Adaptation of bone structure to the demands placed on the bone
+Order: Second
+Difficulty: Easy
+Reference: Skeletal system functions and Wolff's law
+Why this is correct:
+Wolff's law says bone adapts its structure and biomechanical properties to the demands placed on it. The lecture uses greater humeral retroversion on the throwing side of pitchers who threw year-round as preadolescents as its example.
+Why the other answers are wrong:
+A. General size and shape are inherited, but this side-to-side difference comes from use.
+C. This describes idiopathic scoliosis, named because no causative force has been identified.
+D. Blood cell formation is a function of bone, not a cause of changes in its shape.
+E. Insertion angles affect torque output and generally can't be altered.
+Objective: Identify the major components of the skeletal system and describe their functions. Distinguish between the axial & appendicular skeletal systems.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1248
+A bone examined in the anatomy lab is shown in the attached image. Which of the following best classifies this bone by its shape?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-09.jpg)
+A. Long bone
+B. Short bone
+C. Flat bone
+D. Irregular bone
+E. Sesamoid bone
+Answer: D. Irregular bone
+Order: Second
+Difficulty: Easy
+Reference: Types of bones by shape
+Why this is correct:
+The image shows a vertebra, with a rounded body and projecting transverse processes. Vertebrae have shapes other than long, short, or flat, so they are irregular bones.
+Why the other answers are wrong:
+A. Long bones are tubular, like the humerus and femur.
+B. Short bones are cuboidal and found only in the wrist and the ankle and foot.
+C. Flat bones usually serve protective functions, like the ribs and flat bones of the cranium.
+E. Sesamoid bones are bound within a tendon where it crosses a joint.
+Objective: Identify the major components of the skeletal system and describe their functions. Distinguish between the axial & appendicular skeletal systems.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1249
+An illustration of an adult long bone is shown in the attached image. Which of the following is the region indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-10.jpg)
+A. Metaphysis
+B. Diaphysis
+C. Epiphysis
+D. Epiphyseal plate
+E. Medullary cavity
+Answer: A. Metaphysis
+Order: First
+Difficulty: Medium
+Reference: Parts of a long bone
+Why this is correct:
+The arrow points to the part of the bone that flares out near its end, just before the epiphysis, which is the metaphysis.
+Why the other answers are wrong:
+B. The diaphysis is the shaft, above the flared region.
+C. The epiphysis is the end of the bone, covered in hyaline cartilage, below the arrow.
+D. The epiphyseal plate is the growth plate location near the end of the bone, closed in the mature skeleton.
+E. The medullary cavity is the space inside the shaft that holds yellow marrow in the adult.
+Objective: Identify the major components of the skeletal system and describe their functions. Distinguish between the axial & appendicular skeletal systems.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1250
+During a dissection, a student follows a muscle to its attachment and finds that it ends in a flat, broad tendon rather than a cordlike one. Which of the following terms best describes this structure?
+A. Ligament
+B. Intermuscular septum
+C. Aponeurosis
+D. Investing fascia
+E. Articular capsule
+Answer: C. Aponeurosis
+Order: First
+Difficulty: Easy
+Reference: Cartilage, ligaments, tendons, and aponeuroses
+Why this is correct:
+An aponeurosis is a flat, broad tendon.
+Why the other answers are wrong:
+A. A ligament attaches bone and cartilage to other bones.
+B. An intermuscular septum is a sheet of deep fascia that separates compartments.
+D. Investing fascia is an extension of deep fascia surrounding individual muscles.
+E. The articular capsule unites the bones of a synovial joint.
+Objective: Identify the major components of the skeletal system and describe their functions. Distinguish between the axial & appendicular skeletal systems.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1251
+A schematic of a synovial joint is shown in the attached image. Which of the following is the structure indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-11.jpg)
+A. Fibrous capsule
+B. Articular cartilage
+C. Periosteum
+D. Ligament
+E. Synovial membrane
+Answer: E. Synovial membrane
+Order: First
+Difficulty: Hard
+Reference: Synovial joint structure
+Why this is correct:
+The arrow points to the thin inner lining of the joint capsule at the edge of the fluid-filled cavity. The joint capsule has an outer fibrous layer and an inner synovial membrane, which surrounds the synovial cavity.
+Why the other answers are wrong:
+A. The fibrous capsule is the outer layer of the joint capsule, superficial to the indicated lining.
+B. Articular cartilage covers the articulating bone surfaces, shown in pale blue.
+C. Periosteum covers the outer surface of the bones away from the articular surfaces.
+D. Ligaments lie on the outside of the joint, over the capsule.
+Objective: Identify and describe the different types of joints and explain their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1252
+A student lists the structural elements of the knee joint, a synovial joint. Which of the following elements is only sometimes, rather than always, associated with synovial joints?
+A. Synovial fluid
+B. Meniscus
+C. Articular cartilage
+D. Capsular ligaments
+E. Sensory nerves
+Answer: B. Meniscus
+Order: First
+Difficulty: Medium
+Reference: Synovial joint structure
+Why this is correct:
+Intraarticular discs or menisci are sometimes associated with synovial joints, along with a peripheral labrum, fat pads, and synovial plicae.
+Why the other answers are wrong:
+A. Synovial fluid is always associated with synovial joints.
+C. Articular cartilage is always associated with synovial joints.
+D. Capsular ligaments are always associated with synovial joints.
+E. Sensory nerves are always associated with synovial joints.
+Objective: Identify and describe the different types of joints and explain their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1253
+An illustration of the base of the thumb, with one joint circled, is shown in the attached image. Which of the following best describes the movement this joint permits?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-12.jpg)
+A. Movement around two axes at right angles, in two planes, with circumduction
+B. Flexion and extension only, in one plane around a single axis
+C. Rotation around a central axis, with movement in one axis only
+D. Gliding or sliding movements in the plane of the articular surfaces
+E. Movement in all planes, including medial and lateral rotation
+Answer: A. Movement around two axes at right angles, in two planes, with circumduction
+Order: Second
+Difficulty: Medium
+Reference: Six types of synovial joints
+Why this is correct:
+The circled joint is the carpometacarpal joint between the trapezium and the first metacarpal, a saddle joint. Saddle joints permit flexion, extension, abduction, and adduction around two axes at right angles, in two planes, and allow circumduction.
+Why the other answers are wrong:
+B. This describes a hinge joint, such as the elbow.
+C. This describes a pivot joint, such as the atlanto-axial joint.
+D. This describes a plane joint, such as the acromioclavicular joint.
+E. This describes a ball-and-socket joint, such as the shoulder or hip.
+Objective: Identify and describe the different types of joints and explain their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1254
+A 21-year-old man is brought to the emergency department after a diving accident. Imaging shows an injury to the joint where the dens of the axis (C2) fits within the ring of the atlas (C1). Which of the following movements is this joint mainly responsible for?
+A. Flexion and extension only, as at a hinge
+B. Gliding in the plane of the articular surfaces
+C. Movement in all planes, as at a ball and socket
+D. Rotation around a central axis
+E. Movement in two planes at right angles
+Answer: D. Rotation around a central axis
+Order: Third
+Difficulty: Easy
+Reference: Six types of synovial joints
+Why this is correct:
+The joint between the dens and the atlas is the atlanto-axial joint, a pivot joint, where a rounded process of bone fits into a bony ligamentous socket. Pivot joints permit rotation around a central axis, so turning the head is the movement at risk.
+Why the other answers are wrong:
+A. Flexion and extension only describes a hinge joint, such as the elbow.
+B. Gliding describes a plane joint, such as the acromioclavicular joint.
+C. Movement in all planes describes a ball-and-socket joint, such as the hip.
+E. Movement in two planes at right angles describes a saddle joint, such as the thumb.
+Objective: Identify and describe the different types of joints and explain their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1255
+An illustration of the two forearm bones is shown in the attached image, with the arrow indicating the tissue that unites them. Which of the following most directly determines how much movement this joint allows?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-13.jpg)
+A. The volume of synovial fluid within its joint cavity
+B. The thickness of the hyaline cartilage joining the bones
+C. The length of the fibers uniting the articulating bones
+D. The fit of a rounded head into a matching concavity
+E. The number of axes formed by saddle-shaped surfaces
+Answer: C. The length of the fibers uniting the articulating bones
+Order: Second
+Difficulty: Hard
+Reference: Fibrous and cartilaginous joints
+Why this is correct:
+The arrow marks the interosseous membrane between the radius and ulna, which makes this a fibrous joint. In fibrous joints, the amount of movement depends on the length of the fibers uniting the articulating bones.
+Why the other answers are wrong:
+A. A fluid-filled cavity belongs to synovial joints, not fibrous joints.
+B. Bones joined by hyaline cartilage or fibrocartilage form cartilaginous joints.
+D. A rounded head in a concavity describes a ball-and-socket synovial joint.
+E. Saddle-shaped surfaces describe a saddle synovial joint.
+Objective: Identify and describe the different types of joints and explain their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1256
+An illustration of one type of muscle tissue is shown in the attached image. Which of the following best describes this tissue?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-14.jpg)
+A. Voluntary and striated, and moves bones and other structures
+B. Involuntary and nonstriated, and forms part of most vessel walls
+C. Voluntary and nonstriated, and moves substances through viscera
+D. Involuntary and striated, and moves bones and other structures
+E. Involuntary and striated, and forms most of the walls of the heart
+Answer: E. Involuntary and striated, and forms most of the walls of the heart
+Order: Second
+Difficulty: Medium
+Reference: Skeletal, smooth, and cardiac muscle
+Why this is correct:
+The banded fibers that branch and join neighboring fibers are cardiac muscle. Cardiac muscle is striated like skeletal muscle but under involuntary control, and it forms most of the walls of the heart.
+Why the other answers are wrong:
+A. This describes skeletal muscle, which forms long, unbranched banded fibers.
+B. This describes smooth muscle, which forms spindle-shaped cells without banding.
+C. No muscle type is both voluntary and nonstriated; smooth muscle is involuntary.
+D. The muscle that moves bones is skeletal muscle, which is under voluntary control.
+Objective: Identify the major components of the muscular system, with an emphasis on skeletal muscle, and describe their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1257
+A 19-year-old gymnast hangs from rings with his hands fixed and pulls his body upward by bending his elbows, so that his trunk and arms rise toward his stationary forearms. Which of the following best describes the attachments of his elbow flexors during this movement?
+A. The usual fixed and movable attachment points have reversed
+B. The origin stays fixed and the insertion moves, as usual
+C. Both attachments move an equal distance toward the joint
+D. The muscles attach to skin rather than bone during this movement
+E. Neither attachment moves, because the muscle action is isometric
+Answer: A. The usual fixed and movable attachment points have reversed
+Order: Second
+Difficulty: Hard
+Reference: Skeletal muscle functions and attachments
+Why this is correct:
+A muscle usually has a fixed origin (proximal attachment) and a movable insertion (distal attachment), but depending on the circumstances the fixed and movable points may reverse. Here the forearms are fixed and the proximal attachments move with the body.
+Why the other answers are wrong:
+B. The proximal attachment is the one moving here, so the usual pattern doesn't hold.
+C. The forearms stay still, so one attachment is fixed.
+D. The attachment sites don't change with the movement.
+E. The body is moving, so the action isn't isometric.
+Objective: Identify the major components of the muscular system, with an emphasis on skeletal muscle, and describe their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1258
+A 35-year-old woman with tight hamstrings sees a physical therapist, who passively stretches her relaxed hamstring muscles beyond their resting length. Which of the following best describes the muscle property being used and the source of the lengthening?
+A. Elasticity, with the lengthening produced by the hamstrings themselves
+B. Extensibility, with the lengthening produced by an external force
+C. Contractility, with the lengthening produced by a motor neuron
+D. Extensibility, with the lengthening produced by the hamstrings themselves
+E. Irritability, with the lengthening produced by an external force
+Answer: B. Extensibility, with the lengthening produced by an external force
+Order: Second
+Difficulty: Medium
+Reference: Muscle tissue characteristics
+Why this is correct:
+Extensibility is the ability of muscle to lengthen or stretch beyond its resting length. A muscle can't produce its own elongation, so another muscle (the antagonist) or an external force, as in stretching, has to do it.
+Why the other answers are wrong:
+A. Elasticity is the return to resting length after a stretch, and a muscle can't lengthen itself.
+C. Contractility is the ability to shorten, not lengthen.
+D. The muscle itself can't produce its own elongation.
+E. Irritability is the ability to respond to stimulation.
+Objective: Identify the major components of the muscular system, with an emphasis on skeletal muscle, and describe their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1259
+A 20-year-old volleyball player jumps higher when she drops quickly into a squat and immediately jumps than when she jumps from a squat she has been holding still. In the quick version, her knee extensors are stretched just before they shorten. Which of the following best explains her higher jump?
+A. Contractility, determined mainly by the muscle fibrils
+B. Extensibility, determined mainly by the antagonist muscles
+C. Irritability, determined mainly by motor neuron stimulation
+D. Elasticity, determined mainly by the muscle's connective tissue
+E. Elasticity, determined mainly by the muscle fibrils themselves
+Answer: D. Elasticity, determined mainly by the muscle's connective tissue
+Order: Third
+Difficulty: Hard
+Reference: Muscle tissue characteristics
+Why this is correct:
+Elasticity increases muscular power when a concentric action is preceded by a stretch, which is what the quick squat does to the knee extensors. Elasticity is determined by the connective tissue in the muscle rather than the fibrils themselves.
+Why the other answers are wrong:
+A. Contractility is the ability to shorten and doesn't explain the benefit of a stretch first.
+B. Extensibility lets the muscle be lengthened but isn't what boosts the following concentric action.
+C. Irritability is the ability to respond to stimulation.
+E. Elasticity is determined by connective tissue, not by the fibrils.
+Objective: Identify the major components of the muscular system, with an emphasis on skeletal muscle, and describe their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1260
+A 30-year-old man has a deep laceration of the right leg that injures the nerve supplying the muscles of the compartment indicated by the arrow in the attached cross section (posterior is at the top). Which of the following movements is most likely to be weak?
+![Cross-sectional illustration](library/images/msk-week-13/questions/q-intro-15.jpg)
+A. Plantarflexion of the ankle
+B. Eversion of the foot
+C. Flexion of the toes
+D. Extension of the knee
+E. Dorsiflexion of the ankle
+Answer: E. Dorsiflexion of the ankle
+Order: Third
+Difficulty: Hard
+Reference: Functional compartments of the limbs
+Why this is correct:
+The arrow points to the anterior compartment, in front of the interosseous membrane between the tibia and fibula, which holds the dorsiflexor muscles. Muscles in a compartment share a similar function and are usually supplied by the same nerve, so dorsiflexion (bringing the toes up toward the knee) would be weak.
+Why the other answers are wrong:
+A. The plantar flexor muscles fill the posterior compartment at the top of the section.
+B. The evertor muscles fill the lateral compartment beside the fibula.
+C. The long flexors of the foot and ankle lie deep in the posterior part of the leg.
+D. Knee extension isn't produced by the muscles in the leg compartments shown.
+Objective: Identify the major components of the muscular system, with an emphasis on skeletal muscle, and describe their functions.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1261
+A 40-year-old man holding a 10-kg weight slowly lowers it from the position shown in the attached image, so that his forearm moves in the direction of the curved arrow. Which of the following best describes the action of the biceps brachii during this movement?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-16.jpg)
+A. Concentric, because internal torque exceeds external torque
+B. Isometric, because internal torque equals external torque
+C. Eccentric, because external torque exceeds internal torque
+D. Eccentric, because internal torque exceeds external torque
+E. Concentric, because external torque exceeds internal torque
+Answer: C. Eccentric, because external torque exceeds internal torque
+Order: Third
+Difficulty: Medium
+Reference: Identifying muscle roles from movement; Isometric, concentric, and eccentric contractions
+Why this is correct:
+The motive force for the downward movement is the weight, and the biceps is controlling it, staying active while it is elongated. A muscle producing force while being elongated is acting eccentrically, and the external torque about the elbow exceeds the internal torque.
+Why the other answers are wrong:
+A. If internal torque exceeded external torque, the biceps would shorten and lift the weight.
+B. An isometric action produces no movement, but the forearm is moving.
+D. If internal torque exceeded external torque, the forearm would rise rather than lower.
+E. A concentric action requires internal torque to exceed the opposing external torque.
+Objective: Differentiate between different types of muscle contractions. Determine the role that a muscle or group of muscles serve during movement (agonist, antagonist, or synergist).
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1262
+An illustration of the arm during elbow flexion is shown in the attached image. Which of the following best describes the role of the muscle indicated by the arrow during this movement?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-17.jpg)
+A. Agonist, executing the elbow flexion
+B. Antagonist, creating movement opposite the agonists
+C. Neutralizer, preventing an undesired action of a mover
+D. Stabilizer, steadying a body part against another muscle
+E. Synergist, shortening with the flexors to bend the elbow
+Answer: B. Antagonist, creating movement opposite the agonists
+Order: Second
+Difficulty: Medium
+Reference: Muscle roles: agonists, antagonists, and synergists
+Why this is correct:
+The arrow points to the muscle on the posterior side of the arm, opposite the flexors that are shortening to bend the elbow. During elbow flexion it is the antagonist, the muscle that creates movement opposite the agonists, and it becomes the agonist during elbow extension.
+Why the other answers are wrong:
+A. The agonists for elbow flexion are the muscles on the front of the arm, shown in red.
+C. Neutralizers cancel an unwanted action of a mover, as the rhomboids and trapezius do with scapular rotation.
+D. Stabilizers steady a body part against another muscle's action, as the gluteus medius does for the pelvis.
+E. This muscle is on the opposite side of the joint from the flexors and doesn't help bend the elbow.
+Objective: Differentiate between different types of muscle contractions. Determine the role that a muscle or group of muscles serve during movement (agonist, antagonist, or synergist).
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1263
+A 72-year-old woman comes to the clinic because of an unsteady gait. When she stands on her right leg, her pelvis tilts and drops on the left side. Exam shows weakness of the right gluteus medius. Which of the following best describes the role this muscle normally serves while she balances on one leg?
+A. Synergist acting as a stabilizer
+B. Synergist acting as a neutralizer
+C. Antagonist creating movement opposite the agonists
+D. Agonist executing the pelvic tilt
+E. Prime mover of knee extension
+Answer: A. Synergist acting as a stabilizer
+Order: Third
+Difficulty: Hard
+Reference: Muscle roles: agonists, antagonists, and synergists
+Why this is correct:
+Stabilizers are synergists that steady or support a body part against another muscle's action. The gluteus medius acts this way to prevent pelvic tilting during walking, running, or balancing on one leg, so weakness lets the pelvis drop.
+Why the other answers are wrong:
+B. Neutralizers prevent an undesired action of one of the movers, as in scapular retraction.
+C. Antagonists create movement opposite the agonists; this muscle is steadying the pelvis, not opposing a movement.
+D. The muscle prevents the pelvic tilt rather than producing it.
+E. The quadriceps femoris is the agonist for knee extension.
+Objective: Differentiate between different types of muscle contractions. Determine the role that a muscle or group of muscles serve during movement (agonist, antagonist, or synergist).
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1264
+A posterior view of the shoulder is shown in the attached image. The red arrow is a muscle's line of pull, and the short black line runs from the joint's axis of rotation to that line of pull. Which of the following best describes this muscle's action at the shoulder?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-18.jpg)
+A. Abduction in the frontal plane
+B. Extension in the sagittal plane
+C. External rotation in the horizontal plane
+D. Adduction in the frontal plane
+E. Flexion in the sagittal plane
+Answer: D. Adduction in the frontal plane
+Order: Second
+Difficulty: Hard
+Reference: A muscle's action at a joint; Anatomical planes of the body
+Why this is correct:
+A muscle's action is the torque it can cause about an axis in a particular plane, defined by a concentric action from anatomical position. In this posterior (frontal plane) view, the line of pull runs below the axis toward the scapula, so shortening draws the humerus toward the midline, which is adduction in the frontal plane.
+Why the other answers are wrong:
+A. Abduction would need a line of pull on the other side of the axis, moving the arm away from the midline.
+B. Extension is a sagittal plane movement, seen in a lateral view.
+C. External rotation is a horizontal plane movement, seen in a superior view.
+E. Flexion is a sagittal plane movement, seen in a lateral view.
+Objective: Demonstrate & describe the anatomical position, as well as anatomical directions, planes, & movements.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1265
+An elbow flexor muscle is drawn at five elbow angles, numbered 1 to 5, in the attached image. The arrow in each drawing is the muscle's line of pull, and the muscle produces the same force in every position. Which of the following positions gives the greatest torque at the elbow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-19.jpg)
+A. Position 1
+B. Position 2
+C. Position 3
+D. Position 4
+E. Position 5
+Answer: C. Position 3
+Order: Third
+Difficulty: Hard
+Reference: Muscle strength: force and moment arm
+Why this is correct:
+Strength (torque) equals muscle force times moment arm, and the moment arm is largest when the insertion angle is closest to 90 degrees. In position 3 the line of pull is perpendicular to the forearm, so the same force gives the most torque.
+Why the other answers are wrong:
+A. With the elbow straight, the line of pull runs nearly along the forearm and the moment arm is very small.
+B. The insertion angle is still well under 90 degrees, so the moment arm is smaller than in position 3.
+D. The elbow has flexed past the point where the insertion angle is near 90 degrees, so the moment arm is shrinking.
+E. In full flexion the line of pull runs close to the joint axis, giving a very small moment arm.
+Objective: Identify the types of musculoskeletal levers and how they contribute to human motion.
+
+MSK / Week 13 / Introduction to the Musculoskeletal System
+Question 1266
+A 25-year-old woman rises up onto the balls of her feet. In the attached drawing of her foot, the triangle under the ball of the foot is the fulcrum, the dark arrow is body weight acting at the ankle, and the light arrow is the calf muscles pulling up on the heel. Which of the following best describes this lever?
+![Anatomical illustration](library/images/msk-week-13/questions/q-intro-20.jpg)
+A. Class 1, with mechanical advantage only if the load is nearer the fulcrum
+B. Class 3, with the load moving a greater distance and faster than the effort
+C. Class 2, with the load moving a greater distance and faster than the effort
+D. Class 3, with an effort force that is less than the load
+E. Class 2, with an effort force that is less than the load
+Answer: E. Class 2, with an effort force that is less than the load
+Order: Third
+Difficulty: Medium
+Reference: Musculoskeletal lever classes
+Why this is correct:
+Body weight (the load) lies between the fulcrum at the ball of the foot and the effort at the heel, which makes a class 2 lever. In a class 2 lever the effort force is less than the load, so a mechanical advantage is always gained.
+Why the other answers are wrong:
+A. A class 1 lever has the fulcrum between the effort and the load, as with the head on the neck.
+B. A class 3 lever has the effort between the fulcrum and the load, as with the biceps lifting the forearm.
+C. In a class 2 lever the load moves a smaller distance and more slowly than the effort.
+D. A class 3 lever can't have an effort force less than the load, and this arrangement isn't class 3.
+Objective: Identify the types of musculoskeletal levers and how they contribute to human motion.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1267
+A first-year student is sorting nervous system structures into the central nervous system and the peripheral nervous system. Which of the following structures belongs to the peripheral nervous system?
+A. Caudate nucleus
+B. Corticospinal tract
+C. Dorsal root ganglion
+D. Medial lemniscus
+E. Intermediolateral cell column
+Answer: C. Dorsal root ganglion
+Order: First
+Difficulty: Easy
+Reference: CNS and PNS divisions; Neuroanatomy terms: nucleus, column, tract, ganglion, nerve
+Why this is correct:
+The PNS is made of cranial nerves, spinal nerves, and ganglia. A ganglion, such as the dorsal root ganglion, is a group of nerve cell bodies outside the CNS.
+Why the other answers are wrong:
+A. A nucleus is a group of cell bodies inside the CNS (basal nuclei of the brain).
+B. A tract is a bundle of axons inside the CNS.
+D. A lemniscus is a bundle of axons inside the CNS.
+E. A column is a group of cell bodies inside the spinal cord, part of the CNS.
+Objective: Discuss the components of the central nervous system (CNS) and peripheral nervous system (PNS).
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1268
+A drawing of a spinal cord segment is shown in the attached image, with the dorsal surface toward the top of the image. Which of the following is the groove indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-nssc-01.jpg)
+A. Posterior median sulcus
+B. Posterolateral sulcus
+C. Anterolateral sulcus
+D. Posterior intermediate sulcus
+E. Anterior median fissure
+Answer: D. Posterior intermediate sulcus
+Order: First
+Difficulty: Hard
+Reference: Longitudinal grooves of the spinal cord
+Why this is correct:
+The arrow marks a dorsal groove just lateral to the midline groove and medial to the most lateral dorsal groove, which is the position of the posterior intermediate sulcus.
+Why the other answers are wrong:
+A. The posterior median sulcus is the groove in the dorsal midline, medial to the arrow.
+B. The posterolateral sulcus is the most lateral of the three dorsal grooves, lateral to the arrow.
+C. The anterolateral sulcus is on the ventral surface where the ventral rootlets attach.
+E. The anterior median fissure is the deep cleft in the ventral midline.
+Objective: Describe the longitudinal organization of the spinal cord, including its structural features and functional components.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1269
+A posterior view of the vertebral canal in a cadaver, with the laminae and spinous processes removed, is shown in the attached image. Which of the following is most directly supplied by the spinal nerves that arise from the region of the cord indicated by the arrow?
+![Cadaver dissection photo](library/images/msk-week-13/questions/q-nssc-02.jpg)
+A. Skin and muscles of the upper limbs
+B. Skin and deep muscles of the back only
+C. Skin and muscles of the lower limbs
+D. Skin of the face
+E. Skin and muscles of the thoracic wall only
+Answer: C. Skin and muscles of the lower limbs
+Order: Second
+Difficulty: Easy
+Reference: Cervical and lumbosacral enlargements
+Why this is correct:
+The arrow marks the widened lower part of the cord just above its tapering end, the lumbosacral enlargement. Its spinal nerves feed the lumbar and sacral plexuses that supply the lower limbs.
+Why the other answers are wrong:
+A. The upper limbs are supplied from the cervical enlargement higher in the cord.
+B. The back is supplied by dorsal rami at every level, not by one enlargement.
+D. The face is supplied by the trigeminal nerve (CN V), not by spinal nerves.
+E. The thoracic wall is supplied by thoracic nerves between the two enlargements.
+Objective: Describe the longitudinal organization of the spinal cord, including its structural features and functional components.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1270
+A student studying a dermatome map notices that the skin of the trunk is drawn as a series of horizontal bands. Which of the following best defines a dermatome?
+A. A unilateral area of skin supplied by the sensory fibers of a single spinal nerve
+B. A group of muscles supplied by the motor fibers of a single spinal nerve
+C. The area of skin supplied by one named peripheral nerve from a plexus
+D. A band of skin supplied by the dorsal rami of all of the spinal nerves
+E. A collection of sensory nerve cell bodies located outside the CNS
+Answer: A. A unilateral area of skin supplied by the sensory fibers of a single spinal nerve
+Order: First
+Difficulty: Easy
+Reference: Dermatomes and landmark levels
+Why this is correct:
+A dermatome is a unilateral area of skin supplied by a single spinal nerve, so it's segmental and matches the cord segment that gives rise to that nerve.
+Why the other answers are wrong:
+B. This defines a myotome.
+C. This is a peripheral nerve cutaneous field, which is multisegmental.
+D. Dorsal rami supply the skin of the back, and a dermatome comes from one spinal nerve, not all of them.
+E. This defines a sensory ganglion.
+Objective: Discuss the basic organization, functions, and common/distinguishing features of general sensory (afferent) fibers. Define a dermatome and explain its relationship to the spinal nerve. Briefly discuss clinical issues associated with sensory nerve fibers, including shingles.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1271
+A drawing of a spinal cord segment is shown in the attached image, with three regions of gray matter outlined in color and the dorsal surface toward the top of the image. Which of the following is found in the region indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-nssc-03.jpg)
+A. Cell bodies of lower motor neurons that supply skeletal muscle
+B. Cell bodies of pseudounipolar sensory neurons
+C. Cell bodies of postganglionic sympathetic neurons
+D. Crossing fibers from several ascending and descending tracts
+E. Cell bodies of preganglionic autonomic (visceral efferent) neurons
+Answer: E. Cell bodies of preganglionic autonomic (visceral efferent) neurons
+Order: Second
+Difficulty: Hard
+Reference: Spinal cord horns and their neurons
+Why this is correct:
+The arrow marks the small lateral projection between the dorsal and ventral horns, the lateral horn. It holds the cell bodies of visceral efferent neurons, the preganglionic sympathetic and parasympathetic neurons.
+Why the other answers are wrong:
+A. Lower motor neuron cell bodies are in the large ventral horn below the arrow.
+B. Pseudounipolar sensory cell bodies are in the dorsal root ganglia outside the cord.
+C. Postganglionic sympathetic cell bodies are in ganglia outside the CNS, not in the cord.
+D. Crossing fibers run in the anterior white commissure in front of the central canal.
+Objective: Describe the longitudinal organization of the spinal cord, including its structural features and functional components.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1272
+A drawing of a spinal cord segment is shown in the attached image, with regions of the white matter outlined in color and the dorsal surface toward the top of the image. Which of the following best describes the contents of the region indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-nssc-04.jpg)
+A. Ascending sensory tracts and descending motor tracts
+B. Ascending sensory tracts only
+C. Descending motor tracts only
+D. Crossing fibers from several tracts
+E. Cell bodies of neurons that receive sensory input
+Answer: B. Ascending sensory tracts only
+Order: Second
+Difficulty: Medium
+Reference: Spinal cord funiculi and white commissure
+Why this is correct:
+The arrow marks the white matter between the dorsal horn and the posterior midline, the posterior funiculus, which carries only ascending sensory tracts.
+Why the other answers are wrong:
+A. The anterior and lateral funiculi carry both ascending sensory and descending motor tracts.
+C. No funiculus in the lecture is described as carrying descending motor tracts alone.
+D. Crossing fibers are in the anterior white commissure in front of the central canal.
+E. Cell bodies are in gray matter, and the region shown is white matter.
+Objective: Describe the longitudinal organization of the spinal cord, including its structural features and functional components.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1273
+A stained transverse section of the spinal cord is shown in the attached image, with the gray matter outlined in pink. Which of the following regions of the cord is this section most likely from?
+![Stained cross-section](library/images/msk-week-13/questions/q-nssc-05.jpg)
+A. Cervical
+B. Thoracic
+C. Lumbar
+D. Sacral
+E. Coccygeal
+Answer: B. Thoracic
+Order: First
+Difficulty: Hard
+Reference: Cord regions by white-to-gray matter ratio
+Why this is correct:
+The section is small and round, with thin, slender gray horns, a small lateral projection, and a large amount of white matter, which fits the thoracic cord.
+Why the other answers are wrong:
+A. The cervical section is wide and oval, with a broad H of gray matter.
+C. The lumbar section has large, bulky gray horns and less white matter.
+D. In the sacral section, gray matter fills most of the section with only a thin rim of white matter.
+E. The lowest cord has very little white matter, the opposite of this section.
+Objective: Describe the longitudinal organization of the spinal cord, including its structural features and functional components.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1274
+An anterior view of two spinal cord segments and their roots is shown in the attached image. Which of the following is contained in the structure indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-nssc-06.jpg)
+A. Cell bodies of lower motor neurons
+B. Cell bodies of preganglionic sympathetic neurons
+C. Cell bodies of interneurons
+D. Axons only, with no cell bodies
+E. Cell bodies of pseudounipolar sensory neurons
+Answer: E. Cell bodies of pseudounipolar sensory neurons
+Order: Second
+Difficulty: Easy
+Reference: Spinal nerve formation: rootlets, roots, and spinal nerve; General sensory vs somatic motor fibers; Neuron structure and structural types
+Why this is correct:
+The arrow marks the swelling on the dorsal root, the dorsal root (spinal) ganglion. It holds the cell bodies of the pseudounipolar sensory neurons whose processes run in the dorsal root.
+Why the other answers are wrong:
+A. Lower motor neuron cell bodies are in the ventral horn of the cord.
+B. Preganglionic sympathetic cell bodies are in the lateral horn of the cord.
+C. Interneurons are restricted to the CNS.
+D. The spinal nerve and rami carry only axons, but the ganglion holds cell bodies.
+Objective: Describe a typical spinal nerve, including its functional components, formation, and branching pattern.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1275
+A superior view of an axial section through a thoracic vertebra and the back muscles is shown in the attached image. Which of the following is most directly supplied by the nerve branch indicated by the arrow?
+![Cross-sectional illustration](library/images/msk-week-13/questions/q-nssc-07.jpg)
+A. Muscles and skin of the upper limb
+B. Skin and muscles of the anterolateral trunk wall
+C. The sympathetic trunk through communicating branches
+D. Skin of the lower limb through the lumbar plexus
+E. Skin of the back and the deep (intrinsic) back muscles
+Answer: E. Skin of the back and the deep (intrinsic) back muscles
+Order: Second
+Difficulty: Medium
+Reference: Dorsal and ventral rami of a spinal nerve
+Why this is correct:
+The arrow marks the branch that leaves the spinal nerve and turns backward into the back muscles, the dorsal ramus, which supplies the skin of the back and the deep back muscles.
+Why the other answers are wrong:
+A. The upper limb is supplied by ventral rami through the brachial plexus.
+B. The rest of the trunk wall is supplied by the ventral ramus, which continues forward around the body wall.
+C. The rami communicantes connect the ventral ramus with the sympathetic trunk.
+D. The lower limb is supplied by ventral rami through the lumbar and sacral plexuses.
+Objective: Describe a typical spinal nerve, including its functional components, formation, and branching pattern.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1276
+A 44-year-old man comes to the clinic because of low back pain that radiates down his right leg for 3 weeks after moving furniture. A sagittal T2-weighted MRI of his lumbar spine is shown in the attached image, and the arrow indicates the abnormal disc. Which of the following movements is most likely to be weak?
+![Sagittal MRI](library/images/msk-week-13/questions/q-nssc-08.jpg)
+A. Hip flexion
+B. Knee extension
+C. Great toe extension
+D. Ankle plantar flexion
+E. Finger abduction
+Answer: C. Great toe extension
+Order: Third
+Difficulty: Medium
+Reference: Disc herniation and nerve root compression; Myotomes
+Why this is correct:
+The protrusion is at the L4/L5 disc, and a herniated disc usually compresses the root numbered one below it, the L5 root. The L5 myotome includes great toe extension.
+Why the other answers are wrong:
+A. Hip flexion is L1/L2, well above this disc.
+B. Knee extension is L3, which would be compressed by an L2/L3 disc.
+D. Ankle plantar flexion is S1, compressed by an L5/S1 disc.
+E. Finger abduction is T1, far above the lumbar spine.
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1277
+A 39-year-old woman comes to the clinic because of neck pain that radiates into her right arm for 2 weeks. MRI shows a posterolateral herniation of the C5/C6 intervertebral disc that compresses a single nerve root. Which of the following movements is most likely to be weak?
+A. Shoulder abduction
+B. Wrist extension
+C. Elbow extension
+D. Finger flexion
+E. Finger abduction
+Answer: B. Wrist extension
+Order: Third
+Difficulty: Hard
+Reference: Disc herniation and nerve root compression; Myotomes; Spinal nerve exit points through the vertebral column
+Why this is correct:
+Cervical nerves exit above their same-numbered vertebrae, so a C5/C6 disc compresses the C6 root, the same one-below rule as in the lumbar spine. The C6 myotome is wrist extension.
+Why the other answers are wrong:
+A. Shoulder abduction is C5, whose nerve exits above the C5 vertebra, above this disc.
+C. Elbow extension is C7, compressed by a C6/C7 disc.
+D. Finger flexion is C8, which exits between C7 and T1.
+E. Finger abduction is T1.
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1278
+A 52-year-old man comes to the clinic because of pain in his left anterior thigh and trouble climbing stairs for 1 month. Examination shows weakness of left knee extension, with normal hip flexion, ankle dorsiflexion, ankle plantar flexion, and great toe extension. MRI shows a single posterolateral lumbar disc herniation compressing one nerve root. Which of the following discs is most likely herniated?
+A. L1/L2
+B. L2/L3
+C. L3/L4
+D. L4/L5
+E. L5/S1
+Answer: B. L2/L3
+Order: Third
+Difficulty: Hard
+Reference: Disc herniation and nerve root compression; Myotomes
+Why this is correct:
+Isolated knee extension weakness points to the L3 myotome. A herniated disc usually compresses the root numbered one below it, so the L3 root is compressed by the L2/L3 disc.
+Why the other answers are wrong:
+A. An L1/L2 disc would compress L2 and weaken hip flexion, which is normal.
+C. An L3/L4 disc would compress L4 and weaken ankle dorsiflexion, which is normal.
+D. An L4/L5 disc would compress L5 and weaken great toe extension, which is normal.
+E. An L5/S1 disc would compress S1 and weaken ankle plantar flexion, which is normal.
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1279
+A 47-year-old woman undergoes removal of a small tumor from her cervical vertebral canal. During the operation, the right C6 ventral root is damaged, and the C6 dorsal root and its ganglion are left intact. Which of the following findings is most likely after surgery?
+A. Loss of sensation in the right C6 dermatome with normal wrist extension
+B. Loss of both sensation in the right C6 dermatome and wrist extension
+C. Weakness of wrist extension on both sides with normal sensation
+D. Loss of sensation in the right C6 dermatome and the right side of the face
+E. Weakness of right wrist extension with normal sensation in the C6 dermatome
+Answer: E. Weakness of right wrist extension with normal sensation in the C6 dermatome
+Order: Third
+Difficulty: Medium
+Reference: Spinal nerve formation: rootlets, roots, and spinal nerve; Myotomes; General sensory vs somatic motor fibers
+Why this is correct:
+The ventral root carries motor axons from ventral horn cell bodies, while the dorsal root carries the sensory processes. Losing the C6 ventral root weakens the C6 myotome (wrist extension) and spares C6 skin sensation.
+Why the other answers are wrong:
+A. Sensory loss with normal strength fits a dorsal root lesion.
+B. Loss of both fits a lesion of the mixed spinal nerve, distal to where the roots join.
+C. A one-sided root lesion can't weaken both sides.
+D. The face is supplied by the trigeminal nerve (CN V), not by C6.
+Objective: Describe a typical spinal nerve, including its functional components, formation, and branching pattern.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1280
+A 58-year-old man comes to the clinic because of numbness and tingling down his left leg. Imaging shows facet joint hypertrophy narrowing the intervertebral foramina at several lumbar levels, but his symptoms match only the L5 spinal nerve. Which of the following best explains why the L5 spinal nerve is the most vulnerable lumbar nerve to compression?
+A. It is the largest lumbar spinal nerve and passes through the smallest lumbar foramen
+B. It is the smallest lumbar spinal nerve and passes through the largest lumbar foramen
+C. It exits superior to its vertebra and so crosses two intervertebral discs
+D. It is the only lumbar spinal nerve that carries both motor and sensory fibers
+E. It passes through the epidural space without a dural root sheath around it
+Answer: A. It is the largest lumbar spinal nerve and passes through the smallest lumbar foramen
+Order: Second
+Difficulty: Medium
+Reference: Radiculopathy (pinched nerve)
+Why this is correct:
+Lumbar spinal nerves get bigger from superior to inferior while the lumbar foramina get smaller, so L5, the largest nerve in the smallest foramen, is the most vulnerable to compression.
+Why the other answers are wrong:
+B. This reverses the size relationship.
+C. Lumbar nerves exit inferior to their same-numbered vertebrae.
+D. Every spinal nerve is mixed, carrying both motor and sensory fibers.
+E. The dura surrounds each pair of nerve roots as it leaves the dural sac.
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1281
+A posterior view of the lower vertebral canal in a cadaver is shown in the attached image. Which of the following findings is most likely in a patient after sudden compression of the structures indicated by the arrow, for example by a large central disc herniation?
+![Cadaver dissection photo](library/images/msk-week-13/questions/q-nssc-09.jpg)
+A. Urinary retention with numbness of the perineum and buttocks
+B. A painful vesicular rash limited to one thoracic dermatome
+C. Weakness limited to finger abduction on one side
+D. A band of numbness at the level of the nipple
+E. Loss of sensation limited to the lateral forearm
+Answer: A. Urinary retention with numbness of the perineum and buttocks
+Order: Third
+Difficulty: Easy
+Reference: Conus medullaris, filum terminale, and cauda equina
+Why this is correct:
+The arrow marks the bundle of lumbar and sacral nerve roots below the end of the cord, the cauda equina. Compressing it causes cauda equina syndrome, a surgical emergency whose red flags include urinary retention and saddle anesthesia.
+Why the other answers are wrong:
+B. This is shingles, a reactivated virus in one sensory ganglion.
+C. Finger abduction is T1, far above the cauda equina.
+D. The nipple is the T4 dermatome, supplied well above the cauda equina.
+E. The lateral forearm is supplied by a cervical peripheral nerve (C5-C7).
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1282
+A 71-year-old woman comes to the clinic because of burning pain and itching on the left side of her trunk for 4 days, followed by the rash shown in the attached image. The rash follows a single band and stops at the midline. She had chickenpox as a child. Which of the following is the most likely site where the causative virus was dormant?
+![Clinical photo](library/images/msk-week-13/questions/q-nssc-10.jpg)
+A. Ventral horn of the spinal cord
+B. Sympathetic trunk ganglion
+C. Lateral horn of the spinal cord
+D. Ventral root of the spinal nerve
+E. Dorsal root ganglion
+Answer: E. Dorsal root ganglion
+Order: Third
+Difficulty: Easy
+Reference: Shingles and the dermatome pattern
+Why this is correct:
+A painful vesicular rash in one dermatome is shingles, reactivated varicella-zoster virus. The virus lies dormant in dorsal root ganglia (or cranial sensory ganglia) and spreads to the skin through sensory neurons.
+Why the other answers are wrong:
+A. The ventral horn holds motor neuron cell bodies, not sensory neurons.
+B. Sympathetic ganglia are autonomic, not the sensory ganglia where the virus waits.
+C. The lateral horn holds preganglionic autonomic neurons.
+D. The ventral root carries motor axons and has no cell bodies.
+Objective: Discuss the basic organization, functions, and common/distinguishing features of general sensory (afferent) fibers. Define a dermatome and explain its relationship to the spinal nerve. Briefly discuss clinical issues associated with sensory nerve fibers, including shingles.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1283
+A 66-year-old man comes to the clinic because of sharp, burning pain followed by grouped vesicles on the right side of his chest. The rash wraps around from his back to the front of his chest in a band at the level of the xiphoid process and doesn't cross the midline. Which of the following is the most likely location of the reactivated virus?
+A. Right T4 dorsal root ganglion
+B. Right T10 dorsal root ganglion
+C. Right T7 sympathetic trunk ganglion
+D. Right T7 dorsal root ganglion
+E. Right T7 ventral horn
+Answer: D. Right T7 dorsal root ganglion
+Order: Third
+Difficulty: Hard
+Reference: Shingles and the dermatome pattern; Dermatomes and landmark levels
+Why this is correct:
+The xiphoid process is the T7 landmark, and shingles shows up in the dermatome of the dorsal root ganglion where varicella-zoster virus reactivates, so the source is the right T7 dorsal root ganglion.
+Why the other answers are wrong:
+A. T4 is the nipple level.
+B. T10 is the umbilicus level.
+C. Sympathetic ganglia are autonomic, not sensory ganglia.
+E. The ventral horn holds motor neurons, not sensory cell bodies.
+Objective: Discuss the basic organization, functions, and common/distinguishing features of general sensory (afferent) fibers. Define a dermatome and explain its relationship to the spinal nerve. Briefly discuss clinical issues associated with sensory nerve fibers, including shingles.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1284
+A diagram of three spinal cord segments (1 to 3) supplying an area of skin is shown in the attached image. Which of the following best explains the pattern of skin innervation shown?
+![Anatomical illustration](library/images/msk-week-13/questions/q-nssc-11.jpg)
+A. Each spinal nerve reaches its own band of skin separately, as in the skin of the trunk
+B. Fibers of three ventral rami merge in a plexus and leave as one nerve, as in the skin of the limbs
+C. Dorsal rami of three segments join together to supply the skin of the back
+D. One spinal nerve divides into three branches that each supply a separate dermatome
+E. Three dorsal root ganglia fuse into one ganglion that supplies a single dermatome
+Answer: B. Fibers of three ventral rami merge in a plexus and leave as one nerve, as in the skin of the limbs
+Order: Second
+Difficulty: Hard
+Reference: Dermatomes vs peripheral nerve cutaneous fields
+Why this is correct:
+The three spinal nerves converge, exchange fibers, and leave as a single peripheral nerve, so the skin that one peripheral nerve supplies contains parts of three overlapping dermatomes. This multisegmental pattern comes from plexus formation and is typical of the limbs.
+Why the other answers are wrong:
+A. Separate segmental nerves to separate bands is the dermatomal pattern of the trunk, not the pattern shown.
+C. Plexuses are formed by ventral rami, not dorsal rami.
+D. The diagram shows three spinal nerves joining, not one nerve dividing.
+E. Each spinal nerve keeps its own dorsal root ganglion.
+Objective: Discuss the basic organization, functions, and common/distinguishing features of general sensory (afferent) fibers. Define a dermatome and explain its relationship to the spinal nerve. Briefly discuss clinical issues associated with sensory nerve fibers, including shingles.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1285
+A 49-year-old woman comes to the clinic because of numbness and tingling on the left side of her abdomen for 2 months. MRI shows a small tumor within the left intervertebral foramen between the T10 and T11 vertebrae, compressing the spinal nerve that exits there. Which of the following is the most likely location of her symptoms?
+A. A band at the level of the nipple
+B. A band at the level of the xiphoid process
+C. The skin over the anterior thigh
+D. The perineum and buttocks
+E. A band at the level of the umbilicus
+Answer: E. A band at the level of the umbilicus
+Order: Third
+Difficulty: Hard
+Reference: Spinal nerve exit points through the vertebral column; Dermatomes and landmark levels
+Why this is correct:
+Thoracic spinal nerves exit inferior to their same-numbered vertebrae, so the foramen between T10 and T11 holds the T10 spinal nerve. The T10 dermatome is at the umbilicus.
+Why the other answers are wrong:
+A. The nipple is T4.
+B. The xiphoid process is T7.
+C. The anterior thigh is supplied by lumbar nerves.
+D. The perineum and buttocks are supplied by sacral roots, as in saddle anesthesia.
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1286
+A 55-year-old man has a bony spur that narrows the intervertebral foramen between the C7 and T1 vertebrae on the right. Which of the following spinal nerves is most likely compressed?
+A. C6
+B. C7
+C. C8
+D. T1
+E. T2
+Answer: C. C8
+Order: Second
+Difficulty: Hard
+Reference: Spinal nerve exit points through the vertebral column; Spinal cord segments and the 31 spinal nerve pairs
+Why this is correct:
+There are 8 cervical nerves but only 7 cervical vertebrae. C1-C7 exit above their same-numbered vertebrae, so C8 exits through the foramen between C7 and T1.
+Why the other answers are wrong:
+A. C6 exits above the C6 vertebra, between C5 and C6.
+B. C7 exits above the C7 vertebra, between C6 and C7.
+D. T1 exits below the T1 vertebra, between T1 and T2.
+E. T2 exits below the T2 vertebra.
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1287
+A full-term newborn undergoes ultrasound of the lower spine shortly after birth, and the spine is normal. Which of the following is the most likely vertebral level of the tip of the conus medullaris in this infant?
+A. T12
+B. L1/L2
+C. L3
+D. L4-L5
+E. S2
+Answer: D. L4-L5
+Order: Second
+Difficulty: Hard
+Reference: Spinal cord length vs vertebral column by age
+Why this is correct:
+The vertebral column grows faster than the cord during development, so the tip of the cord rises over time. At birth the conus medullaris ends at L4-L5.
+Why the other answers are wrong:
+A. The cord doesn't end this high at any of the stages described.
+B. L1/L2 is the adult level.
+C. L3 is the level in children.
+E. S2 is where the dural sac ends, not the cord.
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1288
+A 34-year-old man is brought to the emergency department after falling from a ladder. CT shows a burst fracture of the L3 vertebral body with bone fragments pushed back into the vertebral canal. Which of the following neural structures is most likely compressed at this level?
+A. Cervical enlargement
+B. Conus medullaris
+C. Nerve roots of the cauda equina
+D. Lateral horn of the spinal cord
+E. Dorsal root ganglia of the thoracic nerves
+Answer: C. Nerve roots of the cauda equina
+Order: Third
+Difficulty: Easy
+Reference: Spinal cord extent and position in the vertebral canal; Conus medullaris, filum terminale, and cauda equina
+Why this is correct:
+In adults the cord ends at L1/L2, so at L3 the canal holds the lumbar and sacral roots that keep descending to their foramina, the cauda equina.
+Why the other answers are wrong:
+A. The cervical enlargement is in the neck.
+B. The conus medullaris ends at about L1/L2 in adults, above this fracture.
+D. The lateral horn is part of the cord, which ends above L3.
+E. Thoracic dorsal root ganglia sit at the thoracic foramina.
+Objective: Compare the relationship of the spinal cord to spinal nerves and the position of both within the vertebral column. Discuss how spinal nerves are impacted by disc herniation.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1289
+During a neurologic exam, a physician strikes a patient's patellar tendon with a reflex hammer, and the quadriceps contracts. Which of the following best describes this reflex?
+A. A voluntary contraction started by upper motor neurons in the brain
+B. A muscle contraction in response to stretching within the muscle
+C. A visceral reflex carried by preganglionic autonomic neurons
+D. A muscle relaxation in response to a painful stimulus on the skin
+E. A contraction that requires a three-neuron chain up to the cortex
+Answer: B. A muscle contraction in response to stretching within the muscle
+Order: First
+Difficulty: Medium
+Reference: Reflex arc
+Why this is correct:
+The patellar reflex is a myotatic (stretch, deep tendon) reflex, a rapid involuntary contraction in response to stretch within the muscle when its tendon is struck.
+Why the other answers are wrong:
+A. A reflex is involuntary, and its arc runs through the spinal cord.
+C. The quadriceps is skeletal muscle, supplied by somatic motor neurons.
+D. The response is contraction of the stretched muscle, not relaxation.
+E. A three-neuron chain to the cortex describes an ascending sensory pathway.
+Objective: Discuss the basic organization, functions, and common/distinguishing features of general motor (efferent) nerve fibers. Define a myotome and explain its relationship to the spinal nerve. Define a reflex and a reflex arc.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1290
+A 22-year-old man is brought to the emergency department after a motorcycle crash. Imaging shows a complete spinal cord injury at the T6 cord segment. Which of the following movements is most likely preserved?
+A. Hip flexion
+B. Knee extension
+C. Ankle plantar flexion
+D. Ankle dorsiflexion
+E. Finger abduction
+Answer: E. Finger abduction
+Order: Third
+Difficulty: Easy
+Reference: Spinal cord extent and position in the vertebral canal; Myotomes
+Why this is correct:
+In a complete injury, neural messages can't be relayed below the level of the injury. Finger abduction is the T1 myotome, above T6, so it's preserved.
+Why the other answers are wrong:
+A. Hip flexion (L1/L2) is below the injury.
+B. Knee extension (L3) is below the injury.
+C. Ankle plantar flexion (S1) is below the injury.
+D. Ankle dorsiflexion (L4/L5) is below the injury.
+Objective: Discuss the basic organization, functions, and common/distinguishing features of general motor (efferent) nerve fibers. Define a myotome and explain its relationship to the spinal nerve. Define a reflex and a reflex arc.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1291
+A superior view of a section through a vertebra and the spinal cord is shown in the attached image. Which of the following best describes the location and contents of the space indicated by the arrow?
+![Cross-sectional illustration](library/images/msk-week-13/questions/q-nssc-12.jpg)
+A. Between bone and dura; fat and the internal vertebral venous plexus
+B. Between dura and arachnoid; nothing under normal conditions
+C. Between arachnoid and pia; CSF and the vasculature of the cord
+D. Deep to the pia; the central canal and CSF
+E. Between dura and arachnoid; CSF and the nerve roots
+Answer: A. Between bone and dura; fat and the internal vertebral venous plexus
+Order: Second
+Difficulty: Easy
+Reference: Spinal meningeal spaces and the lumbar cistern
+Why this is correct:
+The arrow marks the outermost space, packed with fat and veins against the bone, which is the epidural space. It's an actual space superficial to the dura holding epidural fat and the internal vertebral venous plexus.
+Why the other answers are wrong:
+B. The subdural space is a potential space and isn't where the veins and fat are.
+C. The subarachnoid space is the dark band deeper in, next to the cord.
+D. The central canal is inside the gray matter of the cord.
+E. CSF and nerve roots are in the subarachnoid space, not between dura and arachnoid.
+Objective: Identify and describe the three meningeal layers of the spinal cord, the meningeal spaces and contents, and their clinical significance.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1292
+A posterior view of the opened vertebral canal in a cadaver is shown in the attached image, with the dura mater cut and reflected. Which of the following meningeal layers forms the structure indicated by the arrow?
+![Cadaver dissection photo](library/images/msk-week-13/questions/q-nssc-13.jpg)
+A. Dura mater
+B. Arachnoid mater
+C. Pia mater
+D. Periosteum of the vertebral canal
+E. Ligamentum flavum
+Answer: C. Pia mater
+Order: Second
+Difficulty: Medium
+Reference: Spinal meninges: dura, arachnoid, and pia
+Why this is correct:
+The arrow marks a tooth-like band running laterally from the surface of the cord toward the reflected dura, a denticulate ligament. Denticulate ligaments are extensions of the pia mater that anchor the cord in the dural sac.
+Why the other answers are wrong:
+A. The dura is the outer sac that the ligaments attach to, not their source.
+B. The arachnoid sends fine trabeculae to the pia, not denticulate ligaments.
+D. Periosteum lines bone outside the epidural space.
+E. The ligamentum flavum connects laminae and lies outside the dural sac.
+Objective: Identify and describe the three meningeal layers of the spinal cord, the meningeal spaces and contents, and their clinical significance.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1293
+A sagittal drawing of a lumbar puncture is shown in the attached image, with colored strips marking the layers the needle crosses. The needle tip has just passed through the layer indicated by the arrow. Which of the following does the needle enter next?
+![Anatomical illustration](library/images/msk-week-13/questions/q-nssc-14.jpg)
+A. Interspinous ligament
+B. Subarachnoid space
+C. Dura mater
+D. Epidural space
+E. Supraspinous ligament
+Answer: D. Epidural space
+Order: Second
+Difficulty: Hard
+Reference: Lumbar puncture needle path
+Why this is correct:
+The arrow marks the ligamentum flavum, the last ligament before the vertebral canal. The needle path runs ligamentum flavum, epidural space, dura mater, arachnoid mater, and then the subarachnoid space.
+Why the other answers are wrong:
+A. The interspinous ligament is crossed before the ligamentum flavum.
+B. The subarachnoid space is reached only after the dura and arachnoid.
+C. The dura is crossed after the epidural space.
+E. The supraspinous ligament is crossed early, just deep to the muscle.
+Objective: Explain the basic clinical relevance of a lumbar puncture, particularly its purpose, location, needle placement, and sequential tissue layers traversed during the procedure. Contrast this with an epidural block.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1294
+A 24-year-old woman is brought to the emergency department because of fever, headache, and neck stiffness. A lumbar puncture is done with her lying on her side with the trunk flexed, and the needle is inserted in the midline at the level of a line drawn between the tops of the iliac crests. Which of the following structures lies in the space from which cerebrospinal fluid is withdrawn?
+A. Conus medullaris
+B. Internal vertebral venous plexus
+C. Nerve roots of the cauda equina
+D. Epidural fat
+E. Denticulate ligaments
+Answer: C. Nerve roots of the cauda equina
+Order: Third
+Difficulty: Easy
+Reference: Lumbar puncture needle path; Spinal meningeal spaces and the lumbar cistern
+Why this is correct:
+The intercristal line marks the L4 spinous process, below the end of the cord. CSF is drawn from the lumbar cistern, the enlarged subarachnoid space that holds the cauda equina bathed in CSF.
+Why the other answers are wrong:
+A. The conus medullaris ends at about L1/L2 in adults, above the needle.
+B. The internal vertebral venous plexus is in the epidural space.
+D. Epidural fat is in the epidural space, outside the dura.
+E. The denticulate ligaments anchor the cord itself, which ends above this level.
+Objective: Explain the basic clinical relevance of a lumbar puncture, particularly its purpose, location, needle placement, and sequential tissue layers traversed during the procedure. Contrast this with an epidural block.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1295
+A 29-year-old woman in labor receives anesthetic through a needle placed as shown in the attached sagittal drawing of the lower vertebral column. Which of the following structures does the injected anesthetic act on most directly?
+![Anatomical illustration](library/images/msk-week-13/questions/q-nssc-15.jpg)
+A. Spinal nerve roots after they leave the dural sac
+B. Spinal nerve roots floating in the CSF of the lumbar cistern
+C. The conus medullaris at the end of the spinal cord
+D. The dorsal horns of the lumbar cord segments
+E. The sympathetic trunk on the front of the vertebral bodies
+Answer: A. Spinal nerve roots after they leave the dural sac
+Order: Third
+Difficulty: Medium
+Reference: Epidural anesthesia vs lumbar puncture
+Why this is correct:
+The needle enters the sacral canal through the sacral hiatus, a route for an epidural block. Anesthetic in the epidural space stays outside the dura and acts on spinal nerve roots after they exit the dural sac.
+Why the other answers are wrong:
+B. Roots in CSF are inside the dural sac, which an epidural injection doesn't enter.
+C. The conus medullaris is inside the dural sac at about L1/L2.
+D. The dorsal horns are inside the cord, within the dural sac.
+E. The sympathetic trunk lies outside the vertebral canal.
+Objective: Explain the basic clinical relevance of a lumbar puncture, particularly its purpose, location, needle placement, and sequential tissue layers traversed during the procedure. Contrast this with an epidural block.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1296
+A 68-year-old man undergoes open repair of a thoracoabdominal aortic aneurysm. During the operation, several of the left inferior intercostal and upper lumbar arteries are ligated. Which of the following findings is most likely after surgery?
+A. Bilateral leg weakness with loss of urinary and fecal continence
+B. Bilateral arm weakness with normal leg strength
+C. Weakness of one arm with normal bladder control
+D. A band of numbness limited to one thoracic dermatome
+E. Weakness of great toe extension on one side only
+Answer: A. Bilateral leg weakness with loss of urinary and fecal continence
+Order: Third
+Difficulty: Medium
+Reference: Artery of Adamkiewicz and segmental medullary arteries
+Why this is correct:
+The great anterior segmental medullary artery (of Adamkiewicz) arises from an inferior intercostal or upper lumbar artery, usually on the left, and is the major supply of the lumbar and sacral cord. Losing it causes bilateral lower extremity weakness or paralysis and loss of bladder and bowel continence.
+Why the other answers are wrong:
+B. The arms are supplied from the cervical cord, above this vessel's territory.
+C. One-sided arm weakness doesn't fit loss of supply to the lower cord.
+D. A single-dermatome band fits a single spinal nerve problem.
+E. Isolated one-sided L5 weakness fits a root compression, such as an L4/L5 disc.
+Objective: Describe the arterial supply and venous drainage of the vertebral column and spinal cord and its clinical significance.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1297
+A transverse section of the spinal cord and its arteries is shown in the attached image, with the dorsal surface toward the top of the image. A 61-year-old woman has a sudden occlusion of the vessel indicated by the arrow. Which of the following is most likely spared?
+![Cross-sectional illustration](library/images/msk-week-13/questions/q-nssc-16.jpg)
+A. Lower motor neuron cell bodies in the ventral horns
+B. Ascending sensory tracts in the posterior funiculi
+C. Descending motor tracts in the lateral funiculi
+D. Crossing fibers in the anterior white commissure
+E. Preganglionic autonomic neurons in the lateral horns
+Answer: B. Ascending sensory tracts in the posterior funiculi
+Order: Third
+Difficulty: Hard
+Reference: Anterior and posterior spinal arteries; Spinal cord funiculi and white commissure
+Why this is correct:
+The arrow marks the single vessel in the anterior median fissure, the anterior spinal artery, which supplies the anterior 2/3 of the cord. The posterior 1/3, including the posterior funiculi, is supplied by the paired posterior spinal arteries and is spared.
+Why the other answers are wrong:
+A. The ventral horns are in the anterior 2/3 of the cord.
+C. The lateral funiculi lie in the anterior 2/3 of the cord.
+D. The anterior white commissure is in front of the central canal, in the anterior territory.
+E. The lateral horns lie between the dorsal and ventral horns, in the anterior territory.
+Objective: Describe the arterial supply and venous drainage of the vertebral column and spinal cord and its clinical significance.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1298
+A 74-year-old man with prostate cancer is found to have metastases in his lumbar vertebrae and, months later, in his brain. A posterior view of the opened lumbar vertebral canal and sacrum is shown in the attached image. Which of the following features of the vessels indicated by the arrow best explains this pattern of spread?
+![Anatomical illustration](library/images/msk-week-13/questions/q-nssc-17.jpg)
+A. They are valveless veins that connect pelvic veins with vertebral and cranial veins
+B. They are high-pressure arteries that branch from the artery of Adamkiewicz
+C. They are veins that drain directly into the CSF of the subarachnoid space
+D. They are lymphatic channels that carry fluid from the prostate to the cord
+E. They are veins with one-way valves that direct blood from the cord to the pelvis
+Answer: A. They are valveless veins that connect pelvic veins with vertebral and cranial veins
+Order: Third
+Difficulty: Medium
+Reference: Spinal cord veins and Batson's plexus
+Why this is correct:
+The vessels inside the canal are the internal vertebral (epidural) venous plexus, Batson's plexus. It's valveless and communicates with deep pelvic veins such as the prostatic plexus and with the dural venous sinuses, so prostate cancer can spread to the spine, meninges, and brain.
+Why the other answers are wrong:
+B. The vessels shown are veins of the epidural space, not arteries.
+C. The spinal veins drain into the epidural plexus, not into CSF.
+D. The plexus is venous, not lymphatic.
+E. The key feature of Batson's plexus is that it has no valves.
+Objective: Describe the arterial supply and venous drainage of the vertebral column and spinal cord and its clinical significance.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1299
+A transverse section through the vertebral canal and spinal cord obtained at autopsy is shown in the attached image. Which of the following makes up most of the tissue indicated by the arrow?
+![Gross specimen photo](library/images/msk-week-13/questions/q-nssc-18.jpg)
+A. Neuronal cell bodies and interneurons
+B. Cerebrospinal fluid
+C. Epidural fat
+D. Dorsal root ganglion cells
+E. Myelinated axons
+Answer: E. Myelinated axons
+Order: Second
+Difficulty: Easy
+Reference: Gray and white matter in brain and cord sections
+Why this is correct:
+The arrow marks the pale outer zone of the cord surrounding the darker central H, which is white matter. White matter is made of myelinated axons and looks white because of the myelin.
+Why the other answers are wrong:
+A. Cell bodies and interneurons make up the central, H-shaped gray matter.
+B. CSF fills the subarachnoid space around the cord, not the cord tissue.
+C. Epidural fat lies outside the dura, between it and the bone.
+D. Dorsal root ganglia sit outside the cord in the intervertebral foramina.
+Objective: Describe the longitudinal organization of the spinal cord, including its structural features and functional components.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1300
+In the posterior white matter of the spinal cord, the fasciculus gracilis runs alongside other parallel bundles of axons, and together they form one larger region. Which of the following terms describes a group of several parallel tracts or fasciculi like this?
+A. Nucleus
+B. Column
+C. Ganglion
+D. Funiculus
+E. Ramus
+Answer: D. Funiculus
+Order: First
+Difficulty: Medium
+Reference: Neuroanatomy terms: nucleus, column, tract, ganglion, nerve
+Why this is correct:
+A funiculus is a group of several parallel tracts or fasciculi in the CNS, such as the anterior, posterior, and lateral funiculi of the spinal cord.
+Why the other answers are wrong:
+A. A nucleus is a group of related neuronal cell bodies in the CNS.
+B. A column is a longitudinal group of cell bodies in the cord, such as the intermediolateral cell column.
+C. A ganglion is a group of cell bodies in the PNS.
+E. A ramus is a bundle of axons in the PNS.
+Objective: Discuss the components of the central nervous system (CNS) and peripheral nervous system (PNS).
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1301
+A 70-year-old man has a stroke that destroys neurons in the motor cortex whose axons descend through the spinal cord and synapse on neurons in the ventral horn. Which of the following best describes the damaged neurons?
+A. First-order neurons
+B. Third-order neurons
+C. Lower motor neurons
+D. Upper motor neurons
+E. Interneurons
+Answer: D. Upper motor neurons
+Order: Second
+Difficulty: Easy
+Reference: Ascending vs descending tract neuron chains; Functional neuron types: sensory, interneuron, motor
+Why this is correct:
+Descending motor pathways use two neurons. Upper motor neurons start in the brain and travel down to synapse on lower motor neurons, whose cell bodies are in the ventral horn.
+Why the other answers are wrong:
+A. First-order neurons are the first link of an ascending sensory pathway.
+B. Third-order neurons are the last link of an ascending pathway, reaching the cortex.
+C. Lower motor neurons have their cell bodies in the ventral horn and carry the signal out to muscle.
+E. Interneurons sit between sensory and motor neurons within the CNS.
+Objective: Describe the longitudinal organization of the spinal cord, including its structural features and functional components.
+
+MSK / Week 13 / Overview of the Nervous System and Spinal Cord
+Question 1302
+Axons in the lateral funiculus of the spinal cord and axons in the sciatic nerve are both myelinated. Which of the following cells forms the myelin around the axons in the lateral funiculus?
+A. Schwann cell
+B. Satellite cell
+C. Astrocyte
+D. Oligodendrocyte
+E. Ependymal cell
+Answer: D. Oligodendrocyte
+Order: Second
+Difficulty: Medium
+Reference: Glial cell types by division (CNS vs PNS)
+Why this is correct:
+The lateral funiculus is CNS white matter, and in the CNS oligodendrocytes wrap myelin around several nerve fibers.
+Why the other answers are wrong:
+A. Schwann cells form myelin on peripheral nerve fibers such as those in the sciatic nerve.
+B. Satellite cells are PNS glia around sensory neuron cell bodies in ganglia.
+C. Astrocytes are star-shaped CNS glia with processes on capillaries and neurons.
+E. Ependymal cells line fluid-filled cavities such as the central canal.
+Objective: Discuss the components of the central nervous system (CNS) and peripheral nervous system (PNS).
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1303
+A section of nervous tissue stained with H&E is shown in the attached image. The arrow indicates the region between the cell bodies. Which of the following best describes the composition of the region indicated by the arrow?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-01.jpg)
+A. Dendrites, axons, synapses, glial processes, and microvasculature
+B. Dense irregular collagen with fibroblasts and scattered adipocytes
+C. Aggregated rough endoplasmic reticulum of the neuronal cytoplasm
+D. Loose reticular connective tissue around single myelinated axons
+E. Ependymal cells and cerebrospinal fluid of the central canal
+Answer: A. Dendrites, axons, synapses, glial processes, and microvasculature
+Order: Second
+Difficulty: Easy
+Reference: Nervous tissue organization: neurons, glia, and neuropil
+Why this is correct:
+The arrow is on neuropil, the tangled background between neuronal and glial cell bodies. The lecture defines it as dendrites, axons, synapses, glial cell processes, and microvasculature, present in both gray and white matter.
+Why the other answers are wrong:
+B. This describes epineurium of a peripheral nerve, not the space between neurons.
+C. This is Nissl substance, which sits inside the neuron cell body, not between cells.
+D. This is endoneurium inside a nerve fascicle.
+E. Ependymal cells line the central canal; they aren't the background between neurons.
+Objective: Describe the general histological features of the spinal cord, including grey versus white matter, identify components of neuropil, and define the functions of glial cells in the spinal cord of the CNS (astrocytes, oligodendrocytes, microglia, and ependymal cells) and PNS (Schwann cells and satellite cells).
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1304
+A section of nervous tissue stained with H&E is shown in the attached image. The arrow indicates dark purple clumps within the cytoplasm of a large cell. Which of the following is the primary function of the structures indicated by the arrow?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-02.jpg)
+A. Concentrating acetylcholine receptors at the postsynaptic membrane
+B. Storing age-related lipid peroxidation debris in residual bodies
+C. Moving synaptic vesicles along microtubules toward the terminal
+D. Starting the action potential through voltage-sensitive channels
+E. Synthesizing the protein the neuron uses for its own internal needs
+Answer: E. Synthesizing the protein the neuron uses for its own internal needs
+Order: Second
+Difficulty: Medium
+Reference: Nissl bodies and the axon hillock; Neuron compartments: cell body, dendrites, axon, and terminal
+Why this is correct:
+The clumps are Nissl bodies, large aggregations of rough ER in the neuron cell body. The cell body is the main site of protein synthesis, and neurons use most of that protein for internal needs rather than export.
+Why the other answers are wrong:
+A. Acetylcholine receptors sit on the muscle membrane at the neuromuscular junction.
+B. This describes lipofuscin, a brown pigment, not basophilic clumps.
+C. This is axonal transport, which runs along microtubules in the axon.
+D. The action potential starts at the initial segment of the axon, which lacks Nissl substance.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1305
+A section of nervous tissue stained with H&E is shown in the attached image. The arrow indicates a process leaving the cell body. Which of the following best explains how this process obtains new mitochondria and synaptic vesicles?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-03.jpg)
+A. It makes them locally on its own rough endoplasmic reticulum
+B. They diffuse into it from the dendrites through gap junctions
+C. They arrive from the terminal by retrograde axonal transport
+D. They are supplied by the surrounding glial cells by exocytosis
+E. They arrive from the soma by anterograde axonal transport
+Answer: E. They arrive from the soma by anterograde axonal transport
+Order: Third
+Difficulty: Hard
+Reference: Nissl bodies and the axon hillock; Axonal transport: anterograde vs. retrograde
+Why this is correct:
+The pale, tapering process without Nissl clumps is the axon, since Nissl bodies are in the cell body and dendrites but not the axon hillock or axon. The axon has no biosynthetic capability, so mitochondria and synaptic vesicles are carried from the soma toward the axon by anterograde transport.
+Why the other answers are wrong:
+A. The axon has no rough ER (no Nissl substance) and can't synthesize its own components.
+B. Gap junctions link two neurons at rare electrical synapses; they don't supply organelles.
+C. Retrograde transport carries used vesicles, damaged mitochondria, and growth factors back to the soma.
+D. Glial cells support neurons but don't supply the axon's mitochondria or synaptic vesicles.
+Objective: Identify the anterograde movement of secretory vesicles and the retrograde movement of growth factors as part of axonal transport that is required for the normal function, maintenance, and growth of neurons.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1306
+A stained preparation of a single neuron is shown in the attached image. The arrow indicates one of the many branching processes that radiate from the cell body, each covered with tiny surface projections. Which of the following best describes the role of these surface projections?
+![Light micrograph](library/images/msk-week-13/questions/q-histo-04.jpg)
+A. They are postsynaptic sites where synapses with other neurons form
+B. They are initial segments where the action potential is triggered
+C. They are terminal boutons that release transmitter by exocytosis
+D. They are nodes where the axon membrane meets extracellular fluid
+E. They are gap junctions that pass ions directly between two neurons
+Answer: A. They are postsynaptic sites where synapses with other neurons form
+Order: Second
+Difficulty: Medium
+Reference: Dendrites and dendritic spines
+Why this is correct:
+The radiating processes are dendrites, and the tiny projections are dendritic spines (about 2 µm long). Spines are postsynaptic specializations, the sites of synapses with other neurons.
+Why the other answers are wrong:
+B. The initial segment is on the single axon, just past the axon hillock.
+C. Terminal boutons are the presynaptic swellings at the end of an axon.
+D. Nodes of Ranvier are gaps in the myelin of an axon.
+E. Gap junctions form rare electrical synapses; spines are sites of synaptic input in general.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1307
+Line drawings of four neuron types, classified by the number and arrangement of their processes, are shown in the attached image. Which of the following locations most likely contains the cell bodies of the neuron type indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-histo-05.jpg)
+A. Anterior horn of the spinal cord gray matter
+B. Myenteric plexus between the gut muscle layers
+C. Retina, as receptor neurons for sight
+D. Dorsal root ganglion on the posterior nerve root
+E. Cerebral cortex, as pyramidal cells
+Answer: D. Dorsal root ganglion on the posterior nerve root
+Order: Second
+Difficulty: Easy
+Reference: Neuron shapes: multipolar, bipolar, and pseudo-unipolar; Dorsal root ganglion histology
+Why this is correct:
+The arrow marks a pseudo-unipolar neuron, whose single process splits into a peripheral and a central branch. These are the sensory neurons of dorsal root and cranial nerve ganglia.
+Why the other answers are wrong:
+A. Anterior horn motor neurons are multipolar.
+B. Myenteric ganglion cells are autonomic and multipolar.
+C. Retinal receptor neurons are bipolar.
+E. Cortical pyramidal cells are multipolar.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1308
+An electron micrograph of nervous tissue is shown in the attached image. The arrow indicates small, round, electron-lucent profiles clustered inside one cell process. Which of the following best describes the contents and fate of the structures indicated by the arrow?
+![Electron micrograph](library/images/msk-week-13/questions/q-histo-06.jpg)
+A. Peptide transmitters, released only after a high-frequency train of impulses
+B. Acetylcholinesterase, secreted into the external lamina deep in the cleft
+C. Classical transmitters, released by exocytosis into the synaptic cleft
+D. Aggregated rough ER, making protein for the cell's own internal needs
+E. Compacted membrane lipid, wrapped in layers around a neighboring axon
+Answer: C. Classical transmitters, released by exocytosis into the synaptic cleft
+Order: Second
+Difficulty: Hard
+Reference: Chemical synapse structure
+Why this is correct:
+The profiles are synaptic vesicles in a presynaptic terminal. Small electron-lucent vesicles (40 to 60 nm) hold classical non-peptide transmitters such as acetylcholine, glutamate, and GABA, and they release them by exocytosis into the synaptic cleft.
+Why the other answers are wrong:
+A. Peptide transmitters are in the larger dense core vesicles (250 to 400 nm), not the small lucent vesicles shown.
+B. Acetylcholinesterase sits with the external lamina in the clefts of the neuromuscular junction, not inside vesicles.
+D. Rough ER (Nissl substance) is in the cell body and dendrites, not packed as round vesicles in a terminal.
+E. This describes myelin, which appears as thick dark rings in the same field.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1309
+A silver-stained preparation of skeletal muscle is shown in the attached image. Thin dark fibers branch across the striated muscle fibers, and each branch ends in a dark cluster on a single muscle fiber. Which of the following is represented by each dark cluster?
+![Silver-stained micrograph](library/images/msk-week-13/questions/q-histo-07.jpg)
+A. Muscle spindle
+B. Myelin ovoid
+C. Motor end plate
+D. Dorsal root ganglion cell
+E. Node of Ranvier
+Answer: C. Motor end plate
+Order: First
+Difficulty: Easy
+Reference: Motor end plates in stained muscle
+Why this is correct:
+Silver staining shows the nerve bundle, the terminal axonal twigs, and the motor end plates on striated muscle fibers. Each twig ends in a dark cluster of synaptic boutons on one fiber, which is the motor end plate.
+Why the other answers are wrong:
+A. Muscle spindles aren't shown or described in this lecture's stained muscle preparations.
+B. Myelin ovoids are breakdown products of myelin in a degenerating nerve.
+D. Dorsal root ganglion cells are sensory cell bodies in a ganglion, not in muscle.
+E. Nodes of Ranvier are gaps between myelin segments along an axon.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1310
+An electron micrograph of the junction between a motor nerve terminal and a skeletal muscle fiber is shown in the attached image. The arrow indicates the deeply folded membrane beneath the vesicle-filled terminal. Which of the following is concentrated deeper within the clefts formed by the membrane indicated by the arrow?
+![Electron micrograph](library/images/msk-week-13/questions/q-histo-08.jpg)
+A. Acetylcholine receptors
+B. Docked synaptic vesicles
+C. Voltage-gated calcium channels
+D. Acetylcholinesterase
+E. Schwann cell cytoplasm
+Answer: D. Acetylcholinesterase
+Order: Third
+Difficulty: Hard
+Reference: Neuromuscular junction ultrastructure
+Why this is correct:
+The folded membrane is the postsynaptic muscle membrane forming secondary synaptic clefts at the neuromuscular junction. Acetylcholinesterase sits deeper in these clefts with the external lamina and deactivates acetylcholine between impulses.
+Why the other answers are wrong:
+A. Acetylcholine receptors are concentrated at the margins of the secondary clefts, not deep in them.
+B. Synaptic vesicles are in the presynaptic nerve terminal.
+C. Voltage-gated calcium channels are drawn on the presynaptic terminal in the lecture's synapse diagram.
+E. Schwann cell cytoplasm caps the nerve terminal on the side away from the muscle.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1311
+An H&E section of a peripheral ganglion is shown in the attached image. The arrow indicates one of the small round nuclei at the edge of a large cell body. Which of the following is the main function of the cell indicated by the arrow?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-09.jpg)
+A. Forming the myelin sheath around one internode of one axon
+B. Lining the central canal and regulating cerebrospinal fluid
+C. Phagocytosing damaged material as the resident macrophage
+D. Giving structural and metabolic support to the neuron cell body
+E. Forming a blood-nerve barrier with tight junctions around fascicles
+Answer: D. Giving structural and metabolic support to the neuron cell body
+Order: Second
+Difficulty: Easy
+Reference: Satellite cells in PNS ganglia; Glial cell functions in the spinal cord and PNS
+Why this is correct:
+Small round nuclei ringing a ganglion cell body belong to satellite cells, one of the only two glial types in the PNS. They give the neurons structural and metabolic support.
+Why the other answers are wrong:
+A. Schwann cells form myelin around axons.
+B. Ependymal cells line the central canal.
+C. Microglia are the resident macrophages of the CNS.
+E. Perineurial cells form the blood-nerve barrier.
+Objective: Define the general features of neurons and glial cells in the peripheral nervous system.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1312
+A longitudinal H&E section of a peripheral nerve is shown in the attached image. The arrow indicates an elongated nucleus lying along the nerve fibers. Which of the following best describes how the cell indicated by the arrow relates to the axons around it?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-10.jpg)
+A. It wraps segments of several different axons at the same time
+B. It lines a fluid-filled canal as a cuboidal or columnar epithelium
+C. It surrounds a neuron cell body as a complete capsule layer
+D. It phagocytoses debris as the resident macrophage of the nerve
+E. It wraps one internode of a single axon in compacted membrane
+Answer: E. It wraps one internode of a single axon in compacted membrane
+Order: Second
+Difficulty: Hard
+Reference: Schwann cells in peripheral nerve; Glial cell functions in the spinal cord and PNS
+Why this is correct:
+Elongated nuclei lying along the fibers of a peripheral nerve are mostly Schwann cell nuclei. Each Schwann cell wraps its membrane many times around one axon to form one internode of myelin, so an axon needs many Schwann cells along its length.
+Why the other answers are wrong:
+A. One oligodendrocyte myelinates several axons, but that's in the CNS.
+B. Ependymal cells line the ventricles and central canal.
+C. Satellite cells form the capsule around ganglion cell bodies.
+D. Microglia are the resident macrophages, and they're in the CNS.
+Objective: Describe the structure, function, production, and maintenance of the myelin sheaths of axons in the PNS. Describe the difference between myelinated and unmyelinated axons in the PNS.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1313
+A cross section of a peripheral nerve fascicle obtained at autopsy from a man with no neurologic disease, stained with H&E, is shown in the attached image. The arrow indicates a clear ring surrounding a small pink dot. Which of the following best explains why the ring appears empty?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-11.jpg)
+A. It is endoneurial fluid isolated by the perineurial cells
+B. It is a myelin ovoid left behind after Wallerian degeneration
+C. It is the uncompacted mesaxon of an unmyelinated axon channel
+D. It is a lipid-rich myelin sheath that doesn't stain with H&E
+E. It is the pale axon hillock that has little Nissl substance
+Answer: D. It is a lipid-rich myelin sheath that doesn't stain with H&E
+Order: Second
+Difficulty: Medium
+Reference: Myelinated nerve fibers: H&E cross section and EM; Myelin sheath formation by Schwann cells
+Why this is correct:
+Each pink dot is an axon, and the clear ring around it is its myelin sheath. Myelin is about 70% lipid and 30% protein, so it doesn't stain with H&E and shows up as white space.
+Why the other answers are wrong:
+A. Perineurial cells isolate endoneurial fluid inside the whole fascicle, not in a ring around each axon.
+B. Myelin ovoids appear in degenerating nerve; this nerve is from a person without neurologic disease.
+C. Unmyelinated axons have no myelin rings around them.
+E. The axon hillock is part of the neuron cell body, which isn't in a peripheral nerve.
+Objective: Describe the structure, function, production, and maintenance of the myelin sheaths of axons in the PNS. Describe the difference between myelinated and unmyelinated axons in the PNS.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1314
+A longitudinal section of a peripheral nerve is shown in the attached image. The arrow indicates a narrowing of a nerve fiber between two adjacent segments of its covering. Which of the following best describes the function of the site indicated by the arrow?
+![Light micrograph](library/images/msk-week-13/questions/q-histo-12.jpg)
+A. It allows depolarization that makes the impulse jump between segments
+B. It is where the axon synthesizes the protein it needs for its own use
+C. It is where a Schwann cell holds several unmyelinated axons in channels
+D. It is where the axon releases neurotransmitter onto a muscle fiber
+E. It isolates the endoneurial fluid from the general extracellular space
+Answer: A. It allows depolarization that makes the impulse jump between segments
+Order: Second
+Difficulty: Easy
+Reference: Nodes of Ranvier and saltatory conduction
+Why this is correct:
+The site is a node of Ranvier, the gap between two adjacent myelin sheaths. Nodes have a high density of voltage-dependent ion channels, and depolarization happens only there, so the impulse jumps from node to node (saltatory conduction).
+Why the other answers are wrong:
+B. The axon has no biosynthetic capability.
+C. This describes unmyelinated fibers, which have no nodes.
+D. Transmitter release onto muscle happens at the motor end plate.
+E. The perineurium isolates the endoneurial fluid.
+Objective: Describe the structure, function, production, and maintenance of the myelin sheaths of axons in the PNS. Describe the difference between myelinated and unmyelinated axons in the PNS.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1315
+A diagram of a single Schwann cell and its associated axons in cross section is shown in the attached image. Which of the following best describes impulse conduction along the axon indicated by the arrow?
+![Cross-sectional illustration](library/images/msk-week-13/questions/q-histo-13.jpg)
+A. Saltatory conduction that jumps between nodes of Ranvier
+B. No conduction, because the axon lacks any Schwann cell sheath
+C. Bidirectional ion flow through gap junctions with neighboring axons
+D. Continuous conduction that is slower than in myelinated fibers
+E. Local graded potentials only, without any action potential
+Answer: D. Continuous conduction that is slower than in myelinated fibers
+Order: Second
+Difficulty: Medium
+Reference: Unmyelinated axons in peripheral nerve
+Why this is correct:
+One Schwann cell holding several axons, each sunk into its own channel without myelin wraps, shows unmyelinated fibers. Without myelin there are no nodes of Ranvier, so conduction is continuous and slower.
+Why the other answers are wrong:
+A. Saltatory conduction needs myelin and nodes, which unmyelinated fibers lack.
+B. The axon does have a Schwann cell sheath; there are no bare axons in the PNS.
+C. Gap junctions form rare electrical synapses between neurons, not links between axons in a nerve.
+E. Graded potentials are the dendrite's response to transmitter; axons conduct action potentials.
+Objective: Describe the structure, function, production, and maintenance of the myelin sheaths of axons in the PNS. Describe the difference between myelinated and unmyelinated axons in the PNS.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1316
+A cross section of a peripheral nerve is shown in the attached image. The arrow indicates the tissue at the edge of one of the round bundles of nerve fibers. Which of the following is a function of the layer indicated by the arrow?
+![Light micrograph](library/images/msk-week-13/questions/q-histo-14.jpg)
+A. Wrapping single myelinated axons in loose reticular tissue
+B. Merging with the dura mater and storing fat between bundles
+C. Forming the blood-nerve barrier with tight-junctioned cells
+D. Forming compact myelin around one internode of one axon
+E. Giving metabolic support to the neuron cell bodies
+Answer: C. Forming the blood-nerve barrier with tight-junctioned cells
+Order: Second
+Difficulty: Hard
+Reference: Epineurium, perineurium, and endoneurium on slides; Peripheral nerve connective tissue layers
+Why this is correct:
+The thin dense rim hugging a single fascicle is the perineurium. Its epithelial-like cells are joined by tight junctions and have a basement membrane, so they isolate the endoneurial fluid and form the blood-nerve barrier.
+Why the other answers are wrong:
+A. This is the endoneurium, inside the fascicle.
+B. This is the epineurium, which fills the space between fascicles.
+D. Schwann cells form myelin.
+E. Satellite cells support neuron cell bodies in ganglia.
+Objective: Define the general features of neurons and glial cells in the peripheral nervous system.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1317
+A low-power cross section of a peripheral nerve with several fascicles is shown in the attached image. Which of the following layers is indicated by the arrow?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-15.jpg)
+A. Endoneurium
+B. Perineurium
+C. Endomysium
+D. Epineurium
+E. Dura mater
+Answer: D. Epineurium
+Order: First
+Difficulty: Medium
+Reference: Epineurium, perineurium, and endoneurium on slides
+Why this is correct:
+The arrow points to the dense connective tissue between fascicles, which holds blood vessels and fat. Epineurium surrounds the whole nerve and fills the space between its fascicles.
+Why the other answers are wrong:
+A. Endoneurium is the delicate tissue inside a fascicle around single fibers.
+B. Perineurium is the thin rim hugging each individual fascicle.
+C. Endomysium surrounds muscle fibers; the endoneurium becomes continuous with it at the end plate.
+E. The epineurium merges with the dura mater only at the nerve's proximal end.
+Objective: Define the general features of neurons and glial cells in the peripheral nervous system.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1318
+Toluidine blue cross sections of an undamaged peripheral nerve (A) and a damaged peripheral nerve (B) are shown in the attached image. Which of the following structures is stained as the dark blue rings in panel A?
+![Light micrograph](library/images/msk-week-13/questions/q-histo-16.jpg)
+A. Perineurium
+B. Axolemma
+C. Schwann cell nuclei
+D. Basal lamina
+E. Myelin sheaths
+Answer: E. Myelin sheaths
+Order: First
+Difficulty: Easy
+Reference: Peripheral nerve degeneration and regeneration
+Why this is correct:
+Toluidine blue stains myelin dark blue, so each myelinated fiber is a dark ring around a pale axon. Degeneration and regeneration show up as an abnormal myelin pattern, as in panel B.
+Why the other answers are wrong:
+A. Perineurium wraps a whole fascicle, not each fiber.
+B. The axon is the pale center of each ring.
+C. Schwann cell nuclei are scattered, not rings around every axon.
+D. Basal lamina is a thin covering, not the thick dark rings shown.
+Objective: Describe how neurons and their associated glia respond following nerve injury. Discuss the structural and functional alterations seen in peripheral nerves undergoing axonal (“Wallerian”) degeneration and axonal regeneration (or not) following injury.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1319
+A 34-year-old man comes to the clinic 3 weeks after a deep forearm laceration that transected a peripheral nerve. A longitudinal H&E section of the nerve segment distal to the injury is shown in the attached image. The arrow indicates one of many elongated nuclei lined up along the degenerated fibers. Which of the following is the main role of the cells indicated by the arrow during recovery?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-17.jpg)
+A. Phagocytosing myelin debris as infiltrating blood-borne macrophages
+B. Forming bands that guide axon sprouts growing from the proximal stump
+C. Synthesizing new axonal protein to rebuild the distal axon segment
+D. Laying down dense collagen that walls off the distal nerve stump
+E. Sealing the endoneurial fluid behind a new blood-nerve barrier
+Answer: B. Forming bands that guide axon sprouts growing from the proximal stump
+Order: Third
+Difficulty: Medium
+Reference: Wallerian degeneration histology; Peripheral nerve degeneration and regeneration
+Why this is correct:
+In the distal segment the axon and myelin break down (Wallerian degeneration), and Schwann cells proliferate into lines of elongated nuclei called bands of Büngner. These bands guide the axonal sprouts that grow from the proximal stump.
+Why the other answers are wrong:
+A. Macrophages have dark, irregular nuclei; they clear debris but don't form the guiding bands.
+C. Protein for the axon is made in the neuron cell body, not by cells in the distal stump.
+D. Walling off the stump would block regrowth; the lecture describes Schwann cells promoting it.
+E. The blood-nerve barrier is formed by perineurial cells around the fascicle.
+Objective: Describe how neurons and their associated glia respond following nerve injury. Discuss the structural and functional alterations seen in peripheral nerves undergoing axonal (“Wallerian”) degeneration and axonal regeneration (or not) following injury.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1320
+A 41-year-old woman sustained a crush injury to the leg 10 days ago that cut off the axons of a peripheral nerve. A cross section of a nerve fascicle distal to the injury is shown in the attached image. Which of the following best explains the many clear vacuoles and pale ovoid profiles in this fascicle?
+![Light micrograph](library/images/msk-week-13/questions/q-histo-18.jpg)
+A. Myelin around intact axons is lost over a few segments by autoimmune attack
+B. Myelin of the distal fibers is breaking down after their axons were cut off
+C. Normal myelin is dissolved during tissue processing, so it doesn't stain
+D. Schwann cells hold several unmyelinated axons in separate channels
+E. Lipofuscin accumulates in lysosomal residual bodies as neurons age
+Answer: B. Myelin of the distal fibers is breaking down after their axons were cut off
+Order: Third
+Difficulty: Hard
+Reference: Wallerian degeneration histology; Axonal vs. demyelinating neuropathy
+Why this is correct:
+Distal to the injury the axons fragment and the myelin breaks down into myelin ovoids, seen as clear vacuolated spaces and pale ovoid structures. This is Wallerian degeneration, which begins within 24 to 48 hours after injury.
+Why the other answers are wrong:
+A. Autoimmune segmental demyelination with intact axons is the Guillain-Barré pattern, not a crush injury.
+C. Unstained myelin makes regular clear rings in normal nerve, not a disorganized field of ovoids.
+D. Unmyelinated fibers are a normal arrangement and don't produce vacuoles.
+E. Lipofuscin is a brown pigment in neuron cell bodies, not in a nerve fascicle.
+Objective: Describe how neurons and their associated glia respond following nerve injury. Discuss the structural and functional alterations seen in peripheral nerves undergoing axonal (“Wallerian”) degeneration and axonal regeneration (or not) following injury.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1321
+A stained cross section of the spinal cord is shown in the attached image. Which of the following is the most likely site where the axons of neurons in the region indicated by the arrow form synapses?
+![Light micrograph](library/images/msk-week-13/questions/q-histo-19.jpg)
+A. Dorsal root ganglia on the posterior nerve roots
+B. Motor end plates on skeletal muscle fibers
+C. Sympathetic ganglia beside the vertebral column
+D. Posterior horn neurons relaying pain and temperature
+E. Myenteric ganglia between the gut muscle layers
+Answer: C. Sympathetic ganglia beside the vertebral column
+Order: Third
+Difficulty: Hard
+Reference: Spinal cord histology: gray and white matter; Autonomic and sympathetic ganglion histology
+Why this is correct:
+The arrow marks the small lateral horn, present in thoracic and upper lumbar segments, which holds the cell bodies of sympathetic efferent neurons. These preganglionic axons synapse on multipolar postganglionic neurons in sympathetic ganglia, which lie next to the vertebral column.
+Why the other answers are wrong:
+A. Dorsal root ganglia are sensory and have no synapses.
+B. Motor end plates are supplied by anterior horn motor neurons.
+D. Posterior horn neurons receive sensory input, not lateral horn output.
+E. Myenteric ganglia are parasympathetic, and the lateral horn is sympathetic.
+Objective: Describe the general histological features of the spinal cord, including grey versus white matter, identify components of neuropil, and define the functions of glial cells in the spinal cord of the CNS (astrocytes, oligodendrocytes, microglia, and ependymal cells) and PNS (Schwann cells and satellite cells).
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1322
+An H&E cross section of the spinal cord is shown in the attached image. Which of the following is the most likely ending site of axons from the large neurons in the region indicated by the arrow?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-20.jpg)
+A. Motor end plates on skeletal muscle fibers
+B. Postganglionic neurons in sympathetic ganglia
+C. Second-order neurons in the posterior horn
+D. Satellite cells of the dorsal root ganglion
+E. Ependymal cells lining the central canal
+Answer: A. Motor end plates on skeletal muscle fibers
+Order: Third
+Difficulty: Easy
+Reference: Spinal cord histology: gray and white matter; Afferent vs. efferent fibers and the motor unit
+Why this is correct:
+The arrow is on the anterior horn, on the same side as the deep ventral fissure, which holds the large alpha lower motor neurons. Their efferent axons end on skeletal muscle at motor end plates.
+Why the other answers are wrong:
+B. Sympathetic preganglionic neurons are in the lateral horn.
+C. Posterior horn neurons receive sensory input.
+D. Satellite cells support sensory neuron cell bodies; they don't receive motor axons.
+E. Ependymal cells line the central canal and regulate CSF.
+Objective: Describe the general histological features of the spinal cord, including grey versus white matter, identify components of neuropil, and define the functions of glial cells in the spinal cord of the CNS (astrocytes, oligodendrocytes, microglia, and ependymal cells) and PNS (Schwann cells and satellite cells).
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1323
+An H&E cross section of the spinal cord is shown in the attached image. Which of the following is the main function of the cells lining the space indicated by the arrow?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-21.jpg)
+A. Phagocytosing damaged cells as resident macrophages
+B. Forming myelin around several axons at the same time
+C. Forming an important part of the blood-brain barrier
+D. Giving structural support to ganglion cell bodies
+E. Helping regulate the contents of cerebrospinal fluid
+Answer: E. Helping regulate the contents of cerebrospinal fluid
+Order: Second
+Difficulty: Easy
+Reference: Spinal cord histology: gray and white matter; Glial cell functions in the spinal cord and PNS
+Why this is correct:
+The arrow marks the central canal, which lies in the central commissure of gray matter and contains CSF. It's lined by ependymal cells, a simple cuboidal or columnar epithelium that helps regulate CSF contents.
+Why the other answers are wrong:
+A. This is microglia.
+B. This is oligodendrocytes.
+C. This is astrocytes.
+D. This is satellite cells in PNS ganglia.
+Objective: Describe the general histological features of the spinal cord, including grey versus white matter, identify components of neuropil, and define the functions of glial cells in the spinal cord of the CNS (astrocytes, oligodendrocytes, microglia, and ependymal cells) and PNS (Schwann cells and satellite cells).
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1324
+An H&E section of the spinal cord at high magnification is shown in the attached image. The arrow indicates one of many round, empty-looking rings, each around a small axon. Which of the following cells produced the structure that forms these rings?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-22.jpg)
+A. Schwann cells, each wrapping one internode of a single axon
+B. Microglia, each removing damaged material from the tract
+C. Astrocytes, each forming part of the blood-brain barrier
+D. Satellite cells, each forming a capsule around a cell body
+E. Oligodendrocytes, each wrapping segments of several axons
+Answer: E. Oligodendrocytes, each wrapping segments of several axons
+Order: Third
+Difficulty: Hard
+Reference: Spinal cord histology at high power: tracts and motor neurons; Glial cell functions in the spinal cord and PNS
+Why this is correct:
+The field is spinal cord white matter, where tracts cut in cross section look like empty myelin sheaths around axons because myelin doesn't stain with H&E. In the CNS, oligodendrocytes form myelin, and each one myelinates multiple axons.
+Why the other answers are wrong:
+A. Schwann cells form myelin only in the PNS.
+B. Microglia are phagocytes and don't form myelin.
+C. Astrocytes contribute to the blood-brain barrier, not myelin.
+D. Satellite cells surround neuron cell bodies in PNS ganglia.
+Objective: Describe the general histological features of the spinal cord, including grey versus white matter, identify components of neuropil, and define the functions of glial cells in the spinal cord of the CNS (astrocytes, oligodendrocytes, microglia, and ependymal cells) and PNS (Schwann cells and satellite cells).
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1325
+An H&E section of a peripheral ganglion is shown in the attached image. Which of the following best describes the neurons in this ganglion and their connections?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-23.jpg)
+A. Multipolar neurons that receive synapses from preganglionic axons
+B. Pseudo-unipolar neurons, with no synapses inside the ganglion
+C. Bipolar neurons that serve as receptors for smell and sight
+D. Multipolar motor neurons whose axons end on skeletal muscle
+E. Widely spaced neurons whose axons leave the ganglion unmyelinated
+Answer: B. Pseudo-unipolar neurons, with no synapses inside the ganglion
+Order: Third
+Difficulty: Medium
+Reference: Dorsal root ganglion histology; Neuron shapes: multipolar, bipolar, and pseudo-unipolar
+Why this is correct:
+Large, round, tightly packed neurons, each ringed by a complete layer of satellite cells, mark a dorsal root (sensory) ganglion. Its neurons are pseudo-unipolar, so there are no synapses inside a sensory ganglion.
+Why the other answers are wrong:
+A. Multipolar neurons with synapses describe autonomic ganglia.
+C. Bipolar neurons are receptor neurons for smell, sight, and balance, not ganglion cells of the dorsal root.
+D. Motor neurons to skeletal muscle are in the anterior horn of the spinal cord.
+E. Widely spaced neurons with unmyelinated postganglionic axons describe autonomic ganglia.
+Objective: Describe the general histologic features of a ganglion (ganglia) in the PNS) and identify the different types of cells (neurons, satellite cells, Schwann cells) within. Be able to identify the dorsal root (sensory) ganglia, myenteric ganglia (Auerbach’s plexus, intramural ganglia, parasympathetic ganglia), and sympathetic ganglia.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1326
+An H&E section of a peripheral ganglion is shown in the attached image. Which of the following best describes the axons that leave this ganglion to reach their target cells?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-24.jpg)
+A. Unmyelinated axons that end on smooth muscle, cardiac muscle, or glands
+B. Central processes of sensory neurons that enter the posterior horn
+C. Lightly myelinated axons whose cell bodies lie in the lateral horn
+D. Myelinated motor axons that end on motor end plates of skeletal muscle
+E. Peripheral processes of bipolar neurons that serve smell and balance
+Answer: A. Unmyelinated axons that end on smooth muscle, cardiac muscle, or glands
+Order: Second
+Difficulty: Hard
+Reference: Autonomic and sympathetic ganglion histology
+Why this is correct:
+Widely spaced multipolar neurons with eccentric nuclei, brown lipofuscin, and few, irregularly placed satellite cells mark a sympathetic (autonomic) ganglion. Its postganglionic axons are unmyelinated and run to target cells in smooth muscle, cardiac muscle, and glands.
+Why the other answers are wrong:
+B. Central processes into the cord come from dorsal root ganglion neurons, which are tightly packed with a complete satellite layer.
+C. These are the preganglionic axons that enter the ganglion and synapse there.
+D. Motor axons to skeletal muscle come from anterior horn neurons.
+E. Bipolar receptor neurons aren't found in these ganglia.
+Objective: Describe the general histologic features of a ganglion (ganglia) in the PNS) and identify the different types of cells (neurons, satellite cells, Schwann cells) within. Be able to identify the dorsal root (sensory) ganglia, myenteric ganglia (Auerbach’s plexus, intramural ganglia, parasympathetic ganglia), and sympathetic ganglia.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1327
+An H&E section of the wall of the gastrointestinal tract is shown in the attached image. Which of the following is indicated by the arrow?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-25.jpg)
+A. Dorsal root ganglion
+B. Sympathetic chain ganglion
+C. Myenteric (Auerbach's) plexus ganglion
+D. Cluster of anterior horn motor neurons
+E. Peripheral nerve fascicle
+Answer: C. Myenteric (Auerbach's) plexus ganglion
+Order: First
+Difficulty: Medium
+Reference: Myenteric plexus ganglion histology; PNS ganglia: definition and types
+Why this is correct:
+A small cluster of ganglion cells with large nuclei and prominent nucleoli, scattered in the supporting tissue of the gut wall between muscle layers, is a myenteric (Auerbach's) plexus ganglion. These are parasympathetic ganglia.
+Why the other answers are wrong:
+A. Dorsal root ganglia sit on the posterior nerve roots, not in the gut wall.
+B. Sympathetic ganglia lie next to the vertebral column.
+D. Anterior horn neurons are in the spinal cord.
+E. A nerve fascicle contains axons and Schwann cells, not ganglion cell bodies.
+Objective: Describe the general histologic features of a ganglion (ganglia) in the PNS) and identify the different types of cells (neurons, satellite cells, Schwann cells) within. Be able to identify the dorsal root (sensory) ganglia, myenteric ganglia (Auerbach’s plexus, intramural ganglia, parasympathetic ganglia), and sympathetic ganglia.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1328
+An H&E section of a sensory ganglion is shown in the attached image. The arrow indicates brownish granules in the cytoplasm of a neuron. Which of the following best describes the material indicated by the arrow?
+![H&E micrograph](library/images/msk-week-13/questions/q-histo-26.jpg)
+A. Aggregated rough ER that makes protein for the neuron
+B. Lysosomal residual bodies of lipid peroxidation debris
+C. Myelin ovoids from nerve fibers that are degenerating
+D. Synaptic vesicles clustered at a presynaptic active zone
+E. Granules of growth factor made by repair Schwann cells
+Answer: B. Lysosomal residual bodies of lipid peroxidation debris
+Order: Second
+Difficulty: Medium
+Reference: Lipofuscin and satellite cells in sensory ganglia
+Why this is correct:
+The brown granular pigment is lipofuscin. It forms by lipid peroxidation, builds up with age in the lysosomal compartment of postmitotic cells such as neurons, and is cellular debris held in residual bodies.
+Why the other answers are wrong:
+A. Nissl substance stains dark purple, not brown.
+C. Myelin ovoids are clear vacuoles in degenerating nerve fibers.
+D. Synaptic vesicles are seen by electron microscopy in terminals, and there are no synapses in a sensory ganglion.
+E. Schwann cells secrete neurotrophic factors after injury; they aren't stored as brown granules in neurons.
+Objective: Describe the general histologic features of a ganglion (ganglia) in the PNS) and identify the different types of cells (neurons, satellite cells, Schwann cells) within. Be able to identify the dorsal root (sensory) ganglia, myenteric ganglia (Auerbach’s plexus, intramural ganglia, parasympathetic ganglia), and sympathetic ganglia.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1329
+A diagram of the stages of myelin formation in a peripheral nerve is shown in the attached image. Which of the following is indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-histo-27.jpg)
+A. Node of Ranvier
+B. Internode
+C. Schmidt-Lanterman cleft
+D. Mesaxon
+E. Major dense line
+Answer: D. Mesaxon
+Order: First
+Difficulty: Hard
+Reference: Myelin sheath formation by Schwann cells
+Why this is correct:
+After a single axon sinks into a Schwann cell, the double layer of Schwann cell surface membrane linking the axon to the cell surface is the mesaxon. It then rotates around the axon to lay down the concentric layers that compact into myelin.
+Why the other answers are wrong:
+A. A node of Ranvier is a gap between two adjacent myelin segments along an axon.
+B. An internode is the whole myelin segment made by one Schwann cell.
+C. Schmidt-Lanterman clefts are within an already formed myelin sheath.
+E. The major dense line is the fused cytoplasmic leaflets inside compacted myelin.
+Objective: Describe the structure, function, production, and maintenance of the myelin sheaths of axons in the PNS. Describe the difference between myelinated and unmyelinated axons in the PNS.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1330
+A researcher applies a toxin that blocks voltage-sensitive ion channels only in the short stretch of a multipolar neuron's axon between the axon hillock and the start of the myelin sheath. The dendrites still receive neurotransmitter from input cells. Which of the following is the most likely effect on the neuron?
+A. Its dendrites can no longer respond with local graded potentials
+B. Action potentials can no longer be started to travel down the axon
+C. Saltatory conduction continues, but synaptic vesicles can't dock
+D. Retrograde transport of growth factors to the soma stops entirely
+E. Nissl substance disappears from the cell body and the dendrites
+Answer: B. Action potentials can no longer be started to travel down the axon
+Order: Third
+Difficulty: Hard
+Reference: Neuron compartments: cell body, dendrites, axon, and terminal
+Why this is correct:
+The region between the hillock and the start of the myelin is the initial segment, which has a high density of voltage-sensitive ion channels. The action potential starts there, so blocking it stops impulses from being sent down the axon even though the dendrites still respond.
+Why the other answers are wrong:
+A. Dendrites respond to transmitter with local graded potentials, and their receptors aren't blocked.
+C. Without action potentials there's nothing to conduct, and docking of vesicles isn't what the toxin targets.
+D. Retrograde transport runs along microtubules and doesn't depend on these channels.
+E. Nissl substance is rough ER and isn't affected by blocking ion channels.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1331
+A 27-year-old man has a crush injury to a peripheral nerve in his arm. In the distal stump, Schwann cells change into a repair phenotype and secrete nerve growth factor near the tips of the sprouting axons. Which of the following best describes how this signal reaches the neuron cell body?
+A. Anterograde axonal transport from the terminal toward the soma
+B. Retrograde axonal transport from the axon toward the soma
+C. Anterograde axonal transport from the soma toward the axon
+D. Retrograde axonal transport from the soma toward the axon
+E. Diffusion through gap junctions between the Schwann cell and axon
+Answer: B. Retrograde axonal transport from the axon toward the soma
+Order: Third
+Difficulty: Hard
+Reference: Axonal transport: anterograde vs. retrograde; Peripheral nerve degeneration and regeneration
+Why this is correct:
+After injury, repair Schwann cells secrete neurotrophic factors such as NGF, BDNF, and GDNF. Growth factors taken up by the axon are carried from the axon toward the soma by retrograde transport.
+Why the other answers are wrong:
+A. Anterograde transport runs from the soma toward the axon, not toward the soma.
+C. This direction carries mitochondria, enzymes, and synaptic vesicles out to the axon.
+D. Retrograde transport runs toward the soma, not away from it.
+E. Gap junctions link neurons at electrical synapses; they aren't how growth factors reach the soma.
+Objective: Identify the anterograde movement of secretory vesicles and the retrograde movement of growth factors as part of axonal transport that is required for the normal function, maintenance, and growth of neurons.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1332
+Two neurons in a tissue sample are found to have their cell membranes linked by gap junction channels at their point of contact. Which of the following best describes signal transmission at this junction?
+A. One-way transmission by transmitter diffusing across a cleft
+B. Bidirectional, very rapid flow of ions directly between the cells
+C. Slow transmission through G protein-coupled receptors alone
+D. Transmission that ends when acetylcholinesterase acts in the cleft
+E. Saltatory jumps between the nodes of Ranvier on both cells
+Answer: B. Bidirectional, very rapid flow of ions directly between the cells
+Order: Second
+Difficulty: Easy
+Reference: Synapse types: contact sites and electrical vs. chemical
+Why this is correct:
+Gap junction channels between two neurons form an electrical synapse. Ions flow directly between the cells, so transmission is bidirectional and very rapid.
+Why the other answers are wrong:
+A. This describes a chemical synapse, which has a synaptic cleft.
+C. G protein-coupled receptors are on the postsynaptic membrane of chemical synapses.
+D. Acetylcholinesterase acts at the neuromuscular junction, a chemical synapse.
+E. Saltatory conduction happens along myelinated axons, not across a synapse.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1333
+A physiologist compares two skeletal muscles, one used for large, forceful postural movements and one used for very precise, fine movements. Which of the following best describes the motor units of the muscle used for precise movements?
+A. Each motor neuron supplies more than a thousand muscle fibers
+B. Each motor axon ends on a single fiber without branching at all
+C. Each motor end plate releases norepinephrine, not acetylcholine
+D. Each motor unit includes a pseudo-unipolar sensory neuron
+E. Each motor neuron supplies only a small number of muscle fibers
+Answer: E. Each motor neuron supplies only a small number of muscle fibers
+Order: Third
+Difficulty: Medium
+Reference: Afferent vs. efferent fibers and the motor unit
+Why this is correct:
+A motor unit is one motor neuron plus all the muscle fibers it supplies. One motor neuron may supply a few to more than a thousand fibers depending on how precise the muscle's movement is, so precise muscles have small motor units.
+Why the other answers are wrong:
+A. Large motor units fit muscles used for less precise, forceful movement.
+B. Each motor axon forms many branches before ending, and each branch synapses with one fiber.
+C. Acetylcholine is the transmitter at the somatic neuromuscular junction.
+D. A motor unit is made of a motor neuron and muscle fibers; sensory neurons are afferent.
+Objective: Describe the histological and structural features of multipolar, bipolar, and unipolar neurons (neuronal cell bodies, dendrites, and axons), explaining their roles in receiving and propagating (transmitting) nerve signals. Identify the major features of chemical synapses such as at the neuromuscular junction.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1334
+A 58-year-old woman receiving paclitaxel, a taxane, for breast cancer comes to the clinic because of tingling, numbness, and burning pain in both hands and feet that began during treatment. Her symptoms have worsened with each cycle. Which of the following is the most likely cause of her symptoms?
+A. An inherited defect in myelin formation in peripheral nerves
+B. An autoimmune attack on peripheral myelin after an infection
+C. Direct damage to the peripheral nerves by the chemotherapy drug
+D. Loss of the anterior horn motor neurons in the spinal cord
+E. Compression of a single nerve root as it exits the spinal canal
+Answer: C. Direct damage to the peripheral nerves by the chemotherapy drug
+Order: Third
+Difficulty: Easy
+Reference: Peripheral neuropathy: symptoms and causes
+Why this is correct:
+Chemotherapy directly damages peripheral nerves in the hands and feet, causing tingling, numbness, and pain. Taxanes, platinum drugs, and vinca alkaloids are the most likely to do this, and a higher dose and longer duration raise the risk and severity.
+Why the other answers are wrong:
+A. Inherited neuropathy (Charcot-Marie-Tooth) starts in childhood or adolescence, not during chemotherapy.
+B. Guillain-Barré syndrome follows an infection and causes rapid ascending weakness.
+D. Losing anterior horn motor neurons would cause weakness, not burning sensory symptoms.
+E. Compression of one root wouldn't cause symmetric symptoms in both hands and both feet.
+Objective: Describe how neurons and their associated glia respond following nerve injury. Discuss the structural and functional alterations seen in peripheral nerves undergoing axonal (“Wallerian”) degeneration and axonal regeneration (or not) following injury.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1335
+A 45-year-old man comes to the clinic because of weakness, numbness, and fatigue in his limbs that developed over several weeks. A sural nerve biopsy shows loss of myelin over a few segments of many fibers, with intact axons and no change in the neuronal cell bodies. Which of the following nerve conduction findings is most likely?
+A. Slowed conduction velocity with areas of conduction block
+B. Normal velocity with fewer axons left to conduct impulses
+C. Faster than normal saltatory conduction between the nodes
+D. Normal conduction with no expected change in nerve function
+E. Bidirectional conduction through newly formed gap junctions
+Answer: A. Slowed conduction velocity with areas of conduction block
+Order: Third
+Difficulty: Medium
+Reference: Axonal vs. demyelinating neuropathy
+Why this is correct:
+Segmental myelin loss with intact axons is a demyelinating neuropathy. Loss of saltatory conduction lowers conduction velocity and can cause conduction block.
+Why the other answers are wrong:
+B. Loss of axons is the pattern of axonal neuropathy, and these axons are intact.
+C. Losing myelin removes saltatory conduction rather than speeding it up.
+D. Demyelination does change conduction, which is why he's weak and numb.
+E. Gap junctions form electrical synapses and don't appear along demyelinated axons.
+Objective: Describe how neurons and their associated glia respond following nerve injury. Discuss the structural and functional alterations seen in peripheral nerves undergoing axonal (“Wallerian”) degeneration and axonal regeneration (or not) following injury.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1336
+A 15-year-old boy comes to the clinic because of trouble walking that has slowly worsened over several years. He trips often because of foot drop. Examination shows high-arched feet, hammer toes, thin lower legs with an inverted champagne bottle appearance, and absent ankle reflexes. His father has similar findings. Which of the following is the most common inheritance pattern of this condition?
+A. Autosomal recessive
+B. X-linked
+C. Autosomal dominant
+D. Mitochondrial
+E. Not inherited; autoimmune after infection
+Answer: C. Autosomal dominant
+Order: Third
+Difficulty: Easy
+Reference: Charcot-Marie-Tooth disease
+Why this is correct:
+Progressive distal weakness with foot drop, pes cavus, hammer toes, "inverted champagne bottle" legs, and absent ankle reflexes starting in adolescence is Charcot-Marie-Tooth disease. It's most often autosomal dominant.
+Why the other answers are wrong:
+A. Autosomal recessive forms occur but are less common.
+B. X-linked forms occur, but father-to-son spread argues against them.
+D. Mitochondrial disorders pass only through the mother, so father-to-son spread rules this out.
+E. Autoimmune neuropathy after infection is Guillain-Barré syndrome, which is rapid, not slowly progressive.
+Objective: Describe how neurons and their associated glia respond following nerve injury. Discuss the structural and functional alterations seen in peripheral nerves undergoing axonal (“Wallerian”) degeneration and axonal regeneration (or not) following injury.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1337
+A 32-year-old woman is brought to the emergency department because of weakness that began in her legs 4 days ago and has spread upward to her arms. Two weeks ago she had a diarrheal illness after eating undercooked food. She is mildly short of breath. Electromyography supports a peripheral neuropathy. Which of the following best explains why most patients with this condition recover fully?
+A. Schwann cells make new myelin around axons that remain intact
+B. Neuronal cell bodies divide to replace the neurons that were lost
+C. Oligodendrocytes remyelinate segments of several axons at once
+D. Satellite cells migrate along the nerve to replace damaged axons
+E. Macrophages lay down new myelin after clearing the old debris
+Answer: A. Schwann cells make new myelin around axons that remain intact
+Order: Third
+Difficulty: Medium
+Reference: Guillain-Barré syndrome; Axonal vs. demyelinating neuropathy
+Why this is correct:
+Rapid ascending weakness after an infection is Guillain-Barré syndrome, an autoimmune attack on peripheral myelin that causes segmental demyelination. In demyelinating neuropathy the axon stays intact, and the deficits are reversible because Schwann cells make new myelin.
+Why the other answers are wrong:
+B. Neurons are postmitotic and don't divide to replace lost cells.
+C. Oligodendrocytes make myelin in the CNS, not in peripheral nerves.
+D. Satellite cells support neuron cell bodies in ganglia and don't replace axons.
+E. Macrophages clear myelin debris but don't make myelin.
+Objective: Describe how neurons and their associated glia respond following nerve injury. Discuss the structural and functional alterations seen in peripheral nerves undergoing axonal (“Wallerian”) degeneration and axonal regeneration (or not) following injury.
+
+MSK / Week 13 / Peripheral Nervous System and Spinal Cord Histology
+Question 1338
+A pathologist examining spinal cord tissue identifies small, sparse cells that act as the resident macrophages of the central nervous system and phagocytose damaged material. Which of the following cell types is being described?
+A. Astrocytes
+B. Ependymal cells
+C. Oligodendrocytes
+D. Satellite cells
+E. Microglia
+Answer: E. Microglia
+Order: First
+Difficulty: Easy
+Reference: Glial cell functions in the spinal cord and PNS
+Why this is correct:
+Microglia are relatively small, sparse cells that act as the resident macrophages of the CNS, phagocytosing foreign or damaged material, cells, and organisms.
+Why the other answers are wrong:
+A. Astrocytes are the most abundant brain cells and part of the blood-brain barrier.
+B. Ependymal cells line the ventricles and central canal and regulate CSF.
+C. Oligodendrocytes form myelin around several CNS axons.
+D. Satellite cells surround neuron cell bodies in PNS ganglia.
+Objective: Describe the general histological features of the spinal cord, including grey versus white matter, identify components of neuropil, and define the functions of glial cells in the spinal cord of the CNS (astrocytes, oligodendrocytes, microglia, and ependymal cells) and PNS (Schwann cells and satellite cells).
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1339
+An anterior-view diagram of the spinal cord and peripheral nerves is shown in the attached image with its labels removed. Three pathways are drawn: one ending in the hand, one ending in skeletal muscle, and one ending in glands, the heart, and the gut. Which of the following structures is indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-pns-01.jpg)
+A. Spinal (posterior root) ganglion
+B. Anterior root of a spinal nerve
+C. Autonomic ganglion
+D. Posterior root of a spinal nerve
+E. Somatic motor neuron cell body
+Answer: C. Autonomic ganglion
+Order: First
+Difficulty: Easy
+Reference: Somatic vs. autonomic efferent pathways
+Why this is correct:
+The arrow marks the swelling on the two-neuron motor pathway where the presynaptic (pre-ganglionic) neuron synapses on the postsynaptic (post-ganglionic) neuron, which is an autonomic ganglion.
+Why the other answers are wrong:
+A. The spinal ganglion sits on the posterior root of the sensory pathway at the top of the figure.
+B. The anterior root is where both motor pathways leave the cord, before this swelling.
+D. The posterior root carries the sensory neuron into the cord, not the motor pathways.
+E. Somatic motor neuron cell bodies sit in the cord, and the somatic pathway reaches skeletal muscle with no stop.
+Objective: Define the autonomic nervous system (ANS) and explain how it differs from the somatic nervous system.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1340
+A student traces a motor pathway in which a single neuron with its cell body in the spinal cord sends its axon out through the anterior root and reaches its target with no synapse along the way. Which of the following is most likely the target of this pathway?
+A. Skeletal muscle of the upper limb
+B. Smooth muscle of the intestinal wall
+C. Cardiac muscle of the heart
+D. Sweat glands of the skin
+E. Smooth muscle of the urinary bladder
+Answer: A. Skeletal muscle of the upper limb
+Order: Second
+Difficulty: Easy
+Reference: Somatic vs. autonomic efferent pathways
+Why this is correct:
+Somatic efferents use one motor neuron and innervate only skeletal muscle. Autonomic (visceral) efferents use two neurons, pre-ganglionic and post-ganglionic, to reach smooth muscle, cardiac muscle, and glands.
+Why the other answers are wrong:
+B. Intestinal smooth muscle is an autonomic target reached by two neurons.
+C. Cardiac muscle is an autonomic target reached by two neurons.
+D. Glands are autonomic targets reached by two neurons.
+E. Bladder smooth muscle is an autonomic target reached by two neurons.
+Objective: Define the autonomic nervous system (ANS) and explain how it differs from the somatic nervous system.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1341
+During an autopsy, a pathologist finds small clusters of autonomic neuron cell bodies within the muscular wall of the urinary bladder. Which of the following neurons are most likely located in these clusters?
+A. Pre-ganglionic sympathetic neurons
+B. Post-ganglionic sympathetic neurons
+C. Pre-ganglionic parasympathetic neurons
+D. Post-ganglionic parasympathetic neurons
+E. Pseudounipolar visceral afferent neurons
+Answer: D. Post-ganglionic parasympathetic neurons
+Order: Second
+Difficulty: Medium
+Reference: Autonomic ganglia: paravertebral, prevertebral, intrinsic; Parasympathetic division: craniosacral outflow
+Why this is correct:
+Ganglia within the wall of the target organ are intrinsic (terminal, intramural) ganglia, and intrinsic ganglia hold post-ganglionic parasympathetic neurons. Post-ganglionic sympathetic neurons sit in paravertebral and prevertebral ganglia instead.
+Why the other answers are wrong:
+A. Pre-ganglionic sympathetic cell bodies are in the intermediolateral cell column of the spinal cord.
+B. Post-ganglionic sympathetic cell bodies are in paravertebral and prevertebral ganglia.
+C. Pre-ganglionic parasympathetic cell bodies for pelvic organs are in the lateral horn of S2-S4.
+E. Visceral afferent cell bodies are in dorsal root ganglia.
+Objective: Compare and contrast the sympathetic and parasympathetic autonomic pathways and enteric nervous system, including their basic organization, functions, and common/distinguishing features.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1342
+A dissection of the posterior thoracic wall is shown in the attached image, with the ribs and intercostal spaces on the left and the vertebral bodies toward the right. Which of the following structures is indicated by the arrow?
+![Cadaver dissection photo](library/images/msk-week-13/questions/q-pns-02.jpg)
+A. Thoracic splanchnic nerve
+B. Sympathetic trunk
+C. Intercostal nerve
+D. Vagus nerve
+E. Gray ramus communicans
+Answer: B. Sympathetic trunk
+Order: First
+Difficulty: Easy
+Reference: Sympathetic division: thoracolumbar outflow; Autonomic ganglia: paravertebral, prevertebral, intrinsic
+Why this is correct:
+The arrow is on the thin, beaded cord running vertically beside the thoracic vertebral column, which is the sympathetic trunk (the chain of paravertebral ganglia).
+Why the other answers are wrong:
+A. Thoracic splanchnic nerves leave the trunk in the lower thorax and run down and medially over the vertebral bodies.
+C. Intercostal nerves run horizontally along the ribs, not vertically beside the vertebral column.
+D. The vagus is a cranial parasympathetic nerve and does not form a beaded chain of ganglia along the rib heads.
+E. Gray rami are short branches between the trunk and the spinal nerves, not a long vertical cord.
+Objective: Compare and contrast the sympathetic and parasympathetic autonomic pathways and enteric nervous system, including their basic organization, functions, and common/distinguishing features.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1343
+An illustration of a ventral ramus crossing a ganglion of the sympathetic trunk is shown in the attached image with its labels removed. Two short branches connect the ventral ramus to the ganglion. Which of the following best describes the axons carried by the structure indicated by the arrow and the spinal levels where it is found?
+![Anatomical illustration](library/images/msk-week-13/questions/q-pns-03.jpg)
+A. Post-ganglionic sympathetic axons, found only at thoracic and upper lumbar levels
+B. Post-ganglionic sympathetic axons, found at all spinal levels
+C. Pre-ganglionic parasympathetic axons, found only at sacral levels
+D. Pre-ganglionic sympathetic axons, found at all spinal levels
+E. Pre-ganglionic sympathetic axons, found only at thoracic and upper lumbar levels
+Answer: E. Pre-ganglionic sympathetic axons, found only at thoracic and upper lumbar levels
+Order: Second
+Difficulty: Medium
+Reference: White vs. gray rami communicantes; Sympathetic pre-ganglionic route to the trunk
+Why this is correct:
+The arrow marks the white ramus communicans (the lower of the two rami in the lecture figure), the "on-ramp" that carries pre-ganglionic sympathetic axons from the ventral ramus into the trunk. It exists only at the levels of the intermediolateral cell column (thoracolumbar).
+Why the other answers are wrong:
+A. Post-ganglionic axons leave the trunk in the gray ramus, not the white ramus.
+B. This describes the gray ramus, the "off-ramp" present at all levels.
+C. Sacral parasympathetic axons travel in pelvic splanchnic nerves, not rami communicantes.
+D. White rami exist only where pre-ganglionic sympathetic neurons are, not at every level.
+Objective: Draw the route that various autonomic nerves use to reach their target(s).
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1344
+A student reviewing the sympathetic supply of the upper limb notes that the C7 spinal nerve has no white ramus communicans. Even so, the skin of the C7 dermatome sweats normally when the body is warm, and its blood vessels constrict normally in the cold. Which of the following best explains how sympathetic fibers reach the skin of this dermatome?
+A. Pre-ganglionic fibers arise in a cervical lateral horn and leave through the C7 root and a white ramus
+B. Pre-ganglionic fibers from upper thoracic levels ascend in the trunk, synapse, and join C7 through a gray ramus
+C. Post-ganglionic fibers from prevertebral ganglia on the aorta follow the arteries of the upper limb to the skin
+D. Pre-ganglionic fibers pass through the trunk without synapsing and synapse in intrinsic ganglia in the skin
+E. Parasympathetic fibers from the vagus nerve join the C7 spinal nerve and supply the skin of the dermatome
+Answer: B. Pre-ganglionic fibers from upper thoracic levels ascend in the trunk, synapse, and join C7 through a gray ramus
+Order: Third
+Difficulty: Hard
+Reference: White vs. gray rami communicantes; Sympathetic routes to targets: courses 1 to 3
+Why this is correct:
+White rami exist only at thoracolumbar levels, so there are no cervical pre-ganglionic sympathetic neurons. Fibers for the upper limb leave upper thoracic levels, ascend in the trunk (course 1), synapse, and the post-ganglionic fibers rejoin every spinal nerve, including C7, through gray rami, which are present at all levels.
+Why the other answers are wrong:
+A. There is no intermediolateral cell column at cervical levels, so there are no cervical white rami.
+C. Prevertebral ganglia supply the abdominopelvic viscera, not the limbs.
+D. Passing through without synapsing (course 4) ends in prevertebral ganglia for abdominopelvic viscera.
+E. Sweat glands and skin blood vessels are sympathetic targets, and the vagus does not supply the limbs.
+Objective: Draw the route that various autonomic nerves use to reach their target(s).
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1345
+A dissection of the lower posterior thoracic wall is shown in the attached image. Which of the following is the most likely site where pre-ganglionic sympathetic axons running in the structure indicated by the arrow synapse?
+![Cadaver dissection photo](library/images/msk-week-13/questions/q-pns-04.jpg)
+A. Prevertebral ganglia on the abdominal aorta
+B. Paravertebral ganglia of the sympathetic trunk
+C. Superior cervical ganglion
+D. Intrinsic ganglia in the wall of the gut
+E. Dorsal root ganglia of thoracic spinal nerves
+Answer: A. Prevertebral ganglia on the abdominal aorta
+Order: Second
+Difficulty: Hard
+Reference: Abdominopelvic splanchnic nerves and prevertebral ganglia; Sympathetic pre-ganglionic route to the trunk
+Why this is correct:
+The arrow marks a thoracic splanchnic nerve running down and medially from the lower thoracic trunk over the vertebral bodies. Its pre-ganglionic fibers pass through the trunk without synapsing (course 4) and synapse in prevertebral ganglia such as the celiac, superior mesenteric, aorticorenal, and inferior mesenteric ganglia.
+Why the other answers are wrong:
+B. Splanchnic nerve fibers pass through the trunk ganglia without synapsing.
+C. The superior cervical ganglion receives fibers that ascend in the trunk for the head.
+D. Intrinsic ganglia hold parasympathetic post-ganglionic neurons, not sympathetic ones.
+E. Dorsal root ganglia hold sensory cell bodies, not post-ganglionic motor neurons.
+Objective: Draw the route that various autonomic nerves use to reach their target(s).
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1346
+An anterior view of the abdominal aorta and its branches on the posterior abdominal wall is shown in the attached image with its labels removed. Which of the following routes do post-ganglionic fibers leaving the structure indicated by the arrow most likely take to reach their targets?
+![Anatomical illustration](library/images/msk-week-13/questions/q-pns-05.jpg)
+A. Through gray rami communicantes into spinal nerves
+B. In cardiopulmonary splanchnic nerves
+C. Along the arterial supply of the viscera
+D. In pelvic splanchnic nerves to the pelvic plexuses
+E. Through white rami communicantes into the trunk
+Answer: C. Along the arterial supply of the viscera
+Order: Second
+Difficulty: Medium
+Reference: Abdominopelvic splanchnic nerves and prevertebral ganglia; Autonomic ganglia: paravertebral, prevertebral, intrinsic
+Why this is correct:
+The arrow marks a prevertebral (celiac) ganglion on the front of the abdominal aorta. Post-ganglionic sympathetic fibers from prevertebral ganglia follow the arterial supply of the abdominopelvic viscera.
+Why the other answers are wrong:
+A. Gray rami carry post-ganglionic fibers from the sympathetic trunk to spinal nerves for the body wall and limbs.
+B. Cardiopulmonary splanchnic nerves carry post-ganglionic fibers from the trunk to thoracic viscera.
+D. Pelvic splanchnic nerves carry sacral parasympathetic pre-ganglionic fibers.
+E. White rami carry pre-ganglionic fibers from the ventral ramus into the trunk.
+Objective: Draw the route that various autonomic nerves use to reach their target(s).
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1347
+A stained cross section of a mid-thoracic spinal cord segment (left) and a drawing of a thoracic segment (right) are shown in the attached image, with arrows on the same region of gray matter. Which of the following neurons have their cell bodies at the site indicated by the arrows?
+![Cross-sectional illustration](library/images/msk-week-13/questions/q-pns-06.jpg)
+A. Somatic motor neurons to skeletal muscle
+B. Post-ganglionic sympathetic neurons
+C. Pseudounipolar sensory neurons
+D. Pre-ganglionic sympathetic neurons
+E. Pre-ganglionic parasympathetic neurons
+Answer: D. Pre-ganglionic sympathetic neurons
+Order: Second
+Difficulty: Easy
+Reference: Sympathetic division: thoracolumbar outflow
+Why this is correct:
+The arrows mark the small lateral horn between the posterior and anterior horns, which holds the intermediolateral cell column, home of the pre-ganglionic sympathetic neurons at thoracolumbar levels.
+Why the other answers are wrong:
+A. Somatic motor neurons sit in the anterior horn.
+B. Post-ganglionic sympathetic neurons sit in paravertebral and prevertebral ganglia outside the cord.
+C. Pseudounipolar sensory neurons sit in the spinal (dorsal root) ganglia.
+E. Pre-ganglionic parasympathetic neurons sit in brainstem nuclei and the lateral horn of S2-S4, not thoracic segments.
+Objective: Compare and contrast the sympathetic and parasympathetic autonomic pathways and enteric nervous system, including their basic organization, functions, and common/distinguishing features.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1348
+A diagram of sympathetic pathways beside the upper thoracic cord is shown in the attached image with its labels removed. The thick dashed pre-ganglionic fiber leaves the upper thoracic cord, enters the sympathetic trunk, and ascends to synapse in the ganglion indicated by the arrow. A tumor destroys this ganglion on the right side. Which of the following findings is most likely on the right side?
+![Anatomical illustration](library/images/msk-week-13/questions/q-pns-07.jpg)
+A. A constricted pupil
+B. A dilated pupil
+C. Loss of sweating over the lower limb
+D. Loss of sweating over the abdominal wall
+E. Loss of contraction of the urinary bladder
+Answer: A. A constricted pupil
+Order: Third
+Difficulty: Hard
+Reference: Sympathetic routes to targets: courses 1 to 3; Sympathetic vs. parasympathetic effects by organ
+Why this is correct:
+Fibers that ascend above T1 synapse in the superior cervical ganglion, and its post-ganglionic fibers follow the blood supply to the head, including the dilator muscle of the iris. The sympathetic division dilates the pupil, so losing this ganglion leaves the parasympathetic constriction unopposed and the pupil is small.
+Why the other answers are wrong:
+B. A dilated pupil is the sympathetic effect this lesion removes.
+C. The lower limb is supplied by fibers that descend to low trunk ganglia (course 3).
+D. The body wall is supplied by fibers that synapse at their level of exit (course 2).
+E. Bladder contraction is driven by the sacral parasympathetic outflow.
+Objective: Draw the route that various autonomic nerves use to reach their target(s).
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1349
+A student is summarizing why the parasympathetic division is called the craniosacral division. Which of the following best lists the locations of the pre-ganglionic parasympathetic neuron cell bodies?
+A. Nuclei of CN III, V, IX, and X and the lateral horn of S2-S4
+B. Ciliary, otic, pterygopalatine, and submandibular ganglia and intrinsic ganglia
+C. Nuclei of CN III, VII, IX, and X and the lateral horn of thoracic segments
+D. Nuclei of CN III, VII, IX, and X and the dorsal root ganglia of S2-S4
+E. Nuclei of CN III, VII, IX, and X and the lateral horn of S2-S4
+Answer: E. Nuclei of CN III, VII, IX, and X and the lateral horn of S2-S4
+Order: First
+Difficulty: Hard
+Reference: Parasympathetic division: craniosacral outflow
+Why this is correct:
+Pre-ganglionic parasympathetic neurons sit in the brainstem nuclei of CN III, VII, IX, and X and in the sacral autonomic nuclei of the lateral horn of S2-S4.
+Why the other answers are wrong:
+A. CN V is not one of the four parasympathetic cranial nerves; CN VII is.
+B. These are the locations of post-ganglionic parasympathetic neurons.
+C. The thoracic lateral horn holds pre-ganglionic sympathetic neurons.
+D. Dorsal root ganglia hold sensory cell bodies.
+Objective: Compare and contrast the sympathetic and parasympathetic autonomic pathways and enteric nervous system, including their basic organization, functions, and common/distinguishing features.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1350
+A cross section of the S3 spinal cord segment obtained at autopsy is shown in the attached image. Which of the following is most directly stimulated by activity of the neurons whose cell bodies lie at the site indicated by the arrow?
+![Cross-sectional illustration](library/images/msk-week-13/questions/q-pns-08.jpg)
+A. Relaxation of the urinary bladder
+B. Contraction of the urinary bladder
+C. Ejaculation
+D. Constriction of blood vessels in the intestines
+E. Digestion in the stomach
+Answer: B. Contraction of the urinary bladder
+Order: Third
+Difficulty: Medium
+Reference: Parasympathetic division: craniosacral outflow; Sympathetic vs. parasympathetic effects by organ
+Why this is correct:
+The lateral gray matter of S2-S4 holds the sacral autonomic nuclei, the pre-ganglionic parasympathetic neurons that travel in the pelvic splanchnic nerves to the pelvic plexuses. The parasympathetic division stimulates contraction of the urinary bladder.
+Why the other answers are wrong:
+A. Relaxing the bladder is a sympathetic effect.
+C. Ejaculation is a sympathetic effect.
+D. Constricting intestinal blood vessels is a sympathetic effect; the parasympathetic division dilates them.
+E. The stomach's parasympathetic supply comes from the vagus nerve, not the sacral outflow.
+Objective: Compare and contrast the sympathetic and parasympathetic autonomic pathways and enteric nervous system, including their basic organization, functions, and common/distinguishing features.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1351
+A 58-year-old man undergoes an operation in which both vagus nerves are cut just above the stomach. He recovers without complications. Which of the following functions is most likely reduced after the operation?
+A. Constriction of blood vessels in the intestines
+B. Release of glucose from the liver
+C. Stimulation of digestion in the stomach
+D. Contraction of the urinary bladder
+E. Constriction of the pupil
+Answer: C. Stimulation of digestion in the stomach
+Order: Third
+Difficulty: Easy
+Reference: Cranial and sacral parasympathetic pathways; Sympathetic vs. parasympathetic effects by organ
+Why this is correct:
+The vagus nerve carries cranial parasympathetic pre-ganglionic fibers to cardiac, thoracic, and enteric ganglia. The parasympathetic division stimulates digestion in the stomach, so cutting the vagus reduces it.
+Why the other answers are wrong:
+A. Constricting intestinal blood vessels is a sympathetic effect.
+B. Glucose release from the liver is a sympathetic effect.
+D. Bladder contraction comes from the sacral outflow in the pelvic splanchnic nerves.
+E. Pupil constriction comes from the parasympathetic fibers of CN III.
+Objective: Compare and contrast the sympathetic and parasympathetic autonomic pathways and enteric nervous system, including their basic organization, functions, and common/distinguishing features.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1352
+A cutaway illustration of the intestinal wall is shown in the attached image with its labels removed. Which of the following is most directly regulated by the nerve network indicated by the arrow?
+![Anatomical illustration](library/images/msk-week-13/questions/q-pns-09.jpg)
+A. Peristaltic movement produced by the wall musculature
+B. Conduction of dull, poorly localized pain to the cord
+C. Motor activity of the internal anal sphincter
+D. Glandular secretion, water transport, and local blood flow
+E. Release of bile from the gallbladder
+Answer: D. Glandular secretion, water transport, and local blood flow
+Order: Second
+Difficulty: Hard
+Reference: Enteric nervous system: myenteric and submucosal plexuses
+Why this is correct:
+The arrow marks the finer network in the submucosa, deep to the circular muscle layer, which is the submucosal (Meissner's) plexus. It regulates glandular secretion, electrolyte and water transport, and local blood flow.
+Why the other answers are wrong:
+A. Peristalsis is controlled by the myenteric plexus between the muscle layers.
+B. Visceral pain travels back to the cord along autonomic pathways, not in the enteric plexuses.
+C. The myenteric plexus, which runs from the esophagus to the internal anal sphincter, controls motor function.
+E. Bile release from the gallbladder is attributed to the parasympathetic outflow.
+Objective: Compare and contrast the sympathetic and parasympathetic autonomic pathways and enteric nervous system, including their basic organization, functions, and common/distinguishing features.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1353
+A 62-year-old man is brought to the emergency department because of crushing pain over the left chest that spreads down the inner left arm. The pain began while he was shoveling snow. An ECG shows myocardial ischemia. Which of the following best describes the route by which pain fibers from the affected organ reach the central nervous system?
+A. Alongside parasympathetic fibers to dorsal root ganglia of S2-S4
+B. Within the phrenic nerve to cervical spinal cord segments
+C. Within intercostal nerves as somatic afferent fibers
+D. Alongside vagal fibers to sensory nuclei of the brainstem
+E. Alongside sympathetic fibers to upper thoracic dorsal root ganglia
+Answer: E. Alongside sympathetic fibers to upper thoracic dorsal root ganglia
+Order: Third
+Difficulty: Easy
+Reference: Angina pectoris referred pain; Visceral afferent fibers
+Why this is correct:
+Visceral pain from the thorax parallels sympathetic fibers back to dorsal root ganglia and spinal cord segments, which for the heart are upper thoracic. These afferents converge with somatic afferents from the same segments, so the pain is referred to the chest and inner arm.
+Why the other answers are wrong:
+A. The S2-S4 parasympathetic route carries pain from pelvic organs below the pelvic pain line.
+B. The phrenic nerve is labeled for the central diaphragm, not the heart.
+C. Somatic afferents carry pain from the skin and body wall, not from viscera.
+D. Thoracic and abdominal visceral pain follows sympathetic fibers, not the vagus.
+Objective: Discuss visceral afferent fibers with reference to afferent information conveyed, pathways followed, and the phenomenon of referred pain.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1354
+A 34-year-old woman feels deep, cramping, poorly localized pain while her cervix is dilated during a gynecologic procedure. Her vital signs are normal and the procedure is otherwise uncomplicated. Which of the following pathways do visceral afferent fibers carrying this pain most likely follow to the central nervous system?
+A. Alongside parasympathetic fibers to spinal segments S2-S4
+B. Alongside sympathetic fibers to spinal segments T11-L1
+C. Alongside sympathetic fibers to spinal segments T7-T9
+D. Alongside vagal fibers to the brainstem
+E. Within the genitofemoral nerve to segments L1-L2
+Answer: A. Alongside parasympathetic fibers to spinal segments S2-S4
+Order: Third
+Difficulty: Medium
+Reference: Pelvic pain line and visceral pain pathways
+Why this is correct:
+The cervix lies below the pelvic pain line (the inferior limit of the parietal peritoneum), so its visceral pain parallels parasympathetic fibers back to dorsal root ganglia and spinal segments S2-S4. The lecture's figure labels the cervix and upper vagina S2-4.
+Why the other answers are wrong:
+B. T11-L1 is the label for the uterine fundus, which lies above the pelvic pain line.
+C. T7-T9 is the level for the stomach, liver, and gallbladder.
+D. The vagus does not carry pain from pelvic organs.
+E. The genitofemoral nerve (L1-2) is labeled for the testicle, not the cervix.
+Objective: Discuss visceral afferent fibers with reference to afferent information conveyed, pathways followed, and the phenomenon of referred pain.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1355
+A 45-year-old man with an inflamed abdominal organ feels the pain over an area of skin some distance from the organ itself, while the skin there is normal on exam. Which of the following best explains why the pain is felt at this site?
+A. The organ's post-ganglionic sympathetic fibers run in the cutaneous nerves of that skin
+B. Somatic and visceral afferent fibers converge, and higher brain centers cannot identify the source
+C. Visceral afferent fibers from the organ end directly in the skin of that area
+D. Inflammation spreads along the organ's arterial supply to reach that skin
+E. Parasympathetic fibers from the organ synapse in the dorsal root ganglia of that area
+Answer: B. Somatic and visceral afferent fibers converge, and higher brain centers cannot identify the source
+Order: First
+Difficulty: Medium
+Reference: Referred pain
+Why this is correct:
+Referred pain is pain felt at a site other than its origin because incoming somatic and visceral afferent fibers converge, and higher brain centers cannot correctly identify the source.
+Why the other answers are wrong:
+A. Post-ganglionic sympathetic fibers are motor fibers and do not carry pain.
+C. Visceral afferents come from viscera, glands, and blood vessels and return to the CNS, not to the skin.
+D. Referred pain is a sensory convergence effect, not spread of inflammation.
+E. Dorsal root ganglia hold sensory cell bodies, and no motor fibers synapse there.
+Objective: Discuss visceral afferent fibers with reference to afferent information conveyed, pathways followed, and the phenomenon of referred pain.
+
+MSK / Week 13 / Peripheral Nervous System: Somatic and Autonomic
+Question 1356
+A 47-year-old woman comes to the clinic because of dull, poorly localized pain over the region indicated by the arrow on the attached referred pain map, which has its labels removed. Her skin over the area is normal. Which of the following spinal cord segments do visceral afferent fibers from the organ most likely responsible for this pain enter?
+![Anatomical illustration](library/images/msk-week-13/questions/q-pns-10.jpg)
+A. T1-T2
+B. T4-T6
+C. T7-T9
+D. T10-T11
+E. S2-S4
+Answer: C. T7-T9
+Order: Third
+Difficulty: Hard
+Reference: Referred pain; Somatotopic organization of the IMLCC
+Why this is correct:
+The arrow marks the right upper abdominal zone that the lecture's map assigns to the gallbladder, just below the liver zone. Abdominal visceral pain parallels sympathetic fibers back to the cord, and the gallbladder and liver get their sympathetic supply from T7-T9.
+Why the other answers are wrong:
+A. T1-T2 supplies the eye.
+B. T4-T6 is the band for the heart, lungs, and esophagus.
+D. T10-T11 is the band for the appendix and colon, whose zones lie lower on the map.
+E. S2-S4 carries pain from pelvic organs below the pelvic pain line.
+Objective: Discuss visceral afferent fibers with reference to afferent information conveyed, pathways followed, and the phenomenon of referred pain.
