@@ -9695,7 +9695,8 @@ E. Levator scapulae is a thin strap deep to trapezius in the neck, hidden in thi
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1691
-A 34-year-old woman comes to the clinic 3 weeks after excision of a lymph node from the posterior triangle of her neck. She has a dull ache over her right shoulder and can't shrug her right shoulder against the examiner's resistance, though she can shrug the left normally. Sensation over the neck is intact. Injury to a nerve during the procedure is suspected. Which of the following nerves was most likely injured?
+A 34-year-old woman comes to the clinic 3 weeks after excision of a lymph node from the posterior triangle of her neck. She can't shrug her right shoulder against the examiner's resistance, though she can shrug the left normally, and sensation over the neck is intact. The attached image shows the deep surface of a reflected trapezius in a cadaver. Which of the following is the structure at pin 1, the one most likely injured during her procedure?
+![Cadaveric dissection of the deep surface of trapezius](library/images/msk-back-images/back-lab-05-trapezius-deep-nv-bundle.png)
 A. Spinal accessory nerve (CN XI)
 B. Posterior rami of the cervical spinal nerves
 C. Thoracodorsal nerve
@@ -9704,8 +9705,9 @@ E. Anterior rami of C3 and C4
 Answer: A. Spinal accessory nerve (CN XI)
 Order: Second
 Difficulty: Medium
-Reference: Trapezius muscle
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks the nerve running on the deep surface of trapezius alongside the transverse cervical vessels (pin 2), which is the spinal accessory nerve.
 Shrugging against resistance is the clinical test for the spinal accessory nerve, because CN XI provides motor innervation to trapezius, the muscle that elevates the scapula.
 Loss of a shrug on one side after neck surgery points to injury of CN XI on that side.
 Why the other answers are wrong:
@@ -9892,7 +9894,8 @@ E. T11 to L2 and rib depression describe serratus posterior inferior.
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1700
-A 41-year-old man is evaluated after a deep laceration near the medial border of his left scapula. On examination, he has weakness when squeezing his shoulder blades together, and elevation of the left scapula is mildly weak even though shrugging is still possible. Injury to a single nerve is suspected. Which of the following muscles would also be weakened by injury to this nerve?
+A 41-year-old man is evaluated after a deep laceration near the medial border of his left scapula. He has weakness when squeezing his shoulder blades together, and elevation of the left scapula is mildly weak even though shrugging is still possible. The attached image shows the same region in a cadaver, and the injured structure is at pin 2. Which of the following muscles would also be weakened by this injury?
+![Cadaveric dissection of the left upper back, posterior view](library/images/msk-back-images/back-lab-15-dorsal-scapular-left.png)
 A. Trapezius
 B. Levator scapulae
 C. Latissimus dorsi
@@ -9901,8 +9904,9 @@ E. Splenius
 Answer: B. Levator scapulae
 Order: Third
 Difficulty: Hard
-Reference: Levator scapulae muscle; Rhomboid major and minor
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the dorsal scapular nerve with its artery and vein, running deep to the reflected rhomboids (pin 4) near the medial border of the scapula.
 Weak scapular retraction with mild weakness of elevation fits injury to the dorsal scapular nerve, which supplies rhomboid major, rhomboid minor, and levator scapulae.
 Levator scapulae elevates the scapula, so its loss weakens elevation, while trapezius (CN XI) keeps the shrug possible.
 Why the other answers are wrong:
@@ -10199,7 +10203,8 @@ E. Semispinalis is posterior to the axis of motion, so it extends rather than fl
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1714
-A researcher studies the superior attachment of semispinalis on a dried skull. Which of the following best describes where it attaches?
+In the posterior neck dissection shown in the attached image, the muscle at pin 2 is followed up to the skull. Which of the following best describes where it attaches?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/back-lab-17-splenius-semispinalis.png)
 A. Occipital bone between the superior and inferior nuchal lines
 B. Superior nuchal line
 C. Mastoid process
@@ -10208,8 +10213,9 @@ E. Occipital condyles
 Answer: A. Occipital bone between the superior and inferior nuchal lines
 Order: First
 Difficulty: Medium
-Reference: Semispinalis muscle
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks semispinalis, the deep muscle lying under splenius (pin 3) on either side of the nuchal ligament (pin 4).
 Semispinalis attaches superiorly to the occipital bone between the superior and inferior nuchal lines and inferiorly to the transverse processes of C4 to T10.
 That high occipital attachment lets it extend the head.
 Why the other answers are wrong:
@@ -10308,7 +10314,8 @@ D. The area between the nuchal lines receives semispinalis.
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1719
-A 38-year-old man comes to the clinic because of low back pain that began the day after he lifted a heavy couch while twisting. Examination shows tenderness and tightness of the paraspinal muscles on both sides of the lumbar spine, with no numbness or weakness in the legs. A back strain is suspected. Which of the following best describes the innervation and bilateral action of the muscle group most often injured in this condition?
+A 38-year-old man comes to the clinic because of low back pain that began the day after he lifted a heavy couch while twisting. Examination shows tenderness and tightness of the paraspinal muscles on both sides of the lumbar spine, with no numbness or weakness in the legs. A back strain is suspected, involving the muscle group marked by pins 2, 3, and 4 in the attached image. Which of the following best describes the innervation and bilateral action of this group?
+![Cadaveric dissection of the deep back, posterior view](library/images/msk-back-images/bas-back-erector-spinae.png)
 A. Intercostal nerves; elevation and depression of the ribs
 B. Anterior rami of spinal nerves; flexion of the vertebral column
 C. Posterior rami of spinal nerves; extension of the vertebral column and head
@@ -10317,8 +10324,9 @@ E. Thoracodorsal nerve; extension and adduction of the arm
 Answer: C. Posterior rami of spinal nerves; extension of the vertebral column and head
 Order: Third
 Difficulty: Medium
-Reference: Back muscle layers and their innervation
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pins 2, 3, and 4 mark iliocostalis, longissimus, and spinalis, the three columns of the erector spinae.
 A back strain is stretching or microscopic tearing of muscle fibers, most often in the erector spinae, and it's the most common cause of low back pain.
 The erector spinae are deep back muscles innervated by posterior rami; acting bilaterally they extend the vertebral column and head, and acting unilaterally they laterally flex the vertebral column.
 Why the other answers are wrong:
@@ -10725,7 +10733,8 @@ E. Latissimus dorsi is the muscle belly superolateral to the fascia (pin 2).
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1738
-A researcher studies the skull attachments of the deep back muscles of the neck. Splenius capitis is traced to its superior attachment. Which of the following is the attachment site?
+A student traces the muscle at pin 3 in the attached posterior neck dissection up to its skull attachment. Which of the following is the attachment site of its capitis part?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/back-lab-17-splenius-semispinalis.png)
 A. Mastoid process
 B. External occipital protuberance
 C. Occipital bone between the superior and inferior nuchal lines
@@ -10734,8 +10743,9 @@ E. Superior nuchal line
 Answer: E. Superior nuchal line
 Order: First
 Difficulty: Medium
-Reference: Semispinalis muscle; Supraspinous, interspinous, and nuchal ligaments
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 3 marks splenius, the strap-like muscle wrapping over semispinalis (pin 2) and arising from the nuchal ligament (pin 4).
 Splenius capitis attaches superiorly to the occipital bone at the superior nuchal line, while splenius cervicis attaches to the transverse processes of C1 to C3 or C4.
 Both parts arise from the nuchal ligament and the C7 to T6 spinous processes.
 Why the other answers are wrong:
@@ -10746,7 +10756,8 @@ D. The inferior nuchal line is the lower boundary of the semispinalis attachment
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1739
-A 25-year-old rock climber comes to the clinic because of pain at his lower back where a large back muscle arises. He has pain when pulling his body upward on a climbing wall. Which of the following groups of bony and fascial sites gives origin to the muscle most likely involved?
+A 25-year-old rock climber comes to the clinic because of pain at his lower back where a large back muscle arises. He has pain when pulling his body upward on a climbing wall, and the muscle most likely involved is at pin 2 in the attached image. Which of the following groups of bony and fascial sites gives origin to this muscle?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back-images/back-lab-06-trapezius-reflected.png)
 A. Occipital bone, nuchal ligament, and C7 to T12 spinous processes
 B. Lower thoracic spinous processes, thoracolumbar fascia, and iliac crest
 C. Transverse processes of C1 to C4
@@ -10755,8 +10766,9 @@ E. Spinous processes of T11 to L2 only
 Answer: B. Lower thoracic spinous processes, thoracolumbar fascia, and iliac crest
 Order: Third
 Difficulty: Medium
-Reference: Latissimus dorsi muscle
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks latissimus dorsi, the broad muscle of the lower back that arises in part from the thoracolumbar fascia (pin 3).
 Pulling the body up a wall uses adduction and extension of the arm, the actions of latissimus dorsi, which is known as the climber's muscle.
 Latissimus dorsi arises from the lower thoracic spinous processes, the thoracolumbar fascia, and the iliac crest (with the inferior ribs) and inserts in the intertubercular groove.
 Why the other answers are wrong:
@@ -10789,7 +10801,8 @@ D. The pedicles are the short processes joining the arch to the body.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1741
-A 71-year-old woman comes to the clinic because her family has noticed she is becoming hunched forward. She has had two low-impact fractures in the past and has never taken treatment for bone loss. Erosion and collapse of the anterior parts of several thoracic vertebral bodies is suspected. Which of the following abnormal curvatures is most likely developing?
+A 71-year-old woman comes to the clinic because her family has noticed she is becoming hunched forward. She has had two low-impact fractures and has never taken treatment for bone loss. Erosion and collapse of the anterior part of the structure at pin 2 in the attached section is suspected at several thoracic levels. Which of the following abnormal curvatures is most likely developing?
+![Cadaveric transverse section of the thoracic spine](library/images/msk-back-images/bas-thoracic-section.png)
 A. Spondylolisthesis
 B. Loss of the normal sacral curvature
 C. Lordosis
@@ -10798,8 +10811,9 @@ E. Scoliosis
 Answer: D. Kyphosis
 Order: Third
 Difficulty: Medium
-Reference: Abnormal vertebral curvatures: kyphosis, lordosis, and scoliosis
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks a thoracic vertebral body, the weight-bearing part of the vertebra most weakened by osteoporosis.
 Osteoporosis most commonly weakens thoracic vertebral bodies, especially in postmenopausal women.
 Erosion or fracture of the anterior part of thoracic vertebrae produces kyphosis, an exaggerated thoracic curvature (hunchback).
 Why the other answers are wrong:
@@ -10832,7 +10846,8 @@ E. The vertebral body is the solid anterior part.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1743
-A researcher compares dried vertebrae from different regions. One has a small, round vertebral foramen, while another has a large, triangular vertebral foramen. Which of the following correctly matches these vertebrae to their regions?
+The opening at pin 4 in the attached lumbar prosection changes shape from one region of the column to another. On dried vertebrae, one region has a small, round version of this opening and another has a large, triangular one. Which of the following correctly matches these vertebrae to their regions?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Small round opening: sacral; large triangular opening: thoracic
 B. Small round opening: cervical; large triangular opening: sacral
 C. Small round opening: thoracic; large triangular opening: cervical
@@ -10841,8 +10856,9 @@ E. Small round opening: lumbar; large triangular opening: thoracic
 Answer: C. Small round opening: thoracic; large triangular opening: cervical
 Order: Second
 Difficulty: Medium
-Reference: Comparing cervical, thoracic, and lumbar vertebrae
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 4 marks the vertebral foramen, which lines up with those above and below to form the vertebral canal.
 Thoracic vertebrae have a small, round vertebral foramen.
 Cervical vertebrae (especially C3 to C7) have a large, triangular foramen to accommodate the cervical enlargement of the spinal cord, and lumbar foramina are triangular and larger than thoracic ones.
 Why the other answers are wrong:
@@ -10919,7 +10935,8 @@ E. The spinous process projects posteriorly from where the two laminae meet.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1747
-A 63-year-old man has progressive leg pain and numbness from compression of lumbar nerve roots by a tumor in the vertebral canal. A surgeon plans to remove the spinous processes and the flat plates of bone that close the vertebral arch posteriorly at the affected levels. Which of the following best describes this procedure and its purpose?
+A 63-year-old man has progressive leg pain and numbness from compression of lumbar nerve roots by a tumor in the vertebral canal. A surgeon plans to remove the spinous processes along with the bone at pin 6 in the attached image at the affected levels. Which of the following best describes this procedure and its purpose?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Discectomy, to remove the nucleus pulposus pressing on the nerve root
 B. Laminectomy, to open the vertebral canal and relieve pressure on the spinal cord or nerve roots
 C. Laminectomy, to fuse the adjacent vertebral bodies and stop vertebral slippage
@@ -10928,8 +10945,9 @@ E. Facetectomy, to remove the zygapophysial joint and restore rotation
 Answer: B. Laminectomy, to open the vertebral canal and relieve pressure on the spinal cord or nerve roots
 Order: Third
 Difficulty: Medium
-Reference: Vertebral canal; Parts of a typical vertebra
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 6 marks the lamina, the flat plate of bone that closes the vertebral arch posteriorly.
 Surgical removal of one or more spinous processes with their supporting laminae is a laminectomy.
 It gives access to the vertebral canal to relieve pressure on the spinal cord or nerve roots from a tumor, herniated disc, or bony overgrowth.
 Why the other answers are wrong:
@@ -10940,7 +10958,8 @@ E. The facet joints aren't the structures being removed.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1748
-A newborn has a tuft of hair over the lower back. Imaging shows that the laminae of one lumbar vertebral arch failed to fuse, but the meninges and spinal cord haven't herniated. Which of the following is the most likely diagnosis?
+A newborn has a tuft of hair over the lower back. Imaging shows that the paired bony plates represented by pin 6 in the attached image failed to fuse at one lumbar level, but the meninges and spinal cord haven't herniated. Which of the following is the most likely diagnosis?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Spondylolisthesis
 B. Spondylolysis
 C. Myelomeningocele
@@ -10949,8 +10968,9 @@ E. Spina bifida occulta
 Answer: E. Spina bifida occulta
 Order: Third
 Difficulty: Medium
-Reference: Parts of a typical vertebra; Vertebral canal
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 6 marks the lamina, and failure of the two laminae to fuse in the midline is spina bifida.
 Spina bifida is failure of the laminae of the vertebral arch to develop and fuse, usually in the lumbar region.
 In spina bifida occulta, skin (often with a tuft of hair) covers the defect and nothing herniates through it.
 Why the other answers are wrong:
@@ -10983,7 +11003,8 @@ E. The vertebral body is the large anterior part.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1750
-A 17-year-old gymnast comes to the clinic because of low back pain. An oblique radiograph of the lumbar spine shows the "Scotty dog" outline. Which of the following parts of the vertebra forms the eye of the Scotty dog?
+A 17-year-old gymnast comes to the clinic because of low back pain, and an oblique radiograph of the lumbar spine shows the "Scotty dog" outline. The structure at pin 3 in the attached lumbar prosection forms the eye of the Scotty dog. Which of the following is this structure?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Pedicle
 B. Pars interarticularis
 C. Superior articular process
@@ -10992,8 +11013,9 @@ E. Inferior articular process
 Answer: A. Pedicle
 Order: First
 Difficulty: Medium
-Reference: Spondylolysis and the Scotty dog sign; Parts of a typical vertebra
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 3 marks the pedicle, the short column of bone joining the vertebral arch to the body.
 On an oblique lumbar radiograph, the pedicle forms the eye of the Scotty dog.
 The nose is the transverse process, the neck is the pars interarticularis, the ear is the superior articular process, and the front leg is the inferior articular process.
 Why the other answers are wrong:
@@ -11114,7 +11136,8 @@ D. The inferior articular facet, not the superior one, meets the vertebra below.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1756
-A first-year medical student studies the facet joints of the lumbar spine. The articular surface on the downward-projecting process of L3 forms a joint with which of the following?
+Pin 6 in the attached lumbar prosection marks a downward-projecting process. If the same process on L3 were traced, its articular surface would form a joint with which of the following?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. The superior articular facet of L4
 B. The inferior articular facet of L4
 C. The superior articular facet of L2
@@ -11123,8 +11146,9 @@ E. The intervertebral disc between L3 and L4
 Answer: A. The superior articular facet of L4
 Order: Second
 Difficulty: Medium
-Reference: Articular processes and pars interarticularis
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 6 marks an inferior articular process; in this specimen it meets the sacrum at the L5 to S1 facet joint (pin 7).
 The downward-projecting process is the inferior articular process, and its surface is the inferior articular facet.
 The inferior articular facet of one vertebra articulates with the superior articular facet of the vertebra below, forming a zygapophysial (facet) joint.
 Why the other answers are wrong:
@@ -11179,7 +11203,8 @@ E. The intervertebral foramen needs two vertebrae and is outlined in the right-h
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1759
-A first-year medical student studies how the intervertebral foramen is formed. Which of the following forms its upper boundary?
+In the attached lumbar prosection, the notch at pin 2 forms one boundary of the opening through which a spinal nerve leaves the vertebral canal. Which of the following forms the upper boundary of that opening?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Superior vertebral notch of the vertebra below
 B. Inferior vertebral notch of the vertebra above
 C. Lamina of the vertebra above
@@ -11188,8 +11213,9 @@ E. Anterior longitudinal ligament
 Answer: B. Inferior vertebral notch of the vertebra above
 Order: Second
 Difficulty: Medium
-Reference: Vertebral notches and the intervertebral foramen
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the superior vertebral notch, which forms the lower boundary of the intervertebral foramen.
 Each pedicle has a superior and an inferior vertebral notch.
 The inferior vertebral notch of the vertebra above and the superior vertebral notch of the vertebra below together form the intervertebral foramen, so the inferior notch forms the upper boundary.
 Why the other answers are wrong:
@@ -11200,7 +11226,8 @@ E. The anterior longitudinal ligament is on the front of the vertebral bodies.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1760
-A researcher traces a lumbar spinal nerve from the spinal cord to the posterior abdominal wall. Through which of the following openings does it leave the vertebral canal?
+A researcher traces a lumbar spinal nerve past the notch at pin 2 in the attached prosection on its way to the posterior abdominal wall. Through which of the following openings does it leave the vertebral canal?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Vertebral foramen
 B. Transverse foramen
 C. Intervertebral foramen
@@ -11209,8 +11236,9 @@ E. Foramen magnum
 Answer: C. Intervertebral foramen
 Order: Second
 Difficulty: Easy
-Reference: Vertebral notches and the intervertebral foramen
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the superior vertebral notch, which outlines the intervertebral foramen together with the inferior notch of the vertebra above.
 The superior and inferior vertebral notches of adjacent vertebrae form the intervertebral foramen, which lets the spinal nerve pass out of the vertebral canal.
 Why the other answers are wrong:
 A. The vertebral foramen holds the spinal cord within a single vertebra; it doesn't lead out of the canal.
@@ -11220,7 +11248,8 @@ E. The foramen magnum connects the vertebral canal to the cranial cavity.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1761
-A 68-year-old man comes to the clinic because of pain and numbness in his legs. Imaging shows bulging intervertebral discs and bone spurs narrowing the intervertebral foramina at several lumbar levels. Which of the following is the most likely diagnosis?
+A 68-year-old man comes to the clinic because of pain and numbness in his legs. Imaging shows bulging intervertebral discs and bone spurs narrowing the space at pin 4 in the attached image and the intervertebral foramina at several lumbar levels. Which of the following is the most likely diagnosis?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Spinal stenosis
 B. Spondylolisthesis
 C. Spina bifida occulta
@@ -11229,8 +11258,9 @@ E. Spondylolysis
 Answer: A. Spinal stenosis
 Order: Third
 Difficulty: Medium
-Reference: Spinal stenosis of the vertebral canal
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 4 marks the vertebral canal, and narrowing of the canal or the intervertebral foramina is spinal stenosis.
 Narrowing of the vertebral canal or intervertebral foramina is spinal stenosis.
 It's common in the lumbar and cervical regions, often degenerative in people over 60, and caused by bulging discs and bone spurs that compress the spinal cord or nerve roots.
 Why the other answers are wrong:
@@ -11241,7 +11271,8 @@ E. Spondylolysis is a defect in the pars interarticularis.
 Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
 
 Question 1762
-A first-year medical student studies a lumbar vertebra. Which of the following is the name for the region of bone between the superior and inferior articular processes?
+In the attached lumbar prosection, which of the following is the name for the bone between the processes at pins 1 and 6 on the same side?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Pedicle
 B. Lamina
 C. Pars interarticularis
@@ -11250,8 +11281,9 @@ E. Inferior vertebral notch
 Answer: C. Pars interarticularis
 Order: First
 Difficulty: Easy
-Reference: Articular processes and pars interarticularis; Spondylolysis and the Scotty dog sign
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pins 1 and 6 mark the superior and inferior articular processes of the same vertebra, and the bone between them is the pars interarticularis.
 The pars interarticularis is the region between the superior and inferior articular processes.
 A fracture here is called spondylolysis, and it forms the neck of the Scotty dog on an oblique radiograph.
 Why the other answers are wrong:
@@ -11262,7 +11294,8 @@ E. The inferior vertebral notch is on the lower edge of the pedicle.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1763
-A 16-year-old gymnast comes to the clinic because of low back pain that worsens when she arches backward. An oblique radiograph of the lumbar spine shows what looks like a collar around the neck of the Scotty dog at L5. A stress fracture in the bone between the superior and inferior articular processes is suspected. Which of the following is the most likely diagnosis?
+A 16-year-old gymnast comes to the clinic because of low back pain that worsens when she arches backward. An oblique radiograph shows what looks like a collar around the neck of the Scotty dog at L5. In the attached lumbar prosection, the suspected stress fracture would cross the bone between pins 1 and 6. Which of the following is the most likely diagnosis?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Spinal stenosis
 B. Herniated nucleus pulposus
 C. Spondylolisthesis
@@ -11271,8 +11304,9 @@ E. Spondylolysis
 Answer: E. Spondylolysis
 Order: Third
 Difficulty: Medium
-Reference: Spondylolysis and the Scotty dog sign
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pins 1 and 6 mark the superior and inferior articular processes, so the bone between them is the pars interarticularis.
 The region between the articular processes is the pars interarticularis, which forms the neck of the Scotty dog on an oblique radiograph.
 A defect or fracture through it creates the collar appearance and is called spondylolysis, a stress fracture common in young athletes who repeatedly hyperextend, usually at L5 or L4.
 Why the other answers are wrong:
@@ -11283,7 +11317,8 @@ D. Kyphosis is an exaggerated thoracic curve.
 Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
 
 Question 1764
-A first-year medical student is handed a vertebra during a bone review. It has a small body, a short bifid spinous process, and openings in both transverse processes. From which region of the vertebral column does it most likely come?
+A first-year medical student examines the dissection in the attached image, in which the vertebral arches have been exposed. Vertebrae from the region containing pin 1 have a small body, a short bifid spinous process, and openings in both transverse processes. From which region of the vertebral column do they come?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/bas-cervical-insitu.png)
 A. Lumbar
 B. Sacral
 C. Thoracic
@@ -11292,8 +11327,9 @@ E. Cervical
 Answer: E. Cervical
 Order: First
 Difficulty: Easy
-Reference: Cervical vertebrae (C3 to C7) and the vertebra prominens
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 is on a lamina between the skull and the prominent C7 spinous process (pin 2), so this vertebra is cervical.
 A small body, short bifid spinous process, and transverse foramina are the distinguishing features of a typical cervical vertebra.
 Transverse foramina are found in all cervical vertebrae and no others.
 Why the other answers are wrong:
@@ -11304,7 +11340,8 @@ D. Coccygeal vertebrae are small, rudimentary, and fused.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1765
-A first-year medical student is given a vertebra with an opening in each transverse process. Which of the following passes through these openings from C6 up to C1?
+Each vertebra in the region marked by pin 1 in the attached image has an opening in each transverse process. Which of the following passes through these openings from C6 up to C1?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/bas-cervical-insitu.png)
 A. Spinal nerves
 B. Vertebral artery
 C. Spinal cord
@@ -11313,8 +11350,9 @@ E. Internal vertebral venous plexus
 Answer: B. Vertebral artery
 Order: Second
 Difficulty: Easy
-Reference: Vertebral artery and the transverse foramina
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 is on the lamina of a cervical vertebra, and all cervical vertebrae have transverse foramina.
 The openings are transverse foramina, found in all cervical vertebrae.
 The vertebral artery typically enters the transverse foramina at C6 and ascends through C1 before passing through the foramen magnum.
 Why the other answers are wrong:
@@ -11325,7 +11363,8 @@ E. The internal vertebral venous plexus lies within the vertebral canal.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1766
-A 49-year-old man is evaluated after a neck injury. Imaging shows fractures through the openings in the transverse processes from C3 to C6, raising concern for injury to the artery that passes through them. Which of the following best describes the course and territory of this artery?
+A 49-year-old man is evaluated after a neck injury. Imaging shows fractures through the openings in the transverse processes from C3 to C6, the span that includes the vertebra at pin 1 in the attached image, raising concern for injury to the artery that passes through them. Which of the following best describes the course and territory of this artery?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/bas-cervical-insitu.png)
 A. Enters at C6, ascends through C1, and supplies trapezius
 B. Enters at C6, ascends through C1, passes through the foramen magnum, and contributes to the posterior circulation of the brain
 C. Enters at C7, ascends to C2, and supplies the anterior circulation of the brain
@@ -11334,8 +11373,9 @@ E. Enters at C1, descends to C6, and supplies the cervical vertebral bodies only
 Answer: B. Enters at C6, ascends through C1, passes through the foramen magnum, and contributes to the posterior circulation of the brain
 Order: Third
 Difficulty: Hard
-Reference: Vertebral artery and the transverse foramina
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks the lamina of C4, in the middle of the span where the transverse foramina carry the vertebral artery.
 The openings in the cervical transverse processes are the transverse foramina, which transmit the vertebral artery.
 The vertebral artery typically enters the transverse foramina at C6, ascends through C1, and passes through the foramen magnum to contribute to the posterior circulation of the brain.
 Why the other answers are wrong:
@@ -11346,7 +11386,8 @@ E. It ascends, not descends, and its main territory is the brain.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1767
-A first-year medical student is handed a vertebra that is ring-shaped, with lateral masses joined by anterior and posterior arches, and with no body and no spinous process. Which of the following vertebrae is it?
+In the attached posterior neck dissection, the highest vertebra of the exposed column, above pin 1, is ring-shaped, with lateral masses joined by anterior and posterior arches, and it has no body and no spinous process. Which of the following vertebrae is it?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/bas-cervical-insitu.png)
 A. A typical lumbar vertebra
 B. Axis (C2)
 C. Vertebra prominens (C7)
@@ -11355,8 +11396,9 @@ E. A typical thoracic vertebra
 Answer: D. Atlas (C1)
 Order: First
 Difficulty: Easy
-Reference: Atlas (C1)
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+This vertebra sits at the very top of the cervical column, directly under the skull and above the level of pin 1.
 The atlas is ring-shaped, with two lateral masses joined by an anterior arch (replacing the body) and a posterior arch, and it has no spinous process.
 Its superior articular facets articulate with the occipital condyles of the skull.
 Why the other answers are wrong:
@@ -11367,7 +11409,8 @@ E. Thoracic vertebrae have heart-shaped bodies and long spinous processes.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1768
-A researcher traces the vertebral artery after it leaves the transverse foramen of C1. On which of the following structures does it run before passing through the foramen magnum?
+The vertebral artery ascends through the transverse foramina of the vertebrae around pin 1 in the attached image and then leaves the transverse foramen of C1. On which of the following structures does it run before passing through the foramen magnum?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/bas-cervical-insitu.png)
 A. Groove on the superior surface of the posterior arch of the atlas
 B. Facet for the dens on the anterior arch of the atlas
 C. Transverse foramen of C7
@@ -11376,8 +11419,9 @@ E. Lamina of C3
 Answer: A. Groove on the superior surface of the posterior arch of the atlas
 Order: Second
 Difficulty: Medium
-Reference: Atlas (C1)
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+The vertebral artery passes through the transverse foramina of C6 to C1, including the vertebrae near pin 1 (C4).
 The atlas has a groove for the vertebral artery on the superior surface of its posterior arch.
 After ascending through the transverse foramina from C6 to C1, the vertebral artery runs in this groove and then passes through the foramen magnum.
 Why the other answers are wrong:
@@ -11388,7 +11432,8 @@ E. The lamina of C3 is part of the vertebral arch, not the arterial path.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1769
-A researcher studies the joint formed between the superior articular facets of C1 and the occipital condyles of the skull. Which of the following movements is this joint mainly responsible for?
+The attached posterior neck dissection shows the skull above the vertebral column, with pin 1 on the occipital bone. Which of the following movements is the joint between the occipital condyles and the superior articular facets of C1 mainly responsible for?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/back-lab-17-splenius-semispinalis.png)
 A. Nodding of the head, with some side bending and limited rotation
 B. Flexion and extension of the lumbar spine
 C. Pivoting of the head from side to side (rotation)
@@ -11397,10 +11442,10 @@ E. Elevation of the scapula
 Answer: A. Nodding of the head, with some side bending and limited rotation
 Order: Second
 Difficulty: Medium
-Reference: Craniovertebral joints; Atlas (C1)
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
-This is the paired atlanto-occipital joint.
-Together they form the paired atlanto-occipital joints, which allow nodding of the head, some side bending, and limited rotation.
+Pin 1 marks the external occipital protuberance on the occipital bone; below and in front of it, the occipital condyles rest on C1 at the paired atlanto-occipital joints.
+These paired atlanto-occipital joints allow nodding of the head, some side bending, and limited rotation.
 Why the other answers are wrong:
 B. Lumbar flexion and extension come from the sagittally oriented lumbar facets.
 C. Rotation of the head happens mostly at the atlanto-axial joint, where C1 pivots around the dens of C2.
@@ -11409,7 +11454,8 @@ E. Scapular elevation is a muscle action, not a craniovertebral joint movement.
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1770
-A first-year medical student studies the atlanto-axial joint. Which of the following structures articulates with the facet on the posterior surface of the anterior arch of the atlas?
+A student counts upward from the C7 spinous process at pin 2 in the attached image to the two highest vertebrae. Which of the following structures articulates with the facet on the posterior surface of the anterior arch of the highest one?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/bas-cervical-insitu.png)
 A. Occipital condyle
 B. Dens of the axis
 C. Spinous process of the axis
@@ -11418,8 +11464,9 @@ E. Transverse process of the axis
 Answer: B. Dens of the axis
 Order: First
 Difficulty: Easy
-Reference: Axis (C2) and the dens
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Counting up from C7 (pin 2) leads to the axis (C2) and the atlas (C1) at the top of the column.
 The dens (odontoid process) projects superiorly from the body of C2 and articulates with the facet for the dens on the posterior surface of the anterior arch of the atlas.
 It serves as the pivot for rotation of the head.
 Why the other answers are wrong:
@@ -11430,7 +11477,8 @@ E. The transverse process of the axis isn't part of the atlanto-axial joint.
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1771
-A 24-year-old man is evaluated after a diving injury. Imaging shows a fracture at the base of the tooth-like process projecting up from the body of C2. Which of the following movements depends most on this structure and its articulation?
+A 24-year-old man is evaluated after a diving injury. Imaging shows a fracture at the base of the tooth-like process projecting up from the body of C2, which lies deep to the muscles in the upper part of the attached image. Which of the following movements depends most on this process and its articulation?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/back-lab-18-semispinalis.png)
 A. Rotation of the head, with C1 pivoting around C2
 B. Elevation of the ribs
 C. Lateral flexion of the thoracic spine
@@ -11439,8 +11487,9 @@ E. Nodding of the head at the atlanto-occipital joint
 Answer: A. Rotation of the head, with C1 pivoting around C2
 Order: Third
 Difficulty: Medium
-Reference: Craniovertebral joints; Axis (C2) and the dens
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+The upper cervical vertebrae, including C1 and C2, lie deep to semispinalis (pin 1) just below the skull.
 The process is the dens of C2, which serves as a pivot for rotation of the head.
 It articulates with the facet on the posterior surface of the anterior arch of the atlas, and the atlanto-axial joint allows C1 to pivot around it.
 Why the other answers are wrong:
@@ -11451,7 +11500,8 @@ E. Nodding happens at the atlanto-occipital joint between the occipital condyles
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1772
-A researcher studies the joints between the first and second cervical vertebrae. How many synovial joints make up the atlanto-axial joint?
+In the attached posterior neck dissection, the first two cervical vertebrae lie deep to the muscles just below pin 1. How many synovial joints make up the atlanto-axial joint between them?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/back-lab-17-splenius-semispinalis.png)
 A. Two, between the lateral masses of C1 and C2
 B. Three, two between the lateral masses of C1 and C2 and one between the dens and the anterior arch of C1
 C. One, between the dens and the anterior arch of C1
@@ -11460,8 +11510,9 @@ E. None, because it's a fibrous joint
 Answer: B. Three, two between the lateral masses of C1 and C2 and one between the dens and the anterior arch of C1
 Order: First
 Difficulty: Medium
-Reference: Craniovertebral joints; Axis (C2) and the dens
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks the external occipital protuberance, and C1 and C2 lie just inferior to it, deep to semispinalis and splenius.
 The atlanto-axial joint is made up of three synovial joints: a paired joint between the lateral masses of C1 and C2, and a joint between the dens and the anterior arch of C1.
 Together they let C1 pivot around the dens.
 Why the other answers are wrong:
@@ -11472,7 +11523,8 @@ E. All three are synovial joints.
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1773
-A first-year medical student is handed a vertebra during a bone review. It has a heart-shaped body, a long spinous process sloping downward, and facets on both its body and transverse processes. From which region does it come?
+The vertebra sectioned in the attached image has a heart-shaped body at pin 2, a long spinous process sloping downward, and facets on both its body and transverse processes. From which region does it come?
+![Cadaveric transverse section of the thoracic spine](library/images/msk-back-images/bas-thoracic-section.png)
 A. Sacral
 B. Thoracic
 C. Lumbar
@@ -11481,8 +11533,9 @@ E. Coccygeal
 Answer: B. Thoracic
 Order: First
 Difficulty: Easy
-Reference: Thoracic vertebrae: costal facets and facet orientation
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the heart-shaped body of a thoracic vertebra, with the pedicle at pin 1.
 A heart-shaped body with costal facets, transverse costal facets, a small round vertebral foramen, and a long spinous process sloping inferiorly are features of a thoracic vertebra.
 The costal facets are where the ribs articulate.
 Why the other answers are wrong:
@@ -11493,7 +11546,8 @@ E. Coccygeal vertebrae are rudimentary and fused.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1774
-A researcher studies the costotransverse joints of T1 to T10. Which of the following structures on the vertebra articulates with the tubercle of the rib?
+In the attached section, a transverse process extends laterally from the vertebral arch just behind pin 1. Which of the following structures on this vertebra articulates with the tubercle of the rib?
+![Cadaveric transverse section of the thoracic spine](library/images/msk-back-images/bas-thoracic-section.png)
 A. Superior costal facet
 B. Inferior costal facet
 C. Transverse costal facet
@@ -11502,8 +11556,9 @@ E. Transverse foramen
 Answer: C. Transverse costal facet
 Order: First
 Difficulty: Medium
-Reference: Thoracic vertebrae: costal facets and facet orientation
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks the pedicle of a thoracic vertebra; the transverse process projects from the arch just behind it and carries the transverse costal facet.
 Thoracic transverse processes carry a transverse costal facet that articulates with the tubercle of the rib at the costotransverse joint (T1 to T10).
 Why the other answers are wrong:
 A. The superior costal facet on the vertebral body articulates with the head of the rib.
@@ -11513,7 +11568,8 @@ E. Transverse foramina are cervical features.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1775
-A researcher studies how the ribs articulate with thoracic vertebrae. Which part of the rib articulates with the superior and inferior costal facets on the side of the vertebral body?
+Which part of the rib articulates with the superior and inferior costal facets on the side of the structure at pin 2 in the attached section?
+![Cadaveric transverse section of the thoracic spine](library/images/msk-back-images/bas-thoracic-section.png)
 A. Head of the rib
 B. Costal cartilage
 C. Tubercle of the rib
@@ -11522,9 +11578,9 @@ E. Angle of the rib
 Answer: A. Head of the rib
 Order: Second
 Difficulty: Medium
-Reference: Thoracic vertebrae: costal facets and facet orientation
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
-The superior and inferior costal facets are on the side of the thoracic vertebral body.
+Pin 2 marks a thoracic vertebral body, which carries the superior and inferior costal facets on its sides.
 The superior and inferior costal facets articulate with the head of the rib (costovertebral joint), while the transverse costal facet articulates with the rib tubercle.
 Why the other answers are wrong:
 B. Costal cartilage joins the rib to the sternum anteriorly.
@@ -11534,24 +11590,26 @@ E. The angle of the rib is a muscle attachment for iliocostalis, not an articula
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1776
-A researcher compares range of motion between spinal regions in cadavers. In one region, the articular facets are vertically oriented, which limits excessive flexion and extension but allows rotation and some lateral flexion. Which region is this?
-A. Cervical
-B. Sacral
-C. Craniovertebral
-D. Thoracic
-E. Lumbar
-Answer: D. Thoracic
+Based on the region of the vertebra at pin 2 in the attached section, which of the following best describes the movements that its articular facet orientation allows?
+![Cadaveric transverse section of the thoracic spine](library/images/msk-back-images/bas-thoracic-section.png)
+A. Flexion and extension and lateral flexion, with limited rotation
+B. Rotation and some lateral flexion, with limited flexion and extension
+C. Nodding of the head with limited rotation
+D. Pivoting rotation around a central process
+E. No movement, because the vertebrae are fused
+Answer: B. Rotation and some lateral flexion, with limited flexion and extension
 Order: Second
 Difficulty: Medium
-Reference: Thoracic vertebrae: costal facets and facet orientation
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the body of a thoracic vertebra.
 In the thoracic region the superior facets face posteriorly and slightly laterally and the inferior facets face anteriorly and slightly medially, a vertical orientation that limits flexion and extension.
 The main movements are rotation and some lateral flexion.
 Why the other answers are wrong:
-A. Cervical facets are more horizontal and allow flexion, extension, and lateral flexion.
-B. The sacral vertebrae are fused and don't move against each other.
-C. Craniovertebral joints are specialized for nodding and rotation of the head.
-E. Lumbar facets lie in the sagittal plane, allowing flexion and extension with limited rotation.
+A. This describes the lumbar region, where the facets lie in the sagittal plane.
+C. This describes the atlanto-occipital joint.
+D. This describes the atlanto-axial joint, where C1 pivots around the dens.
+E. Fusion describes the sacrum and coccyx.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1777
@@ -11599,7 +11657,8 @@ E. The pedicle connects the arch to the body.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1779
-A researcher studies spinal range of motion. In one region the articular facets lie in the sagittal plane, and the vertebrae have large bodies and mammillary processes. Which of the following best describes the movements this orientation allows?
+A student studies the joint at pin 7 in the attached lumbar prosection. Which of the following best describes the movements that the facet orientation in this region allows?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. No movement, because the vertebrae are fused
 B. Pivoting rotation around a central process
 C. Nodding of the head with limited rotation
@@ -11608,9 +11667,10 @@ E. Flexion and extension and lateral flexion, with limited rotation
 Answer: E. Flexion and extension and lateral flexion, with limited rotation
 Order: Second
 Difficulty: Medium
-Reference: Lumbar vertebrae
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
-This is the lumbar region, and its articular facets are oriented in the sagittal plane.
+Pin 7 marks the capsule of a lumbar zygapophysial (facet) joint.
+Lumbar articular facets are oriented in the sagittal plane.
 That arrangement allows flexion and extension and lateral flexion but limits rotation.
 Why the other answers are wrong:
 A. Fusion describes the sacrum and coccyx.
@@ -11620,7 +11680,8 @@ D. This describes the thoracic region.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1780
-A 30-year-old woman is being evaluated before delivery. The physician estimates pelvic dimensions using the anterior projecting edge of the S1 vertebral body. Which of the following structures is this?
+The attached image shows the posterior surface of the sacrum in a dissection. A physician estimating pelvic dimensions before delivery uses the anterior projecting edge of the top segment of this bone. Which of the following structures is this?
+![Cadaveric dissection of the sacral region, posterior view](library/images/msk-back-images/bas-sacrum-insitu.png)
 A. Sacral hiatus
 B. Sacral promontory
 C. Median sacral crest
@@ -11629,8 +11690,9 @@ E. Superior articular facet of the sacrum
 Answer: B. Sacral promontory
 Order: First
 Difficulty: Easy
-Reference: Sacrum: promontory, foramina, and hiatus
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+The pins in this image are on the posterior sacrum; the sacral promontory is on the opposite (pelvic) side, at the anterior edge of the S1 body.
 The sacral promontory is the anterior projecting edge of the S1 vertebral body and an important obstetric landmark.
 Why the other answers are wrong:
 A. The sacral hiatus is the opening at the inferior end of the posterior sacrum.
@@ -11640,7 +11702,8 @@ E. The superior articular facets are on the posterior upper sacrum and meet L5.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1781
-A first-year medical student studies the paired openings on the smooth, concave pelvic surface of the sacrum. Which of the following passes through these openings?
+The opening at pin 3 in the attached image has a counterpart on the smooth, concave pelvic surface of the same bone. Which of the following passes through those pelvic-surface openings?
+![Cadaveric dissection of the sacral region, posterior view](library/images/msk-back-images/bas-sacrum-insitu.png)
 A. Vertebral arteries
 B. Anterior rami of the sacral spinal nerves
 C. Posterior rami of the sacral spinal nerves
@@ -11649,8 +11712,9 @@ E. Meningeal branches only
 Answer: B. Anterior rami of the sacral spinal nerves
 Order: Second
 Difficulty: Medium
-Reference: Sacrum: promontory, foramina, and hiatus
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 3 marks a posterior sacral foramen, and its counterpart on the pelvic surface is the anterior sacral foramen.
 These are the anterior (ventral) sacral foramina on the pelvic surface of the sacrum.
 They transmit the anterior rami of the sacral spinal nerves.
 Why the other answers are wrong:
@@ -11683,7 +11747,8 @@ E. Transverse foramina are in cervical vertebrae.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1783
-A first-year medical student studies the inferior end of the vertebral canal. Which of the following is the inverted U-shaped opening at the lower end of the posterior sacrum that leads into the sacral canal?
+In the attached sacral dissection, following the midline ridge near pin 2 downward leads to an inverted U-shaped opening at the lower end of the posterior sacrum. Which of the following is this opening?
+![Cadaveric dissection of the sacral region, posterior view](library/images/msk-back-images/bas-sacrum-insitu.png)
 A. Posterior sacral foramen
 B. Sacral hiatus
 C. Anterior sacral foramen
@@ -11692,8 +11757,9 @@ E. Foramen magnum
 Answer: B. Sacral hiatus
 Order: First
 Difficulty: Easy
-Reference: Sacrum: promontory, foramina, and hiatus
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 is on the median sacral crest, which ends inferiorly at the sacral hiatus.
 The sacral hiatus is the inverted U-shaped opening at the inferior end of the posterior sacrum, leading into the sacral canal.
 Why the other answers are wrong:
 A. Posterior sacral foramina are paired lateral openings that transmit posterior rami.
@@ -11703,7 +11769,8 @@ E. The foramen magnum is at the top of the vertebral canal, in the skull.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1784
-A 31-year-old woman in labor is to receive caudal epidural anesthesia. The needle is placed through the inverted U-shaped opening at the inferior end of the posterior sacrum. Which space does the needle enter?
+A 31-year-old woman in labor is to receive caudal epidural anesthesia. The needle is placed in the midline below the field shown in the attached image, through the inverted U-shaped opening at the inferior end of the bone bearing pins 2 and 3. Which space does the needle enter?
+![Cadaveric dissection of the sacral region, posterior view](library/images/msk-back-images/bas-sacrum-insitu.png)
 A. The intervertebral disc between L5 and S1
 B. The sacroiliac joint
 C. The pelvic cavity anterior to the sacrum
@@ -11712,8 +11779,9 @@ E. The sacral canal, the inferior end of the vertebral canal
 Answer: E. The sacral canal, the inferior end of the vertebral canal
 Order: Second
 Difficulty: Medium
-Reference: Sacrum: promontory, foramina, and hiatus
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pins 2 and 3 are on the posterior sacrum, and the opening at its inferior end is the sacral hiatus.
 The opening is the sacral hiatus, which leads into the sacral canal (the inferior end of the vertebral canal).
 That's why the hiatus is a site for caudal epidural anesthesia.
 Why the other answers are wrong:
@@ -11724,7 +11792,8 @@ D. The L5 to S1 facet joint is at the superior articular facets, not the inferio
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1785
-A first-year medical student studies the ear-shaped surface on the lateral side of the sacrum. Which bone articulates with this surface?
+In the attached sacral dissection, the bone bearing pin 1 meets the lateral side of the sacrum at an ear-shaped surface. Which bone articulates with this surface?
+![Cadaveric dissection of the sacral region, posterior view](library/images/msk-back-images/bas-sacrum-insitu.png)
 A. Ischium of the hip bone
 B. Ilium of the hip bone
 C. Femur
@@ -11733,8 +11802,9 @@ E. Coccyx
 Answer: B. Ilium of the hip bone
 Order: Second
 Difficulty: Medium
-Reference: Sacral joints and the coccyx
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks the iliac crest, the upper edge of the ilium, which meets the sacrum's auricular surface at the sacroiliac joint.
 The ear-shaped surface on the lateral sacrum is the auricular surface.
 It articulates with the ilium of the hip bone to form the sacroiliac joint, through which the sacrum passes upper body weight to the pelvis.
 Why the other answers are wrong:
@@ -11745,7 +11815,8 @@ E. The coccyx joins the inferior tip of the sacrum.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1786
-A first-year medical student studies the paired superior articular facets at the top of the sacrum. Which joint do they form?
+The capsule at pin 7 in the attached lumbar prosection surrounds a joint that includes one of the paired superior articular facets at the top of the sacrum. Which joint is this?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Lumbosacral joint
 B. Sacrococcygeal joint
 C. Sacroiliac joint
@@ -11754,10 +11825,10 @@ E. Atlanto-occipital joint
 Answer: A. Lumbosacral joint
 Order: Second
 Difficulty: Medium
-Reference: Sacral joints and the coccyx
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
-The superior articular facets of the sacrum articulate with the inferior articular facets of L5.
-It articulates with the inferior articular facet of L5 to form the lumbosacral joint.
+Pin 7 marks the capsule of the joint between the inferior articular process of L5 (pin 6) and the superior articular facet of the sacrum.
+The superior articular facets of the sacrum articulate with the inferior articular facets of L5 to form the lumbosacral joint.
 Why the other answers are wrong:
 B. The sacrococcygeal joint is at the inferior tip of the sacrum.
 C. The sacroiliac joint is formed by the auricular surface and the ilium.
@@ -11766,7 +11837,8 @@ E. The atlanto-occipital joint is between C1 and the skull.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1787
-A first-year medical student studies the inferior end of the vertebral column. Which of the following structures is formed by fusion of 3 to 5 rudimentary vertebrae below the sacrum?
+In the attached sacral dissection, the bone bearing pins 2 and 3 continues inferiorly into a small bone formed by fusion of 3 to 5 rudimentary vertebrae. Which of the following is this bone?
+![Cadaveric dissection of the sacral region, posterior view](library/images/msk-back-images/bas-sacrum-insitu.png)
 A. Sacrum
 B. Coccyx
 C. Ischium
@@ -11775,8 +11847,9 @@ E. Sacral hiatus
 Answer: B. Coccyx
 Order: First
 Difficulty: Easy
-Reference: Sacral joints and the coccyx
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pins 2 and 3 are on the sacrum, and the coccyx continues from its inferior tip.
 The coccyx (tail bone) is formed by fusion of 3 to 5 rudimentary coccygeal vertebrae at the inferior tip of the sacrum.
 Why the other answers are wrong:
 A. The sacrum is formed by 5 fused vertebrae above the coccyx.
@@ -11786,7 +11859,8 @@ E. The sacral hiatus is an opening at the inferior end of the sacrum.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1788
-A researcher counts the vertebrae in an adult skeleton. Which of the following correctly lists the number of vertebrae in each region from superior to inferior?
+The attached image shows the full length of the back with the superficial muscles exposed, from the skull down to the pelvis. Which of the following correctly lists the number of vertebrae in each region of the underlying column from superior to inferior?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back-images/back-lab-01-superficial-back.png)
 A. 8 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
 B. 7 cervical, 12 thoracic, 5 lumbar, 4 fused sacral, 1 coccygeal
 C. 7 cervical, 12 thoracic, 4 lumbar, 6 fused sacral, 3 to 5 fused coccygeal
@@ -11795,8 +11869,9 @@ E. 7 cervical, 11 thoracic, 6 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
 Answer: D. 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
 Order: First
 Difficulty: Easy
-Reference: Vertebral column regions and functions
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+The nuchal ligament (pin 2) overlies the cervical vertebrae and the thoracolumbar fascia (pin 5) overlies the lumbar vertebrae in this view.
 The vertebral column has 7 cervical, 12 thoracic, and 5 lumbar vertebrae, 5 sacral vertebrae fused into the sacrum, and 3 to 5 (usually 4) coccygeal vertebrae fused into the coccyx.
 That makes about 33 vertebrae in all.
 Why the other answers are wrong:
@@ -11807,7 +11882,8 @@ E. There are 12 thoracic and 5 lumbar vertebrae.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1789
-A researcher studies the bony origins of back muscles on the hip bone. Which of the following muscles arise in part from the iliac crest?
+Two of the muscles pinned in the attached deep back dissection arise in part from the iliac crest. Which of the following pairs is this?
+![Cadaveric dissection of the deep back, posterior view](library/images/msk-back-images/back-lab-19-erector-spinae.png)
 A. Rhomboid major and rhomboid minor
 B. Latissimus dorsi and the erector spinae
 C. Serratus posterior superior and serratus posterior inferior
@@ -11816,8 +11892,9 @@ E. Trapezius and levator scapulae
 Answer: B. Latissimus dorsi and the erector spinae
 Order: First
 Difficulty: Medium
-Reference: Latissimus dorsi muscle; Erector spinae muscles
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Latissimus dorsi (pin 7) and the erector spinae, whose broad tendon is at pin 8, both arise in part from the iliac crest.
 Latissimus dorsi arises from the lower thoracic spinous processes, thoracolumbar fascia, and iliac crest.
 The erector spinae arise from a broad tendon attached to the posterior iliac crest, posterior sacrum, sacroiliac ligaments, and sacral and inferior lumbar spinous processes.
 Why the other answers are wrong:
@@ -11828,7 +11905,8 @@ E. Trapezius and levator scapulae arise from the skull and cervical and thoracic
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1790
-A first-year medical student studies the ligaments of the vertebral column. Which of the following is the broad fibrous band that covers the anterolateral vertebral bodies and discs from the occipital bone to the sacrum?
+In the attached lumbar prosection, the structure at pin 1 is covered on its anterolateral surface by a broad fibrous band that runs from the occipital bone to the sacrum. Which of the following is this band?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Posterior longitudinal ligament
 B. Anterior longitudinal ligament
 C. Ligamentum flavum
@@ -11837,8 +11915,9 @@ E. Nuchal ligament
 Answer: B. Anterior longitudinal ligament
 Order: First
 Difficulty: Easy
-Reference: Anterior and posterior longitudinal ligaments and ligamentum flavum
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks the annulus fibrosus of an intervertebral disc, and the band covering the anterolateral bodies and discs is the anterior longitudinal ligament.
 The anterior longitudinal ligament is a strong, broad band covering the anterolateral vertebral bodies and discs from the occipital bone to the sacrum.
 It helps resist hyperextension.
 Why the other answers are wrong:
@@ -11849,7 +11928,8 @@ E. The nuchal ligament runs from the external occipital protuberance to C7 behin
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1791
-A 35-year-old woman is brought to the emergency department after her car was struck from behind. She has neck pain and stiffness. A whiplash injury is suspected, with severe stretching of the broad ligament covering the anterior surfaces of the cervical vertebral bodies. Which of the following motions does this ligament normally resist?
+A 35-year-old woman is brought to the emergency department after her car was struck from behind, and she has neck pain and stiffness. A whiplash injury is suspected, with severe stretching of the broad ligament that covers the anterior surfaces of structures like those at pins 2 and 3 in the attached section. Which of the following motions does this ligament normally resist?
+![Cadaveric transverse section of the thoracic spine](library/images/msk-back-images/bas-thoracic-section.png)
 A. Posterior displacement of the intervertebral discs
 B. Hyperflexion
 C. Lateral flexion
@@ -11858,8 +11938,9 @@ E. Hyperextension
 Answer: E. Hyperextension
 Order: Third
 Difficulty: Medium
-Reference: Anterior and posterior longitudinal ligaments and ligamentum flavum
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pins 2 and 3 mark a vertebral body and an intervertebral disc, and the anterior longitudinal ligament covers the anterior surfaces of both.
 The ligament on the front of the vertebral bodies is the anterior longitudinal ligament, which prevents hyperextension.
 In whiplash, the sudden back-and-forth motion causes severe hyperextension of the neck, stretching and sometimes tearing this ligament.
 Why the other answers are wrong:
@@ -11870,7 +11951,8 @@ D. Rotation is limited mainly by facet orientation.
 Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
 
 Question 1792
-A first-year medical student studies a ligament that runs within the vertebral canal along the posterior surfaces of the vertebral bodies and resists posterior displacement of the discs. Which of the following is this ligament?
+A ligament runs within the vertebral canal along the posterior surface of the structure at pin 2 in the attached section and resists posterior displacement of the discs. Which of the following is this ligament?
+![Cadaveric transverse section of the thoracic spine](library/images/msk-back-images/bas-thoracic-section.png)
 A. Ligamentum flavum
 B. Interspinous ligament
 C. Posterior longitudinal ligament
@@ -11879,8 +11961,9 @@ E. Supraspinous ligament
 Answer: C. Posterior longitudinal ligament
 Order: First
 Difficulty: Easy
-Reference: Anterior and posterior longitudinal ligaments and ligamentum flavum
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks a vertebral body, and the ligament along its posterior surface inside the canal is the posterior longitudinal ligament.
 The posterior longitudinal ligament is a narrow ligament inside the vertebral canal along the backs of the vertebral bodies.
 It weakly resists hyperflexion and resists posterior displacement of the intervertebral discs.
 Why the other answers are wrong:
@@ -12045,7 +12128,8 @@ E. S1 is typically affected by an L5/S1 herniation.
 Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
 
 Question 1800
-A 50-year-old woman comes to the clinic because of neck pain radiating into her shoulder, arm, and hand. MRI shows a posterolateral herniation of the C5/C6 intervertebral disc. Which of the following spinal nerve roots is most likely compressed?
+A 50-year-old woman comes to the clinic because of neck pain radiating into her shoulder, arm, and hand. MRI shows a posterolateral herniation of the C5/C6 intervertebral disc, a level within the exposed region between pins 1 and 2 in the attached image. Which of the following spinal nerve roots is most likely compressed?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/bas-cervical-insitu.png)
 A. C5
 B. C4
 C. T1
@@ -12054,8 +12138,9 @@ E. C7
 Answer: D. C6
 Order: Third
 Difficulty: Hard
-Reference: Herniated nucleus pulposus (L4/L5 example)
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 is on the lamina of C4 and pin 2 on the C7 spinous process, so the C5/C6 disc lies between them.
 Cervical spinal nerves exit superior to the vertebra of the same number, which keeps the same numerical relationship as in the lumbar spine.
 A C5/C6 herniation compresses the C6 root, and a C6/C7 herniation compresses C7; these are the two most common cervical disc ruptures.
 Why the other answers are wrong:
@@ -12066,7 +12151,8 @@ E. C7 is compressed by a C6/C7 herniation.
 Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
 
 Question 1801
-A researcher studies why most lumbar disc herniations extend posterolaterally rather than straight posteriorly. Which of the following best explains this pattern?
+In the attached lumbar prosection, material from the structure at pin 2 most often herniates posterolaterally through the structure at pin 1 rather than straight posteriorly. Which of the following best explains this pattern?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. The supraspinous ligament pushes the disc laterally.
 B. The annulus fibrosus is thinnest anteriorly, and the anterior longitudinal ligament is weak.
 C. The annulus fibrosus is thin posterolaterally, and that region isn't supported by either longitudinal ligament.
@@ -12075,8 +12161,9 @@ E. The nucleus pulposus sits in the anterior part of the disc.
 Answer: C. The annulus fibrosus is thin posterolaterally, and that region isn't supported by either longitudinal ligament.
 Order: Second
 Difficulty: Hard
-Reference: Herniated nucleus pulposus (L4/L5 example)
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the nucleus pulposus and pin 1 the surrounding annulus fibrosus.
 Herniations usually extend posterolaterally because the annulus fibrosus is relatively thin there and receives no support from the anterior or posterior longitudinal ligaments.
 The posterior longitudinal ligament resists straight posterior displacement of the disc in the midline.
 Why the other answers are wrong:
@@ -12087,7 +12174,8 @@ E. The nucleus pulposus is central, not anterior.
 Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
 
 Question 1802
-A 74-year-old man has had stiffness in his lower back for years. Imaging shows that his intervertebral discs have lost height. Which of the following changes in the disc best explains this with aging?
+A 74-year-old man has had stiffness in his lower back for years, and imaging shows that his intervertebral discs have lost height. Which of the following age-related changes in the structure at pin 2 in the attached lumbar prosection best explains this?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. The disc converts into a plane synovial joint
 B. The nucleus pulposus gains water and elastin, making it more turgid
 C. The vertebral bodies fuse into a single bone
@@ -12096,8 +12184,9 @@ E. The annulus fibrosus becomes fully vascularized and innervated
 Answer: D. The nucleus pulposus dehydrates and loses elastin and proteoglycans while gaining collagen
 Order: Second
 Difficulty: Medium
-Reference: Age-related intervertebral disc changes
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the nucleus pulposus at the center of the disc.
 With age, the nucleus pulposus dehydrates and loses elastin and proteoglycans while gaining collagen, so the disc loses turgor and becomes stiffer.
 The annulus fibrosus then carries more of the vertical load and often develops fissures, which is part of degenerative disc disease.
 Why the other answers are wrong:
@@ -12108,7 +12197,8 @@ E. Only the outer third of the annulus is vascular and innervated, and aging doe
 Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
 
 Question 1803
-A 19-year-old football lineman comes to the clinic because of low back pain. A lateral radiograph shows the L5 vertebral body displaced anteriorly on S1. Which of the following is the most likely diagnosis?
+A 19-year-old football lineman comes to the clinic because of low back pain. A lateral radiograph shows the body of the vertebra above the joint at pin 7 in the attached image displaced anteriorly on the bone below it. Which of the following is the most likely diagnosis?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Spinal stenosis
 B. Spondylolysis
 C. Kyphosis
@@ -12117,8 +12207,9 @@ E. Scoliosis
 Answer: D. Spondylolisthesis
 Order: Second
 Difficulty: Medium
-Reference: Spondylolisthesis
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 7 marks the L5 to S1 facet joint, at the junction where spondylolisthesis most often occurs.
 Spondylolisthesis is displacement of one vertebra relative to another, most commonly at the L5 to S1 junction with L5 slipping anteriorly over S1.
 Common causes are disc degeneration and sports injury.
 Why the other answers are wrong:
@@ -12129,7 +12220,8 @@ E. Scoliosis is a lateral curvature with vertebral rotation.
 Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
 
 Question 1804
-A 29-year-old woman in her third trimester of pregnancy comes to the clinic because of low back pain. Examination shows an exaggerated inward curve of the lumbar spine with anterior rotation of the pelvis. Which of the following is the most likely finding?
+A 29-year-old woman in her third trimester of pregnancy comes to the clinic because of low back pain. Examination shows an exaggerated inward curve of the part of the spine beneath pin 3 in the attached image, with anterior rotation of the pelvis. Which of the following is the most likely finding?
+![Cadaveric dissection of the lower back, posterior view](library/images/msk-back-images/back-lab-07-latissimus-elevated.png)
 A. Lordosis
 B. Kyphosis
 C. Scoliosis
@@ -12138,8 +12230,9 @@ E. Spondylolysis
 Answer: A. Lordosis
 Order: Second
 Difficulty: Easy
-Reference: Abnormal vertebral curvatures: kyphosis, lordosis, and scoliosis
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 3 marks the thoracolumbar fascia over the lumbar region, the part of the column affected in lordosis.
 Lordosis (hollow or sway back) is an exaggerated lumbar curvature with anterior rotation of the pelvis.
 Causes include weak trunk muscles, obesity, and pregnancy.
 Why the other answers are wrong:
@@ -12150,7 +12243,8 @@ E. Spondylolysis is a pars interarticularis fracture.
 Objective: Evaluate normal vertebral curvatures, and distinguish features of abnormal vertebral curvatures such as kyphosis, lordosis, and scoliosis.
 
 Question 1805
-A 13-year-old girl is seen for a school screening. When she bends forward, one side of her back is higher than the other. Radiographs show an increased lateral curvature of the thoracic spine with rotation of the vertebrae, and no congenital vertebral defects are found. Which of the following is the most likely diagnosis?
+A 13-year-old girl is seen for a school screening, and when she bends forward one side of her back is higher than the other. Radiographs show that the row of structures represented by pin 1 in the attached image curves laterally in the thoracic region, with rotation of the vertebrae, and no congenital vertebral defects are found. Which of the following is the most likely diagnosis?
+![Cadaveric dissection of the lower back, posterior view](library/images/msk-back-images/back-lab-07-latissimus-elevated.png)
 A. Spina bifida occulta
 B. Lordosis
 C. Kyphosis
@@ -12159,8 +12253,9 @@ E. Idiopathic scoliosis
 Answer: E. Idiopathic scoliosis
 Order: Second
 Difficulty: Easy
-Reference: Abnormal vertebral curvatures: kyphosis, lordosis, and scoliosis
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks the spinous processes, which normally form a straight midline row.
 Scoliosis is an increased lateral curvature of the spine with rotation of the vertebrae.
 With no congenital vertebral defect, the most likely cause is idiopathic.
 Why the other answers are wrong:
@@ -12171,7 +12266,8 @@ D. Spondylolisthesis is slippage of one vertebra on another.
 Objective: Evaluate normal vertebral curvatures, and distinguish features of abnormal vertebral curvatures such as kyphosis, lordosis, and scoliosis.
 
 Question 1806
-A researcher studies the normal curvatures of the adult vertebral column. Which of the following pairs of regions are secondary curvatures that are concave posteriorly?
+The attached image shows the posterior trunk from the neck down to the lumbar region. Which of the following pairs of regions of the underlying column are secondary curvatures that are concave posteriorly?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back-images/back-lab-06-trapezius-reflected.png)
 A. Thoracic and sacral
 B. Thoracic and lumbar
 C. Cervical and lumbar
@@ -12180,8 +12276,9 @@ E. Cervical and thoracic
 Answer: C. Cervical and lumbar
 Order: First
 Difficulty: Medium
-Reference: Normal vertebral curvatures
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+The cervical column lies under the neck at the top of this view, and the lumbar column lies under the thoracolumbar fascia (pin 3).
 The cervical and lumbar curvatures are secondary curvatures and are concave posteriorly.
 The thoracic and sacral curvatures are concave anteriorly.
 Why the other answers are wrong:
@@ -12192,7 +12289,8 @@ E. The thoracic curve is concave anteriorly.
 Objective: Evaluate normal vertebral curvatures, and distinguish features of abnormal vertebral curvatures such as kyphosis, lordosis, and scoliosis.
 
 Question 1807
-A 66-year-old man with prostate cancer is found to have metastases in his lumbar vertebrae. Which of the following features of the venous drainage of the vertebral column best explains this spread?
+A 66-year-old man with prostate cancer is found to have metastases in vertebral bodies like the one at pin 2 in the attached section. Which of the following features of the venous drainage of the vertebral column best explains this spread?
+![Cadaveric transverse section of the thoracic spine](library/images/msk-back-images/bas-thoracic-section.png)
 A. The venous plexuses don't communicate with segmental veins of the trunk
 B. The vertebral veins have strong valves that trap tumor cells
 C. The vertebral column drains only into the vertebral artery
@@ -12201,8 +12299,9 @@ E. The internal vertebral venous plexus lies outside the vertebral canal
 Answer: D. The internal and external vertebral venous plexuses lack valves and communicate with each other
 Order: Second
 Difficulty: Medium
-Reference: Internal and external vertebral venous plexuses
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks a vertebral body, which drains into the vertebral venous plexuses.
 The internal and external vertebral venous plexuses communicate with each other and lack valves.
 That lets malignant cells and bacteria in the blood spread into the vertebral column.
 Why the other answers are wrong:
@@ -12213,7 +12312,8 @@ E. The internal plexus is within the vertebral canal, and the external plexus is
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1808
-A 40-year-old woman has localized back pain from a small tear in the outer annulus fibrosus of a lumbar disc. Which of the following nerves carries the pain from this structure?
+A 40-year-old woman has localized back pain from a small tear in the outer part of the structure at pin 1 in the attached lumbar prosection. Which of the following nerves carries the pain from this structure?
+![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Thoracodorsal nerve
 B. Anterior rami forming the lumbar plexus
 C. Posterior rami supplying the zygapophysial joints
@@ -12222,8 +12322,9 @@ E. Intercostal nerves
 Answer: D. Meningeal (recurrent meningeal) branches of the spinal nerves
 Order: Second
 Difficulty: Hard
-Reference: Meningeal branches and vertebral column innervation
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks the annulus fibrosus, whose outer third is innervated.
 Meningeal branches of the spinal nerves supply the periosteum, the intervertebral discs (annulus fibrosus), the vertebral ligaments, and the meninges of the spinal cord.
 Only the outer third of the annulus fibrosus is innervated in a healthy disc, so pain from an outer tear travels in these branches.
 Why the other answers are wrong:
@@ -12256,7 +12357,8 @@ E. This describes the anterior longitudinal ligament.
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1810
-A researcher studies the skull attachment of splenius capitis. To which of the following does it attach?
+A student follows the muscle at pin 1 in the attached dissection up to the skull. To which of the following does its capitis part attach?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back-images/bas-back-serratus-post-sup.png)
 A. Superior nuchal line
 B. Inferior nuchal line
 C. External occipital protuberance
@@ -12265,8 +12367,9 @@ E. Occipital condyle
 Answer: A. Superior nuchal line
 Order: First
 Difficulty: Medium
-Reference: Semispinalis muscle; Supraspinous, interspinous, and nuchal ligaments
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks splenius in the upper part of the field, superior to serratus posterior superior (pin 3).
 Splenius capitis attaches superiorly to the superior nuchal line, the curved ridge running laterally from the external occipital protuberance.
 Why the other answers are wrong:
 B. The inferior nuchal line is the lower boundary of the semispinalis attachment.
@@ -12276,7 +12379,8 @@ E. The occipital condyles articulate with the atlas.
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1811
-A researcher maps the occipital attachment of semispinalis. Which bony landmark marks the lower edge of this attachment?
+The muscle at pin 1 in the attached posterior neck dissection is traced to its occipital attachment. Which bony landmark marks the lower edge of this attachment?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/back-lab-18-semispinalis.png)
 A. Superior nuchal line
 B. Inferior nuchal line
 C. External occipital protuberance
@@ -12285,8 +12389,9 @@ E. Mastoid process
 Answer: B. Inferior nuchal line
 Order: First
 Difficulty: Medium
-Reference: Semispinalis muscle; Supraspinous, interspinous, and nuchal ligaments
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks semispinalis, exposed once splenius (pin 3) is reflected.
 Semispinalis attaches to the occipital bone between the superior and inferior nuchal lines, so the inferior nuchal line marks the lower edge of its attachment.
 Why the other answers are wrong:
 A. The superior nuchal line marks the upper edge and receives splenius capitis.
@@ -12296,7 +12401,8 @@ E. The mastoid process belongs to the temporal bone and receives longissimus.
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1812
-A researcher studies the area of the occipital bone between the superior and inferior nuchal lines. Which of the following muscles attaches to this area, and what does it do when the right side contracts alone?
+In the attached posterior neck dissection, consider the right-sided member of the paired muscle at pin 1 contracting alone. Which of the following identifies this muscle and its action?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/back-lab-18-semispinalis.png)
 A. Longissimus; laterally flexes the vertebral column to the right
 B. Trapezius; elevates the right scapula
 C. Semispinalis; extends the head and rotates it to the left
@@ -12305,8 +12411,9 @@ E. Semispinalis; extends the head and rotates it to the right
 Answer: C. Semispinalis; extends the head and rotates it to the left
 Order: Third
 Difficulty: Hard
-Reference: Semispinalis muscle
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 1 marks semispinalis, which lies deep to splenius (pin 3).
 Semispinalis attaches to the occipital bone between the superior and inferior nuchal lines.
 Semispinalis extends and contralaterally rotates the head, so the right muscle turns the head to the left.
 Why the other answers are wrong:
@@ -12317,7 +12424,8 @@ E. The muscle is right, but semispinalis rotates the head to the opposite side.
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1813
-A first-year medical student studies the occipital condyles beside the foramen magnum. Which bone articulates with them, and what movement does the joint mainly allow?
+In the attached image, the vertebral column is exposed up to the base of the skull. The occipital condyles beside the foramen magnum articulate with which bone at the top of this column, and what movement does the joint mainly allow?
+![Cadaveric dissection of the posterior neck](library/images/msk-back-images/bas-cervical-insitu.png)
 A. Atlas; rotation of the head around the dens
 B. Axis; rotation of the head
 C. Atlas; nodding of the head
@@ -12326,9 +12434,9 @@ E. C7; flexion of the neck
 Answer: C. Atlas; nodding of the head
 Order: Second
 Difficulty: Medium
-Reference: Atlas (C1); Craniovertebral joints
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
-The occipital condyles sit beside the foramen magnum.
+The occipital condyles sit on the top of the column exposed here, above the cervical vertebrae marked by pins 1 and 2.
 The occipital condyles articulate with the superior articular facets of the atlas (C1) at the atlanto-occipital joints, which allow nodding, some side bending, and limited rotation.
 Why the other answers are wrong:
 A. Rotation around the dens happens at the atlanto-axial joint, not at the condyles.
@@ -12338,7 +12446,8 @@ E. C7 is far below the skull.
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1814
-A first-year medical student palpates a scapula in the lab. Which part of the scapula is the lowest point, where the medial and lateral borders meet?
+A student follows the edge of the scapula at pin 3 in the attached dissection downward. Where it meets the opposite border at the lowest point of the bone, which part of the scapula is reached?
+![Cadaveric dissection of the scapular region, posterior view](library/images/msk-back-images/bas-scapula-insitu.png)
 A. Superior angle
 B. Inferior angle
 C. Acromion
@@ -12347,8 +12456,9 @@ E. Spine of the scapula
 Answer: B. Inferior angle
 Order: First
 Difficulty: Easy
-Reference: Levator scapulae muscle; Rhomboid major and minor
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 3 marks the medial (vertebral) border, which meets the lateral border at the inferior angle.
 The inferior angle is the lowest point of the scapula, where the medial (vertebral) and lateral (axillary) borders meet.
 Why the other answers are wrong:
 A. The superior angle is the upper medial corner, where levator scapulae attaches.
@@ -12358,7 +12468,8 @@ E. The spine is the ridge crossing the posterior surface.
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1815
-A first-year medical student traces the edge of the scapula that runs from the inferior angle up toward the glenoid cavity, on the side facing the armpit. Which border is this?
+A student traces the edge of the scapula opposite the one at pin 3 in the attached dissection, running from the inferior angle up toward the glenoid cavity on the side facing the armpit. Which border is this?
+![Cadaveric dissection of the scapular region, posterior view](library/images/msk-back-images/bas-scapula-insitu.png)
 A. Medial (vertebral) border
 B. Superior border
 C. Lateral (axillary) border
@@ -12367,8 +12478,9 @@ E. Inferior angle
 Answer: C. Lateral (axillary) border
 Order: First
 Difficulty: Easy
-Reference: Levator scapulae muscle; Rhomboid major and minor
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 3 marks the medial border, so the opposite edge facing the axilla is the lateral border.
 The lateral (axillary) border runs from the inferior angle up toward the glenoid cavity, on the side facing the axilla.
 Why the other answers are wrong:
 A. The medial border faces the vertebral column and receives the rhomboids and levator scapulae.
@@ -12378,7 +12490,8 @@ E. The inferior angle is the lowest point, not a border.
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1816
-A first-year medical student traces the short, thin edge of the scapula that runs laterally from the superior angle. Which of the following is this?
+A student traces the short, thin edge of the scapula that runs laterally from the point at pin 2 in the attached dissection. Which of the following is this?
+![Cadaveric dissection of the upper back, posterior view](library/images/msk-back-images/back-lab-12-rhomboids-both-sides.png)
 A. Spine of the scapula
 B. Superior border
 C. Medial (vertebral) border
@@ -12387,8 +12500,9 @@ E. Acromion
 Answer: B. Superior border
 Order: First
 Difficulty: Medium
-Reference: Levator scapulae muscle; Rhomboid major and minor
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the superior angle of the scapula, where levator scapulae (pin 1) attaches.
 The superior border is the short, thin upper edge of the scapula running laterally from the superior angle.
 Why the other answers are wrong:
 A. The spine is the prominent ridge crossing the posterior surface below this edge.
@@ -12485,7 +12599,8 @@ D. The auricular surface is on the medial side of the ilium, where it meets the 
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1821
-A first-year medical student studies the three bones that fuse to form the hip bone. Which part forms the anteroinferior portion, in front of and below the acetabulum?
+In the attached lateral pelvic dissection, which bone forms the part of the hip bone anterior and inferior to the structure at pin 2?
+![Cadaveric dissection of the pelvis, lateral view](library/images/msk-back-images/bas-pelvis-insitu.png)
 A. Ilium
 B. Ischium
 C. Pubis
@@ -12494,8 +12609,9 @@ E. Coccyx
 Answer: C. Pubis
 Order: First
 Difficulty: Easy
-Reference: Sacral joints and the coccyx
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the acetabulum, where the ilium, ischium, and pubis meet.
 The pubis forms the anteroinferior part of the hip bone, in front of and below the acetabulum.
 Why the other answers are wrong:
 A. The ilium is the large upper part, topped by the iliac crest.
@@ -12505,7 +12621,8 @@ E. The coccyx attaches to the sacrum.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1822
-A first-year medical student studies the three bones that fuse to form the hip bone. Which part forms the posteroinferior portion, behind and below the acetabulum?
+A student studying the attached lateral pelvic dissection looks behind and below the structure at pin 2. Which part of the hip bone forms this region?
+![Cadaveric dissection of the pelvis, lateral view](library/images/msk-back-images/bas-pelvis-insitu.png)
 A. Pubis
 B. Ilium
 C. Sacrum
@@ -12514,8 +12631,9 @@ E. Iliac crest
 Answer: D. Ischium
 Order: First
 Difficulty: Easy
-Reference: Sacral joints and the coccyx
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
 Why this is correct:
+Pin 2 marks the acetabulum, the socket where the three parts of the hip bone meet.
 The ischium forms the posteroinferior part of the hip bone, behind and below the acetabulum.
 Why the other answers are wrong:
 A. The pubis is the anteroinferior part.
