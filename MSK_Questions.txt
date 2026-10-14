@@ -9669,3 +9669,3059 @@ C. JAK/STAT inhibition is how tofacitinib treats widespread alopecia areata.
 D. Oral antifungals kill dermatophytes in tinea capitis.
 E. Rapid hair cycling causes telogen effluvium, which self-resolves without a specific treatment.
 Objective: Identify and discuss the clinical presentation, diagnosis, pathophysiology, and treatment of common disorders of hair such as alopecia areata, tinea capitis, telogen effluvium, and androgenic alopecia.
+
+MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+
+Question 1690
+A first-year medical student reviews the prosection of the superficial back shown in the attached image during an anatomy practical. Which of the following structures is indicated by pin 3?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back/back-lab-01-superficial-back.png)
+A. Rhomboid major muscle
+B. Latissimus dorsi muscle
+C. Splenius muscle
+D. Trapezius muscle
+E. Levator scapulae muscle
+Answer: D. Trapezius muscle
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the large, triangular, most superficial muscle of the upper back, which runs from the occipital bone, nuchal ligament, and spinous processes of C7 to T12 out to the lateral clavicle, acromion, and spine of the scapula.
+Its fibers converge on the shoulder from a long midline origin, which gives the diamond shape seen when both sides are viewed together.
+Why the other answers are wrong:
+A. Rhomboid major lies deep to trapezius and can't be seen until trapezius is reflected.
+B. Latissimus dorsi is the broad, fan-shaped muscle of the lower back (pin 4), not the upper triangular sheet.
+C. Splenius is a deep muscle of the posterior neck, covered by trapezius here.
+E. Levator scapulae is a thin strap deep to trapezius in the neck, hidden in this superficial view.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1691
+A 34-year-old woman comes to the clinic 3 weeks after excision of a lymph node from the posterior triangle of her neck. She has a dull ache over her right shoulder and can't shrug her right shoulder against the examiner's resistance, though she can shrug the left normally. Sensation over the neck is intact. Injury to a nerve during the procedure is suspected. Which of the following nerves was most likely injured?
+A. Spinal accessory nerve (CN XI)
+B. Posterior rami of the cervical spinal nerves
+C. Thoracodorsal nerve
+D. Dorsal scapular nerve
+E. Anterior rami of C3 and C4
+Answer: A. Spinal accessory nerve (CN XI)
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Shrugging against resistance is the clinical test for the spinal accessory nerve, because CN XI provides motor innervation to trapezius, the muscle that elevates the scapula.
+Loss of a shrug on one side after neck surgery points to injury of CN XI on that side.
+Why the other answers are wrong:
+B. Posterior rami supply the deep (intrinsic) back muscles, not trapezius.
+C. The thoracodorsal nerve supplies latissimus dorsi, which extends, adducts, and medially rotates the arm rather than elevating the scapula.
+D. The dorsal scapular nerve supplies levator scapulae and the rhomboids; it doesn't provide the motor supply to trapezius, which is the main elevator tested by a shrug.
+E. The anterior rami of C3 and C4 carry pain and proprioception from trapezius, not its motor supply.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1692
+A researcher studies the bony attachments of the muscle marked by pin 2 in the attached image of a dissection in which the muscle is being lifted at its inferolateral border. Which of the following is a distal attachment of this muscle?
+![Cadaveric dissection of the upper back, posterior view](library/images/msk-back/back-lab-02-trapezius-elevated.png)
+A. Spine of the scapula
+B. Superior borders of ribs 2 to 4
+C. Superior angle of the scapula
+D. Medial border of the scapula inferior to the spine
+E. Floor of the intertubercular groove of the humerus
+Answer: A. Spine of the scapula
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks trapezius, which inserts on the lateral third of the clavicle, the acromion, and the spine of the scapula.
+Its proximal attachments are the occipital bone, the nuchal ligament, and the spinous processes of C7 to T12.
+Why the other answers are wrong:
+B. Ribs 2 to 4 receive serratus posterior superior.
+C. The superior angle and medial border above the spine receive levator scapulae.
+D. The medial border inferior to the spine is the distal attachment of rhomboid major.
+E. The floor of the intertubercular groove is the distal attachment of latissimus dorsi.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1693
+In the dissection shown in the attached image, the muscle marked by pin 1 has been detached from the spine of the scapula and reflected. The orientation key is shown in the lower left. Which of the following best identifies the muscle marked by pin 1?
+![Cadaveric dissection of the shoulder region, posterior view](library/images/msk-back/back-lab-04-trapezius-scapular-spine.png)
+A. Right latissimus dorsi muscle
+B. Left latissimus dorsi muscle
+C. Left levator scapulae muscle
+D. Right trapezius muscle
+E. Left trapezius muscle
+Answer: E. Left trapezius muscle
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The muscle being reflected off the spine of the scapula and acromion is trapezius, since those are its distal attachments.
+The orientation key shows left on the left of the image in this posterior view, and the acromion (pin 2) sits at the left edge of the dissection, so this is the left shoulder.
+Why the other answers are wrong:
+A. Latissimus dorsi doesn't attach to the scapular spine, and the side is also wrong.
+B. Latissimus dorsi is the muscle marked by pin 4, inferior to the scapula, and it doesn't attach to the spine of the scapula.
+C. Levator scapulae attaches to the superior angle and medial border, not the spine and acromion.
+D. The orientation key places this dissection on the body's left side, not the right.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1694
+A 22-year-old competitive swimmer is evaluated for weakness in his stroke. When asked to bring his abducted arm down to his side and then pull it backward against resistance, he is weak on the right, and internal rotation of the right arm is also weak. Shoulder shrug is normal. Injury to which of the following structures most likely explains these findings?
+![Cadaveric dissection of the axilla and back, posterior view](library/images/msk-back/back-lab-10-latissimus-nv-bundle.png)
+A. Spinal accessory nerve (CN XI), not shown
+B. Structure at pin 3
+C. Structure at pin 1
+D. Structure at pin 2
+E. Dorsal scapular nerve, not shown
+Answer: B. Structure at pin 3
+Order: Third
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Weak adduction, extension, and medial rotation of the arm with a normal shrug points to latissimus dorsi, which is innervated by the thoracodorsal nerve.
+Pin 3 marks the thoracodorsal nerve within the neurovascular bundle entering the deep surface of the reflected latissimus dorsi.
+Why the other answers are wrong:
+A. CN XI supplies trapezius, and injury would cause a weak shrug, which is normal here.
+C. Pin 1 is the thoracodorsal vein, which drains the muscle and wouldn't produce weakness.
+D. Pin 2 is the thoracodorsal artery, the blood supply to latissimus dorsi rather than its motor supply.
+E. The dorsal scapular nerve supplies the rhomboids and levator scapulae, which move the scapula rather than the arm.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1695
+A first-year medical student reviews the dissection shown in the attached image, in which trapezius has been reflected. Which of the following structures is indicated by pin 2?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back/back-lab-06-trapezius-reflected.png)
+A. Thoracolumbar fascia
+B. Rhomboid major muscle
+C. Iliocostalis muscle
+D. Latissimus dorsi muscle
+E. Serratus posterior inferior muscle
+Answer: D. Latissimus dorsi muscle
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the broad, fan-shaped superficial muscle of the lower back that arises from the lower thoracic spinous processes, thoracolumbar fascia, and iliac crest and sweeps toward the humerus.
+This is latissimus dorsi, sometimes called the climber's or rower's muscle.
+Why the other answers are wrong:
+A. The thoracolumbar fascia is the aponeurotic sheet at pin 3, not the muscle belly at pin 2.
+B. Rhomboid major sits higher, between the thoracic spinous processes and the medial border of the scapula.
+C. Iliocostalis is part of the deep erector spinae group and is covered by the superficial and intermediate layers.
+E. Serratus posterior inferior is a thin intermediate muscle deep to latissimus dorsi, not visible until latissimus is reflected.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1696
+A researcher studies the muscle marked by pin 2 in the attached image. Its tendon is traced to the humerus. Where does this muscle attach distally?
+![Cadaveric dissection of the lower back, posterior view](library/images/msk-back/back-lab-07-latissimus-elevated.png)
+A. Lateral third of the clavicle
+B. Medial border of the scapula between the spine and the inferior angle
+C. Inferior borders of ribs 8 to 12
+D. Floor of the intertubercular groove of the humerus
+E. Acromion process of the scapula
+Answer: D. Floor of the intertubercular groove of the humerus
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks latissimus dorsi, which runs from the lower thoracic spinous processes, thoracolumbar fascia, and iliac crest to the floor of the intertubercular groove of the humerus.
+That humeral attachment is why it adducts, extends, and medially rotates the arm.
+Why the other answers are wrong:
+A. The lateral third of the clavicle receives trapezius.
+B. The medial border between the spine and inferior angle receives rhomboid major.
+C. The inferior borders of ribs 8 to 12 receive serratus posterior inferior.
+E. The acromion also receives trapezius.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1697
+During dissection, a student reflects the muscle marked by pin 4 in the attached image and finds the neurovascular bundle on its deep surface. Which of the following movements would be weakest if the nerve in this bundle were cut?
+![Cadaveric dissection of the axilla and back, posterior view](library/images/msk-back/back-lab-10-latissimus-nv-bundle.png)
+A. Elevation of the scapula
+B. Retraction of the scapula
+C. Abduction and lateral rotation of the arm
+D. Lateral flexion of the vertebral column
+E. Adduction, extension, and medial rotation of the arm
+Answer: E. Adduction, extension, and medial rotation of the arm
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks latissimus dorsi, and the nerve in its neurovascular bundle is the thoracodorsal nerve.
+Cutting that nerve paralyzes latissimus dorsi, so its actions (adduction, extension, and medial rotation of the arm) would be weakest.
+Why the other answers are wrong:
+A. Scapular elevation comes from trapezius (CN XI) and levator scapulae (dorsal scapular nerve).
+B. Retraction comes from trapezius and the rhomboids.
+C. Abduction and lateral rotation are the opposite of what latissimus dorsi does.
+D. Lateral flexion of the vertebral column is an action of the erector spinae, supplied by posterior rami.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1698
+A first-year medical student examines the dissection shown in the attached image. Trapezius has been reflected to expose the muscles beneath it on the right side. Which of the following structures is indicated by pin 6?
+![Cadaveric dissection of the right upper back, posterior view](library/images/msk-back/back-lab-11-rhomboids-levator.png)
+A. Levator scapulae muscle
+B. Rhomboid minor muscle
+C. Serratus posterior superior muscle
+D. Latissimus dorsi muscle
+E. Rhomboid major muscle
+Answer: E. Rhomboid major muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 6 marks the wide, flat muscle running from the upper thoracic spinous processes to the medial border of the scapula below the spine, which is rhomboid major.
+Rhomboid major is wider and more inferior than rhomboid minor, which sits just above it.
+Why the other answers are wrong:
+A. Levator scapulae is the strap-like muscle running up into the neck toward the cervical transverse processes (pin 3).
+B. Rhomboid minor is the narrower, thicker muscle just superior to rhomboid major (pin 4).
+C. Serratus posterior superior lies deep to the rhomboids and isn't exposed in this view.
+D. Latissimus dorsi is at the inferior edge of the field (pin 8).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1699
+A researcher studies the muscle marked by pin 5 in the attached image, which is being cut along its medial attachment. Which of the following describes its proximal attachment and action?
+![Cadaveric dissection of the upper back, posterior view](library/images/msk-back/back-lab-12-rhomboids-both-sides.png)
+A. Spinous processes of T2 to T5; retracts the scapula
+B. Spinous processes of C7 to T1; elevates the ribs
+C. Spinous processes of T6 to T12; adducts the arm
+D. Transverse processes of C1 to C4; elevates the scapula
+E. Spinous processes of T11 to L2; depresses the ribs
+Answer: A. Spinous processes of T2 to T5; retracts the scapula
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 5 marks rhomboid major, which arises from the spinous processes of T2 to T5 and attaches to the medial border of the scapula inferior to the spine.
+Pulling the medial border toward the midline retracts the scapula.
+Why the other answers are wrong:
+B. C7 to T1 is the origin of rhomboid minor, and neither rhomboid elevates the ribs.
+C. The lower thoracic spinous processes and arm adduction describe latissimus dorsi.
+D. C1 to C4 transverse processes and scapular elevation describe levator scapulae.
+E. T11 to L2 and rib depression describe serratus posterior inferior.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1700
+A 41-year-old man is evaluated after a deep laceration near the medial border of his left scapula. On examination, he has weakness when squeezing his shoulder blades together, and elevation of the left scapula is mildly weak even though shrugging is still possible. Injury to a single nerve is suspected. Which of the following muscles would also be weakened by injury to this nerve?
+A. Trapezius
+B. Levator scapulae
+C. Latissimus dorsi
+D. Serratus posterior superior
+E. Splenius
+Answer: B. Levator scapulae
+Order: Third
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Weak scapular retraction with mild weakness of elevation fits injury to the dorsal scapular nerve, which supplies rhomboid major, rhomboid minor, and levator scapulae.
+Levator scapulae elevates the scapula, so its loss weakens elevation, while trapezius (CN XI) keeps the shrug possible.
+Why the other answers are wrong:
+A. Trapezius is innervated by CN XI, which explains why he can still shrug.
+C. Latissimus dorsi is innervated by the thoracodorsal nerve.
+D. Serratus posterior superior is innervated by the 2nd to 5th intercostal nerves.
+E. Splenius is a deep back muscle innervated by posterior rami.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1701
+A first-year medical student examines the dissection shown in the attached image. Which of the following structures is indicated by pin 3?
+![Cadaveric dissection of the upper back, posterior view](library/images/msk-back/back-lab-12-rhomboids-both-sides.png)
+A. Rhomboid major muscle
+B. Serratus posterior superior muscle
+C. Rhomboid minor muscle
+D. Levator scapulae muscle
+E. Semispinalis muscle
+Answer: C. Rhomboid minor muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the narrow, thicker band just superior to rhomboid major, running from the C7 and T1 spinous processes to the medial edge of the scapula at the spine.
+That position and shape identify rhomboid minor, though the separation between the two rhomboids isn't always distinct.
+Why the other answers are wrong:
+A. Rhomboid major is the wider, flatter muscle inferior to it (pin 5).
+B. Serratus posterior superior is deep to the rhomboids and hidden in this view.
+D. Levator scapulae runs superiorly from the superior angle toward the cervical transverse processes (pin 1).
+E. Semispinalis is a deep muscle, covered here by the superficial layer.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1702
+A researcher studies the muscle marked by pin 1 in the attached image, which lies just superior to the muscle marked by pin 4. Which of the following describes its attachments?
+![Cadaveric dissection of the upper back, posterior view](library/images/msk-back/back-lab-13-rhomboids-cut.png)
+A. Spinous processes of C7 and T1 to the medial edge of the scapula at the spine
+B. Nuchal ligament and C7 to T6 spinous processes to the occipital bone
+C. Nuchal ligament and C7 to T3 spinous processes to the superior borders of ribs 2 to 4
+D. Spinous processes of T2 to T5 to the medial border of the scapula inferior to the spine
+E. Transverse processes of C1 to C4 to the superior angle of the scapula
+Answer: A. Spinous processes of C7 and T1 to the medial edge of the scapula at the spine
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks rhomboid minor, which runs from the spinous processes of C7 and T1 to the medial edge of the scapula at the level of the spine.
+Rhomboid major (pin 4) sits below it and runs from T2 to T5 to the medial border below the spine.
+Why the other answers are wrong:
+B. This describes splenius, a deep muscle of the neck.
+C. This describes serratus posterior superior, which lies deep to the rhomboids.
+D. This describes rhomboid major, the muscle at pin 4.
+E. This describes levator scapulae (pin 2).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1703
+A first-year medical student examines the dissection shown in the attached image, in which the rhomboids are being cut along their medial attachments. Which of the following structures is indicated by pin 2?
+![Cadaveric dissection of the upper back, posterior view](library/images/msk-back/back-lab-13-rhomboids-cut.png)
+A. Rhomboid minor muscle
+B. Levator scapulae muscle
+C. Trapezius muscle
+D. Serratus posterior superior muscle
+E. Splenius muscle
+Answer: B. Levator scapulae muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the relatively thin, strap-like muscle that runs superiorly from the region of the superior angle of the scapula toward the cervical transverse processes.
+This is levator scapulae, which lies deep to trapezius alongside the rhomboids.
+Why the other answers are wrong:
+A. Rhomboid minor is the muscle at pin 1, running horizontally toward the C7 and T1 spinous processes.
+C. Trapezius has already been reflected in this dissection.
+D. Serratus posterior superior lies deep to the rhomboids and isn't exposed yet.
+E. Splenius is a deeper neck muscle running toward the skull and is medial to this field.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1704
+A researcher studies the muscle marked by pin 1 in the attached image. Electrical stimulation of this muscle in a cadaver model moves the scapula. Which of the following best describes the movement produced?
+![Cadaveric dissection of the right upper back, posterior view](library/images/msk-back/back-lab-14-dorsal-scapular-right.png)
+A. Retraction of the scapula toward the midline
+B. Elevation of the ribs during respiration
+C. Elevation of the scapula with inferior rotation of the glenoid cavity
+D. Medial rotation of the arm
+E. Depression of the scapula
+Answer: C. Elevation of the scapula with inferior rotation of the glenoid cavity
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks levator scapulae, which runs from the transverse processes of C1 to C4 to the superior angle and medial border of the scapula.
+Pulling up on the superior angle elevates the scapula and rotates it so the glenoid cavity points inferiorly.
+Why the other answers are wrong:
+A. Retraction is the main action of the rhomboids and the middle part of trapezius.
+B. Elevating the ribs is the proposed action of serratus posterior superior (pin 3).
+D. Medial rotation of the arm is an action of latissimus dorsi.
+E. Depression comes from trapezius, not a muscle that pulls upward on the superior angle.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1705
+A first-year medical student examines the dissection of the upper back shown in the attached image. The rhomboids have been removed on the left side of the image. Which of the following structures is indicated by pin 3?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back/bas-back-serratus-post-sup.png)
+A. Splenius muscle
+B. Erector spinae muscles
+C. Serratus posterior superior muscle
+D. Serratus posterior inferior muscle
+E. Rhomboid minor muscle
+Answer: C. Serratus posterior superior muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the thin, pale sheet running inferolaterally from the upper thoracic spinous processes toward the upper ribs, exposed once the rhomboids are removed.
+That depth, location, and fiber direction identify serratus posterior superior, which runs from the nuchal ligament and C7 to T3 spinous processes to ribs 2 to 4.
+Why the other answers are wrong:
+A. Splenius is the neck muscle higher in the field (pin 1).
+B. The erector spinae are deep to this sheet and run vertically.
+D. Serratus posterior inferior is in the lower thoracic region, deep to latissimus dorsi.
+E. Rhomboid minor has been removed here, which is what exposes this layer.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1706
+A researcher studies the muscle marked by pin 3 in the attached image. Which of the following describes its distal attachment and innervation?
+![Cadaveric dissection of the right upper back, posterior view](library/images/msk-back/back-lab-14-dorsal-scapular-right.png)
+A. Medial border of the scapula; dorsal scapular nerve
+B. Superior borders of ribs 2 to 4; dorsal scapular nerve
+C. Transverse processes of C1 to C3; posterior rami of spinal nerves
+D. Inferior borders of ribs 8 to 12; 9th to 12th intercostal nerves
+E. Superior borders of ribs 2 to 4; 2nd to 5th intercostal nerves
+Answer: E. Superior borders of ribs 2 to 4; 2nd to 5th intercostal nerves
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks serratus posterior superior, which runs from the nuchal ligament and C7 to T3 spinous processes to the superior borders of ribs 2 to 4.
+It's innervated by the 2nd to 5th intercostal nerves (anterior rami of T2 to T5) and is thought to elevate the ribs and serve a proprioceptive role.
+Why the other answers are wrong:
+A. This describes the rhomboids, which were reflected to expose this muscle.
+B. The rib attachment is right, but the dorsal scapular nerve supplies the rhomboids and levator scapulae, not this muscle.
+C. This describes splenius cervicis, a deep muscle.
+D. This describes serratus posterior inferior.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1707
+A first-year medical student examines the dissection shown in the attached image, in which latissimus dorsi has been reflected. Which of the following structures is indicated by pin 2?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back/back-lab-09-latissimus-reflected.png)
+A. Serratus posterior inferior muscle
+B. Iliocostalis muscle
+C. Serratus posterior superior muscle
+D. Thoracolumbar fascia
+E. Rhomboid major muscle
+Answer: A. Serratus posterior inferior muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks a very thin muscle in the lower thoracic region that becomes visible only after latissimus dorsi is reflected, which identifies serratus posterior inferior.
+It's often adhered to the deep surface of latissimus dorsi and can be removed with it by accident.
+Why the other answers are wrong:
+B. Iliocostalis is part of the erector spinae, deep to the intermediate layer.
+C. Serratus posterior superior lies in the upper thoracic region, deep to the rhomboids.
+D. The thoracolumbar fascia is the aponeurotic sheet lower in the field (pin 4).
+E. Rhomboid major is higher, between the upper thoracic spines and the scapula.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1708
+A researcher studies the intermediate back muscle marked by pin 4 in the attached image. Which of the following best describes its attachments and innervation?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back/back-lab-16-intermediate-layer.png)
+A. Iliac crest and sacrum to the angles of the ribs; posterior rami of spinal nerves
+B. Nuchal ligament and C7 to T3 spinous processes to ribs 2 to 4; 2nd to 5th intercostal nerves
+C. T11 to L2 spinous processes to ribs 8 to 12; 9th to 12th intercostal nerves
+D. T11 to L2 spinous processes to ribs 8 to 12; thoracodorsal nerve
+E. T2 to T5 spinous processes to the medial border of the scapula; dorsal scapular nerve
+Answer: C. T11 to L2 spinous processes to ribs 8 to 12; 9th to 12th intercostal nerves
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks serratus posterior inferior, which runs from the spinous processes of T11 to L2 to the inferior borders of ribs 8 to 12.
+It's innervated by the 9th to 12th intercostal nerves (anterior rami of T9 to T12) and is thought to depress the ribs and serve a proprioceptive role.
+Why the other answers are wrong:
+A. This describes iliocostalis, a deep back muscle.
+B. This describes serratus posterior superior (pin 2).
+D. The attachments are right, but the thoracodorsal nerve supplies latissimus dorsi, the muscle reflected off this one.
+E. This describes rhomboid major.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1709
+A first-year medical student examines the dissection of the posterior neck shown in the attached image. Which of the following structures is indicated by pin 3?
+![Cadaveric dissection of the posterior neck](library/images/msk-back/back-lab-17-splenius-semispinalis.png)
+A. Semispinalis muscle
+B. Levator scapulae muscle
+C. Splenius muscle
+D. Longissimus muscle
+E. Trapezius muscle
+Answer: C. Splenius muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the thick, flat muscle wrapping the posterolateral neck like a bandage, with fibers running superolaterally from the midline toward the skull and upper cervical vertebrae.
+That shape and fiber direction identify splenius.
+Why the other answers are wrong:
+A. Semispinalis is the vertically oriented muscle deep and medial to splenius (pin 2).
+B. Levator scapulae runs toward the scapula and is lateral to this dissection.
+D. Longissimus is part of the erector spinae, deeper and lower in the back.
+E. Trapezius has been removed to expose this layer.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1710
+A 30-year-old woman is evaluated after a sudden neck injury. Testing of the muscle marked by pin 3 in the attached image on the right side alone is planned. When only the right-sided muscle contracts, which of the following movements is produced?
+![Cadaveric dissection of the posterior neck](library/images/msk-back/back-lab-17-splenius-semispinalis.png)
+A. Lateral flexion of the neck to the right and rotation of the head to the right
+B. Flexion of the neck
+C. Extension of the head without rotation
+D. Elevation of the right scapula
+E. Lateral flexion of the neck to the right and rotation of the head to the left
+Answer: A. Lateral flexion of the neck to the right and rotation of the head to the right
+Order: Third
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks splenius, which acting unilaterally laterally flexes the neck and rotates the head to the same side as the active muscle.
+Acting bilaterally, the two sides together extend the head and neck.
+Why the other answers are wrong:
+B. Splenius is a posterior muscle and extends rather than flexes the neck.
+C. Pure extension comes from both sides acting together, not one side alone.
+D. Scapular elevation is done by trapezius and levator scapulae.
+E. Contralateral rotation is the action of semispinalis, not splenius.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1711
+A researcher maps the innervation of the muscle marked by pin 2 in the attached image, which lies just deep to the muscle at pin 3. Which of the following nerves supplies it?
+![Cadaveric dissection of the posterior neck](library/images/msk-back/back-lab-17-splenius-semispinalis.png)
+A. Spinal accessory nerve (CN XI)
+B. Posterior rami of spinal nerves
+C. Intercostal nerves
+D. Dorsal scapular nerve
+E. Anterior rami of C3 and C4
+Answer: B. Posterior rami of spinal nerves
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks semispinalis, one of the deep (intrinsic) back muscles.
+All of the deep back muscles, including splenius, semispinalis, and the erector spinae, are innervated by posterior rami of spinal nerves.
+Why the other answers are wrong:
+A. CN XI supplies trapezius, a superficial extrinsic muscle.
+C. Intercostal nerves supply the serratus posterior muscles of the intermediate layer.
+D. The dorsal scapular nerve supplies levator scapulae and the rhomboids.
+E. The anterior rami of C3 and C4 carry proprioception from trapezius and contribute to levator scapulae.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1712
+A first-year medical student examines the dissection shown in the attached image, in which splenius has been reflected superiorly. Which of the following structures is indicated by pin 1?
+![Cadaveric dissection of the posterior neck](library/images/msk-back/back-lab-18-semispinalis.png)
+A. Spinalis muscle
+B. Levator scapulae muscle
+C. Nuchal ligament
+D. Semispinalis muscle
+E. Splenius muscle
+Answer: D. Semispinalis muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the vertically oriented muscle exposed directly deep to the reflected splenius, which identifies semispinalis.
+It runs alongside the midline toward the occipital bone between the superior and inferior nuchal lines.
+Why the other answers are wrong:
+A. Spinalis is the most medial column of the erector spinae in the thoracic region, below this field.
+B. Levator scapulae is lateral and runs toward the scapula.
+C. The nuchal ligament is the midline band marked by pin 2.
+E. Splenius is the reflected muscle at pin 3.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1713
+A 45-year-old man is evaluated for neck pain. Contraction of the right muscle marked by pin 1 in the attached image is tested in isolation. Which of the following movements does it produce?
+![Cadaveric dissection of the posterior neck](library/images/msk-back/back-lab-18-semispinalis.png)
+A. Extension of the head and rotation to the left
+B. Lateral flexion of the vertebral column only
+C. Extension of the head and rotation to the right
+D. Elevation of the ribs
+E. Flexion of the head and rotation to the right
+Answer: A. Extension of the head and rotation to the left
+Order: Third
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks semispinalis, which extends and contralaterally rotates the head and vertebral column.
+The right semispinalis therefore extends the head and turns it to the left.
+Why the other answers are wrong:
+B. Lateral flexion is the main unilateral action of the erector spinae.
+C. Rotation to the same side is the action of splenius, not semispinalis.
+D. Rib elevation is the proposed action of serratus posterior superior.
+E. Semispinalis is posterior to the axis of motion, so it extends rather than flexes.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1714
+A researcher studies the superior attachment of semispinalis on a dried skull. Which of the following best describes where it attaches?
+A. Occipital bone between the superior and inferior nuchal lines
+B. Superior nuchal line
+C. Mastoid process
+D. External occipital protuberance only
+E. Occipital condyles
+Answer: A. Occipital bone between the superior and inferior nuchal lines
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Semispinalis attaches superiorly to the occipital bone between the superior and inferior nuchal lines and inferiorly to the transverse processes of C4 to T10.
+That high occipital attachment lets it extend the head.
+Why the other answers are wrong:
+B. The superior nuchal line receives splenius capitis.
+C. The mastoid process receives longissimus.
+D. The external occipital protuberance anchors the nuchal ligament and trapezius.
+E. The occipital condyles articulate with the atlas and aren't a muscle attachment in this lecture.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1715
+A first-year medical student examines the dissection of the deep back shown in the attached image. Which of the following structures is indicated by pin 2?
+![Cadaveric dissection of the deep back, posterior view](library/images/msk-back/bas-back-erector-spinae.png)
+A. Iliocostalis muscle
+B. Serratus posterior inferior muscle
+C. Semispinalis muscle
+D. Longissimus muscle
+E. Spinalis muscle
+Answer: A. Iliocostalis muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the most lateral of the three vertical columns of the erector spinae, lying over the ribs, which is iliocostalis.
+From lateral to medial the columns are iliocostalis, longissimus, and spinalis.
+Why the other answers are wrong:
+B. Serratus posterior inferior is a thin intermediate muscle superficial to the erector spinae and has been removed here.
+C. Semispinalis is in the neck and upper thorax, deep to splenius.
+D. Longissimus is the intermediate column (pin 3).
+E. Spinalis is the most medial column (pin 4).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1716
+A first-year medical student examines the dissection of the deep back shown in the attached image. Which of the following structures is indicated by pin 5?
+![Cadaveric dissection of the deep back, posterior view](library/images/msk-back/back-lab-19-erector-spinae.png)
+A. Splenius muscle
+B. Iliocostalis muscle
+C. Longissimus muscle
+D. Spinalis muscle
+E. Latissimus dorsi muscle
+Answer: C. Longissimus muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 5 marks the intermediate column of the erector spinae, which sits between iliocostalis laterally and spinalis medially and is usually the widest of the three.
+That position identifies longissimus.
+Why the other answers are wrong:
+A. Splenius is in the neck, at the top of the field (pin 1).
+B. Iliocostalis is the most lateral column (pin 6).
+D. Spinalis is the most medial column (pin 4).
+E. Latissimus dorsi has been reflected laterally (pin 7).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1717
+A first-year medical student examines the dissection of the deep back shown in the attached image. Which of the following structures is indicated by pin 4?
+![Cadaveric dissection of the deep back, posterior view](library/images/msk-back/bas-back-erector-spinae.png)
+A. Nuchal ligament
+B. Spinalis muscle
+C. Iliocostalis muscle
+D. Semispinalis muscle
+E. Longissimus muscle
+Answer: B. Spinalis muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the most medial column of the erector spinae, running right alongside the thoracic spinous processes, which is spinalis.
+Spinalis inserts on the spinous processes of the upper thoracic region and the skull.
+Why the other answers are wrong:
+A. The nuchal ligament is a cervical midline structure, not in this thoracic field.
+C. Iliocostalis is the most lateral column (pin 2).
+D. Semispinalis is in the neck, deep to splenius.
+E. Longissimus is the intermediate column, lateral to this one (pin 3).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1718
+A researcher studies the muscle marked by pin 5 in the attached image and traces its most superior fibers to the skull. Which of the following is the most likely bony attachment of these fibers?
+![Cadaveric dissection of the deep back, posterior view](library/images/msk-back/back-lab-19-erector-spinae.png)
+A. Superior nuchal line
+B. External occipital protuberance
+C. Occipital condyle
+D. Occipital bone between the superior and inferior nuchal lines
+E. Mastoid process
+Answer: E. Mastoid process
+Order: Second
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 5 marks longissimus, the intermediate column of the erector spinae.
+Its insertions run between the tubercles and angles of the ribs, onto thoracic and cervical transverse processes, and up to the mastoid process.
+Why the other answers are wrong:
+A. The superior nuchal line receives splenius capitis.
+B. The external occipital protuberance anchors the nuchal ligament.
+C. The occipital condyles articulate with the atlas.
+D. The area between the nuchal lines receives semispinalis.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1719
+A 38-year-old man comes to the clinic because of low back pain that began the day after he lifted a heavy couch while twisting. Examination shows tenderness and tightness of the paraspinal muscles on both sides of the lumbar spine, with no numbness or weakness in the legs. A back strain is suspected. Which of the following best describes the innervation and bilateral action of the muscle group most often injured in this condition?
+A. Intercostal nerves; elevation and depression of the ribs
+B. Anterior rami of spinal nerves; flexion of the vertebral column
+C. Posterior rami of spinal nerves; extension of the vertebral column and head
+D. Posterior rami of spinal nerves; contralateral rotation of the vertebral column
+E. Thoracodorsal nerve; extension and adduction of the arm
+Answer: C. Posterior rami of spinal nerves; extension of the vertebral column and head
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+A back strain is stretching or microscopic tearing of muscle fibers, most often in the erector spinae, and it's the most common cause of low back pain.
+The erector spinae are deep back muscles innervated by posterior rami; acting bilaterally they extend the vertebral column and head, and acting unilaterally they laterally flex the vertebral column.
+Why the other answers are wrong:
+A. Intercostal nerves and rib movement describe the serratus posterior muscles.
+B. The deep back muscles aren't supplied by anterior rami, and they extend rather than flex the vertebral column.
+D. The innervation is right, but contralateral rotation is the action of semispinalis, not the erector spinae.
+E. The thoracodorsal nerve and arm movement describe latissimus dorsi.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1720
+A researcher stimulates the muscles marked by pins 4, 5, and 6 in the attached image on the right side only. Which of the following movements is produced?
+![Cadaveric dissection of the deep back, posterior view](library/images/msk-back/back-lab-19-erector-spinae.png)
+A. Retraction of the right scapula
+B. Lateral flexion of the vertebral column to the left
+C. Lateral flexion of the vertebral column to the right
+D. Rotation of the head to the left
+E. Extension of the vertebral column with no lateral movement
+Answer: C. Lateral flexion of the vertebral column to the right
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pins 4, 5, and 6 mark spinalis, longissimus, and iliocostalis, the three columns of the erector spinae.
+Acting unilaterally, the erector spinae laterally flex the vertebral column toward the same side, so the right group bends the column to the right.
+Why the other answers are wrong:
+A. Scapular retraction is done by trapezius and the rhomboids, not the erector spinae.
+B. Each side flexes the column toward itself, not away from itself.
+D. Rotation of the head to the opposite side is an action of semispinalis.
+E. Pure extension happens when both sides contract together.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1721
+A first-year medical student examines the dissection shown in the attached image, in which trapezius has been reflected to show its deep surface. Which of the following structures is indicated by pin 1?
+![Cadaveric dissection of the deep surface of trapezius](library/images/msk-back/back-lab-05-trapezius-deep-nv-bundle.png)
+A. Transverse cervical artery
+B. Spinal accessory nerve (CN XI)
+C. Thoracodorsal nerve
+D. Dorsal scapular nerve
+E. Posterior ramus of a cervical spinal nerve
+Answer: B. Spinal accessory nerve (CN XI)
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the nerve running along the deep surface of the reflected trapezius, which is the spinal accessory nerve, the motor supply to trapezius.
+It travels with the transverse cervical vessels in the neurovascular bundle on the muscle's deep side.
+Why the other answers are wrong:
+A. The transverse cervical artery travels with this nerve but is the vessel marked by pin 2.
+C. The thoracodorsal nerve runs on the deep surface of latissimus dorsi.
+D. The dorsal scapular nerve runs deep to levator scapulae and the rhomboids, not on the deep surface of trapezius.
+E. Posterior rami supply the deep back muscles and don't run on the underside of trapezius.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1722
+A first-year medical student examines the dissection shown in the attached image. Which of the following structures is indicated by pin 2?
+![Cadaveric dissection of the deep surface of trapezius](library/images/msk-back/back-lab-05-trapezius-deep-nv-bundle.png)
+A. Posterior intercostal artery and vein
+B. Transverse cervical artery and vein
+C. Thoracodorsal artery and vein
+D. Dorsal scapular artery and vein
+E. Vertebral artery and vein
+Answer: B. Transverse cervical artery and vein
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the vessels running with the spinal accessory nerve on the deep surface of trapezius, which are the transverse cervical artery and vein.
+The transverse cervical artery is the blood supply to trapezius.
+Why the other answers are wrong:
+A. Posterior intercostal arteries run with the ribs and give spinal branches to the vertebral column.
+C. The thoracodorsal vessels supply latissimus dorsi and run on its deep surface.
+D. The dorsal scapular vessels supply the rhomboids and levator scapulae and run deep to those muscles.
+E. The vertebral artery runs through the transverse foramina of the cervical vertebrae, not on trapezius.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1723
+A 52-year-old woman undergoes surgery in which the vessel marked by pin 2 in the attached image is ligated. Which of the following muscles is most directly at risk of losing its main blood supply?
+![Cadaveric dissection of the deep surface of trapezius](library/images/msk-back/back-lab-05-trapezius-deep-nv-bundle.png)
+A. Latissimus dorsi
+B. Serratus posterior inferior
+C. Levator scapulae
+D. Trapezius
+E. Rhomboid major
+Answer: D. Trapezius
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the transverse cervical artery, which runs on the deep surface of trapezius with the spinal accessory nerve.
+The transverse cervical artery is the blood supply to trapezius listed in the lecture.
+Why the other answers are wrong:
+A. Latissimus dorsi is supplied by the thoracodorsal artery.
+B. Serratus posterior inferior isn't supplied by the transverse cervical artery; it sits in the lower thoracic region far from this vessel.
+C. Levator scapulae is also supplied by the dorsal scapular artery.
+E. Rhomboid major is supplied by the dorsal scapular artery.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1724
+A first-year medical student examines the neurovascular bundle on the deep surface of the reflected muscle shown in the attached image. Which of the following structures is indicated by pin 3?
+![Cadaveric dissection of the axilla and back, posterior view](library/images/msk-back/back-lab-10-latissimus-nv-bundle.png)
+A. Thoracodorsal artery
+B. Spinal accessory nerve (CN XI)
+C. Thoracodorsal vein
+D. Thoracodorsal nerve
+E. Dorsal scapular nerve
+Answer: D. Thoracodorsal nerve
+Order: First
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The bundle entering the deep surface of the reflected latissimus dorsi (pin 4) carries the thoracodorsal vein, artery, and nerve, and pin 3 marks the nerve.
+The thoracodorsal nerve is the motor supply to latissimus dorsi.
+Why the other answers are wrong:
+A. The thoracodorsal artery is marked by pin 2.
+B. CN XI runs on the deep surface of trapezius.
+C. The thoracodorsal vein is marked by pin 1.
+E. The dorsal scapular nerve runs with levator scapulae and the rhomboids, not with latissimus dorsi.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1725
+A first-year medical student examines the neurovascular bundle shown in the attached image. Which of the following structures is indicated by pin 2?
+![Cadaveric dissection of the axilla and back, posterior view](library/images/msk-back/back-lab-10-latissimus-nv-bundle.png)
+A. Thoracodorsal nerve
+B. Dorsal scapular artery
+C. Transverse cervical artery
+D. Thoracodorsal vein
+E. Thoracodorsal artery
+Answer: E. Thoracodorsal artery
+Order: First
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the artery in the bundle entering the deep surface of the reflected latissimus dorsi, which is the thoracodorsal artery.
+It's the blood supply to latissimus dorsi and travels with the thoracodorsal nerve and vein.
+Why the other answers are wrong:
+A. The thoracodorsal nerve is marked by pin 3.
+B. The dorsal scapular artery runs deep to the rhomboids and levator scapulae.
+C. The transverse cervical artery supplies trapezius and runs on its deep surface.
+D. The thoracodorsal vein is marked by pin 1.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1726
+A researcher ligates the vessel marked by pin 2 in the attached image in a cadaver perfusion study. Dye injected proximal to the ligation would no longer reach which of the following muscles?
+![Cadaveric dissection of the axilla and back, posterior view](library/images/msk-back/back-lab-10-latissimus-nv-bundle.png)
+A. Latissimus dorsi
+B. Trapezius
+C. Splenius
+D. Levator scapulae
+E. Rhomboid minor
+Answer: A. Latissimus dorsi
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the thoracodorsal artery, which enters the deep surface of latissimus dorsi as its blood supply.
+Ligating it would cut off dye flow to latissimus dorsi.
+Why the other answers are wrong:
+B. Trapezius is supplied by the transverse cervical artery.
+C. Splenius is a deep back muscle and isn't supplied by the thoracodorsal artery.
+D. Levator scapulae is supplied by the dorsal scapular artery.
+E. Rhomboid minor is supplied by the dorsal scapular artery.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1727
+A first-year medical student examines the dissection shown in the attached image, in which the rhomboids have been reflected. Which of the following structures is indicated by pin 2?
+![Cadaveric dissection of the left upper back, posterior view](library/images/msk-back/back-lab-15-dorsal-scapular-left.png)
+A. Thoracodorsal nerve and vessels
+B. Spinal accessory nerve and transverse cervical vessels
+C. Intercostal nerves and vessels
+D. Posterior rami of the cervical spinal nerves
+E. Dorsal scapular nerve and vessels
+Answer: E. Dorsal scapular nerve and vessels
+Order: First
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the neurovascular bundle running deep to levator scapulae and the reflected rhomboids along the medial side of the scapula.
+That bundle is the dorsal scapular nerve, artery, and vein, which supply levator scapulae and both rhomboids.
+Why the other answers are wrong:
+A. The thoracodorsal bundle runs on the deep surface of latissimus dorsi, lower and more lateral.
+B. CN XI and the transverse cervical vessels run on the deep surface of trapezius, a more superficial layer.
+C. Intercostal nerves run with the ribs and supply the serratus posterior muscles.
+D. Posterior rami emerge close to the midline to supply the deep back muscles.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1728
+A researcher traces the nerve in the bundle marked by pin 2 in the attached image to all of the muscles it supplies. Which of the following groups of muscles does it innervate?
+![Cadaveric dissection of the right upper back, posterior view](library/images/msk-back/back-lab-14-dorsal-scapular-right.png)
+A. Trapezius and levator scapulae
+B. Latissimus dorsi and teres major
+C. Splenius and semispinalis
+D. Rhomboid major, rhomboid minor, and levator scapulae
+E. Rhomboid major, rhomboid minor, and serratus posterior superior
+Answer: D. Rhomboid major, rhomboid minor, and levator scapulae
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the dorsal scapular nerve, artery, and vein running deep to levator scapulae and the reflected rhomboids.
+The dorsal scapular nerve innervates rhomboid major, rhomboid minor, and levator scapulae, and the dorsal scapular artery supplies the same three muscles.
+Why the other answers are wrong:
+A. Trapezius is innervated by CN XI.
+B. Latissimus dorsi is innervated by the thoracodorsal nerve, and teres major isn't covered in this lecture.
+C. Splenius and semispinalis are deep back muscles supplied by posterior rami.
+E. Serratus posterior superior, exposed here at pin 3, is innervated by the 2nd to 5th intercostal nerves.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1729
+A researcher studies the blood supply of the muscles marked by pins 1 and 4 in the attached image. Which artery, running in the bundle marked by pin 2, supplies both?
+![Cadaveric dissection of the right upper back, posterior view](library/images/msk-back/back-lab-14-dorsal-scapular-right.png)
+A. Transverse cervical artery
+B. Vertebral artery
+C. Dorsal scapular artery
+D. Posterior intercostal artery
+E. Thoracodorsal artery
+Answer: C. Dorsal scapular artery
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks levator scapulae and pin 4 marks the reflected rhomboids, and both are supplied by the dorsal scapular artery.
+That artery runs with the dorsal scapular nerve and vein in the bundle at pin 2.
+Why the other answers are wrong:
+A. The transverse cervical artery supplies trapezius.
+B. The vertebral artery runs through the cervical transverse foramina to the brain.
+D. Posterior intercostal arteries give spinal branches to the vertebral column.
+E. The thoracodorsal artery supplies latissimus dorsi.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1730
+A first-year medical student examines the dissection of the posterior neck shown in the attached image. Which of the following structures is indicated by pin 4?
+![Cadaveric dissection of the posterior neck](library/images/msk-back/back-lab-17-splenius-semispinalis.png)
+A. Posterior longitudinal ligament
+B. Ligamentum flavum
+C. Nuchal ligament
+D. Semispinalis muscle
+E. Supraspinous ligament
+Answer: C. Nuchal ligament
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the strong midline band of the posterior neck that runs from the external occipital protuberance to the C7 spinous process, which is the nuchal ligament.
+It serves as an attachment site for muscles such as trapezius, splenius, and serratus posterior superior.
+Why the other answers are wrong:
+A. The posterior longitudinal ligament lies within the vertebral canal on the backs of the vertebral bodies.
+B. Ligamentum flavum joins adjacent laminae inside the vertebral canal region and isn't visible in this superficial view.
+D. Semispinalis is the vertically oriented muscle marked by pin 2.
+E. The supraspinous ligament runs along the tips of the spinous processes from C7 down to the sacrum; above C7 it merges with the nuchal ligament.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1731
+A 27-year-old woman is evaluated after a fall in which her head was forced sharply forward. The structure marked by pin 4 in the attached image is thought to have been stretched. Which of the following best describes the normal function of this structure?
+![Cadaveric dissection of the posterior neck](library/images/msk-back/back-lab-17-splenius-semispinalis.png)
+A. Joins adjacent laminae within the vertebral canal
+B. Limits forward flexion of the head and cervical spine
+C. Prevents hyperextension of the neck
+D. Connects adjacent transverse processes
+E. Resists posterior displacement of the intervertebral discs
+Answer: B. Limits forward flexion of the head and cervical spine
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the nuchal ligament, which spans from the external occipital protuberance to the C7 spinous process.
+It limits forward flexion of the head and cervical spine and serves as an attachment site for muscles.
+Why the other answers are wrong:
+A. Joining adjacent laminae is the ligamentum flavum.
+C. Preventing hyperextension is the role of the anterior longitudinal ligament.
+D. Connecting transverse processes is the intertransverse ligament.
+E. Resisting posterior disc displacement is the role of the posterior longitudinal ligament.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1732
+A first-year medical student examines the external surface of the bone shown in the attached image during a bone practical. Which of the following structures is indicated by pin 1?
+![Photograph of the occipital bone, external view](library/images/msk-back/bas-occipital-external.png)
+A. Spinous process of C7
+B. Superior nuchal line
+C. External occipital protuberance
+D. Mastoid process
+E. Occipital condyle
+Answer: C. External occipital protuberance
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the midline bony prominence on the external surface of the occipital bone, above the foramen magnum, which is the external occipital protuberance.
+The nuchal ligament runs from this point down to the C7 spinous process.
+Why the other answers are wrong:
+A. The C7 spinous process is on the vertebral column, not the skull.
+B. The superior nuchal line curves laterally from the protuberance (pin 2).
+D. The mastoid process belongs to the temporal bone and isn't part of this bone.
+E. The occipital condyles sit beside the foramen magnum (pin 5).
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1733
+A first-year medical student examines the dissection shown in the attached image. Which of the following structures is indicated by pin 3?
+![Cadaveric dissection of the upper back, posterior view](library/images/msk-back/back-lab-02-trapezius-elevated.png)
+A. Acromion process of the scapula
+B. Lateral third of the clavicle
+C. Spine of the scapula
+D. Medial border of the scapula
+E. Superior angle of the scapula
+Answer: C. Spine of the scapula
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the bony ridge running across the back of the scapula beneath the elevated trapezius, which is the spine of the scapula.
+It's one of the distal attachments of trapezius.
+Why the other answers are wrong:
+A. The acromion is the lateral end of the spine at the tip of the shoulder, not the ridge itself.
+B. The clavicle is anterior and lateral to this field.
+D. The medial border is the vertical edge facing the vertebral column.
+E. The superior angle is the upper medial corner of the scapula, where levator scapulae attaches.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1734
+A first-year medical student examines the dissection shown in the attached image, in which trapezius is being detached from the scapula. Which of the following structures is indicated by pin 2?
+![Cadaveric dissection of the shoulder region, posterior view](library/images/msk-back/back-lab-04-trapezius-scapular-spine.png)
+A. Coracoid process
+B. Superior angle of the scapula
+C. Head of the humerus
+D. Acromion process of the scapula
+E. Spine of the scapula
+Answer: D. Acromion process of the scapula
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the flattened lateral end of the scapular spine at the point of the shoulder, which is the acromion.
+Trapezius attaches along the lateral third of the clavicle, the acromion, and the spine of the scapula.
+Why the other answers are wrong:
+A. The coracoid process projects anteriorly and isn't seen in a posterior view; it also isn't covered in this lab.
+B. The superior angle is the upper medial corner of the scapula, far from this point.
+C. The humeral head lies beneath the acromion and isn't exposed here.
+E. The spine of the scapula is the ridge marked by pin 3, medial to the acromion.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1735
+A first-year medical student examines the posterior surface of the right scapula shown in the attached image. Which of the following structures is indicated by pin 1?
+![Photograph of a scapula, posterior view](library/images/msk-back/bas-scapula-posterior.png)
+A. Superior angle of the scapula
+B. Coracoid process
+C. Acromion process of the scapula
+D. Inferior angle of the scapula
+E. Spine of the scapula
+Answer: A. Superior angle of the scapula
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the upper medial corner of the scapula, where the medial and superior borders meet, which is the superior angle.
+Levator scapulae runs from the transverse processes of C1 to C4 down to the superior angle and medial border.
+Why the other answers are wrong:
+B. The coracoid process projects anteriorly from the lateral part of the superior border and isn't a structure on your lab list.
+C. The acromion is the lateral end of the spine at the tip of the shoulder (pin 3).
+D. The inferior angle is the lowest point of the scapula (pin 7).
+E. The spine of the scapula is the ridge running across the posterior surface (pin 4).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1736
+A first-year medical student examines the dissection shown in the attached image. Which of the following muscles attaches to the bony edge marked by pin 5 inferior to the spine?
+![Cadaveric dissection of the upper back, posterior view](library/images/msk-back/back-lab-13-rhomboids-cut.png)
+A. Levator scapulae
+B. Trapezius
+C. Latissimus dorsi
+D. Rhomboid minor
+E. Rhomboid major
+Answer: E. Rhomboid major
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 5 marks the medial (vertebral) border of the scapula.
+Rhomboid major attaches to the medial border between the spine and the inferior angle, while rhomboid minor attaches at the level of the spine and levator scapulae attaches above it.
+Why the other answers are wrong:
+A. Levator scapulae attaches to the superior angle and the medial border above the spine.
+B. Trapezius attaches to the spine and acromion, not the medial border.
+C. Latissimus dorsi attaches to the humerus, not the scapula.
+D. Rhomboid minor attaches at the medial edge of the scapular spine, not below it.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1737
+A first-year medical student examines the dissection shown in the attached image. Which of the following structures is indicated by pin 3?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back/back-lab-06-trapezius-reflected.png)
+A. Thoracolumbar fascia
+B. Supraspinous ligament
+C. Erector spinae tendon
+D. Serratus posterior inferior muscle
+E. Latissimus dorsi muscle
+Answer: A. Thoracolumbar fascia
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the broad, shiny aponeurotic sheet over the lower back, which is the thoracolumbar fascia.
+Latissimus dorsi arises in part from this fascia.
+Why the other answers are wrong:
+B. The supraspinous ligament is a narrow cord along the tips of the spinous processes.
+C. The erector spinae tendon lies deep to the fascia and is only seen after the fascia is opened.
+D. Serratus posterior inferior is deep to latissimus dorsi and isn't exposed in this view.
+E. Latissimus dorsi is the muscle belly superolateral to the fascia (pin 2).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1738
+A researcher studies the skull attachments of the deep back muscles of the neck. Splenius capitis is traced to its superior attachment. Which of the following is the attachment site?
+A. Mastoid process
+B. External occipital protuberance
+C. Occipital bone between the superior and inferior nuchal lines
+D. Inferior nuchal line
+E. Superior nuchal line
+Answer: E. Superior nuchal line
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Splenius capitis attaches superiorly to the occipital bone at the superior nuchal line, while splenius cervicis attaches to the transverse processes of C1 to C3 or C4.
+Both parts arise from the nuchal ligament and the C7 to T6 spinous processes.
+Why the other answers are wrong:
+A. The mastoid process receives longissimus.
+B. The external occipital protuberance anchors the nuchal ligament.
+C. The area between the nuchal lines receives semispinalis.
+D. The inferior nuchal line is the lower boundary of the semispinalis attachment.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1739
+A 25-year-old rock climber comes to the clinic because of pain at his lower back where a large back muscle arises. He has pain when pulling his body upward on a climbing wall. Which of the following groups of bony and fascial sites gives origin to the muscle most likely involved?
+A. Occipital bone, nuchal ligament, and C7 to T12 spinous processes
+B. Lower thoracic spinous processes, thoracolumbar fascia, and iliac crest
+C. Transverse processes of C1 to C4
+D. Iliac crest, posterior sacrum, and sacral and inferior lumbar spinous processes through a broad tendon
+E. Spinous processes of T11 to L2 only
+Answer: B. Lower thoracic spinous processes, thoracolumbar fascia, and iliac crest
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pulling the body up a wall uses adduction and extension of the arm, the actions of latissimus dorsi, which is known as the climber's muscle.
+Latissimus dorsi arises from the lower thoracic spinous processes, the thoracolumbar fascia, and the iliac crest (with the inferior ribs) and inserts in the intertubercular groove.
+Why the other answers are wrong:
+A. These are the proximal attachments of trapezius.
+C. These are the proximal attachments of levator scapulae.
+D. This broad tendon is the origin of the erector spinae.
+E. T11 to L2 is the origin of serratus posterior inferior.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1740
+A first-year medical student reviews the vertebra shown in the attached image, seen from above and from the side. Which of the following structures is indicated by pin 6?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Intervertebral disc
+B. Lamina
+C. Vertebral foramen
+D. Pedicle
+E. Vertebral body
+Answer: E. Vertebral body
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 6 marks the large, rounded anterior part of the vertebra, which is the vertebral body.
+It supports body weight and is separated from the bodies above and below by intervertebral discs.
+Why the other answers are wrong:
+A. The disc sits between two bodies and isn't part of a single vertebra.
+B. The laminae are the flat plates that close the vertebral arch posteriorly.
+C. The vertebral foramen is the opening between the body and the arch.
+D. The pedicles are the short processes joining the arch to the body.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1741
+A 71-year-old woman comes to the clinic because her family has noticed she is becoming hunched forward. She has had two low-impact fractures in the past and has never taken treatment for bone loss. Erosion and collapse of the part of several thoracic vertebrae marked by pin 6 in the attached image is suspected. Which of the following abnormal curvatures is most likely developing?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Spondylolisthesis
+B. Loss of the normal sacral curvature
+C. Lordosis
+D. Kyphosis
+E. Scoliosis
+Answer: D. Kyphosis
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 6 marks the vertebral body, and osteoporosis most commonly weakens thoracic vertebral bodies, especially in postmenopausal women.
+Erosion or fracture of the anterior part of thoracic vertebrae produces kyphosis, an exaggerated thoracic curvature (hunchback).
+Why the other answers are wrong:
+A. Spondylolisthesis is slippage of one vertebra on another, most often L5 on S1.
+B. The sacral curvature isn't affected by thoracic body collapse.
+C. Lordosis is an exaggerated lumbar curvature linked to weak trunk muscles, obesity, and pregnancy.
+E. Scoliosis is a lateral curvature with vertebral rotation, usually idiopathic or congenital.
+Objective: Evaluate normal vertebral curvatures, and distinguish features of abnormal vertebral curvatures such as kyphosis, lordosis, and scoliosis.
+
+Question 1742
+A first-year medical student reviews the vertebra shown in the attached image. Which of the following structures is indicated by pin 2?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Vertebral foramen
+B. Superior vertebral notch
+C. Intervertebral foramen
+D. Transverse foramen
+E. Vertebral body
+Answer: A. Vertebral foramen
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the central opening bounded by the back of the vertebral body and the vertebral arch, which is the vertebral foramen.
+When vertebrae are stacked, the foramina line up to form the vertebral canal, which holds the spinal cord and meninges.
+Why the other answers are wrong:
+B. The superior vertebral notch is a groove on the upper edge of the pedicle, seen from the side.
+C. The intervertebral foramen is formed between two adjacent vertebrae by their notches and transmits spinal nerves.
+D. Transverse foramina are small openings in the transverse processes, found only in cervical vertebrae.
+E. The vertebral body is the solid anterior part (pin 6).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1743
+A researcher compares dried vertebrae from different regions. One has a small, round opening at the location marked by pin 2 in the attached image, while another has a large, triangular opening at the same location. Which of the following correctly matches these vertebrae to their regions?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Small round opening: sacral; large triangular opening: thoracic
+B. Small round opening: cervical; large triangular opening: sacral
+C. Small round opening: thoracic; large triangular opening: cervical
+D. Small round opening: cervical; large triangular opening: thoracic
+E. Small round opening: lumbar; large triangular opening: thoracic
+Answer: C. Small round opening: thoracic; large triangular opening: cervical
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the vertebral foramen. Thoracic vertebrae have a small, round vertebral foramen.
+Cervical vertebrae (especially C3 to C7) have a large, triangular foramen to accommodate the cervical enlargement of the spinal cord, and lumbar foramina are triangular and larger than thoracic ones.
+Why the other answers are wrong:
+A. The sacrum's canal isn't described this way, and thoracic foramina are round rather than triangular.
+B. Cervical foramina are triangular, not small and round.
+D. This reverses the two regions.
+E. Lumbar foramina are triangular, not small and round.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1744
+A first-year medical student reviews the vertebra shown in the attached image. Which of the following structures is indicated by pin 10 in the lateral view?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Lamina
+B. Spinous process
+C. Pedicle
+D. Transverse process
+E. Inferior articular process
+Answer: B. Spinous process
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 10 marks the process projecting posteriorly from the vertebral arch at the junction of the two laminae, which is the spinous process.
+It's an attachment site for muscles and ligaments, including the supraspinous and interspinous ligaments.
+Why the other answers are wrong:
+A. The laminae are the flat plates between the transverse and spinous processes.
+C. The pedicle joins the arch to the body (pin 8).
+D. Transverse processes project posterolaterally from the junction of the pedicle and lamina (pins 4 and 7).
+E. The inferior articular process projects downward to meet the vertebra below.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1745
+A physician palpates the back of a seated patient whose neck is flexed, as shown in the attached image. Which of the following structures is indicated by pin 1?
+![Photograph of the back of the neck and upper back, posterior view](library/images/msk-back/back-lec-22-vertebra-prominens.png)
+A. External occipital protuberance
+B. Spinous process of T12
+C. Spinous process of C7
+D. Spinous process of C1
+E. Spinous process of C2
+Answer: C. Spinous process of C7
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the prominent bump at the base of the flexed neck, which is the spinous process of C7.
+C7 is called the vertebra prominens because its long spinous process is easily felt and serves as a surface landmark.
+Why the other answers are wrong:
+A. The external occipital protuberance is on the skull, at the top of the neck.
+B. T12 is much lower, at the level of the lower ribs.
+D. C1 (the atlas) has no spinous process.
+E. C2's spinous process is high in the neck and buried under muscle.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1746
+A first-year medical student reviews the vertebra shown in the attached image. Which of the following structures is indicated by pin 3?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Transverse process
+B. Lamina
+C. Pedicle
+D. Superior articular process
+E. Spinous process
+Answer: B. Lamina
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks one of the two broad, flat plates that close the vertebral arch posteriorly, between the transverse and spinous processes.
+These plates are the laminae.
+Why the other answers are wrong:
+A. The transverse process projects laterally (pin 4).
+C. The pedicle is the short, stout process joining the arch to the vertebral body (pin 5).
+D. The superior articular process projects upward from the junction of the pedicle and lamina.
+E. The spinous process projects posteriorly from where the two laminae meet (pin 1).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1747
+A 63-year-old man has progressive leg pain and numbness from compression of lumbar nerve roots by a tumor in the vertebral canal. A surgeon plans to remove the spinous processes and the structure marked by pin 3 in the attached image at the affected levels. Which of the following best describes this procedure and its purpose?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Discectomy, to remove the nucleus pulposus pressing on the nerve root
+B. Laminectomy, to open the vertebral canal and relieve pressure on the spinal cord or nerve roots
+C. Laminectomy, to fuse the adjacent vertebral bodies and stop vertebral slippage
+D. Pediculectomy, to widen the intervertebral foramen for the exiting spinal nerve
+E. Facetectomy, to remove the zygapophysial joint and restore rotation
+Answer: B. Laminectomy, to open the vertebral canal and relieve pressure on the spinal cord or nerve roots
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the lamina. Surgical removal of one or more spinous processes with their supporting laminae is a laminectomy.
+It gives access to the vertebral canal to relieve pressure on the spinal cord or nerve roots from a tumor, herniated disc, or bony overgrowth.
+Why the other answers are wrong:
+A. A discectomy removes disc material, not the posterior arch.
+C. The name is right, but its purpose is decompression, not fusion of vertebral bodies.
+D. The procedure removes the laminae, not the pedicles.
+E. The facet joints aren't the structures being removed.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1748
+A newborn has a tuft of hair over the lower back. Imaging shows that the structures marked by pin 3 in the attached image failed to fuse at one lumbar level, but the meninges and spinal cord haven't herniated. Which of the following is the most likely diagnosis?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Spondylolisthesis
+B. Spondylolysis
+C. Myelomeningocele
+D. Meningocele
+E. Spina bifida occulta
+Answer: E. Spina bifida occulta
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the laminae. Spina bifida is failure of the laminae of the vertebral arch to develop and fuse, usually in the lumbar region.
+In spina bifida occulta, skin (often with a tuft of hair) covers the defect and nothing herniates through it.
+Why the other answers are wrong:
+A. Spondylolisthesis is displacement of one vertebra relative to another.
+B. Spondylolysis is a defect or fracture of the pars interarticularis.
+C. A myelomeningocele has both the meninges and spinal cord herniating through the defect.
+D. A meningocele has the meninges herniating through the defect.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1749
+A first-year medical student reviews the vertebra shown in the attached image. Which of the following structures is indicated by pin 5?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Transverse process
+B. Pedicle
+C. Lamina
+D. Superior articular process
+E. Vertebral body
+Answer: B. Pedicle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 5 marks the short, stout process joining the vertebral arch to the vertebral body, which is the pedicle.
+Each pedicle carries a superior and an inferior vertebral notch.
+Why the other answers are wrong:
+A. The transverse process projects laterally (pin 4).
+C. The lamina is the flat plate closing the arch posteriorly (pin 3).
+D. The superior articular process projects upward to meet the vertebra above.
+E. The vertebral body is the large anterior part (pin 6).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1750
+A 17-year-old gymnast comes to the clinic because of low back pain. An oblique radiograph of the lumbar spine shows the "Scotty dog" outline. Which of the following parts of the vertebra forms the eye of the Scotty dog?
+A. Pedicle
+B. Pars interarticularis
+C. Superior articular process
+D. Transverse process
+E. Inferior articular process
+Answer: A. Pedicle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+On an oblique lumbar radiograph, the pedicle forms the eye of the Scotty dog.
+The nose is the transverse process, the neck is the pars interarticularis, the ear is the superior articular process, and the front leg is the inferior articular process.
+Why the other answers are wrong:
+B. The pars interarticularis forms the neck.
+C. The superior articular process forms the ear.
+D. The transverse process forms the nose.
+E. The inferior articular process forms the front leg.
+Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
+
+Question 1751
+A first-year medical student reviews the vertebra shown in the attached image. Which of the following structures is indicated by pin 4?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Pedicle
+B. Spinous process
+C. Lamina
+D. Transverse process
+E. Superior articular process
+Answer: D. Transverse process
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the process projecting posterolaterally from the junction of the pedicle and lamina, which is the transverse process.
+Like the spinous process, it's an attachment site for muscles and ligaments.
+Why the other answers are wrong:
+A. The pedicle connects the arch to the body (pin 5).
+B. The spinous process projects straight back in the midline (pin 1).
+C. The lamina closes the arch posteriorly (pin 3).
+E. The superior articular process projects upward and carries a facet for the vertebra above.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1752
+A researcher studies muscles that arise from the structure marked by pin 4 in the attached image at different levels of the spine. Which of the following muscles arises from this structure on C1 to C4?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-12-typical-vertebra.png)
+A. Splenius
+B. Rhomboid minor
+C. Trapezius
+D. Levator scapulae
+E. Serratus posterior superior
+Answer: D. Levator scapulae
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the transverse process. Levator scapulae arises from the transverse processes of C1 to C4 and inserts on the superior angle and medial border of the scapula.
+Semispinalis also arises from transverse processes, but lower, from C4 to T10.
+Why the other answers are wrong:
+A. Splenius arises from the nuchal ligament and C7 to T6 spinous processes (splenius cervicis inserts on upper cervical transverse processes rather than arising from them).
+B. Rhomboid minor arises from the spinous processes of C7 and T1.
+C. Trapezius arises from the occipital bone, nuchal ligament, and spinous processes.
+E. Serratus posterior superior arises from the nuchal ligament and spinous processes of C7 to T3.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1753
+A first-year medical student reviews the lateral view of the vertebra in the attached image. Which of the following structures is indicated by pin 3?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-13-articular-processes.png)
+A. Pedicle
+B. Inferior articular process and facet
+C. Pars interarticularis
+D. Transverse process
+E. Superior articular process and facet
+Answer: E. Superior articular process and facet
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the process projecting upward from the junction of the pedicle and lamina, carrying a facet that articulates with the vertebra above.
+That's the superior articular process and its superior articular facet.
+Why the other answers are wrong:
+A. The pedicle connects the arch to the body.
+B. The inferior articular process projects downward to meet the vertebra below (pin 5).
+C. The pars interarticularis is the region between the superior and inferior articular processes (pin 4).
+D. The transverse process projects laterally and doesn't carry an articular facet for the vertebra above.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1754
+A first-year medical student reviews the lateral view of the vertebra in the attached image. Which of the following structures is indicated by pin 5?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-13-articular-processes.png)
+A. Inferior articular process and facet
+B. Transverse process
+C. Pars interarticularis
+D. Spinous process
+E. Superior articular process and facet
+Answer: A. Inferior articular process and facet
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 5 marks the process projecting downward from the vertebral arch, with a facet (shown in blue) that articulates with the vertebra below.
+That's the inferior articular process and its inferior articular facet.
+Why the other answers are wrong:
+B. The transverse process projects laterally.
+C. The pars interarticularis is the bridge between the two articular processes (pin 4).
+D. The spinous process projects posteriorly and has no articular facet.
+E. The superior articular process projects upward (pin 3).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1755
+A first-year medical student reviews the superior view of the vertebra in the attached image. The blue surface marked by pin 2 faces upward. Which of the following structures does this surface articulate with?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-13-articular-processes.png)
+A. The intervertebral disc
+B. The head of a rib
+C. The tubercle of a rib
+D. The superior articular facet of the vertebra below
+E. The inferior articular facet of the vertebra above
+Answer: E. The inferior articular facet of the vertebra above
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the superior articular facet on the superior articular process.
+It articulates with the inferior articular facet of the vertebra above to form a zygapophysial (facet) joint.
+Why the other answers are wrong:
+A. Intervertebral discs join vertebral bodies, not articular processes.
+B. Rib heads articulate with costal facets on thoracic vertebral bodies.
+C. Rib tubercles articulate with transverse costal facets on thoracic transverse processes.
+D. The inferior articular facet, not the superior one, meets the vertebra below.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1756
+A first-year medical student reviews the superior view of the vertebra in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-13-articular-processes.png)
+A. Inferior articular facet
+B. Transverse costal facet
+C. Superior articular facet
+D. Mammillary process
+E. Lamina
+Answer: A. Inferior articular facet
+Order: First
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the articular surface on the downward-projecting inferior articular process, seen from above just beside the spinous process.
+That surface is the inferior articular facet, which meets the superior articular facet of the vertebra below.
+Why the other answers are wrong:
+B. Transverse costal facets are found on thoracic transverse processes.
+C. The superior articular facet faces upward on the superior articular process (pin 2).
+D. The mammillary process is a lumbar feature on the superior articular process.
+E. The lamina is the plate of bone, not an articular surface.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1757
+A researcher studies the joint enclosed by the structure marked by pin 2 in the attached image. Which of the following best describes this joint?
+![Illustration of the vertebral column, lateral view](library/images/msk-back/back-lec-39-facet-joint.png)
+A. Plane synovial joint innervated by branches of adjacent posterior rami
+B. Plane synovial joint innervated by the intercostal nerves
+C. Symphysis (secondary cartilaginous joint) innervated by meningeal branches
+D. Fibrous joint with no innervation
+E. Pivot synovial joint innervated by anterior rami
+Answer: A. Plane synovial joint innervated by branches of adjacent posterior rami
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the joint capsule between an inferior articular process (pin 1) and the superior articular process of the vertebra below (pin 3).
+This is a zygapophysial (facet) joint, a plane synovial joint innervated by branches of adjacent posterior rami, and it's sensitive to pain.
+Why the other answers are wrong:
+B. The joint type is right, but the innervation comes from posterior rami, not intercostal nerves.
+C. Intervertebral discs form symphyses between vertebral bodies, not between articular processes.
+D. Facet joints have a capsule and synovial cavity and are innervated.
+E. The pivot joint is between the dens and the atlas, not between articular processes.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1758
+A first-year medical student reviews the lateral view of a lumbar vertebra in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of lumbar vertebrae, lateral view](library/images/msk-back/back-lec-15-vertebral-notches.png)
+A. Transverse foramen
+B. Superior vertebral notch
+C. Pars interarticularis
+D. Inferior vertebral notch
+E. Intervertebral foramen
+Answer: B. Superior vertebral notch
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the shallow groove on the upper edge of the pedicle, which is the superior vertebral notch.
+It combines with the inferior vertebral notch of the vertebra above to form the intervertebral foramen.
+Why the other answers are wrong:
+A. Transverse foramina are found only in cervical vertebrae.
+C. The pars interarticularis is between the articular processes, behind the pedicle.
+D. The inferior vertebral notch is the deeper groove on the lower edge of the pedicle (pin 2).
+E. The intervertebral foramen needs two vertebrae and is outlined in the right-hand figure.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1759
+A first-year medical student reviews the lateral view of a lumbar vertebra in the attached image. Which of the following structures is indicated by pin 2?
+![Illustration of lumbar vertebrae, lateral view](library/images/msk-back/back-lec-15-vertebral-notches.png)
+A. Inferior articular facet
+B. Inferior vertebral notch
+C. Pedicle
+D. Superior vertebral notch
+E. Mammillary process
+Answer: B. Inferior vertebral notch
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the deep groove on the lower edge of the pedicle, which is the inferior vertebral notch.
+With the superior vertebral notch of the vertebra below, it forms the intervertebral foramen.
+Why the other answers are wrong:
+A. The inferior articular facet is on the inferior articular process, posterior to this notch.
+C. The pedicle is the bar of bone that carries both notches, not the notch itself.
+D. The superior vertebral notch is the shallower groove on the upper edge of the pedicle (pin 1).
+E. The mammillary process is on the superior articular process.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1760
+A first-year medical student reviews the two articulated lumbar vertebrae in the right-hand figure of the attached image. Which of the following structures is outlined by the yellow dashed line?
+![Illustration of lumbar vertebrae, lateral view](library/images/msk-back/back-lec-15-vertebral-notches.png)
+A. Intervertebral foramen
+B. Transverse foramen
+C. Anterior sacral foramen
+D. Zygapophysial joint
+E. Vertebral foramen
+Answer: A. Intervertebral foramen
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The yellow outline marks the opening formed between two adjacent vertebrae by the inferior vertebral notch above and the superior vertebral notch below.
+That opening is the intervertebral foramen, which lets the spinal nerve pass out of the vertebral canal.
+Why the other answers are wrong:
+B. Transverse foramina are in the transverse processes of cervical vertebrae.
+C. Anterior sacral foramina are on the pelvic surface of the sacrum.
+D. The zygapophysial joint is posterior to the foramen, between articular processes.
+E. The vertebral foramen is the central opening of a single vertebra, holding the spinal cord.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1761
+A 68-year-old man comes to the clinic because of pain and numbness in his legs. Imaging shows bulging intervertebral discs and bone spurs narrowing the openings outlined in yellow in the attached image at several lumbar levels. Which of the following is the most likely diagnosis?
+![Illustration of lumbar vertebrae, lateral view](library/images/msk-back/back-lec-15-vertebral-notches.png)
+A. Spinal stenosis
+B. Spondylolisthesis
+C. Spina bifida occulta
+D. Whiplash injury
+E. Spondylolysis
+Answer: A. Spinal stenosis
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The yellow outline marks the intervertebral foramen, and narrowing of the vertebral canal or intervertebral foramina is spinal stenosis.
+It's common in the lumbar and cervical regions, often degenerative in people over 60, and caused by bulging discs and bone spurs that compress the spinal cord or nerve roots.
+Why the other answers are wrong:
+B. Spondylolisthesis is slippage of one vertebra on another.
+C. Spina bifida occulta is a congenital failure of the laminae to fuse.
+D. Whiplash is a hyperextension injury of the neck that tears the anterior longitudinal ligament.
+E. Spondylolysis is a defect in the pars interarticularis.
+Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
+
+Question 1762
+A first-year medical student reviews the lateral view of the vertebra in the attached image. Which of the following structures is indicated by pin 4?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-13-articular-processes.png)
+A. Lamina
+B. Pars interarticularis
+C. Pedicle
+D. Inferior vertebral notch
+E. Transverse process
+Answer: B. Pars interarticularis
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the narrow region of bone between the superior and inferior articular processes, which is the pars interarticularis.
+A fracture here is called spondylolysis.
+Why the other answers are wrong:
+A. The lamina is the plate closing the arch posteriorly, medial to the articular processes.
+C. The pedicle connects the arch to the vertebral body, anterior to this region.
+D. The inferior vertebral notch is on the lower edge of the pedicle.
+E. The transverse process projects laterally.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1763
+A 16-year-old gymnast comes to the clinic because of low back pain that worsens when she arches backward. An oblique radiograph of the lumbar spine shows what looks like a collar around the neck of the Scotty dog at L5. A stress fracture of the structure marked by pin 4 in the attached image is suspected. Which of the following is the most likely diagnosis?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-13-articular-processes.png)
+A. Spinal stenosis
+B. Herniated nucleus pulposus
+C. Spondylolisthesis
+D. Kyphosis
+E. Spondylolysis
+Answer: E. Spondylolysis
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the pars interarticularis, which forms the neck of the Scotty dog on an oblique radiograph.
+A defect or fracture through it creates the collar appearance and is called spondylolysis, a stress fracture common in young athletes who repeatedly hyperextend, usually at L5 or L4.
+Why the other answers are wrong:
+A. Spinal stenosis is narrowing of the canal or foramina, usually in older adults.
+B. Disc herniation doesn't break the pars interarticularis.
+C. Spondylolisthesis is forward displacement of one vertebra on another, which can follow spondylolysis but isn't the fracture itself.
+D. Kyphosis is an exaggerated thoracic curve.
+Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
+
+Question 1764
+A first-year medical student is handed the vertebra shown in the attached image during a bone practical. It has a small body, a short bifid spinous process, and openings in both transverse processes. From which region of the vertebral column does it most likely come?
+![Illustration of a vertebra, superior view](library/images/msk-back/back-lec-17-cervical.png)
+A. Lumbar
+B. Sacral
+C. Thoracic
+D. Coccygeal
+E. Cervical
+Answer: E. Cervical
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+A small body, short bifid spinous process, and transverse foramina are the distinguishing features of a typical cervical vertebra.
+Transverse foramina are found in all cervical vertebrae and no others.
+Why the other answers are wrong:
+A. Lumbar vertebrae have large bodies and short, stout spinous processes, with no transverse foramina.
+B. Sacral vertebrae are fused into the sacrum.
+C. Thoracic vertebrae have heart-shaped bodies, costal facets, and long spinous processes that slope downward.
+D. Coccygeal vertebrae are small, rudimentary, and fused.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1765
+A first-year medical student reviews the vertebra shown in the attached image. Which of the following structures is indicated by pin 2?
+![Illustration of a vertebra, superior view](library/images/msk-back/back-lec-17-cervical.png)
+A. Groove for the vertebral artery
+B. Superior vertebral notch
+C. Vertebral foramen
+D. Intervertebral foramen
+E. Transverse foramen
+Answer: E. Transverse foramen
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the opening in the transverse process of a cervical vertebra, which is the transverse foramen.
+The vertebral artery usually enters these foramina at C6 and ascends through C1.
+Why the other answers are wrong:
+A. The groove for the vertebral artery is on the posterior arch of the atlas (C1).
+B. The superior vertebral notch is a groove on the pedicle seen from the side.
+C. The vertebral foramen is the large central opening for the spinal cord.
+D. The intervertebral foramen is between two vertebrae, not within one.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1766
+A 49-year-old man is evaluated after a neck injury. Imaging shows fractures through the openings marked by pin 2 in the attached image from C3 to C6, raising concern for injury to the artery that passes through them. Which of the following best describes the course and territory of this artery?
+![Illustration of a vertebra, superior view](library/images/msk-back/back-lec-17-cervical.png)
+A. Enters at C6, ascends through C1, and supplies trapezius
+B. Enters at C6, ascends through C1, passes through the foramen magnum, and contributes to the posterior circulation of the brain
+C. Enters at C7, ascends to C2, and supplies the anterior circulation of the brain
+D. Enters at C4, ascends through C1, and drains into the internal vertebral venous plexus
+E. Enters at C1, descends to C6, and supplies the cervical vertebral bodies only
+Answer: B. Enters at C6, ascends through C1, passes through the foramen magnum, and contributes to the posterior circulation of the brain
+Order: Third
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the transverse foramen, which transmits the vertebral artery.
+The vertebral artery typically enters the transverse foramina at C6, ascends through C1, and passes through the foramen magnum to contribute to the posterior circulation of the brain.
+Why the other answers are wrong:
+A. The course is right, but trapezius is supplied by the transverse cervical artery.
+C. The vertebral artery typically enters at C6, and it supplies the posterior, not anterior, circulation.
+D. Arteries don't drain into venous plexuses; the vertebral vein passes through the C1 to C7 transverse foramina.
+E. It ascends, not descends, and its main territory is the brain.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1767
+A first-year medical student is shown the vertebra in the upper figure of the attached image, which has no body and no spinous process. Which of the following vertebrae is it?
+![Illustration of a vertebra, superior view, and the base of the skull, inferior view](library/images/msk-back/back-lec-20-atlas.png)
+A. A typical lumbar vertebra
+B. Axis (C2)
+C. Vertebra prominens (C7)
+D. Atlas (C1)
+E. A typical thoracic vertebra
+Answer: D. Atlas (C1)
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The atlas is ring-shaped, with two lateral masses joined by an anterior arch (replacing the body) and a posterior arch, and it has no spinous process.
+Its superior articular facets articulate with the occipital condyles of the skull.
+Why the other answers are wrong:
+A. Lumbar vertebrae have large bodies and short, stout spinous processes.
+B. The axis has a body and a dens projecting upward from it.
+C. C7 has a body and a long, prominent spinous process.
+E. Thoracic vertebrae have heart-shaped bodies and long spinous processes.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1768
+A first-year medical student reviews the vertebra shown in the attached image, which has no body and no spinous process. Which of the following structures is indicated by pin 3?
+![Photograph of a vertebra, superior view](library/images/msk-back/bas-atlas-superior.png)
+A. Groove for the vertebral artery
+B. Facet for the dens
+C. Lateral mass
+D. Transverse foramen
+E. Superior articular facet
+Answer: A. Groove for the vertebral artery
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the groove on the superior surface of the posterior arch of the atlas, which carries the vertebral artery.
+After passing through the transverse foramina of C6 through C1, the vertebral artery runs in this groove before passing through the foramen magnum.
+Why the other answers are wrong:
+B. The facet for the dens is on the posterior surface of the anterior arch, at the opposite side of the ring.
+C. The lateral mass is the thick block of bone bearing the articular facets.
+D. The transverse foramen is the opening in the transverse process (pin 4).
+E. The superior articular facet is the large concave surface on the lateral mass (pin 2).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1769
+A researcher studies the joint formed between the surface marked by pin 2 and the structures marked by pin 6 in the attached image. Which of the following movements is this joint mainly responsible for?
+![Illustration of a vertebra, superior view, and the base of the skull, inferior view](library/images/msk-back/back-lec-20-atlas.png)
+A. Nodding of the head, with some side bending and limited rotation
+B. Flexion and extension of the lumbar spine
+C. Pivoting of the head from side to side (rotation)
+D. Rotation of the thoracic spine
+E. Elevation of the scapula
+Answer: A. Nodding of the head, with some side bending and limited rotation
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the superior articular facet of the atlas and pin 6 marks the occipital condyles of the skull.
+Together they form the paired atlanto-occipital joints, which allow nodding of the head, some side bending, and limited rotation.
+Why the other answers are wrong:
+B. Lumbar flexion and extension come from the sagittally oriented lumbar facets.
+C. Rotation of the head happens mostly at the atlanto-axial joint, where C1 pivots around the dens of C2.
+D. Thoracic rotation depends on the vertically oriented thoracic facets.
+E. Scapular elevation is a muscle action, not a craniovertebral joint movement.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1770
+A first-year medical student reviews the vertebra shown in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of the upper cervical vertebrae, posterosuperior and anterior views](library/images/msk-back/back-lec-21-axis.png)
+A. Lateral mass of the atlas
+B. Anterior arch of the atlas
+C. Spinous process of the axis
+D. Superior articular facet of the axis
+E. Dens (odontoid process)
+Answer: E. Dens (odontoid process)
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the tooth-like process projecting superiorly from the body of C2, which is the dens (odontoid process).
+It's the distinguishing feature of the axis.
+Why the other answers are wrong:
+A. The lateral masses are part of the atlas.
+B. The anterior arch belongs to the atlas and wraps in front of the dens (pin 2 in the articulated view).
+C. The spinous process of the axis projects posteriorly, not upward from the body.
+D. The superior articular facets of the axis sit lateral to the dens.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1771
+A 24-year-old man is evaluated after a diving injury. Imaging shows a fracture at the base of the structure marked by pin 1 in the attached image. Which of the following movements depends most on this structure and its articulation?
+![Illustration of the upper cervical vertebrae, posterosuperior and anterior views](library/images/msk-back/back-lec-21-axis.png)
+A. Rotation of the head, with C1 pivoting around C2
+B. Elevation of the ribs
+C. Lateral flexion of the thoracic spine
+D. Flexion and extension of the lumbar spine
+E. Nodding of the head at the atlanto-occipital joint
+Answer: A. Rotation of the head, with C1 pivoting around C2
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the dens of C2, which serves as a pivot for rotation of the head.
+It articulates with the facet on the posterior surface of the anterior arch of the atlas, and the atlanto-axial joint allows C1 to pivot around it.
+Why the other answers are wrong:
+B. Rib elevation involves serratus posterior superior and the costovertebral joints.
+C. Thoracic lateral flexion isn't related to the dens.
+D. Lumbar flexion and extension come from the lumbar facet orientation.
+E. Nodding happens at the atlanto-occipital joint between the occipital condyles and C1.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1772
+A researcher studies the joints at the level shown in the attached image. How many synovial joints make up the atlanto-axial joint?
+![Illustration of the upper cervical vertebrae, posterosuperior and anterior views](library/images/msk-back/back-lec-21-axis.png)
+A. Two, between the lateral masses of C1 and C2
+B. Three, two between the lateral masses of C1 and C2 and one between the dens and the anterior arch of C1
+C. One, between the dens and the anterior arch of C1
+D. Four, two between the lateral masses and two between the dens and both arches of C1
+E. None, because it's a fibrous joint
+Answer: B. Three, two between the lateral masses of C1 and C2 and one between the dens and the anterior arch of C1
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The atlanto-axial joint is made up of three synovial joints: a paired joint between the lateral masses of C1 and C2, and a joint between the dens and the anterior arch of C1.
+Together they let C1 pivot around the dens.
+Why the other answers are wrong:
+A. The paired lateral joints are only two of the three.
+C. The dens joint is only one of the three.
+D. The dens articulates with the anterior arch, not both arches.
+E. All three are synovial joints.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1773
+A first-year medical student is handed the vertebra shown in the attached image during a bone practical. It has a heart-shaped body, a long spinous process sloping downward, and facets on both its body and transverse processes. From which region does it come?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-23-thoracic.png)
+A. Sacral
+B. Thoracic
+C. Lumbar
+D. Cervical
+E. Coccygeal
+Answer: B. Thoracic
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+A heart-shaped body with costal facets, transverse costal facets, a small round vertebral foramen, and a long spinous process sloping inferiorly are features of a thoracic vertebra.
+The costal facets are where the ribs articulate.
+Why the other answers are wrong:
+A. Sacral vertebrae are fused into the sacrum.
+C. Lumbar vertebrae have large bodies, short stout spinous processes, and no costal facets.
+D. Cervical vertebrae have small bodies, bifid spinous processes, and transverse foramina.
+E. Coccygeal vertebrae are rudimentary and fused.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1774
+A first-year medical student reviews the vertebra shown in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-23-thoracic.png)
+A. Superior articular facet
+B. Transverse foramen
+C. Superior costal facet
+D. Transverse costal facet
+E. Inferior costal facet
+Answer: D. Transverse costal facet
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the facet on the tip of the transverse process of a thoracic vertebra, which is the transverse costal facet.
+It articulates with the tubercle of a rib at the costotransverse joint (T1 to T10).
+Why the other answers are wrong:
+A. The superior articular facet is on the superior articular process and meets the vertebra above.
+B. Transverse foramina are cervical features.
+C. The superior costal facet is on the side of the vertebral body, near its upper edge (pin 2).
+E. The inferior costal facet is on the side of the body, near its lower edge (pin 4).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1775
+A researcher studies how the ribs articulate with the vertebra shown in the attached image. Which part of the rib articulates with the facet marked by pin 2?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-23-thoracic.png)
+A. Head of the rib
+B. Costal cartilage
+C. Tubercle of the rib
+D. Neck of the rib
+E. Angle of the rib
+Answer: A. Head of the rib
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the superior costal facet on the side of the thoracic vertebral body.
+The superior and inferior costal facets articulate with the head of the rib (costovertebral joint), while the transverse costal facet articulates with the rib tubercle.
+Why the other answers are wrong:
+B. Costal cartilage joins the rib to the sternum anteriorly.
+C. The tubercle articulates with the transverse costal facet on the transverse process.
+D. The neck of the rib doesn't articulate with a facet in this lecture.
+E. The angle of the rib is a muscle attachment for iliocostalis, not an articulation.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1776
+A researcher compares range of motion between spinal regions in cadavers. In one region, the articular facets are vertically oriented, which limits excessive flexion and extension but allows rotation and some lateral flexion. The vertebrae in this region look like the one in the attached image. Which region is this?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-23-thoracic.png)
+A. Cervical
+B. Sacral
+C. Craniovertebral
+D. Thoracic
+E. Lumbar
+Answer: D. Thoracic
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+In the thoracic region the superior facets face posteriorly and slightly laterally and the inferior facets face anteriorly and slightly medially, a vertical orientation that limits flexion and extension.
+The main movements are rotation and some lateral flexion.
+Why the other answers are wrong:
+A. Cervical facets are more horizontal and allow flexion, extension, and lateral flexion.
+B. The sacral vertebrae are fused and don't move against each other.
+C. Craniovertebral joints are specialized for nodding and rotation of the head.
+E. Lumbar facets lie in the sagittal plane, allowing flexion and extension with limited rotation.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1777
+A first-year medical student is handed the vertebra shown in the attached image during a bone practical. It has a large body, short sturdy pedicles, a short stout spinous process, and no costal facets or transverse foramina. From which region does it come?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-25-lumbar.png)
+A. Sacral
+B. Lumbar
+C. Cervical
+D. Thoracic
+E. Coccygeal
+Answer: B. Lumbar
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+A large body, short heavy pedicles, a short stout spinous process, and a lack of costal facets and transverse foramina are the features of a lumbar vertebra.
+Vertebral bodies get larger inferiorly to carry more body weight.
+Why the other answers are wrong:
+A. Sacral vertebrae are fused into the sacrum.
+C. Cervical vertebrae have transverse foramina and bifid spinous processes.
+D. Thoracic vertebrae have costal facets and long, downward-sloping spinous processes.
+E. Coccygeal vertebrae are rudimentary and fused.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1778
+A first-year medical student reviews the lumbar vertebra shown in the attached image. Which of the following structures is indicated by pin 2?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-25-lumbar.png)
+A. Mammillary process
+B. Transverse costal facet
+C. Inferior articular process
+D. Transverse process
+E. Pedicle
+Answer: A. Mammillary process
+Order: First
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the small bump on the posterior surface of the superior articular process of a lumbar vertebra, which is the mammillary process.
+It's a feature specific to lumbar vertebrae in this lecture.
+Why the other answers are wrong:
+B. Lumbar vertebrae have no costal facets.
+C. The inferior articular process projects downward to meet the vertebra below.
+D. The transverse process is the long, slender process projecting laterally.
+E. The pedicle connects the arch to the body (pin 3).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1779
+A researcher studies spinal range of motion. In the region represented by the vertebra in the attached image, the articular facets lie in the sagittal plane. Which of the following best describes the movements this orientation allows?
+![Illustration of a vertebra, superior and lateral views](library/images/msk-back/back-lec-25-lumbar.png)
+A. No movement, because the vertebrae are fused
+B. Pivoting rotation around a central process
+C. Nodding of the head with limited rotation
+D. Rotation and some lateral flexion, with limited flexion and extension
+E. Flexion and extension and lateral flexion, with limited rotation
+Answer: E. Flexion and extension and lateral flexion, with limited rotation
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+This is a lumbar vertebra, and its articular facets are oriented in the sagittal plane.
+That arrangement allows flexion and extension and lateral flexion but limits rotation.
+Why the other answers are wrong:
+A. Fusion describes the sacrum and coccyx.
+B. This describes the atlanto-axial joint.
+C. This describes the atlanto-occipital joint.
+D. This describes the thoracic region.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1780
+A first-year medical student reviews the anterior view of the sacrum in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of the sacrum, anterior and posterior views](library/images/msk-back/back-lec-27-sacrum.png)
+A. Sacral hiatus
+B. Auricular surface
+C. Superior articular facet
+D. Median sacral crest
+E. Sacral promontory
+Answer: E. Sacral promontory
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the anterior projecting edge of the S1 vertebral body, which is the sacral promontory.
+It's an important obstetric landmark.
+Why the other answers are wrong:
+A. The sacral hiatus is the opening at the lower end of the posterior surface (pin 4).
+B. The auricular surface is on the lateral side of the sacrum, where it meets the ilium.
+C. The superior articular facets are on the posterior upper surface and meet L5.
+D. The median sacral crest runs down the posterior midline.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1781
+A first-year medical student reviews the anterior view of the sacrum in the attached image. Which of the following passes through the openings marked by pin 2?
+![Illustration of the sacrum, anterior and posterior views](library/images/msk-back/back-lec-27-sacrum.png)
+A. Vertebral arteries
+B. Anterior rami of the sacral spinal nerves
+C. Posterior rami of the sacral spinal nerves
+D. The spinal cord
+E. Meningeal branches only
+Answer: B. Anterior rami of the sacral spinal nerves
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the anterior (ventral) sacral foramina on the smooth pelvic surface of the sacrum.
+They transmit the anterior rami of the sacral spinal nerves.
+Why the other answers are wrong:
+A. The vertebral arteries run through the cervical transverse foramina.
+C. Posterior rami pass through the posterior sacral foramina (pin 3).
+D. The spinal cord ends well above the sacrum, and the sacral canal is a continuation of the vertebral canal, not these foramina.
+E. Meningeal branches travel back into the vertebral canal rather than out through these foramina.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1782
+A first-year medical student reviews the posterior surface of the sacrum shown in the attached image. Which of the following structures is indicated by pin 2?
+![Photograph of the sacrum, posterior view](library/images/msk-back/bas-sacrum-posterior.png)
+A. Anterior sacral foramina
+B. Intervertebral foramina
+C. Sacral hiatus
+D. Posterior sacral foramina
+E. Transverse foramina
+Answer: D. Posterior sacral foramina
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks one of the paired openings on the rough, convex posterior surface of the sacrum, which are the posterior (dorsal) sacral foramina.
+They transmit the posterior rami of the sacral spinal nerves.
+Why the other answers are wrong:
+A. The anterior sacral foramina are on the smooth pelvic surface, not the posterior surface shown here.
+B. Intervertebral foramina are between unfused vertebrae higher in the column.
+C. The sacral hiatus is the single midline opening at the inferior end (pin 4).
+E. Transverse foramina are in cervical vertebrae.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1783
+A first-year medical student reviews the posterior view of the sacrum in the attached image. Which of the following structures is indicated by pin 4?
+![Illustration of the sacrum, anterior and posterior views](library/images/msk-back/back-lec-27-sacrum.png)
+A. Median sacral crest
+B. Coccyx
+C. Sacral hiatus
+D. Posterior sacral foramen
+E. Sacral promontory
+Answer: C. Sacral hiatus
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the inverted U-shaped opening at the inferior end of the posterior sacrum, which is the sacral hiatus.
+It leads into the sacral canal, the inferior end of the vertebral canal.
+Why the other answers are wrong:
+A. The median sacral crest is the ridge in the posterior midline above the hiatus.
+B. The coccyx is the small bone below the sacrum.
+D. The posterior sacral foramina are the paired lateral openings (pin 3).
+E. The sacral promontory is the anterior edge of S1 (pin 1).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1784
+A 31-year-old woman in labor is to receive caudal epidural anesthesia. The needle is placed through the opening marked by pin 4 in the attached image. Which space does the needle enter?
+![Illustration of the sacrum, anterior and posterior views](library/images/msk-back/back-lec-27-sacrum.png)
+A. The intervertebral disc between L5 and S1
+B. The sacroiliac joint
+C. The pelvic cavity anterior to the sacrum
+D. The zygapophysial joint between L5 and S1
+E. The sacral canal, the inferior end of the vertebral canal
+Answer: E. The sacral canal, the inferior end of the vertebral canal
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the sacral hiatus, an inverted U-shaped opening that leads into the sacral canal (the inferior end of the vertebral canal).
+That's why the hiatus is a site for caudal epidural anesthesia.
+Why the other answers are wrong:
+A. The L5 to S1 disc is anterior and much higher.
+B. The sacroiliac joint is lateral, at the auricular surface.
+C. The pelvic cavity is reached through the anterior surface, not the posterior hiatus.
+D. The L5 to S1 facet joint is at the superior articular facets, not the inferior end of the sacrum.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1785
+A first-year medical student reviews the posterior view of the sacrum in the attached image. Which bone articulates with the surface marked by pin 2?
+![Illustration of the sacrum, posterior view](library/images/msk-back/back-lec-28-sacrum-posterior.png)
+A. Ischium of the hip bone
+B. Ilium of the hip bone
+C. Femur
+D. L5 vertebra
+E. Coccyx
+Answer: B. Ilium of the hip bone
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the auricular surface on the lateral side of the sacrum.
+It articulates with the ilium of the hip bone to form the sacroiliac joint, through which the sacrum passes upper body weight to the pelvis.
+Why the other answers are wrong:
+A. The ischium doesn't articulate with the sacrum.
+C. The femur articulates with the acetabulum of the hip bone, not the sacrum.
+D. L5 articulates with the superior articular facets (pin 1) and the top of S1.
+E. The coccyx joins the inferior tip of the sacrum.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1786
+A first-year medical student reviews the posterior view of the sacrum in the attached image. Which joint is formed by the surface marked by pin 1?
+![Illustration of the sacrum, posterior view](library/images/msk-back/back-lec-28-sacrum-posterior.png)
+A. Lumbosacral joint
+B. Sacrococcygeal joint
+C. Sacroiliac joint
+D. Hip joint
+E. Atlanto-occipital joint
+Answer: A. Lumbosacral joint
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the superior articular facet of the sacrum.
+It articulates with the inferior articular facet of L5 to form the lumbosacral joint.
+Why the other answers are wrong:
+B. The sacrococcygeal joint is at the inferior tip of the sacrum.
+C. The sacroiliac joint is formed by the auricular surface (pin 2) and the ilium.
+D. The hip joint is between the femur and the acetabulum.
+E. The atlanto-occipital joint is between C1 and the skull.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1787
+A first-year medical student reviews the anterior view of the bones shown in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of the sacrum, anterior view](library/images/msk-back/back-lec-29-coccyx.png)
+A. Sacral promontory
+B. Sacral hiatus
+C. Ischium
+D. Coccyx
+E. Fifth lumbar vertebra
+Answer: D. Coccyx
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the small, triangular bone at the inferior tip of the sacrum, which is the coccyx (tail bone).
+It's formed by fusion of 3 to 5 rudimentary coccygeal vertebrae.
+Why the other answers are wrong:
+A. The sacral promontory is the anterior upper edge of S1.
+B. The sacral hiatus is an opening on the posterior surface of the sacrum.
+C. The ischium is part of the hip bone, lateral to the sacrum.
+E. L5 sits above the sacrum, not below it.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1788
+A researcher counts the vertebrae in an adult skeleton. Which of the following correctly lists the number of vertebrae in each region from superior to inferior?
+A. 8 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
+B. 7 cervical, 12 thoracic, 5 lumbar, 4 fused sacral, 1 coccygeal
+C. 7 cervical, 12 thoracic, 4 lumbar, 6 fused sacral, 3 to 5 fused coccygeal
+D. 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
+E. 7 cervical, 11 thoracic, 6 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
+Answer: D. 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The vertebral column has 7 cervical, 12 thoracic, and 5 lumbar vertebrae, 5 sacral vertebrae fused into the sacrum, and 3 to 5 (usually 4) coccygeal vertebrae fused into the coccyx.
+That makes about 33 vertebrae in all.
+Why the other answers are wrong:
+A. There are 8 cervical spinal nerves but only 7 cervical vertebrae.
+B. There are 5 sacral vertebrae, and the coccyx is 3 to 5 fused segments.
+C. There are 5 lumbar and 5 sacral vertebrae.
+E. There are 12 thoracic and 5 lumbar vertebrae.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1789
+A researcher studies the bony origins of back muscles on the hip bone. Which of the following muscles arise in part from the iliac crest?
+A. Rhomboid major and rhomboid minor
+B. Latissimus dorsi and the erector spinae
+C. Serratus posterior superior and serratus posterior inferior
+D. Splenius and semispinalis
+E. Trapezius and levator scapulae
+Answer: B. Latissimus dorsi and the erector spinae
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Latissimus dorsi arises from the lower thoracic spinous processes, thoracolumbar fascia, and iliac crest.
+The erector spinae arise from a broad tendon attached to the posterior iliac crest, posterior sacrum, sacroiliac ligaments, and sacral and inferior lumbar spinous processes.
+Why the other answers are wrong:
+A. The rhomboids arise from spinous processes of C7 to T5.
+C. The serratus posterior muscles arise from spinous processes and the nuchal ligament.
+D. Splenius and semispinalis arise from the cervical and thoracic vertebrae and nuchal ligament.
+E. Trapezius and levator scapulae arise from the skull and cervical and thoracic vertebrae.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1790
+A first-year medical student reviews the sagittal section of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 3?
+![Illustration of the lumbar vertebral column, lateral view](library/images/msk-back/back-lec-32-ligaments.png)
+A. Annulus fibrosus
+B. Posterior longitudinal ligament
+C. Ligamentum flavum
+D. Anterior longitudinal ligament
+E. Supraspinous ligament
+Answer: D. Anterior longitudinal ligament
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the broad fibrous band covering the front of the vertebral bodies and discs, which is the anterior longitudinal ligament.
+It runs from the occipital bone to the sacrum and helps resist hyperextension.
+Why the other answers are wrong:
+A. The annulus fibrosus is the outer part of the disc itself, deep to this ligament.
+B. The posterior longitudinal ligament runs inside the vertebral canal on the backs of the bodies (pin 1).
+C. Ligamentum flavum joins adjacent laminae (pin 2).
+E. The supraspinous ligament runs along the tips of the spinous processes.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1791
+A 35-year-old woman is brought to the emergency department after her car was struck from behind. She has neck pain and stiffness. A whiplash injury is suspected, with severe stretching of the structure marked by pin 3 in the attached image. Which of the following motions does this structure normally resist?
+![Illustration of the lumbar vertebral column, lateral view](library/images/msk-back/back-lec-32-ligaments.png)
+A. Posterior displacement of the intervertebral discs
+B. Hyperflexion
+C. Lateral flexion
+D. Rotation
+E. Hyperextension
+Answer: E. Hyperextension
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the anterior longitudinal ligament, which lies in front of the vertebral bodies and prevents hyperextension.
+In whiplash, the sudden back-and-forth motion causes severe hyperextension of the neck, stretching and sometimes tearing this ligament.
+Why the other answers are wrong:
+A. Posterior disc displacement is resisted by the posterior longitudinal ligament.
+B. Hyperflexion is weakly resisted by the posterior longitudinal ligament and limited in the neck by the nuchal ligament.
+C. Lateral flexion isn't the main motion resisted by the anterior longitudinal ligament.
+D. Rotation is limited mainly by facet orientation.
+Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
+
+Question 1792
+A first-year medical student reviews the sagittal section of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of the lumbar vertebral column, lateral view](library/images/msk-back/back-lec-32-ligaments.png)
+A. Ligamentum flavum
+B. Interspinous ligament
+C. Nucleus pulposus
+D. Anterior longitudinal ligament
+E. Posterior longitudinal ligament
+Answer: E. Posterior longitudinal ligament
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the narrow ligament running along the posterior surfaces of the vertebral bodies inside the vertebral canal, which is the posterior longitudinal ligament.
+It weakly resists hyperflexion and resists posterior displacement of the intervertebral discs.
+Why the other answers are wrong:
+A. Ligamentum flavum is on the posterior wall of the canal, joining the laminae (pin 2).
+B. Interspinous ligaments connect adjacent spinous processes.
+C. The nucleus pulposus is the gelatinous center of the disc.
+D. The anterior longitudinal ligament covers the front of the bodies (pin 3).
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1793
+A first-year medical student reviews the sagittal section of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 2?
+![Illustration of the lumbar vertebral column, lateral view](library/images/msk-back/back-lec-32-ligaments.png)
+A. Intertransverse ligament
+B. Nuchal ligament
+C. Posterior longitudinal ligament
+D. Supraspinous ligament
+E. Ligamentum flavum
+Answer: E. Ligamentum flavum
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the broad, pale yellow fibrous tissue joining adjacent laminae on the posterior wall of the vertebral canal, which is the ligamentum flavum.
+Thickening of this and other ligaments can contribute to spinal stenosis.
+Why the other answers are wrong:
+A. Intertransverse ligaments connect adjacent transverse processes.
+B. The nuchal ligament is in the neck, from the external occipital protuberance to C7.
+C. The posterior longitudinal ligament is on the anterior wall of the canal, along the vertebral bodies (pin 1).
+D. The supraspinous ligament connects the tips of the spinous processes.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1794
+A first-year medical student reviews the sagittal section of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 2?
+![Illustration of the lumbar vertebral column, lateral view](library/images/msk-back/back-lec-34-spinous-ligaments.png)
+A. Interspinous ligament
+B. Anterior longitudinal ligament
+C. Ligamentum flavum
+D. Thoracolumbar fascia
+E. Supraspinous ligament
+Answer: E. Supraspinous ligament
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the ligament running along the tips of the spinous processes, which is the supraspinous ligament.
+It connects the spinous process tips from C7 to the sacrum and merges with the nuchal ligament above C7.
+Why the other answers are wrong:
+A. Interspinous ligaments are thinner and fill the space between adjacent spinous processes (pin 1).
+B. The anterior longitudinal ligament is on the front of the vertebral bodies.
+C. Ligamentum flavum joins laminae, anterior to the spinous processes.
+D. The thoracolumbar fascia is a superficial aponeurosis, not a ligament along the spinous tips.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1795
+A first-year medical student reviews the sagittal section of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of the lumbar vertebral column, lateral view](library/images/msk-back/back-lec-34-spinous-ligaments.png)
+A. Posterior longitudinal ligament
+B. Supraspinous ligament
+C. Ligamentum flavum
+D. Intertransverse ligament
+E. Interspinous ligament
+Answer: E. Interspinous ligament
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the thin ligaments filling the space between adjacent spinous processes, which are the interspinous ligaments.
+They lie deep to the supraspinous ligament, which runs over the tips.
+Why the other answers are wrong:
+A. The posterior longitudinal ligament is inside the canal on the vertebral bodies.
+B. The supraspinous ligament runs along the tips of the spinous processes (pin 2).
+C. Ligamentum flavum joins the laminae, closer to the vertebral canal.
+D. Intertransverse ligaments connect transverse processes, not spinous processes.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1796
+A first-year medical student reviews the intervertebral disc shown in the attached image. Which of the following best describes the structure formed by pins 1 and 2 together, and the joint it creates?
+![Illustration of a lumbar vertebra and intervertebral disc, superior view](library/images/msk-back/back-lec-37-iv-disc.png)
+A. Vertebral body; a primary cartilaginous joint
+B. Zygapophysial joint capsule; a plane synovial joint
+C. Intervertebral disc; a symphysis (secondary cartilaginous joint)
+D. Intervertebral disc; a plane synovial joint
+E. Intervertebral disc; a fibrous joint
+Answer: C. Intervertebral disc; a symphysis (secondary cartilaginous joint)
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pins 1 and 2 mark the two parts of an intervertebral disc, the nucleus pulposus and the annulus fibrosus.
+The disc joins two vertebral bodies as a symphysis (secondary cartilaginous joint) and acts as a flexible shock absorber.
+Why the other answers are wrong:
+A. The image shows the disc on top of the body, and the joint is secondary, not primary, cartilaginous.
+B. The facet joint capsule is between articular processes, not between vertebral bodies.
+D. Plane synovial joints are the facet joints between articular processes.
+E. The disc is a cartilaginous, not fibrous, joint.
+Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
+
+Question 1797
+A first-year medical student reviews the intervertebral disc shown in the attached image. Which of the following structures is indicated by pin 1?
+![Illustration of a lumbar vertebra and intervertebral disc, superior view](library/images/msk-back/back-lec-37-iv-disc.png)
+A. Vertebral body
+B. Posterior longitudinal ligament
+C. Annulus fibrosus
+D. Nucleus pulposus
+E. Spinal cord
+Answer: D. Nucleus pulposus
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the gelatinous center of the disc, which is the nucleus pulposus.
+It has a high water content (about 90% in young people).
+Why the other answers are wrong:
+A. The vertebral body lies beneath the disc.
+B. The posterior longitudinal ligament runs behind the bodies inside the canal.
+C. The annulus fibrosus is the outer ring of concentric fibrocartilage (pin 2).
+E. The spinal cord is in the vertebral foramen, posterior to the disc.
+Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
+
+Question 1798
+A first-year medical student reviews the intervertebral disc shown in the attached image. Which of the following structures is indicated by pin 2?
+![Illustration of a lumbar vertebra and intervertebral disc, superior view](library/images/msk-back/back-lec-37-iv-disc.png)
+A. Annulus fibrosus
+B. Anterior longitudinal ligament
+C. Vertebral body
+D. Ligamentum flavum
+E. Nucleus pulposus
+Answer: A. Annulus fibrosus
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the outer ring of the disc, made of concentric layers of fibrocartilage, which is the annulus fibrosus.
+Only its outer third is vascular and innervated in a healthy disc.
+Why the other answers are wrong:
+B. The anterior longitudinal ligament covers the front of the discs and bodies.
+C. The vertebral body lies beneath the disc.
+D. Ligamentum flavum joins the laminae posteriorly.
+E. The nucleus pulposus is the gelatinous center (pin 1).
+Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
+
+Question 1799
+A 44-year-old man comes to the clinic because of low back pain that radiates down his left leg after lifting a heavy box. MRI shows that material from the structure marked by pin 1 in the attached image has protruded posterolaterally through the structure at pin 2 at the L4/L5 level. Which of the following spinal nerve roots is most likely compressed?
+![Illustration of a lumbar vertebra and intervertebral disc, superior view](library/images/msk-back/back-lec-37-iv-disc.png)
+A. L3
+B. L4
+C. S2
+D. L5
+E. S1
+Answer: D. L5
+Order: Third
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the nucleus pulposus and pin 2 the annulus fibrosus, so this is a herniated disc.
+Lumbar herniations usually go posterolaterally and affect the nerve root immediately inferior to the disc, so an L4/L5 herniation compresses the L5 root.
+Why the other answers are wrong:
+A. L3 exits well above the L4/L5 disc.
+B. The L4 root exits through the foramen above the L4/L5 disc and is usually spared by a posterolateral herniation.
+C. S2 is too far below this level.
+E. S1 is typically affected by an L5/S1 herniation.
+Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
+
+Question 1800
+A 50-year-old woman comes to the clinic because of neck pain radiating into her shoulder, arm, and hand. MRI shows a posterolateral herniation of the C5/C6 intervertebral disc. Which of the following spinal nerve roots is most likely compressed?
+A. C5
+B. C4
+C. T1
+D. C6
+E. C7
+Answer: D. C6
+Order: Third
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Cervical spinal nerves exit superior to the vertebra of the same number, which keeps the same numerical relationship as in the lumbar spine.
+A C5/C6 herniation compresses the C6 root, and a C6/C7 herniation compresses C7; these are the two most common cervical disc ruptures.
+Why the other answers are wrong:
+A. C5 exits above the C5 vertebra, above the C5/C6 disc.
+B. C4 exits above C5 and isn't at this level.
+C. T1 is far below this level.
+E. C7 is compressed by a C6/C7 herniation.
+Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
+
+Question 1801
+A researcher studies why most lumbar disc herniations extend posterolaterally rather than straight posteriorly. Which of the following best explains this pattern?
+A. The supraspinous ligament pushes the disc laterally.
+B. The annulus fibrosus is thinnest anteriorly, and the anterior longitudinal ligament is weak.
+C. The annulus fibrosus is thin posterolaterally, and that region isn't supported by either longitudinal ligament.
+D. The ligamentum flavum blocks herniation directly into the midline.
+E. The nucleus pulposus sits in the anterior part of the disc.
+Answer: C. The annulus fibrosus is thin posterolaterally, and that region isn't supported by either longitudinal ligament.
+Order: Second
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Herniations usually extend posterolaterally because the annulus fibrosus is relatively thin there and receives no support from the anterior or posterior longitudinal ligaments.
+The posterior longitudinal ligament resists straight posterior displacement of the disc in the midline.
+Why the other answers are wrong:
+A. The supraspinous ligament is on the spinous process tips, far from the disc.
+B. Herniation is rare anteriorly, and the anterior longitudinal ligament is strong.
+D. Ligamentum flavum joins the laminae and isn't what deflects disc material.
+E. The nucleus pulposus is central, not anterior.
+Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
+
+Question 1802
+A 74-year-old man has had stiffness in his lower back for years. Imaging shows that his intervertebral discs have lost height. Which of the following changes in the disc best explains this with aging?
+A. The disc converts into a plane synovial joint
+B. The nucleus pulposus gains water and elastin, making it more turgid
+C. The vertebral bodies fuse into a single bone
+D. The nucleus pulposus dehydrates and loses elastin and proteoglycans while gaining collagen
+E. The annulus fibrosus becomes fully vascularized and innervated
+Answer: D. The nucleus pulposus dehydrates and loses elastin and proteoglycans while gaining collagen
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+With age, the nucleus pulposus dehydrates and loses elastin and proteoglycans while gaining collagen, so the disc loses turgor and becomes stiffer.
+The annulus fibrosus then carries more of the vertical load and often develops fissures, which is part of degenerative disc disease.
+Why the other answers are wrong:
+A. The disc stays a secondary cartilaginous joint.
+B. This is the opposite of what happens with aging.
+C. Vertebral bodies don't fuse with normal aging; only the sacral and coccygeal vertebrae are fused.
+E. Only the outer third of the annulus is vascular and innervated, and aging doesn't change that into full vascularization.
+Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
+
+Question 1803
+A 19-year-old football lineman comes to the clinic because of low back pain. A lateral radiograph shows the L5 vertebral body displaced anteriorly on S1. Which of the following is the most likely diagnosis?
+A. Spinal stenosis
+B. Spondylolysis
+C. Kyphosis
+D. Spondylolisthesis
+E. Scoliosis
+Answer: D. Spondylolisthesis
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Spondylolisthesis is displacement of one vertebra relative to another, most commonly at the L5 to S1 junction with L5 slipping anteriorly over S1.
+Common causes are disc degeneration and sports injury.
+Why the other answers are wrong:
+A. Spinal stenosis is narrowing of the canal or foramina.
+B. Spondylolysis is a fracture of the pars interarticularis without the slippage described here.
+C. Kyphosis is an exaggerated thoracic curvature.
+E. Scoliosis is a lateral curvature with vertebral rotation.
+Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
+
+Question 1804
+A 29-year-old woman in her third trimester of pregnancy comes to the clinic because of low back pain. Examination shows an exaggerated inward curve of the lumbar spine with anterior rotation of the pelvis. Which of the following is the most likely finding?
+A. Lordosis
+B. Kyphosis
+C. Scoliosis
+D. Whiplash
+E. Spondylolysis
+Answer: A. Lordosis
+Order: Second
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Lordosis (hollow or sway back) is an exaggerated lumbar curvature with anterior rotation of the pelvis.
+Causes include weak trunk muscles, obesity, and pregnancy.
+Why the other answers are wrong:
+B. Kyphosis is an exaggerated thoracic curvature.
+C. Scoliosis is a lateral curvature with rotation of the vertebrae.
+D. Whiplash is a hyperextension injury of the neck.
+E. Spondylolysis is a pars interarticularis fracture.
+Objective: Evaluate normal vertebral curvatures, and distinguish features of abnormal vertebral curvatures such as kyphosis, lordosis, and scoliosis.
+
+Question 1805
+A 13-year-old girl is seen for a school screening. When she bends forward, one side of her back is higher than the other. Radiographs show an increased lateral curvature of the thoracic spine with rotation of the vertebrae, and no congenital vertebral defects are found. Which of the following is the most likely diagnosis?
+A. Spina bifida occulta
+B. Lordosis
+C. Kyphosis
+D. Spondylolisthesis
+E. Idiopathic scoliosis
+Answer: E. Idiopathic scoliosis
+Order: Second
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Scoliosis is an increased lateral curvature of the spine with rotation of the vertebrae.
+With no congenital vertebral defect, the most likely cause is idiopathic.
+Why the other answers are wrong:
+A. Spina bifida occulta is a failure of the laminae to fuse.
+B. Lordosis is an exaggerated lumbar curve.
+C. Kyphosis is an exaggerated anterior-concave thoracic curve, not a lateral one.
+D. Spondylolisthesis is slippage of one vertebra on another.
+Objective: Evaluate normal vertebral curvatures, and distinguish features of abnormal vertebral curvatures such as kyphosis, lordosis, and scoliosis.
+
+Question 1806
+A researcher studies the normal curvatures of the adult vertebral column. Which of the following pairs of regions are secondary curvatures that are concave posteriorly?
+A. Thoracic and sacral
+B. Thoracic and lumbar
+C. Cervical and lumbar
+D. Lumbar and sacral
+E. Cervical and thoracic
+Answer: C. Cervical and lumbar
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The cervical and lumbar curvatures are secondary curvatures and are concave posteriorly.
+The thoracic and sacral curvatures are concave anteriorly.
+Why the other answers are wrong:
+A. Thoracic and sacral curves are concave anteriorly.
+B. The thoracic curve is concave anteriorly.
+D. The sacral curve is concave anteriorly.
+E. The thoracic curve is concave anteriorly.
+Objective: Evaluate normal vertebral curvatures, and distinguish features of abnormal vertebral curvatures such as kyphosis, lordosis, and scoliosis.
+
+Question 1807
+A 66-year-old man with prostate cancer is found to have metastases in his lumbar vertebrae. Which of the following features of the venous drainage of the vertebral column best explains this spread?
+A. The venous plexuses don't communicate with segmental veins of the trunk
+B. The vertebral veins have strong valves that trap tumor cells
+C. The vertebral column drains only into the vertebral artery
+D. The internal and external vertebral venous plexuses lack valves and communicate with each other
+E. The internal vertebral venous plexus lies outside the vertebral canal
+Answer: D. The internal and external vertebral venous plexuses lack valves and communicate with each other
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+The internal and external vertebral venous plexuses communicate with each other and lack valves.
+That lets malignant cells and bacteria in the blood spread into the vertebral column.
+Why the other answers are wrong:
+A. The plexuses do drain into segmental veins of the trunk.
+B. The plexuses lack valves.
+C. Veins don't drain into arteries; the plexuses drain into vertebral veins of the neck and segmental veins of the trunk.
+E. The internal plexus is within the vertebral canal, and the external plexus is outside it.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1808
+A 40-year-old woman has localized back pain from a small tear in the outer annulus fibrosus of a lumbar disc. Which of the following nerves carries the pain from this structure?
+A. Thoracodorsal nerve
+B. Anterior rami forming the lumbar plexus
+C. Posterior rami supplying the zygapophysial joints
+D. Meningeal (recurrent meningeal) branches of the spinal nerves
+E. Intercostal nerves
+Answer: D. Meningeal (recurrent meningeal) branches of the spinal nerves
+Order: Second
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Meningeal branches of the spinal nerves supply the periosteum, the intervertebral discs (annulus fibrosus), the vertebral ligaments, and the meninges of the spinal cord.
+Only the outer third of the annulus fibrosus is innervated in a healthy disc, so pain from an outer tear travels in these branches.
+Why the other answers are wrong:
+A. The thoracodorsal nerve supplies latissimus dorsi.
+B. Anterior rami supply the limbs and body wall, not the disc.
+C. Posterior rami branches supply the zygapophysial joints, not the disc.
+E. Intercostal nerves run with the ribs.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1809
+A first-year medical student reviews the dissection of the posterior neck shown in the attached image. Which of the following best describes the attachments of the structure marked by pin 2?
+![Cadaveric dissection of the posterior neck](library/images/msk-back/back-lab-18-semispinalis.png)
+A. Between adjacent transverse processes
+B. From the external occipital protuberance to the spinous process of C7
+C. From the tips of the spinous processes of C7 to the sacrum
+D. Between the laminae of adjacent vertebrae
+E. From the occipital bone to the sacrum along the front of the vertebral bodies
+Answer: B. From the external occipital protuberance to the spinous process of C7
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the nuchal ligament, which spans from the external occipital protuberance to the C7 spinous process.
+It merges with the supraspinous ligament, which continues from C7 down to the sacrum.
+Why the other answers are wrong:
+A. This describes the intertransverse ligaments.
+C. This describes the supraspinous ligament.
+D. This describes the ligamentum flavum.
+E. This describes the anterior longitudinal ligament.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1810
+A first-year medical student examines the external surface of the bone shown in the attached image during a bone practical. Which of the following structures is indicated by pin 2?
+![Photograph of the occipital bone, external view](library/images/msk-back/bas-occipital-external.png)
+A. Inferior nuchal line
+B. External occipital protuberance
+C. Occipital condyle
+D. External occipital crest
+E. Superior nuchal line
+Answer: E. Superior nuchal line
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the curved ridge running laterally from the external occipital protuberance, which is the superior nuchal line.
+Splenius capitis attaches here, and semispinalis attaches on the bone just below it.
+Why the other answers are wrong:
+A. The inferior nuchal line is the lower curved ridge, closer to the foramen magnum (pin 4).
+B. The external occipital protuberance is the midline bump the line starts from (pin 1).
+C. The occipital condyles sit beside the foramen magnum (pin 5).
+D. The external occipital crest runs vertically in the midline from the protuberance toward the foramen magnum (pin 3).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1811
+A first-year medical student examines the external surface of the bone shown in the attached image. Which of the following structures is indicated by pin 4?
+![Photograph of the occipital bone, external view](library/images/msk-back/bas-occipital-external.png)
+A. Mastoid process
+B. Inferior nuchal line
+C. Superior nuchal line
+D. External occipital crest
+E. Foramen magnum
+Answer: B. Inferior nuchal line
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the lower of the two curved ridges on the external occipital bone, between the superior nuchal line and the foramen magnum, which is the inferior nuchal line.
+The area between it and the superior nuchal line receives semispinalis.
+Why the other answers are wrong:
+A. The mastoid process belongs to the temporal bone.
+C. The superior nuchal line is the higher ridge (pin 2).
+D. The external occipital crest is the vertical midline ridge (pin 3).
+E. The foramen magnum is the large opening at the bottom of the bone.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1812
+A researcher studies the region of bone between the structures marked by pins 2 and 4 in the attached image. Which of the following muscles attaches to this region, and what does it do when the right side contracts alone?
+![Photograph of the occipital bone, external view](library/images/msk-back/bas-occipital-external.png)
+A. Longissimus; laterally flexes the vertebral column to the right
+B. Trapezius; elevates the right scapula
+C. Semispinalis; extends the head and rotates it to the left
+D. Splenius capitis; extends and rotates the head to the right
+E. Semispinalis; extends the head and rotates it to the right
+Answer: C. Semispinalis; extends the head and rotates it to the left
+Order: Third
+Difficulty: Hard
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pins 2 and 4 mark the superior and inferior nuchal lines, and semispinalis attaches to the occipital bone between them.
+Semispinalis extends and contralaterally rotates the head, so the right muscle turns the head to the left.
+Why the other answers are wrong:
+A. Longissimus attaches to the mastoid process, not the occipital bone.
+B. Trapezius arises from the occipital bone but acts on the scapula, and its attachment isn't the area between the nuchal lines.
+D. Splenius capitis attaches to the superior nuchal line itself and rotates the head to the same side.
+E. The muscle is right, but semispinalis rotates the head to the opposite side.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1813
+A first-year medical student examines the external surface of the bone shown in the attached image. Which bone articulates with the structure marked by pin 5, and what movement does the joint mainly allow?
+![Photograph of the occipital bone, external view](library/images/msk-back/bas-occipital-external.png)
+A. Atlas; rotation of the head around the dens
+B. Axis; rotation of the head
+C. Atlas; nodding of the head
+D. Mastoid process; side bending of the head
+E. C7; flexion of the neck
+Answer: C. Atlas; nodding of the head
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 5 marks an occipital condyle beside the foramen magnum.
+The occipital condyles articulate with the superior articular facets of the atlas (C1) at the atlanto-occipital joints, which allow nodding, some side bending, and limited rotation.
+Why the other answers are wrong:
+A. Rotation around the dens happens at the atlanto-axial joint, not at the condyles.
+B. The axis doesn't articulate with the skull.
+D. The mastoid process is part of the temporal bone, not an articulating vertebra.
+E. C7 is far below the skull.
+Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
+
+Question 1814
+A first-year medical student examines the vertebra shown in the attached image, which has no body and no spinous process. Which of the following structures is indicated by pin 4?
+![Photograph of a vertebra, superior view](library/images/msk-back/bas-atlas-superior.png)
+A. Superior articular facet
+B. Vertebral foramen
+C. Groove for the vertebral artery
+D. Intervertebral foramen
+E. Transverse foramen
+Answer: E. Transverse foramen
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the opening in the transverse process of the atlas, which is the transverse foramen.
+The vertebral artery passes up through these foramina from C6 to C1 before running in the groove on the posterior arch of the atlas.
+Why the other answers are wrong:
+A. The superior articular facet is the large concave surface on the lateral mass (pin 2).
+B. The vertebral foramen is the large central opening for the spinal cord (pin 1).
+C. The groove for the vertebral artery is on the posterior arch (pin 3).
+D. Intervertebral foramina are formed between two vertebrae.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1815
+A first-year medical student examines the posterior surface of the right scapula shown in the attached image. Which of the following structures is indicated by pin 7?
+![Photograph of a scapula, posterior view](library/images/msk-back/bas-scapula-posterior.png)
+A. Glenoid cavity
+B. Lateral border
+C. Acromion
+D. Superior angle
+E. Inferior angle
+Answer: E. Inferior angle
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 7 marks the lowest point of the scapula, where the medial and lateral borders meet, which is the inferior angle.
+Why the other answers are wrong:
+A. The glenoid cavity is at the lateral angle and faces the humerus.
+B. The lateral border is the edge running up from the inferior angle toward the glenoid (pin 6).
+C. The acromion is the lateral end of the spine at the tip of the shoulder (pin 3).
+D. The superior angle is the upper medial corner (pin 1).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1816
+A first-year medical student examines the posterior surface of the right scapula shown in the attached image. Which of the following structures is indicated by pin 6?
+![Photograph of a scapula, posterior view](library/images/msk-back/bas-scapula-posterior.png)
+A. Inferior angle
+B. Spine of the scapula
+C. Superior border
+D. Medial (vertebral) border
+E. Lateral (axillary) border
+Answer: E. Lateral (axillary) border
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 6 marks the thick edge running from the inferior angle up toward the glenoid cavity, on the side facing the armpit, which is the lateral (axillary) border.
+Why the other answers are wrong:
+A. The inferior angle is the lowest point (pin 7).
+B. The spine is the ridge crossing the posterior surface (pin 4).
+C. The superior border is the short upper edge next to the superior angle (pin 2).
+D. The medial border is the opposite edge, facing the vertebral column (pin 5).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1817
+A first-year medical student examines the posterior surface of the right scapula shown in the attached image. Which of the following structures is indicated by pin 2?
+![Photograph of a scapula, posterior view](library/images/msk-back/bas-scapula-posterior.png)
+A. Medial (vertebral) border
+B. Spine of the scapula
+C. Lateral (axillary) border
+D. Acromion
+E. Superior border
+Answer: E. Superior border
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the short, thin upper edge of the scapula running laterally from the superior angle, which is the superior border.
+Why the other answers are wrong:
+A. The medial border runs vertically along the side facing the vertebral column (pin 5).
+B. The spine is the prominent ridge crossing the posterior surface below this edge (pin 4).
+C. The lateral border runs from the inferior angle toward the glenoid (pin 6).
+D. The acromion is the lateral end of the spine (pin 3).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1818
+A first-year medical student examines the posterior surface of the right scapula shown in the attached image. Which of the following structures is indicated by pin 5, and which muscle attaches to it below the level of the spine?
+![Photograph of a scapula, posterior view](library/images/msk-back/bas-scapula-posterior.png)
+A. Medial border; rhomboid major
+B. Lateral border; latissimus dorsi
+C. Superior border; levator scapulae
+D. Medial border; trapezius
+E. Lateral border; rhomboid minor
+Answer: A. Medial border; rhomboid major
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 5 marks the edge of the scapula facing the vertebral column, which is the medial (vertebral) border.
+Rhomboid major attaches to the medial border between the spine and the inferior angle; rhomboid minor attaches at the level of the spine, and levator scapulae attaches above it.
+Why the other answers are wrong:
+B. The lateral border is on the opposite side, and latissimus dorsi attaches to the humerus.
+C. Levator scapulae attaches to the superior angle and the medial border above the spine, not the superior border.
+D. The border is right, but trapezius attaches to the spine and acromion.
+E. Rhomboid minor attaches to the medial border at the spine, not the lateral border.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1819
+A 36-year-old man is evaluated after a shoulder injury. The physician palpates the bony ridge marked by pin 4 in the attached image and the lateral process marked by pin 3. Which muscle attaches to both of these structures, and which nerve supplies it?
+![Photograph of a scapula, posterior view](library/images/msk-back/bas-scapula-posterior.png)
+A. Trapezius; dorsal scapular nerve
+B. Latissimus dorsi; thoracodorsal nerve
+C. Trapezius; spinal accessory nerve (CN XI)
+D. Rhomboid minor; dorsal scapular nerve
+E. Levator scapulae; dorsal scapular nerve
+Answer: C. Trapezius; spinal accessory nerve (CN XI)
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the spine of the scapula and pin 3 marks the acromion.
+Trapezius attaches distally to the lateral third of the clavicle, the acromion, and the spine of the scapula, and its motor supply is the spinal accessory nerve.
+Why the other answers are wrong:
+A. The muscle is right, but trapezius isn't supplied by the dorsal scapular nerve.
+B. Latissimus dorsi attaches to the humerus.
+D. Rhomboid minor attaches to the medial end of the spine, not the acromion.
+E. Levator scapulae attaches to the superior angle and medial border.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1820
+A first-year medical student examines the articulated pelvis shown in the attached image, seen from the left side. Which of the following structures is indicated by pin 1?
+![Photograph of an articulated pelvis, lateral view](library/images/msk-back/bas-hip-bone-lateral.png)
+A. Pubis
+B. Iliac crest
+C. Ischium
+D. Acetabulum
+E. Sacral promontory
+Answer: B. Iliac crest
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the curved upper edge of the ilium, which is the iliac crest.
+Latissimus dorsi and the erector spinae both arise in part from the iliac crest.
+Why the other answers are wrong:
+A. The pubis forms the anteroinferior part (pin 4).
+C. The ischium forms the posteroinferior part of the hip bone (pin 6).
+D. The acetabulum is the cup-shaped socket on the lateral surface (pin 3).
+E. The sacral promontory is on the sacrum and faces anteriorly into the pelvis.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1821
+A first-year medical student examines the articulated pelvis shown in the attached image, seen from the left side. Which of the following structures is indicated by pin 2?
+![Photograph of an articulated pelvis, lateral view](library/images/msk-back/bas-hip-bone-lateral.png)
+A. Ischium
+B. Sacrum
+C. Pubis
+D. Ilium
+E. Acetabulum
+Answer: D. Ilium
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 2 marks the large, flared upper part of the hip bone, which is the ilium.
+The ilium articulates with the auricular surface of the sacrum at the sacroiliac joint.
+Why the other answers are wrong:
+A. The ischium is the posteroinferior part of the hip bone (pin 6).
+B. The sacrum sits behind the hip bones and is seen only at the edge of this lateral view.
+C. The pubis is the anteroinferior part (pin 4).
+E. The acetabulum is the socket below the ilium (pin 3).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1822
+A first-year medical student examines the articulated pelvis shown in the attached image, seen from the left side. Which of the following structures is indicated by pin 3?
+![Photograph of an articulated pelvis, lateral view](library/images/msk-back/bas-hip-bone-lateral.png)
+A. Obturator foramen
+B. Greater sciatic notch
+C. Iliac fossa
+D. Auricular surface
+E. Acetabulum
+Answer: E. Acetabulum
+Order: First
+Difficulty: Easy
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the deep, cup-shaped socket on the lateral surface of the hip bone, which is the acetabulum.
+Why the other answers are wrong:
+A. The obturator foramen is the large opening below the acetabulum (pin 5).
+B. The greater sciatic notch is on the posterior edge of the hip bone.
+C. The iliac fossa is on the inner surface of the ilium.
+D. The auricular surface is on the medial side of the ilium, where it meets the sacrum, and can't be seen from this side.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1823
+A first-year medical student examines the articulated pelvis shown in the attached image, seen from the left side with anterior to the left. Which of the following parts of the hip bone is indicated by pin 4?
+![Photograph of an articulated pelvis, lateral view](library/images/msk-back/bas-hip-bone-lateral.png)
+A. Pubis
+B. Ilium
+C. Iliac crest
+D. Ischium
+E. Coccyx
+Answer: A. Pubis
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the anteroinferior part of the hip bone, in front of and below the acetabulum, which is the pubis.
+Why the other answers are wrong:
+B. The ilium is the large upper part (pin 2).
+C. The iliac crest is the upper edge of the ilium (pin 1).
+D. The ischium is the posteroinferior part (pin 6).
+E. The coccyx is attached to the sacrum, not the hip bone.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1824
+A first-year medical student examines the articulated pelvis shown in the attached image, seen from the left side with anterior to the left. Which of the following parts of the hip bone is indicated by pin 6?
+![Photograph of an articulated pelvis, lateral view](library/images/msk-back/bas-hip-bone-lateral.png)
+A. Ischium
+B. Acetabulum
+C. Sacrum
+D. Pubis
+E. Ilium
+Answer: A. Ischium
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 6 marks the posteroinferior part of the hip bone, behind and below the acetabulum, which is the ischium.
+Why the other answers are wrong:
+B. The acetabulum is the socket (pin 3).
+C. The sacrum is the fused vertebrae behind the hip bones.
+D. The pubis is the anteroinferior part (pin 4).
+E. The ilium is the large upper part (pin 2).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1825
+A first-year medical student examines the posterior surface of the sacrum shown in the attached image. Which of the following structures is indicated by pin 3?
+![Photograph of the sacrum, posterior view](library/images/msk-back/bas-sacrum-posterior.png)
+A. Median sacral crest
+B. Sacral hiatus
+C. Sacral promontory
+D. Spinous process of L5
+E. Auricular surface
+Answer: A. Median sacral crest
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the ridge running down the posterior midline of the sacrum, which is the median sacral crest.
+Why the other answers are wrong:
+B. The sacral hiatus is the opening at the inferior end of this midline (pin 4).
+C. The sacral promontory is the anterior edge of S1 and isn't visible from behind.
+D. L5 sits above the sacrum and isn't part of this bone.
+E. The auricular surface is on the lateral side, where the sacrum meets the ilium.
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1826
+A first-year medical student examines the posterior surface of the sacrum shown in the attached image. Which of the following structures is indicated by pin 4?
+![Photograph of the sacrum, posterior view](library/images/msk-back/bas-sacrum-posterior.png)
+A. Vertebral foramen
+B. Sacral hiatus
+C. Intervertebral foramen
+D. Median sacral crest
+E. Posterior sacral foramen
+Answer: B. Sacral hiatus
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 4 marks the opening at the inferior end of the posterior sacrum, below the median sacral crest, which is the sacral hiatus.
+It leads into the sacral canal and is a site for caudal epidural anesthesia.
+Why the other answers are wrong:
+A. The sacrum has a sacral canal rather than a single vertebral foramen.
+C. Intervertebral foramina are between unfused vertebrae above the sacrum.
+D. The median sacral crest is the midline ridge above the hiatus (pin 3).
+E. The posterior sacral foramina are the paired lateral openings (pin 2).
+Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
+
+Question 1827
+A first-year medical student examines the dissection of the upper back shown in the attached image. Which of the following structures is indicated by pin 1?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back/bas-back-serratus-post-sup.png)
+A. Levator scapulae muscle
+B. Rhomboid minor muscle
+C. Spinalis muscle
+D. Semispinalis muscle
+E. Splenius muscle
+Answer: E. Splenius muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 1 marks the flat muscle on the back of the neck with fibers running up and laterally from the midline toward the skull, which is splenius.
+It arises from the nuchal ligament and C7 to T6 spinous processes.
+Why the other answers are wrong:
+A. Levator scapulae runs down to the superior angle of the scapula, lateral to this field.
+B. Rhomboid minor is at the base of the neck running toward the scapula and has been removed on this side.
+C. Spinalis is the most medial column of the erector spinae in the thoracic region.
+D. Semispinalis is deep to splenius and runs vertically.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1828
+A researcher stimulates the muscle marked by pin 3 in the attached image in a cadaver model. Which of the following describes its innervation and proposed action?
+![Cadaveric dissection of the back, posterior view](library/images/msk-back/bas-back-serratus-post-sup.png)
+A. Posterior rami of spinal nerves; extends the vertebral column
+B. 2nd to 5th intercostal nerves; elevates the ribs
+C. Dorsal scapular nerve; retracts the scapula
+D. 2nd to 5th intercostal nerves; depresses the ribs
+E. 9th to 12th intercostal nerves; depresses the ribs
+Answer: B. 2nd to 5th intercostal nerves; elevates the ribs
+Order: Second
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks serratus posterior superior, which runs from the nuchal ligament and C7 to T3 spinous processes to the superior borders of ribs 2 to 4.
+It's innervated by the 2nd to 5th intercostal nerves and is thought to elevate the ribs and serve a proprioceptive role.
+Why the other answers are wrong:
+A. This describes the erector spinae.
+C. This describes the rhomboids.
+D. The nerves are right, but this muscle elevates rather than depresses the ribs.
+E. This describes serratus posterior inferior.
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
+
+Question 1829
+A first-year medical student examines the dissection of the deep back shown in the attached image. Which of the following structures is indicated by pin 3?
+![Cadaveric dissection of the deep back, posterior view](library/images/msk-back/bas-back-erector-spinae.png)
+A. Iliocostalis muscle
+B. Spinalis muscle
+C. Serratus posterior inferior muscle
+D. Longissimus muscle
+E. Latissimus dorsi muscle
+Answer: D. Longissimus muscle
+Order: First
+Difficulty: Medium
+Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Why this is correct:
+Pin 3 marks the intermediate column of the erector spinae, between iliocostalis laterally and spinalis medially, which is longissimus.
+Why the other answers are wrong:
+A. Iliocostalis is the lateral column over the ribs (pin 2).
+B. Spinalis is the most medial column (pin 4).
+C. Serratus posterior inferior is a thin intermediate muscle that has been removed here.
+E. Latissimus dorsi is the large superficial muscle on the other side of the dissection (pin 5).
+Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
