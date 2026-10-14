@@ -9913,7 +9913,7 @@ E. Splenius is a deep back muscle innervated by posterior rami.
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1701
-A first-year medical student examines the dissection shown in the attached image. Which of the following structures is indicated by pin 3?
+A first-year medical student examines the upper back dissection shown in the attached image, with the superficial layer reflected on both sides. Which of the following structures is indicated by pin 3?
 ![Cadaveric dissection of the upper back, posterior view](library/images/msk-back-images/back-lab-12-rhomboids-both-sides.png)
 A. Rhomboid major muscle
 B. Serratus posterior superior muscle
@@ -10615,7 +10615,7 @@ E. The occipital condyles are on the inferior surface of the skull beside the fo
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1733
-A first-year medical student examines the dissection shown in the attached image. Which of the following structures is indicated by pin 3?
+A first-year medical student examines the shoulder region shown in the attached image, where the inferolateral border of trapezius is being lifted. Which of the following structures is indicated by pin 3?
 ![Cadaveric dissection of the upper back, posterior view](library/images/msk-back-images/back-lab-02-trapezius-elevated.png)
 A. Acromion process of the scapula
 B. Lateral third of the clavicle
@@ -10703,7 +10703,7 @@ D. Rhomboid minor attaches at the medial edge of the scapular spine, not below i
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1737
-A first-year medical student examines the dissection shown in the attached image. Which of the following structures is indicated by pin 3?
+A first-year medical student examines the full posterior dissection of the trunk shown in the attached image, with trapezius reflected at the top. Which of the following structures is indicated by pin 3?
 ![Cadaveric dissection of the back, posterior view](library/images/msk-back-images/back-lab-06-trapezius-reflected.png)
 A. Thoracolumbar fascia
 B. Supraspinous ligament
@@ -10810,7 +10810,7 @@ E. Scoliosis is a lateral curvature with vertebral rotation, usually idiopathic 
 Objective: Evaluate normal vertebral curvatures, and distinguish features of abnormal vertebral curvatures such as kyphosis, lordosis, and scoliosis.
 
 Question 1742
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 4?
+A first-year medical student examines the lumbar prosection shown in the attached image, viewed from above and behind. Which of the following structures is indicated by pin 4?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Vertebral foramen
 B. Superior vertebral notch
@@ -10897,7 +10897,7 @@ E. C2's spinous process is high in the neck and buried under muscle.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1746
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 6?
+During a practical, a student is shown the lumbar prosection in the attached image. Which of the following structures is indicated by pin 6?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Transverse process
 B. Lamina
@@ -11004,7 +11004,7 @@ E. The inferior articular process forms the front leg.
 Objective: Discuss the clinical presentation and anatomical basis for the following: spondylosis, spondylolisthesis and injuries associated with the vertebral column.
 
 Question 1751
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 5?
+A student studying for the back practical looks at the lumbar prosection in the attached image. Which of the following structures is indicated by pin 5?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Pedicle
 B. Spinous process
@@ -11048,7 +11048,7 @@ E. Serratus posterior superior arises from the nuchal ligament and spinous proce
 Objective: Identify & describe the superficial and deep back muscles, including their attachments, innervation, blood supply, major actions, and clinical testing. Predict the functional consequences of injury to or paralysis of these muscles.
 
 Question 1753
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 1?
+A classmate quizzes you on the second lumbar prosection shown in the attached image. Which of the following structures is indicated by pin 1?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Pedicle
 B. Inferior articular process and facet
@@ -11070,7 +11070,7 @@ D. The transverse process projects laterally and doesn't carry an articular face
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1754
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 6?
+During a timed practical station, the second lumbar prosection in the attached image is tagged at pin 6. Which of the following structures is tagged?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Inferior articular process and facet
 B. Transverse process
@@ -11157,7 +11157,7 @@ E. The pivot joint is between the dens and the atlas, not between articular proc
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1758
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 2?
+At a practical station using the second lumbar prosection in the attached image, which of the following structures is indicated by pin 2?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Transverse foramen
 B. Superior vertebral notch
@@ -11577,7 +11577,7 @@ E. Coccygeal vertebrae are rudimentary and fused.
 Objective: Differentiate the five regions of the vertebral column. Identify and describe the parts of a typical vertebra, and compare vertebrae from each region.
 
 Question 1778
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 4?
+A first-year medical student examines a second lumbar prosection, shown in the attached image. Which of the following structures is indicated by pin 4?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Mammillary process
 B. Transverse costal facet
@@ -11935,7 +11935,7 @@ D. The thoracolumbar fascia is a superficial aponeurosis, not a ligament along t
 Objective: Identify and describe the normal structure and function of the vertebral column, its joints, and associated ligaments.
 
 Question 1795
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 5?
+Reviewing the second lumbar prosection in the attached image, a student points to pin 5. Which of the following structures is it?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-b.png)
 A. Posterior longitudinal ligament
 B. Supraspinous ligament
@@ -11979,7 +11979,7 @@ E. The disc is a cartilaginous, not fibrous, joint.
 Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
 
 Question 1797
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 2?
+A student preparing for the practical is shown the lumbar prosection in the attached image. Which of the following structures is indicated by pin 2?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Vertebral body
 B. Posterior longitudinal ligament
@@ -12001,7 +12001,7 @@ E. The spinal cord is in the vertebral foramen, posterior to the disc.
 Objective: Identify and describe the components and function of an intervertebral (IV) disc. Discuss the clinical implications of disc herniations.
 
 Question 1798
-A first-year medical student examines the dissection of the lumbar spine shown in the attached image. Which of the following structures is indicated by pin 1?
+A student reviewing the lumbar prosection in the attached image focuses on the disc. Which of the following structures is indicated by pin 1?
 ![Cadaveric dissection of the lumbar spine, posterosuperior view](library/images/msk-back-images/bas-lumbar-insitu-a.png)
 A. Annulus fibrosus
 B. Anterior longitudinal ligament
