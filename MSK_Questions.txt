@@ -9683,7 +9683,7 @@ E. Levator scapulae muscle
 Answer: D. Trapezius muscle
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle; Back muscle layers and their innervation
 Why this is correct:
 Pin 3 marks the large, triangular, most superficial muscle of the upper back, which runs from the occipital bone, nuchal ligament, and spinous processes of C7 to T12 out to the lateral clavicle, acromion, and spine of the scapula.
 Its fibers converge on the shoulder from a long midline origin, which gives the diamond shape seen when both sides are viewed together.
@@ -9704,7 +9704,7 @@ E. Anterior rami of C3 and C4
 Answer: A. Spinal accessory nerve (CN XI)
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle
 Why this is correct:
 Shrugging against resistance is the clinical test for the spinal accessory nerve, because CN XI provides motor innervation to trapezius, the muscle that elevates the scapula.
 Loss of a shrug on one side after neck surgery points to injury of CN XI on that side.
@@ -9726,7 +9726,7 @@ E. Floor of the intertubercular groove of the humerus
 Answer: A. Spine of the scapula
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle; Back muscle layers and their innervation
 Why this is correct:
 Pin 2 marks trapezius, which inserts on the lateral third of the clavicle, the acromion, and the spine of the scapula.
 Its proximal attachments are the occipital bone, the nuchal ligament, and the spinous processes of C7 to T12.
@@ -9748,7 +9748,7 @@ E. Left trapezius muscle
 Answer: E. Left trapezius muscle
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle; Back muscle layers and their innervation
 Why this is correct:
 The muscle being reflected off the spine of the scapula and acromion is trapezius, since those are its distal attachments.
 The orientation key shows left on the left of the image in this posterior view, and the acromion (pin 2) sits at the left edge of the dissection, so this is the left shoulder.
@@ -9770,7 +9770,7 @@ E. Dorsal scapular nerve, not shown
 Answer: B. Structure at pin 3
 Order: Third
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 Weak adduction, extension, and medial rotation of the arm with a normal shrug points to latissimus dorsi, which is innervated by the thoracodorsal nerve.
 Pin 3 marks the thoracodorsal nerve within the neurovascular bundle entering the deep surface of the reflected latissimus dorsi.
@@ -9792,7 +9792,7 @@ E. Serratus posterior inferior muscle
 Answer: D. Latissimus dorsi muscle
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 Pin 2 marks the broad, fan-shaped superficial muscle of the lower back that arises from the lower thoracic spinous processes, thoracolumbar fascia, and iliac crest and sweeps toward the humerus.
 This is latissimus dorsi, sometimes called the climber's or rower's muscle.
@@ -9814,7 +9814,7 @@ E. Acromion process of the scapula
 Answer: D. Floor of the intertubercular groove of the humerus
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 Pin 2 marks latissimus dorsi, which runs from the lower thoracic spinous processes, thoracolumbar fascia, and iliac crest to the floor of the intertubercular groove of the humerus.
 That humeral attachment is why it adducts, extends, and medially rotates the arm.
@@ -9836,7 +9836,7 @@ E. Adduction, extension, and medial rotation of the arm
 Answer: E. Adduction, extension, and medial rotation of the arm
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 Pin 4 marks latissimus dorsi, and the nerve in its neurovascular bundle is the thoracodorsal nerve.
 Cutting that nerve paralyzes latissimus dorsi, so its actions (adduction, extension, and medial rotation of the arm) would be weakest.
@@ -9858,7 +9858,7 @@ E. Rhomboid major muscle
 Answer: E. Rhomboid major muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor
 Why this is correct:
 Pin 6 marks the wide, flat muscle running from the upper thoracic spinous processes to the medial border of the scapula below the spine, which is rhomboid major.
 Rhomboid major is wider and more inferior than rhomboid minor, which sits just above it.
@@ -9880,7 +9880,7 @@ E. Spinous processes of T11 to L2; depresses the ribs
 Answer: A. Spinous processes of T2 to T5; retracts the scapula
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor
 Why this is correct:
 Pin 5 marks rhomboid major, which arises from the spinous processes of T2 to T5 and attaches to the medial border of the scapula inferior to the spine.
 Pulling the medial border toward the midline retracts the scapula.
@@ -9901,7 +9901,7 @@ E. Splenius
 Answer: B. Levator scapulae
 Order: Third
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Levator scapulae muscle; Rhomboid major and minor
 Why this is correct:
 Weak scapular retraction with mild weakness of elevation fits injury to the dorsal scapular nerve, which supplies rhomboid major, rhomboid minor, and levator scapulae.
 Levator scapulae elevates the scapula, so its loss weakens elevation, while trapezius (CN XI) keeps the shrug possible.
@@ -9923,7 +9923,7 @@ E. Semispinalis muscle
 Answer: C. Rhomboid minor muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor
 Why this is correct:
 Pin 3 marks the narrow, thicker band just superior to rhomboid major, running from the C7 and T1 spinous processes to the medial edge of the scapula at the spine.
 That position and shape identify rhomboid minor, though the separation between the two rhomboids isn't always distinct.
@@ -9945,7 +9945,7 @@ E. Transverse processes of C1 to C4 to the superior angle of the scapula
 Answer: A. Spinous processes of C7 and T1 to the medial edge of the scapula at the spine
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor
 Why this is correct:
 Pin 1 marks rhomboid minor, which runs from the spinous processes of C7 and T1 to the medial edge of the scapula at the level of the spine.
 Rhomboid major (pin 4) sits below it and runs from T2 to T5 to the medial border below the spine.
@@ -9967,7 +9967,7 @@ E. Splenius muscle
 Answer: B. Levator scapulae muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Levator scapulae muscle; Rhomboid major and minor
 Why this is correct:
 Pin 2 marks the relatively thin, strap-like muscle that runs superiorly from the region of the superior angle of the scapula toward the cervical transverse processes.
 This is levator scapulae, which lies deep to trapezius alongside the rhomboids.
@@ -9989,7 +9989,7 @@ E. Depression of the scapula
 Answer: C. Elevation of the scapula with inferior rotation of the glenoid cavity
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Levator scapulae muscle; Rhomboid major and minor
 Why this is correct:
 Pin 1 marks levator scapulae, which runs from the transverse processes of C1 to C4 to the superior angle and medial border of the scapula.
 Pulling up on the superior angle elevates the scapula and rotates it so the glenoid cavity points inferiorly.
@@ -10011,7 +10011,7 @@ E. Rhomboid minor muscle
 Answer: C. Serratus posterior superior muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Serratus posterior superior and inferior
 Why this is correct:
 Pin 3 marks the thin, pale sheet running inferolaterally from the upper thoracic spinous processes toward the upper ribs, exposed once the rhomboids are removed.
 That depth, location, and fiber direction identify serratus posterior superior, which runs from the nuchal ligament and C7 to T3 spinous processes to ribs 2 to 4.
@@ -10033,7 +10033,7 @@ E. Superior borders of ribs 2 to 4; 2nd to 5th intercostal nerves
 Answer: E. Superior borders of ribs 2 to 4; 2nd to 5th intercostal nerves
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Serratus posterior superior and inferior
 Why this is correct:
 Pin 3 marks serratus posterior superior, which runs from the nuchal ligament and C7 to T3 spinous processes to the superior borders of ribs 2 to 4.
 It's innervated by the 2nd to 5th intercostal nerves (anterior rami of T2 to T5) and is thought to elevate the ribs and serve a proprioceptive role.
@@ -10055,7 +10055,7 @@ E. Rhomboid major muscle
 Answer: A. Serratus posterior inferior muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Serratus posterior superior and inferior
 Why this is correct:
 Pin 2 marks a very thin muscle in the lower thoracic region that becomes visible only after latissimus dorsi is reflected, which identifies serratus posterior inferior.
 It's often adhered to the deep surface of latissimus dorsi and can be removed with it by accident.
@@ -10077,7 +10077,7 @@ E. T2 to T5 spinous processes to the medial border of the scapula; dorsal scapul
 Answer: C. T11 to L2 spinous processes to ribs 8 to 12; 9th to 12th intercostal nerves
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Serratus posterior superior and inferior
 Why this is correct:
 Pin 4 marks serratus posterior inferior, which runs from the spinous processes of T11 to L2 to the inferior borders of ribs 8 to 12.
 It's innervated by the 9th to 12th intercostal nerves (anterior rami of T9 to T12) and is thought to depress the ribs and serve a proprioceptive role.
@@ -10099,7 +10099,7 @@ E. Trapezius muscle
 Answer: C. Splenius muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Splenius muscle
 Why this is correct:
 Pin 3 marks the thick, flat muscle wrapping the posterolateral neck like a bandage, with fibers running superolaterally from the midline toward the skull and upper cervical vertebrae.
 That shape and fiber direction identify splenius.
@@ -10121,7 +10121,7 @@ E. Lateral flexion of the neck to the right and rotation of the head to the left
 Answer: A. Lateral flexion of the neck to the right and rotation of the head to the right
 Order: Third
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Splenius muscle
 Why this is correct:
 Pin 3 marks splenius, which acting unilaterally laterally flexes the neck and rotates the head to the same side as the active muscle.
 Acting bilaterally, the two sides together extend the head and neck.
@@ -10143,7 +10143,7 @@ E. Anterior rami of C3 and C4
 Answer: B. Posterior rami of spinal nerves
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Back muscle layers and their innervation
 Why this is correct:
 Pin 2 marks semispinalis, one of the deep (intrinsic) back muscles.
 All of the deep back muscles, including splenius, semispinalis, and the erector spinae, are innervated by posterior rami of spinal nerves.
@@ -10165,7 +10165,7 @@ E. Splenius muscle
 Answer: D. Semispinalis muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle
 Why this is correct:
 Pin 1 marks the vertically oriented muscle exposed directly deep to the reflected splenius, which identifies semispinalis.
 It runs alongside the midline toward the occipital bone between the superior and inferior nuchal lines.
@@ -10187,7 +10187,7 @@ E. Flexion of the head and rotation to the right
 Answer: A. Extension of the head and rotation to the left
 Order: Third
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle
 Why this is correct:
 Pin 1 marks semispinalis, which extends and contralaterally rotates the head and vertebral column.
 The right semispinalis therefore extends the head and turns it to the left.
@@ -10208,7 +10208,7 @@ E. Occipital condyles
 Answer: A. Occipital bone between the superior and inferior nuchal lines
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle
 Why this is correct:
 Semispinalis attaches superiorly to the occipital bone between the superior and inferior nuchal lines and inferiorly to the transverse processes of C4 to T10.
 That high occipital attachment lets it extend the head.
@@ -10230,7 +10230,7 @@ E. Spinalis muscle
 Answer: A. Iliocostalis muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Erector spinae muscles
 Why this is correct:
 Pin 2 marks the most lateral of the three vertical columns of the erector spinae, lying over the ribs, which is iliocostalis.
 From lateral to medial the columns are iliocostalis, longissimus, and spinalis.
@@ -10252,7 +10252,7 @@ E. Latissimus dorsi muscle
 Answer: C. Longissimus muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Erector spinae muscles
 Why this is correct:
 Pin 5 marks the intermediate column of the erector spinae, which sits between iliocostalis laterally and spinalis medially and is usually the widest of the three.
 That position identifies longissimus.
@@ -10274,7 +10274,7 @@ E. Longissimus muscle
 Answer: B. Spinalis muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Erector spinae muscles
 Why this is correct:
 Pin 4 marks the most medial column of the erector spinae, running right alongside the thoracic spinous processes, which is spinalis.
 Spinalis inserts on the spinous processes of the upper thoracic region and the skull.
@@ -10296,7 +10296,7 @@ E. Mastoid process
 Answer: E. Mastoid process
 Order: Second
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Erector spinae muscles
 Why this is correct:
 Pin 5 marks longissimus, the intermediate column of the erector spinae.
 Its insertions run between the tubercles and angles of the ribs, onto thoracic and cervical transverse processes, and up to the mastoid process.
@@ -10317,7 +10317,7 @@ E. Thoracodorsal nerve; extension and adduction of the arm
 Answer: C. Posterior rami of spinal nerves; extension of the vertebral column and head
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Back muscle layers and their innervation
 Why this is correct:
 A back strain is stretching or microscopic tearing of muscle fibers, most often in the erector spinae, and it's the most common cause of low back pain.
 The erector spinae are deep back muscles innervated by posterior rami; acting bilaterally they extend the vertebral column and head, and acting unilaterally they laterally flex the vertebral column.
@@ -10339,7 +10339,7 @@ E. Extension of the vertebral column with no lateral movement
 Answer: C. Lateral flexion of the vertebral column to the right
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Erector spinae muscles
 Why this is correct:
 Pins 4, 5, and 6 mark spinalis, longissimus, and iliocostalis, the three columns of the erector spinae.
 Acting unilaterally, the erector spinae laterally flex the vertebral column toward the same side, so the right group bends the column to the right.
@@ -10361,7 +10361,7 @@ E. Posterior ramus of a cervical spinal nerve
 Answer: B. Spinal accessory nerve (CN XI)
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle
 Why this is correct:
 Pin 1 marks the nerve running along the deep surface of the reflected trapezius, which is the spinal accessory nerve, the motor supply to trapezius.
 It travels with the transverse cervical vessels in the neurovascular bundle on the muscle's deep side.
@@ -10383,7 +10383,7 @@ E. Vertebral artery and vein
 Answer: B. Transverse cervical artery and vein
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle; Arterial supply of the vertebral column
 Why this is correct:
 Pin 2 marks the vessels running with the spinal accessory nerve on the deep surface of trapezius, which are the transverse cervical artery and vein.
 The transverse cervical artery is the blood supply to trapezius.
@@ -10405,7 +10405,7 @@ E. Rhomboid major
 Answer: D. Trapezius
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle; Back muscle layers and their innervation
 Why this is correct:
 Pin 2 marks the transverse cervical artery, which runs on the deep surface of trapezius with the spinal accessory nerve.
 The transverse cervical artery is the blood supply to trapezius listed in the lecture.
@@ -10427,7 +10427,7 @@ E. Dorsal scapular nerve
 Answer: D. Thoracodorsal nerve
 Order: First
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 The bundle entering the deep surface of the reflected latissimus dorsi (pin 4) carries the thoracodorsal vein, artery, and nerve, and pin 3 marks the nerve.
 The thoracodorsal nerve is the motor supply to latissimus dorsi.
@@ -10449,7 +10449,7 @@ E. Thoracodorsal artery
 Answer: E. Thoracodorsal artery
 Order: First
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 Pin 2 marks the artery in the bundle entering the deep surface of the reflected latissimus dorsi, which is the thoracodorsal artery.
 It's the blood supply to latissimus dorsi and travels with the thoracodorsal nerve and vein.
@@ -10471,7 +10471,7 @@ E. Rhomboid minor
 Answer: A. Latissimus dorsi
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 Pin 2 marks the thoracodorsal artery, which enters the deep surface of latissimus dorsi as its blood supply.
 Ligating it would cut off dye flow to latissimus dorsi.
@@ -10493,7 +10493,7 @@ E. Dorsal scapular nerve and vessels
 Answer: E. Dorsal scapular nerve and vessels
 Order: First
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor; Levator scapulae muscle
 Why this is correct:
 Pin 2 marks the neurovascular bundle running deep to levator scapulae and the reflected rhomboids along the medial side of the scapula.
 That bundle is the dorsal scapular nerve, artery, and vein, which supply levator scapulae and both rhomboids.
@@ -10515,7 +10515,7 @@ E. Rhomboid major, rhomboid minor, and serratus posterior superior
 Answer: D. Rhomboid major, rhomboid minor, and levator scapulae
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor; Levator scapulae muscle
 Why this is correct:
 Pin 2 marks the dorsal scapular nerve, artery, and vein running deep to levator scapulae and the reflected rhomboids.
 The dorsal scapular nerve innervates rhomboid major, rhomboid minor, and levator scapulae, and the dorsal scapular artery supplies the same three muscles.
@@ -10537,7 +10537,7 @@ E. Thoracodorsal artery
 Answer: C. Dorsal scapular artery
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor; Levator scapulae muscle
 Why this is correct:
 Pin 1 marks levator scapulae and pin 4 marks the reflected rhomboids, and both are supplied by the dorsal scapular artery.
 That artery runs with the dorsal scapular nerve and vein in the bundle at pin 2.
@@ -10559,7 +10559,7 @@ E. Supraspinous ligament
 Answer: C. Nuchal ligament
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Supraspinous, interspinous, and nuchal ligaments
 Why this is correct:
 Pin 4 marks the strong midline band of the posterior neck that runs from the external occipital protuberance to the C7 spinous process, which is the nuchal ligament.
 It serves as an attachment site for muscles such as trapezius, splenius, and serratus posterior superior.
@@ -10581,7 +10581,7 @@ E. Resists posterior displacement of the intervertebral discs
 Answer: B. Limits forward flexion of the head and cervical spine
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Supraspinous, interspinous, and nuchal ligaments
 Why this is correct:
 Pin 4 marks the nuchal ligament, which spans from the external occipital protuberance to the C7 spinous process.
 It limits forward flexion of the head and cervical spine and serves as an attachment site for muscles.
@@ -10603,7 +10603,7 @@ E. Occipital condyle
 Answer: C. External occipital protuberance
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle; Supraspinous, interspinous, and nuchal ligaments
 Why this is correct:
 Pin 1 marks the midline bony prominence on the external surface of the occipital bone, above the foramen magnum, which is the external occipital protuberance.
 The nuchal ligament runs from this point down to the C7 spinous process.
@@ -10625,7 +10625,7 @@ E. Superior angle of the scapula
 Answer: C. Spine of the scapula
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle; Back muscle layers and their innervation
 Why this is correct:
 Pin 3 marks the bony ridge running across the back of the scapula beneath the elevated trapezius, which is the spine of the scapula.
 It's one of the distal attachments of trapezius.
@@ -10647,7 +10647,7 @@ E. Spine of the scapula
 Answer: D. Acromion process of the scapula
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle; Back muscle layers and their innervation
 Why this is correct:
 Pin 2 marks the flattened lateral end of the scapular spine at the point of the shoulder, which is the acromion.
 Trapezius attaches along the lateral third of the clavicle, the acromion, and the spine of the scapula.
@@ -10669,7 +10669,7 @@ E. Spine of the scapula
 Answer: A. Superior angle of the scapula
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Levator scapulae muscle; Rhomboid major and minor
 Why this is correct:
 Pin 1 marks the upper medial corner of the scapula, where the medial and superior borders meet, which is the superior angle.
 Levator scapulae runs from the transverse processes of C1 to C4 down to the superior angle and medial border.
@@ -10691,7 +10691,7 @@ E. Rhomboid major
 Answer: E. Rhomboid major
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor
 Why this is correct:
 Pin 5 marks the medial (vertebral) border of the scapula.
 Rhomboid major attaches to the medial border between the spine and the inferior angle, while rhomboid minor attaches at the level of the spine and levator scapulae attaches above it.
@@ -10713,7 +10713,7 @@ E. Latissimus dorsi muscle
 Answer: A. Thoracolumbar fascia
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 Pin 3 marks the broad, shiny aponeurotic sheet over the lower back, which is the thoracolumbar fascia.
 Latissimus dorsi arises in part from this fascia.
@@ -10734,7 +10734,7 @@ E. Superior nuchal line
 Answer: E. Superior nuchal line
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle; Supraspinous, interspinous, and nuchal ligaments
 Why this is correct:
 Splenius capitis attaches superiorly to the occipital bone at the superior nuchal line, while splenius cervicis attaches to the transverse processes of C1 to C3 or C4.
 Both parts arise from the nuchal ligament and the C7 to T6 spinous processes.
@@ -10755,7 +10755,7 @@ E. Spinous processes of T11 to L2 only
 Answer: B. Lower thoracic spinous processes, thoracolumbar fascia, and iliac crest
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle
 Why this is correct:
 Pulling the body up a wall uses adduction and extension of the arm, the actions of latissimus dorsi, which is known as the climber's muscle.
 Latissimus dorsi arises from the lower thoracic spinous processes, the thoracolumbar fascia, and the iliac crest (with the inferior ribs) and inserts in the intertubercular groove.
@@ -10777,7 +10777,7 @@ E. Vertebral body
 Answer: E. Vertebral body
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Parts of a typical vertebra
 Why this is correct:
 Pin 6 marks the large, rounded anterior part of the vertebra, which is the vertebral body.
 It supports body weight and is separated from the bodies above and below by intervertebral discs.
@@ -10799,7 +10799,7 @@ E. Scoliosis
 Answer: D. Kyphosis
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Abnormal vertebral curvatures: kyphosis, lordosis, and scoliosis
 Why this is correct:
 Pin 6 marks the vertebral body, and osteoporosis most commonly weakens thoracic vertebral bodies, especially in postmenopausal women.
 Erosion or fracture of the anterior part of thoracic vertebrae produces kyphosis, an exaggerated thoracic curvature (hunchback).
@@ -10821,7 +10821,7 @@ E. Vertebral body
 Answer: A. Vertebral foramen
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Parts of a typical vertebra
 Why this is correct:
 Pin 2 marks the central opening bounded by the back of the vertebral body and the vertebral arch, which is the vertebral foramen.
 When vertebrae are stacked, the foramina line up to form the vertebral canal, which holds the spinal cord and meninges.
@@ -10843,7 +10843,7 @@ E. Small round opening: lumbar; large triangular opening: thoracic
 Answer: C. Small round opening: thoracic; large triangular opening: cervical
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Comparing cervical, thoracic, and lumbar vertebrae
 Why this is correct:
 Pin 2 marks the vertebral foramen. Thoracic vertebrae have a small, round vertebral foramen.
 Cervical vertebrae (especially C3 to C7) have a large, triangular foramen to accommodate the cervical enlargement of the spinal cord, and lumbar foramina are triangular and larger than thoracic ones.
@@ -10865,7 +10865,7 @@ E. Inferior articular process
 Answer: B. Spinous process
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Parts of a typical vertebra
 Why this is correct:
 Pin 10 marks the process projecting posteriorly from the vertebral arch at the junction of the two laminae, which is the spinous process.
 It's an attachment site for muscles and ligaments, including the supraspinous and interspinous ligaments.
@@ -10887,7 +10887,7 @@ E. Spinous process of C2
 Answer: C. Spinous process of C7
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Cervical vertebrae (C3 to C7) and the vertebra prominens
 Why this is correct:
 Pin 1 marks the prominent bump at the base of the flexed neck, which is the spinous process of C7.
 C7 is called the vertebra prominens because its long spinous process is easily felt and serves as a surface landmark.
@@ -10909,7 +10909,7 @@ E. Spinous process
 Answer: B. Lamina
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Parts of a typical vertebra
 Why this is correct:
 Pin 3 marks one of the two broad, flat plates that close the vertebral arch posteriorly, between the transverse and spinous processes.
 These plates are the laminae.
@@ -10931,7 +10931,7 @@ E. Facetectomy, to remove the zygapophysial joint and restore rotation
 Answer: B. Laminectomy, to open the vertebral canal and relieve pressure on the spinal cord or nerve roots
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Vertebral canal; Parts of a typical vertebra
 Why this is correct:
 Pin 3 marks the lamina. Surgical removal of one or more spinous processes with their supporting laminae is a laminectomy.
 It gives access to the vertebral canal to relieve pressure on the spinal cord or nerve roots from a tumor, herniated disc, or bony overgrowth.
@@ -10953,7 +10953,7 @@ E. Spina bifida occulta
 Answer: E. Spina bifida occulta
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Parts of a typical vertebra; Vertebral canal
 Why this is correct:
 Pin 3 marks the laminae. Spina bifida is failure of the laminae of the vertebral arch to develop and fuse, usually in the lumbar region.
 In spina bifida occulta, skin (often with a tuft of hair) covers the defect and nothing herniates through it.
@@ -10975,7 +10975,7 @@ E. Vertebral body
 Answer: B. Pedicle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Parts of a typical vertebra
 Why this is correct:
 Pin 5 marks the short, stout process joining the vertebral arch to the vertebral body, which is the pedicle.
 Each pedicle carries a superior and an inferior vertebral notch.
@@ -10996,7 +10996,7 @@ E. Inferior articular process
 Answer: A. Pedicle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Parts of a typical vertebra
 Why this is correct:
 On an oblique lumbar radiograph, the pedicle forms the eye of the Scotty dog.
 The nose is the transverse process, the neck is the pars interarticularis, the ear is the superior articular process, and the front leg is the inferior articular process.
@@ -11018,7 +11018,7 @@ E. Superior articular process
 Answer: D. Transverse process
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Parts of a typical vertebra
 Why this is correct:
 Pin 4 marks the process projecting posterolaterally from the junction of the pedicle and lamina, which is the transverse process.
 Like the spinous process, it's an attachment site for muscles and ligaments.
@@ -11040,7 +11040,7 @@ E. Serratus posterior superior
 Answer: D. Levator scapulae
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Levator scapulae muscle; Parts of a typical vertebra
 Why this is correct:
 Pin 4 marks the transverse process. Levator scapulae arises from the transverse processes of C1 to C4 and inserts on the superior angle and medial border of the scapula.
 Semispinalis also arises from transverse processes, but lower, from C4 to T10.
@@ -11062,7 +11062,7 @@ E. Superior articular process and facet
 Answer: E. Superior articular process and facet
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Articular processes and pars interarticularis
 Why this is correct:
 Pin 3 marks the process projecting upward from the junction of the pedicle and lamina, carrying a facet that articulates with the vertebra above.
 That's the superior articular process and its superior articular facet.
@@ -11084,7 +11084,7 @@ E. Superior articular process and facet
 Answer: A. Inferior articular process and facet
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Articular processes and pars interarticularis
 Why this is correct:
 Pin 5 marks the process projecting downward from the vertebral arch, with a facet (shown in blue) that articulates with the vertebra below.
 That's the inferior articular process and its inferior articular facet.
@@ -11106,7 +11106,7 @@ E. The inferior articular facet of the vertebra above
 Answer: E. The inferior articular facet of the vertebra above
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Articular processes and pars interarticularis
 Why this is correct:
 Pin 2 marks the superior articular facet on the superior articular process.
 It articulates with the inferior articular facet of the vertebra above to form a zygapophysial (facet) joint.
@@ -11128,7 +11128,7 @@ E. Lamina
 Answer: A. Inferior articular facet
 Order: First
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Articular processes and pars interarticularis
 Why this is correct:
 Pin 1 marks the articular surface on the downward-projecting inferior articular process, seen from above just beside the spinous process.
 That surface is the inferior articular facet, which meets the superior articular facet of the vertebra below.
@@ -11150,7 +11150,7 @@ E. Pivot synovial joint innervated by anterior rami
 Answer: A. Plane synovial joint innervated by branches of adjacent posterior rami
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Facet (zygapophysial) joints
 Why this is correct:
 Pin 2 marks the joint capsule between an inferior articular process (pin 1) and the superior articular process of the vertebra below (pin 3).
 This is a zygapophysial (facet) joint, a plane synovial joint innervated by branches of adjacent posterior rami, and it's sensitive to pain.
@@ -11172,7 +11172,7 @@ E. Intervertebral foramen
 Answer: B. Superior vertebral notch
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Vertebral notches and the intervertebral foramen
 Why this is correct:
 Pin 1 marks the shallow groove on the upper edge of the pedicle, which is the superior vertebral notch.
 It combines with the inferior vertebral notch of the vertebra above to form the intervertebral foramen.
@@ -11194,7 +11194,7 @@ E. Mammillary process
 Answer: B. Inferior vertebral notch
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Vertebral notches and the intervertebral foramen
 Why this is correct:
 Pin 2 marks the deep groove on the lower edge of the pedicle, which is the inferior vertebral notch.
 With the superior vertebral notch of the vertebra below, it forms the intervertebral foramen.
@@ -11216,7 +11216,7 @@ E. Vertebral foramen
 Answer: A. Intervertebral foramen
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Vertebral notches and the intervertebral foramen
 Why this is correct:
 The yellow outline marks the opening formed between two adjacent vertebrae by the inferior vertebral notch above and the superior vertebral notch below.
 That opening is the intervertebral foramen, which lets the spinal nerve pass out of the vertebral canal.
@@ -11238,7 +11238,7 @@ E. Spondylolysis
 Answer: A. Spinal stenosis
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Spinal stenosis of the vertebral canal
 Why this is correct:
 The yellow outline marks the intervertebral foramen, and narrowing of the vertebral canal or intervertebral foramina is spinal stenosis.
 It's common in the lumbar and cervical regions, often degenerative in people over 60, and caused by bulging discs and bone spurs that compress the spinal cord or nerve roots.
@@ -11260,7 +11260,7 @@ E. Transverse process
 Answer: B. Pars interarticularis
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Articular processes and pars interarticularis; Spondylolysis and the Scotty dog sign
 Why this is correct:
 Pin 4 marks the narrow region of bone between the superior and inferior articular processes, which is the pars interarticularis.
 A fracture here is called spondylolysis.
@@ -11282,7 +11282,7 @@ E. Spondylolysis
 Answer: E. Spondylolysis
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Spondylolysis and the Scotty dog sign
 Why this is correct:
 Pin 4 marks the pars interarticularis, which forms the neck of the Scotty dog on an oblique radiograph.
 A defect or fracture through it creates the collar appearance and is called spondylolysis, a stress fracture common in young athletes who repeatedly hyperextend, usually at L5 or L4.
@@ -11304,7 +11304,7 @@ E. Cervical
 Answer: E. Cervical
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Cervical vertebrae (C3 to C7) and the vertebra prominens
 Why this is correct:
 A small body, short bifid spinous process, and transverse foramina are the distinguishing features of a typical cervical vertebra.
 Transverse foramina are found in all cervical vertebrae and no others.
@@ -11326,7 +11326,7 @@ E. Transverse foramen
 Answer: E. Transverse foramen
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Vertebral artery and the transverse foramina
 Why this is correct:
 Pin 2 marks the opening in the transverse process of a cervical vertebra, which is the transverse foramen.
 The vertebral artery usually enters these foramina at C6 and ascends through C1.
@@ -11348,7 +11348,7 @@ E. Enters at C1, descends to C6, and supplies the cervical vertebral bodies only
 Answer: B. Enters at C6, ascends through C1, passes through the foramen magnum, and contributes to the posterior circulation of the brain
 Order: Third
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Vertebral artery and the transverse foramina
 Why this is correct:
 Pin 2 marks the transverse foramen, which transmits the vertebral artery.
 The vertebral artery typically enters the transverse foramina at C6, ascends through C1, and passes through the foramen magnum to contribute to the posterior circulation of the brain.
@@ -11370,7 +11370,7 @@ E. A typical thoracic vertebra
 Answer: D. Atlas (C1)
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Atlas (C1)
 Why this is correct:
 The atlas is ring-shaped, with two lateral masses joined by an anterior arch (replacing the body) and a posterior arch, and it has no spinous process.
 Its superior articular facets articulate with the occipital condyles of the skull.
@@ -11392,7 +11392,7 @@ E. Superior articular facet
 Answer: A. Groove for the vertebral artery
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Atlas (C1)
 Why this is correct:
 Pin 3 marks the groove on the superior surface of the posterior arch of the atlas, which carries the vertebral artery.
 After passing through the transverse foramina of C6 through C1, the vertebral artery runs in this groove before passing through the foramen magnum.
@@ -11414,7 +11414,7 @@ E. Elevation of the scapula
 Answer: A. Nodding of the head, with some side bending and limited rotation
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Craniovertebral joints; Atlas (C1)
 Why this is correct:
 Pin 2 marks the superior articular facet of the atlas and pin 6 marks the occipital condyles of the skull.
 Together they form the paired atlanto-occipital joints, which allow nodding of the head, some side bending, and limited rotation.
@@ -11436,7 +11436,7 @@ E. Dens (odontoid process)
 Answer: E. Dens (odontoid process)
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Axis (C2) and the dens
 Why this is correct:
 Pin 1 marks the tooth-like process projecting superiorly from the body of C2, which is the dens (odontoid process).
 It's the distinguishing feature of the axis.
@@ -11458,7 +11458,7 @@ E. Nodding of the head at the atlanto-occipital joint
 Answer: A. Rotation of the head, with C1 pivoting around C2
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Craniovertebral joints; Axis (C2) and the dens
 Why this is correct:
 Pin 1 marks the dens of C2, which serves as a pivot for rotation of the head.
 It articulates with the facet on the posterior surface of the anterior arch of the atlas, and the atlanto-axial joint allows C1 to pivot around it.
@@ -11480,7 +11480,7 @@ E. None, because it's a fibrous joint
 Answer: B. Three, two between the lateral masses of C1 and C2 and one between the dens and the anterior arch of C1
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Craniovertebral joints; Axis (C2) and the dens
 Why this is correct:
 The atlanto-axial joint is made up of three synovial joints: a paired joint between the lateral masses of C1 and C2, and a joint between the dens and the anterior arch of C1.
 Together they let C1 pivot around the dens.
@@ -11502,7 +11502,7 @@ E. Coccygeal
 Answer: B. Thoracic
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Thoracic vertebrae: costal facets and facet orientation
 Why this is correct:
 A heart-shaped body with costal facets, transverse costal facets, a small round vertebral foramen, and a long spinous process sloping inferiorly are features of a thoracic vertebra.
 The costal facets are where the ribs articulate.
@@ -11524,7 +11524,7 @@ E. Inferior costal facet
 Answer: D. Transverse costal facet
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Thoracic vertebrae: costal facets and facet orientation
 Why this is correct:
 Pin 1 marks the facet on the tip of the transverse process of a thoracic vertebra, which is the transverse costal facet.
 It articulates with the tubercle of a rib at the costotransverse joint (T1 to T10).
@@ -11546,7 +11546,7 @@ E. Angle of the rib
 Answer: A. Head of the rib
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Thoracic vertebrae: costal facets and facet orientation
 Why this is correct:
 Pin 2 marks the superior costal facet on the side of the thoracic vertebral body.
 The superior and inferior costal facets articulate with the head of the rib (costovertebral joint), while the transverse costal facet articulates with the rib tubercle.
@@ -11568,7 +11568,7 @@ E. Lumbar
 Answer: D. Thoracic
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Thoracic vertebrae: costal facets and facet orientation
 Why this is correct:
 In the thoracic region the superior facets face posteriorly and slightly laterally and the inferior facets face anteriorly and slightly medially, a vertical orientation that limits flexion and extension.
 The main movements are rotation and some lateral flexion.
@@ -11590,7 +11590,7 @@ E. Coccygeal
 Answer: B. Lumbar
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Lumbar vertebrae
 Why this is correct:
 A large body, short heavy pedicles, a short stout spinous process, and a lack of costal facets and transverse foramina are the features of a lumbar vertebra.
 Vertebral bodies get larger inferiorly to carry more body weight.
@@ -11612,7 +11612,7 @@ E. Pedicle
 Answer: A. Mammillary process
 Order: First
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Lumbar vertebrae
 Why this is correct:
 Pin 2 marks the small bump on the posterior surface of the superior articular process of a lumbar vertebra, which is the mammillary process.
 It's a feature specific to lumbar vertebrae in this lecture.
@@ -11634,7 +11634,7 @@ E. Flexion and extension and lateral flexion, with limited rotation
 Answer: E. Flexion and extension and lateral flexion, with limited rotation
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Lumbar vertebrae
 Why this is correct:
 This is a lumbar vertebra, and its articular facets are oriented in the sagittal plane.
 That arrangement allows flexion and extension and lateral flexion but limits rotation.
@@ -11656,7 +11656,7 @@ E. Sacral promontory
 Answer: E. Sacral promontory
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacrum: promontory, foramina, and hiatus
 Why this is correct:
 Pin 1 marks the anterior projecting edge of the S1 vertebral body, which is the sacral promontory.
 It's an important obstetric landmark.
@@ -11678,7 +11678,7 @@ E. Meningeal branches only
 Answer: B. Anterior rami of the sacral spinal nerves
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacrum: promontory, foramina, and hiatus
 Why this is correct:
 Pin 2 marks the anterior (ventral) sacral foramina on the smooth pelvic surface of the sacrum.
 They transmit the anterior rami of the sacral spinal nerves.
@@ -11700,7 +11700,7 @@ E. Transverse foramina
 Answer: D. Posterior sacral foramina
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacrum: promontory, foramina, and hiatus
 Why this is correct:
 Pin 2 marks one of the paired openings on the rough, convex posterior surface of the sacrum, which are the posterior (dorsal) sacral foramina.
 They transmit the posterior rami of the sacral spinal nerves.
@@ -11722,7 +11722,7 @@ E. Sacral promontory
 Answer: C. Sacral hiatus
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacrum: promontory, foramina, and hiatus
 Why this is correct:
 Pin 4 marks the inverted U-shaped opening at the inferior end of the posterior sacrum, which is the sacral hiatus.
 It leads into the sacral canal, the inferior end of the vertebral canal.
@@ -11744,7 +11744,7 @@ E. The sacral canal, the inferior end of the vertebral canal
 Answer: E. The sacral canal, the inferior end of the vertebral canal
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacrum: promontory, foramina, and hiatus
 Why this is correct:
 Pin 4 marks the sacral hiatus, an inverted U-shaped opening that leads into the sacral canal (the inferior end of the vertebral canal).
 That's why the hiatus is a site for caudal epidural anesthesia.
@@ -11766,7 +11766,7 @@ E. Coccyx
 Answer: B. Ilium of the hip bone
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacral joints and the coccyx
 Why this is correct:
 Pin 2 marks the auricular surface on the lateral side of the sacrum.
 It articulates with the ilium of the hip bone to form the sacroiliac joint, through which the sacrum passes upper body weight to the pelvis.
@@ -11788,7 +11788,7 @@ E. Atlanto-occipital joint
 Answer: A. Lumbosacral joint
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacral joints and the coccyx
 Why this is correct:
 Pin 1 marks the superior articular facet of the sacrum.
 It articulates with the inferior articular facet of L5 to form the lumbosacral joint.
@@ -11810,7 +11810,7 @@ E. Fifth lumbar vertebra
 Answer: D. Coccyx
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacral joints and the coccyx
 Why this is correct:
 Pin 1 marks the small, triangular bone at the inferior tip of the sacrum, which is the coccyx (tail bone).
 It's formed by fusion of 3 to 5 rudimentary coccygeal vertebrae.
@@ -11831,7 +11831,7 @@ E. 7 cervical, 11 thoracic, 6 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
 Answer: D. 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 3 to 5 fused coccygeal
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Vertebral column regions and functions
 Why this is correct:
 The vertebral column has 7 cervical, 12 thoracic, and 5 lumbar vertebrae, 5 sacral vertebrae fused into the sacrum, and 3 to 5 (usually 4) coccygeal vertebrae fused into the coccyx.
 That makes about 33 vertebrae in all.
@@ -11852,7 +11852,7 @@ E. Trapezius and levator scapulae
 Answer: B. Latissimus dorsi and the erector spinae
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Latissimus dorsi muscle; Erector spinae muscles
 Why this is correct:
 Latissimus dorsi arises from the lower thoracic spinous processes, thoracolumbar fascia, and iliac crest.
 The erector spinae arise from a broad tendon attached to the posterior iliac crest, posterior sacrum, sacroiliac ligaments, and sacral and inferior lumbar spinous processes.
@@ -11874,7 +11874,7 @@ E. Supraspinous ligament
 Answer: D. Anterior longitudinal ligament
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Anterior and posterior longitudinal ligaments and ligamentum flavum
 Why this is correct:
 Pin 3 marks the broad fibrous band covering the front of the vertebral bodies and discs, which is the anterior longitudinal ligament.
 It runs from the occipital bone to the sacrum and helps resist hyperextension.
@@ -11896,7 +11896,7 @@ E. Hyperextension
 Answer: E. Hyperextension
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Anterior and posterior longitudinal ligaments and ligamentum flavum
 Why this is correct:
 Pin 3 marks the anterior longitudinal ligament, which lies in front of the vertebral bodies and prevents hyperextension.
 In whiplash, the sudden back-and-forth motion causes severe hyperextension of the neck, stretching and sometimes tearing this ligament.
@@ -11918,7 +11918,7 @@ E. Posterior longitudinal ligament
 Answer: E. Posterior longitudinal ligament
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Anterior and posterior longitudinal ligaments and ligamentum flavum
 Why this is correct:
 Pin 1 marks the narrow ligament running along the posterior surfaces of the vertebral bodies inside the vertebral canal, which is the posterior longitudinal ligament.
 It weakly resists hyperflexion and resists posterior displacement of the intervertebral discs.
@@ -11940,7 +11940,7 @@ E. Ligamentum flavum
 Answer: E. Ligamentum flavum
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Anterior and posterior longitudinal ligaments and ligamentum flavum
 Why this is correct:
 Pin 2 marks the broad, pale yellow fibrous tissue joining adjacent laminae on the posterior wall of the vertebral canal, which is the ligamentum flavum.
 Thickening of this and other ligaments can contribute to spinal stenosis.
@@ -11962,7 +11962,7 @@ E. Supraspinous ligament
 Answer: E. Supraspinous ligament
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Supraspinous, interspinous, and nuchal ligaments
 Why this is correct:
 Pin 2 marks the ligament running along the tips of the spinous processes, which is the supraspinous ligament.
 It connects the spinous process tips from C7 to the sacrum and merges with the nuchal ligament above C7.
@@ -11984,7 +11984,7 @@ E. Interspinous ligament
 Answer: E. Interspinous ligament
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Supraspinous, interspinous, and nuchal ligaments
 Why this is correct:
 Pin 1 marks the thin ligaments filling the space between adjacent spinous processes, which are the interspinous ligaments.
 They lie deep to the supraspinous ligament, which runs over the tips.
@@ -12006,7 +12006,7 @@ E. Intervertebral disc; a fibrous joint
 Answer: C. Intervertebral disc; a symphysis (secondary cartilaginous joint)
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Intervertebral disc structure
 Why this is correct:
 Pins 1 and 2 mark the two parts of an intervertebral disc, the nucleus pulposus and the annulus fibrosus.
 The disc joins two vertebral bodies as a symphysis (secondary cartilaginous joint) and acts as a flexible shock absorber.
@@ -12028,7 +12028,7 @@ E. Spinal cord
 Answer: D. Nucleus pulposus
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Intervertebral disc structure
 Why this is correct:
 Pin 1 marks the gelatinous center of the disc, which is the nucleus pulposus.
 It has a high water content (about 90% in young people).
@@ -12050,7 +12050,7 @@ E. Nucleus pulposus
 Answer: A. Annulus fibrosus
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Intervertebral disc structure
 Why this is correct:
 Pin 2 marks the outer ring of the disc, made of concentric layers of fibrocartilage, which is the annulus fibrosus.
 Only its outer third is vascular and innervated in a healthy disc.
@@ -12072,7 +12072,7 @@ E. S1
 Answer: D. L5
 Order: Third
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Herniated nucleus pulposus (L4/L5 example)
 Why this is correct:
 Pin 1 marks the nucleus pulposus and pin 2 the annulus fibrosus, so this is a herniated disc.
 Lumbar herniations usually go posterolaterally and affect the nerve root immediately inferior to the disc, so an L4/L5 herniation compresses the L5 root.
@@ -12093,7 +12093,7 @@ E. C7
 Answer: D. C6
 Order: Third
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Herniated nucleus pulposus (L4/L5 example)
 Why this is correct:
 Cervical spinal nerves exit superior to the vertebra of the same number, which keeps the same numerical relationship as in the lumbar spine.
 A C5/C6 herniation compresses the C6 root, and a C6/C7 herniation compresses C7; these are the two most common cervical disc ruptures.
@@ -12114,7 +12114,7 @@ E. The nucleus pulposus sits in the anterior part of the disc.
 Answer: C. The annulus fibrosus is thin posterolaterally, and that region isn't supported by either longitudinal ligament.
 Order: Second
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Herniated nucleus pulposus (L4/L5 example)
 Why this is correct:
 Herniations usually extend posterolaterally because the annulus fibrosus is relatively thin there and receives no support from the anterior or posterior longitudinal ligaments.
 The posterior longitudinal ligament resists straight posterior displacement of the disc in the midline.
@@ -12135,7 +12135,7 @@ E. The annulus fibrosus becomes fully vascularized and innervated
 Answer: D. The nucleus pulposus dehydrates and loses elastin and proteoglycans while gaining collagen
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Age-related intervertebral disc changes
 Why this is correct:
 With age, the nucleus pulposus dehydrates and loses elastin and proteoglycans while gaining collagen, so the disc loses turgor and becomes stiffer.
 The annulus fibrosus then carries more of the vertical load and often develops fissures, which is part of degenerative disc disease.
@@ -12156,7 +12156,7 @@ E. Scoliosis
 Answer: D. Spondylolisthesis
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Spondylolisthesis
 Why this is correct:
 Spondylolisthesis is displacement of one vertebra relative to another, most commonly at the L5 to S1 junction with L5 slipping anteriorly over S1.
 Common causes are disc degeneration and sports injury.
@@ -12177,7 +12177,7 @@ E. Spondylolysis
 Answer: A. Lordosis
 Order: Second
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Abnormal vertebral curvatures: kyphosis, lordosis, and scoliosis
 Why this is correct:
 Lordosis (hollow or sway back) is an exaggerated lumbar curvature with anterior rotation of the pelvis.
 Causes include weak trunk muscles, obesity, and pregnancy.
@@ -12198,7 +12198,7 @@ E. Idiopathic scoliosis
 Answer: E. Idiopathic scoliosis
 Order: Second
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Abnormal vertebral curvatures: kyphosis, lordosis, and scoliosis
 Why this is correct:
 Scoliosis is an increased lateral curvature of the spine with rotation of the vertebrae.
 With no congenital vertebral defect, the most likely cause is idiopathic.
@@ -12219,7 +12219,7 @@ E. Cervical and thoracic
 Answer: C. Cervical and lumbar
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Normal vertebral curvatures
 Why this is correct:
 The cervical and lumbar curvatures are secondary curvatures and are concave posteriorly.
 The thoracic and sacral curvatures are concave anteriorly.
@@ -12240,7 +12240,7 @@ E. The internal vertebral venous plexus lies outside the vertebral canal
 Answer: D. The internal and external vertebral venous plexuses lack valves and communicate with each other
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Internal and external vertebral venous plexuses
 Why this is correct:
 The internal and external vertebral venous plexuses communicate with each other and lack valves.
 That lets malignant cells and bacteria in the blood spread into the vertebral column.
@@ -12261,7 +12261,7 @@ E. Intercostal nerves
 Answer: D. Meningeal (recurrent meningeal) branches of the spinal nerves
 Order: Second
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Meningeal branches and vertebral column innervation
 Why this is correct:
 Meningeal branches of the spinal nerves supply the periosteum, the intervertebral discs (annulus fibrosus), the vertebral ligaments, and the meninges of the spinal cord.
 Only the outer third of the annulus fibrosus is innervated in a healthy disc, so pain from an outer tear travels in these branches.
@@ -12283,7 +12283,7 @@ E. From the occipital bone to the sacrum along the front of the vertebral bodies
 Answer: B. From the external occipital protuberance to the spinous process of C7
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle
 Why this is correct:
 Pin 2 marks the nuchal ligament, which spans from the external occipital protuberance to the C7 spinous process.
 It merges with the supraspinous ligament, which continues from C7 down to the sacrum.
@@ -12305,7 +12305,7 @@ E. Superior nuchal line
 Answer: E. Superior nuchal line
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle; Supraspinous, interspinous, and nuchal ligaments
 Why this is correct:
 Pin 2 marks the curved ridge running laterally from the external occipital protuberance, which is the superior nuchal line.
 Splenius capitis attaches here, and semispinalis attaches on the bone just below it.
@@ -12327,7 +12327,7 @@ E. Foramen magnum
 Answer: B. Inferior nuchal line
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle; Supraspinous, interspinous, and nuchal ligaments
 Why this is correct:
 Pin 4 marks the lower of the two curved ridges on the external occipital bone, between the superior nuchal line and the foramen magnum, which is the inferior nuchal line.
 The area between it and the superior nuchal line receives semispinalis.
@@ -12349,7 +12349,7 @@ E. Semispinalis; extends the head and rotates it to the right
 Answer: C. Semispinalis; extends the head and rotates it to the left
 Order: Third
 Difficulty: Hard
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Semispinalis muscle
 Why this is correct:
 Pins 2 and 4 mark the superior and inferior nuchal lines, and semispinalis attaches to the occipital bone between them.
 Semispinalis extends and contralaterally rotates the head, so the right muscle turns the head to the left.
@@ -12371,7 +12371,7 @@ E. C7; flexion of the neck
 Answer: C. Atlas; nodding of the head
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Atlas (C1); Craniovertebral joints
 Why this is correct:
 Pin 5 marks an occipital condyle beside the foramen magnum.
 The occipital condyles articulate with the superior articular facets of the atlas (C1) at the atlanto-occipital joints, which allow nodding, some side bending, and limited rotation.
@@ -12393,7 +12393,7 @@ E. Transverse foramen
 Answer: E. Transverse foramen
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Vertebral artery and the transverse foramina
 Why this is correct:
 Pin 4 marks the opening in the transverse process of the atlas, which is the transverse foramen.
 The vertebral artery passes up through these foramina from C6 to C1 before running in the groove on the posterior arch of the atlas.
@@ -12415,7 +12415,7 @@ E. Inferior angle
 Answer: E. Inferior angle
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Levator scapulae muscle; Rhomboid major and minor
 Why this is correct:
 Pin 7 marks the lowest point of the scapula, where the medial and lateral borders meet, which is the inferior angle.
 Why the other answers are wrong:
@@ -12436,7 +12436,7 @@ E. Lateral (axillary) border
 Answer: E. Lateral (axillary) border
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Levator scapulae muscle; Rhomboid major and minor
 Why this is correct:
 Pin 6 marks the thick edge running from the inferior angle up toward the glenoid cavity, on the side facing the armpit, which is the lateral (axillary) border.
 Why the other answers are wrong:
@@ -12457,7 +12457,7 @@ E. Superior border
 Answer: E. Superior border
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Levator scapulae muscle; Rhomboid major and minor
 Why this is correct:
 Pin 2 marks the short, thin upper edge of the scapula running laterally from the superior angle, which is the superior border.
 Why the other answers are wrong:
@@ -12478,7 +12478,7 @@ E. Lateral border; rhomboid minor
 Answer: A. Medial border; rhomboid major
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Rhomboid major and minor
 Why this is correct:
 Pin 5 marks the edge of the scapula facing the vertebral column, which is the medial (vertebral) border.
 Rhomboid major attaches to the medial border between the spine and the inferior angle; rhomboid minor attaches at the level of the spine, and levator scapulae attaches above it.
@@ -12500,7 +12500,7 @@ E. Levator scapulae; dorsal scapular nerve
 Answer: C. Trapezius; spinal accessory nerve (CN XI)
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Trapezius muscle
 Why this is correct:
 Pin 4 marks the spine of the scapula and pin 3 marks the acromion.
 Trapezius attaches distally to the lateral third of the clavicle, the acromion, and the spine of the scapula, and its motor supply is the spinal accessory nerve.
@@ -12522,7 +12522,7 @@ E. Sacral promontory
 Answer: B. Iliac crest
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacral joints and the coccyx
 Why this is correct:
 Pin 1 marks the curved upper edge of the ilium, which is the iliac crest.
 Latissimus dorsi and the erector spinae both arise in part from the iliac crest.
@@ -12544,7 +12544,7 @@ E. Acetabulum
 Answer: D. Ilium
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacral joints and the coccyx
 Why this is correct:
 Pin 2 marks the large, flared upper part of the hip bone, which is the ilium.
 The ilium articulates with the auricular surface of the sacrum at the sacroiliac joint.
@@ -12566,7 +12566,7 @@ E. Acetabulum
 Answer: E. Acetabulum
 Order: First
 Difficulty: Easy
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacral joints and the coccyx
 Why this is correct:
 Pin 3 marks the deep, cup-shaped socket on the lateral surface of the hip bone, which is the acetabulum.
 Why the other answers are wrong:
@@ -12587,7 +12587,7 @@ E. Coccyx
 Answer: A. Pubis
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacral joints and the coccyx
 Why this is correct:
 Pin 4 marks the anteroinferior part of the hip bone, in front of and below the acetabulum, which is the pubis.
 Why the other answers are wrong:
@@ -12608,7 +12608,7 @@ E. Ilium
 Answer: A. Ischium
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacral joints and the coccyx
 Why this is correct:
 Pin 6 marks the posteroinferior part of the hip bone, behind and below the acetabulum, which is the ischium.
 Why the other answers are wrong:
@@ -12629,7 +12629,7 @@ E. Auricular surface
 Answer: A. Median sacral crest
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacrum: promontory, foramina, and hiatus
 Why this is correct:
 Pin 3 marks the ridge running down the posterior midline of the sacrum, which is the median sacral crest.
 Why the other answers are wrong:
@@ -12650,7 +12650,7 @@ E. Posterior sacral foramen
 Answer: B. Sacral hiatus
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Sacrum: promontory, foramina, and hiatus
 Why this is correct:
 Pin 4 marks the opening at the inferior end of the posterior sacrum, below the median sacral crest, which is the sacral hiatus.
 It leads into the sacral canal and is a site for caudal epidural anesthesia.
@@ -12672,7 +12672,7 @@ E. Splenius muscle
 Answer: E. Splenius muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Splenius muscle
 Why this is correct:
 Pin 1 marks the flat muscle on the back of the neck with fibers running up and laterally from the midline toward the skull, which is splenius.
 It arises from the nuchal ligament and C7 to T6 spinous processes.
@@ -12694,7 +12694,7 @@ E. 9th to 12th intercostal nerves; depresses the ribs
 Answer: B. 2nd to 5th intercostal nerves; elevates the ribs
 Order: Second
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Serratus posterior superior and inferior
 Why this is correct:
 Pin 3 marks serratus posterior superior, which runs from the nuchal ligament and C7 to T3 spinous processes to the superior borders of ribs 2 to 4.
 It's innervated by the 2nd to 5th intercostal nerves and is thought to elevate the ribs and serve a proprioceptive role.
@@ -12716,7 +12716,7 @@ E. Latissimus dorsi muscle
 Answer: D. Longissimus muscle
 Order: First
 Difficulty: Medium
-Reference: MSK / Week 13 / Anatomy Lab: Vertebral Column and Back
+Reference: Erector spinae muscles
 Why this is correct:
 Pin 3 marks the intermediate column of the erector spinae, between iliocostalis laterally and spinalis medially, which is longissimus.
 Why the other answers are wrong:
