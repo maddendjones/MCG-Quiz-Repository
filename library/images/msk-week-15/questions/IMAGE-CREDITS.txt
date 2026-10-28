@@ -1,0 +1,66 @@
+Image credits for the outside images used in MSK Week 15 questions.
+Every file here came from Wikimedia Commons under the license named and is openly
+licensed (CC BY, CC BY-SA, CC0 or public domain). This file must stay in this folder
+alongside the images, which is how the attribution requirement is met.
+Format: file | title | author | license | source
+
+ext-bonegrow-107.jpg | Ossification endochondrale chez le chat.jpg | Patbio | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ossification_endochondrale_chez_le_chat.jpg
+ext-bonegrow-110.jpg | Colles' Fracture of Radius.jpg | Lucien Monfils | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Colles%27_Fracture_of_Radius.jpg
+ext-bonegrow-115.jpg | Postoperative radiograph of hip prosthesis - anteroposterior view.jpg | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:Postoperative_radiograph_of_hip_prosthesis_-_anteroposterior_view.jpg
+ext-bonegrow-117.jpg | Postoperative radiograph of hip prosthesis - anteroposterior view - transparent.png | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:Postoperative_radiograph_of_hip_prosthesis_-_anteroposterior_view_-_transparent.png
+ext-bonegrow-120.jpg | Knee plain X-ray weight bearing.jpg | Ptrump16 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Knee_plain_X-ray_weight_bearing.jpg
+ext-bonegrow-124.jpg | Compressionfracture.jpg | Lucien Monfils | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Compressionfracture.jpg
+ext-bonegrow-126.jpg | L4 compressionFracture2008.jpg | James Heilman, MD | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:L4_compressionFracture2008.jpg
+ext-bonegrow-129.jpg | Acetabular Fracture CT.png | Seannovak | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Acetabular_Fracture_CT.png
+ext-bonegrow-131.jpg | Greenstick fracture, A-P view.jpg | Sara Nabih | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Greenstick_fracture,_A-P_view.jpg
+ext-bonehisto-011.jpg | Characteristically blue sclerae of patient with osteogenesis imperfecta.jpg | Herbert L. Fred, MD and Hendrik A. van Dijk | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Characteristically_blue_sclerae_of_patient_with_osteogenesis_imperfecta.jpg
+ext-bonehisto-020.jpg | Osteopetrose mit bone-in-bone Erscheinungsbild vor allem an der HWS 19M - CR - 001.jpg | Hellerhoff | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Osteopetrose_mit_bone-in-bone_Erscheinungsbild_vor_allem_an_der_HWS_19M_-_CR_-_001.jpg
+ext-bonehisto-021.jpg | Osteopetrosis-4.jpg | Dr Maulik S Patel | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Osteopetrosis-4.jpg
+ext-bonehisto-028.jpg | Compact bone - ground cross section.jpg | Wikimedia Commons contributor | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Compact_bone_-_ground_cross_section.jpg
+ext-bonehisto-029.jpg | Connective Tissue Compact Bone (39978304590).jpg | Berkshire Community College Bioscience Image Library | CC0 | https://commons.wikimedia.org/wiki/File:Connective_Tissue_Compact_Bone_(39978304590).jpg
+ext-bonehisto-030.jpg | Connective Tissue Compact Bone (39978304920).jpg | Berkshire Community College Bioscience Image Library | CC0 | https://commons.wikimedia.org/wiki/File:Connective_Tissue_Compact_Bone_(39978304920).jpg
+ext-bonehisto-035.jpg | Connective Tissue Developing Hyaline Cartilage (28004372148).jpg | Berkshire Community College Bioscience Image Library | CC0 | https://commons.wikimedia.org/wiki/File:Connective_Tissue_Developing_Hyaline_Cartilage_(28004372148).jpg
+ext-bonehisto-039.jpg | Connective Tissue Developing Hyaline Cartilage (41815120462).jpg | Berkshire Community College Bioscience Image Library | CC0 | https://commons.wikimedia.org/wiki/File:Connective_Tissue_Developing_Hyaline_Cartilage_(41815120462).jpg
+ext-bonehisto-041.jpg | Connective Tissue Hyaline Cartilage (26989335717).jpg | Berkshire Community College Bioscience Image Library | CC0 | https://commons.wikimedia.org/wiki/File:Connective_Tissue_Hyaline_Cartilage_(26989335717).jpg
+ext-bonehisto-044.jpg | Cartilage elastic3.jpg | Echinaceapallida | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cartilage_elastic3.jpg
+ext-bonehisto-047.jpg | Connective Tissue Elastic Cartilage (41812804042).jpg | Berkshire Community College Bioscience Image Library | CC0 | https://commons.wikimedia.org/wiki/File:Connective_Tissue_Elastic_Cartilage_(41812804042).jpg
+ext-bonehisto-050.jpg | Connective Tissue Fibrocartilage (27988652098).jpg | Berkshire Community College Bioscience Image Library | CC0 | https://commons.wikimedia.org/wiki/File:Connective_Tissue_Fibrocartilage_(27988652098).jpg
+ext-bonehisto-053.jpg | Connective Tissue Fibrocartilage (41140134634).jpg | Berkshire Community College Bioscience Image Library | CC0 | https://commons.wikimedia.org/wiki/File:Connective_Tissue_Fibrocartilage_(41140134634).jpg
+ext-bonehisto-065.jpg | Proximal tibia Masson Goldner Trikrom rabbit 600x growth zone.jpg | Jn20 Jeppe Achton Nielsen | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Proximal_tibia_Masson_Goldner_Trikrom_rabbit_600x_growth_zone.jpg
+ext-bonehisto-072.jpg | Cartilage from mouse joint.jpg | Kevin Mackenzie, University of Aberdeen | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Cartilage_from_mouse_joint.jpg
+ext-bonepath-081.jpg | Legs of a man with osteitis deformans Wellcome L0062687.jpg | Bowness, Moses | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Legs_of_a_man_with_osteitis_deformans_Wellcome_L0062687.jpg
+ext-gap-225.jpg | Dupuytren´s contracture on the left hand.jpg | MikkTooming | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dupuytren%C2%B4s_contracture_on_the_left_hand.jpg
+ext-gap-229.jpg | Morbus dupuytren 1 (fcm).jpg | Photograph: Frank C. Müller, Baden-Baden | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg
+ext-gap-231.jpg | Bone PagetDisease MP2 PA.JPG | Sarahkayb | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bone_PagetDisease_MP2_PA.JPG
+ext-gap-232.jpg | Bone PagetDisease MP2 PA (2).JPG | Sarahkayb | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bone_PagetDisease_MP2_PA_(2).JPG
+ext-gap-236.jpg | Paget's Disease.jpg | Richard C. Cabot, M.D | Public domain | https://commons.wikimedia.org/wiki/File:Paget%27s_Disease.jpg
+ext-gap-239.jpg | Child suffering from rickets.jpg | http://phil.cdc.gov/phil/details.asp ID#: 2435 US Department of | Public domain | https://commons.wikimedia.org/wiki/File:Child_suffering_from_rickets.jpg
+ext-gap-243.jpg | RicketsChestXray.jpg | Frank Gaillard | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:RicketsChestXray.jpg
+ext-gap-250.jpg | Hastings Gilford 12.jpg | Hastings Gilford, F.R.C.S | Public domain | https://commons.wikimedia.org/wiki/File:Hastings_Gilford_12.jpg
+ext-gap-253.jpg | RicketsXray.jpg | Frank Gaillard | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:RicketsXray.jpg
+ext-gap-254.jpg | Severe Osteomalacia Related to Long-Term Intravenous Drug Abuse P01 radiograph of right tibia and fibula.jpg | Leslie Gamache, Mark R. Burge | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Severe_Osteomalacia_Related_to_Long-Term_Intravenous_Drug_Abuse_P01_radiograph_of_right_tibia_and_fibula.jpg
+ext-gap-255.jpg | Severe Osteomalacia Related to Long-Term Intravenous Drug Abuse P03 radiograph of left tibia and fibula.jpg | Leslie Gamache, Mark R. Burge | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Severe_Osteomalacia_Related_to_Long-Term_Intravenous_Drug_Abuse_P03_radiograph_of_left_tibia_and_fibula.jpg
+ext-gap-261.jpg | Humerusschaftfraktur mit Prevot-Nagelung im Verlauf 17-18M - CR - 001.jpg | Hellerhoff | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Humerusschaftfraktur_mit_Prevot-Nagelung_im_Verlauf_17-18M_-_CR_-_001.jpg
+ext-gap-264.jpg | Histology of synovial membrane.jpg | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:Histology_of_synovial_membrane.jpg
+ext-gap-270.jpg | Reumatoidalne zapalenie stawow 02.jpg | Jojo at Polish Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Reumatoidalne_zapalenie_stawow_02.jpg
+ext-gap-271.jpg | Rheumatoid arthritis with carpal ankylosis 2017.jpg | Mikael Häggström | CC0 | https://commons.wikimedia.org/wiki/File:Rheumatoid_arthritis_with_carpal_ankylosis_2017.jpg
+ext-gap-272.jpg | ARerosiones.jpg | Lariob | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:ARerosiones.jpg
+ext-gap-277.jpg | Rheumatoide Arthritis der Hand 65W - CR ap - 001.jpg | Hellerhoff | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rheumatoide_Arthritis_der_Hand_65W_-_CR_ap_-_001.jpg
+ext-gap-305.jpg | X-ray of normal elbow by 30 degrees internal oblique projection.jpg | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:X-ray_of_normal_elbow_by_30_degrees_internal_oblique_projection.jpg
+ext-gap-306.jpg | X-ray of normal elbow by anteroposterior projection.jpg | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:X-ray_of_normal_elbow_by_anteroposterior_projection.jpg
+ext-gap-307.jpg | X-ray of normal elbow by lateral projection.jpg | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:X-ray_of_normal_elbow_by_lateral_projection.jpg
+ext-gap-308.jpg | X-ray of normal hand by dorsoplantar projection.jpg | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:X-ray_of_normal_hand_by_dorsoplantar_projection.jpg
+ext-gap-311.jpg | Medical X-Ray imaging ACA02 nevit.jpg | Nevit Dilmen (talk) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Medical_X-Ray_imaging_ACA02_nevit.jpg
+ext-gap-313.jpg | Medical X-Ray imaging HIG04 nevit.jpg | Nevit Dilmen (talk) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Medical_X-Ray_imaging_HIG04_nevit.jpg
+ext-limb-194.jpg | Scaphoid-Pseudarthrose1.jpg | Hellerhoff | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Scaphoid-Pseudarthrose1.jpg
+ext-limb-196.jpg | ScaphoidFrac.png | James Heilman, MD | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:ScaphoidFrac.png
+ext-limb-197.jpg | ScaphoidFrac2.png | James Heilman, MD | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:ScaphoidFrac2.png
+ext-limb-200.jpg | Ulnar claw hand.JPG | Mcstrother | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Ulnar_claw_hand.JPG
+ext-rheum-144.jpg | Swan neck deformity in a 65 year old Rheumatoid Arthritis patient- 2014-05-27 01-49.jpg | User:Phoenix119 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Swan_neck_deformity_in_a_65_year_old_Rheumatoid_Arthritis_patient-_2014-05-27_01-49.jpg
+ext-rheum-147.jpg | Boutonnière deformity.jpg | Alborz Fallah | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Boutonni%C3%A8re_deformity.jpg
+ext-rheum-159.jpg | Gout - monosodium urate crystals in joint fluid (1).jpg | Ed Uthman from Houston, TX, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Gout_-_monosodium_urate_crystals_in_joint_fluid_(1).jpg
+ext-rheum-161.jpg | Monosodium Urate Crystals in Elbow Joint Fluid (43911233991).jpg | Ed Uthman from Houston, TX, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Monosodium_Urate_Crystals_in_Elbow_Joint_Fluid_(43911233991).jpg
+ext-rheum-165.jpg | Birefringence microscopy of pseudogout, annotated.jpg | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:Birefringence_microscopy_of_pseudogout,_annotated.jpg
+ext-rheum-166.jpg | Birefringence microscopy of pseudogout.jpg | Mikael Häggström, M.D | CC0 | https://commons.wikimedia.org/wiki/File:Birefringence_microscopy_of_pseudogout.jpg
+ext-rheum-175.jpg | Heberden-Arthrose.JPG | Drahreg01 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Heberden-Arthrose.JPG
+ext-rheum-176.jpg | Heberden-Arthrose 81W - CR ap - 001.jpg | Hellerhoff | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Heberden-Arthrose_81W_-_CR_ap_-_001.jpg
